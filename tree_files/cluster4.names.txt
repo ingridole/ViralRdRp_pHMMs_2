@@ -1,0 +1,572 @@
+seq1	>ref-NC_002526.1 Bovine ephemeral fever virus, complete genome-table6-Rhabdoviridae-HMM500-895_18.0-ORF167
+seq2	>ref-NC_001615.3 Sonchus yellow net virus complete genome-table6-Rhabdoviridae-HMM558-952_17.0-ORF158
+seq3	>ref-NC_000903.1 Snakehead rhabdovirus complete genome-table4-Rhabdoviridae-HMM460-862_19.0-ORF118
+seq4	>ref-NC_001560.1 Vesicular stomatitis Indiana virus, complete genome-table6-Rhabdoviridae-HMM444-844_18.0-ORF125
+seq5	>ref-NC_001652.1 Infectious hematopoietic necrosis virus, complete genome-table4-Rhabdoviridae-HMM539-942_19.0-ORF80
+seq6	>ref-NC_002803.1 Spring viraemia of carp virus, complete genome-table6-Rhabdoviridae-HMM520-919_18.0-ORF119
+seq7	>ref-NC_003243.1 Australian bat lyssavirus, complete genome-table4-Rhabdoviridae-HMM486-882_18.0-ORF133
+seq8	>ref-NC_003746.1 Rice yellow stunt virus, complete genome-table6-Rhabdoviridae-HMM505-900_19.0-ORF151
+seq9	>ref-NC_005975.1 Maize mosaic virus, complete genome-table6-Rhabdoviridae-HMM617-1007_18.0-ORF126
+seq10	>ref-NC_002251.1 Northern cereal mosaic virus, complete genome-table6-Rhabdoviridae-HMM417-819_19.0-ORF148
+seq11	>ref-NC_006429.1 Mokola virus, complete genome-table4-Rhabdoviridae-HMM530-926_17.0-ORF143
+seq12	>ref-NC_000855.1 Viral hemorrhagic septicemia virus Fil3, complete genome-table4-Rhabdoviridae-HMM431-833_19.0-ORF88
+seq13	>ref-NC_005093.1 Hirame rhabdovirus, complete genome-table6-Rhabdoviridae-HMM502-905_18.0-ORF117
+seq14	>ref-NC_006942.1 Taro vein chlorosis virus, complete genome-table6-Rhabdoviridae-HMM476-864_19.0-ORF137
+seq15	>ref-NC_005974.1 Maize fine streak virus, complete genome-table4-Rhabdoviridae-HMM616-1022_18.0-ORF168
+seq16	>ref-NC_001542.1 Rabies virus, complete genome-table6-Rhabdoviridae-HMM511-908_18.0-ORF133
+seq17	>ref-NC_007020.1 Tupaia virus, complete genome-table6-Rhabdoviridae-HMM442-840_18.0-ORF135
+seq18	>ref-NC_007642.1 Lettuce necrotic yellows virus, complete genome-table6-Rhabdoviridae-HMM425-828_18.0-ORF142
+seq19	>ref-NC_008514.1 Siniperca chuatsi rhabdovirus, complete genome-table6-Rhabdoviridae-HMM455-853_18.0-ORF133
+seq20	>ref-NC_009527.1 European bat lyssavirus 1, complete genome-table6-Rhabdoviridae-HMM545-942_17.0-ORF143
+seq21	>ref-NC_009609.1 Orchid fleck virus genomic RNA, segment RNA 2, complete sequence-table6-Rhabdoviridae-HMM458-853_20.0-ORF66
+seq22	>ref-NC_009528.2 European bat lyssavirus 2 isolate RV1333, complete genome-table4-Rhabdoviridae-HMM525-921_17.0-ORF137
+seq23	>ref-NC_011558.1 Lettuce big-vein associated virus RNA 1, complete genome-table6-Rhabdoviridae-HMM539-932_18.0-ORF67
+seq24	>ref-NC_011532.1 Lettuce yellow mottle virus, complete genome-table6-Rhabdoviridae-HMM420-822_19.0-ORF139
+seq25	>ref-NC_011639.1 Wongabel virus, complete genome-table4-Rhabdoviridae-HMM624-1022_17.0-ORF160
+seq26	>ref-NC_013135.1 Drosophila melanogaster sigma virus AP30 N, P, X, M, G and L genes, genomic RNA, isolate AP30-table6-Rhabdoviridae-HMM1078-1478_14.0-ORF154
+seq27	>ref-NC_013955.1 Ngaingan virus, complete genome-table4-Rhabdoviridae-HMM498-896_18.0-ORF168
+seq28	>ref-NC_017714.1 Kotonkan virus, complete genome-table4-Rhabdoviridae-HMM625-1022_17.0-ORF182
+seq29	>ref-NC_016136.1 Potato yellow dwarf virus, complete genome-table6-Rhabdoviridae-HMM1410-1800_13.0-ORF129
+seq30	>ref-NC_017685.1 Obodhiang virus, complete genome-table6-Rhabdoviridae-HMM536-933_17.0-ORF157
+seq31	>ref-NC_018629.1 Ikoma lyssavirus, complete genome-table6-Rhabdoviridae-HMM465-862_18.0-ORF142
+seq32	>ref-NC_018381.2 Persimmon virus A viral cRNA, complete genome, clone: Kaki13-14-table4-Rhabdoviridae-HMM433-836_18.0-ORF164
+seq33	>ref-NC_020803.1 Perch rhabdovirus isolate PRV nucleocapsid (N), phosphoprotein (P), matrix protein (M), glycoprotein (G), and RNA dependant RNA polymerase (L) genes, complete cds-table6-Rhabdoviridae-HMM479-771_13.0-ORF140
+seq34	>ref-NC_020804.1 Tibrogargan virus strain CS132, complete genome-table4-Rhabdoviridae-HMM579-976_17.0-ORF158
+seq35	>ref-NC_020809.1 Irkut virus, complete genome-table4-Rhabdoviridae-HMM487-883_18.0-ORF141
+seq36	>ref-NC_020810.1 Duvenhage virus isolate 86132SA, complete genome-table6-Rhabdoviridae-HMM478-875_18.0-ORF140
+seq37	>ref-NC_020808.1 Aravan virus, complete genome-table4-Rhabdoviridae-HMM468-864_18.0-ORF134
+seq38	>ref-NC_020807.1 Lagos bat virus isolate 0406SEN, complete genome-table4-Rhabdoviridae-HMM465-861_18.0-ORF140
+seq39	>ref-NC_020805.1 Chandipura virus isolate CIN 0451, complete genome-table4-Rhabdoviridae-HMM448-848_18.0-ORF134
+seq40	>ref-NC_020806.1 Isfahan virus N gene, P gene, M gene, G gene and L gene, genomic RNA-table4-Rhabdoviridae-HMM989-1389_15.0-ORF124
+seq41	>ref-NC_022580.1 Drosophila obscura sigma virus 10A, complete genome-table6-Rhabdoviridae-HMM619-1014_16.0-ORF136
+seq42	>ref-NC_022755.1 American bat vesiculovirus TFFN-2013 isolate liver2008, complete genome-table4-Rhabdoviridae-HMM966-1365_15.0-ORF118
+seq43	>ref-NC_022581.1 Eel Virus European X complete genome, viral cRNA, isolate 153311-table6-Rhabdoviridae-HMM1044-1442_14.0-ORF126
+seq44	>ref-NC_024473.1 Vesicular stomatitis New Jersey virus isolate NJ1184HDB, complete genome-table6-Rhabdoviridae-HMM510-910_18.0-ORF128
+seq45	>ref-NC_025251.1 Bokeloh bat lyssavirus isolate 21961, complete genome-table4-Rhabdoviridae-HMM490-886_18.0-ORF133
+seq46	>ref-NC_025353.1 Vesicular stomatitis Alagoas virus Indiana 3, complete genome-table4-Rhabdoviridae-HMM447-847_18.0-ORF114
+seq47	>ref-NC_025377.1 West Caucasian bat virus, complete genome-table6-Rhabdoviridae-HMM500-897_18.0-ORF137
+seq48	>ref-NC_025376.1 Grass carp rhabdovirus V76, complete genome-table6-Rhabdoviridae-HMM1001-1400_14.0-ORF132
+seq49	>ref-NC_025354.1 Curionopolis virus isolate BE AR 440009, complete genome-table6-Rhabdoviridae-HMM498-896_18.0-ORF152
+seq50	>ref-NC_025384.1 Culex tritaeniorhynchus rhabdovirus RNA, complete genome, strain: TY-table6-Rhabdoviridae-HMM468-867_27.0-ORF82
+seq51	>ref-NC_025397.1 Coastal Plains virus strain DPP53, complete genome-table4-Rhabdoviridae-HMM493-890_18.0-ORF155
+seq52	>ref-NC_025406.1 Dolphin rhabdovirus isolate pxV1 1992, complete genome-table4-Rhabdoviridae-HMM474-872_18.0-ORF127
+seq53	>ref-NC_025255.1 Maraba virus from Brazil, complete genome-table4-Rhabdoviridae-HMM461-860_18.0-ORF129
+seq54	>ref-NC_025342.1 Kolente virus isolate DakAr K7292, complete genome-table4-Rhabdoviridae-HMM493-892_18.0-ORF115
+seq55	>ref-NC_025371.1 Tench rhabdovirus S64, complete genome-table6-Rhabdoviridae-HMM440-839_18.0-ORF135
+seq56	>ref-NC_025378.1 Yug Bogdanovac virus, complete genome-table4-Rhabdoviridae-HMM440-839_18.0-ORF117
+seq57	>ref-NC_025359.1 Moussa virus isolate C23, complete genome-table6-Rhabdoviridae-HMM489-888_18.0-ORF129
+seq58	>ref-NC_025387.1 Scophthalmus maximus rhabdovirus, complete genome-table4-Rhabdoviridae-HMM476-873_18.0-ORF94
+seq59	>ref-NC_025408.1 Lyssavirus Ozernoe, complete genome-table4-Rhabdoviridae-HMM507-903_18.0-ORF150
+seq60	>ref-NC_025399.1 Oak-Vale virus strain CSIRO 1342, complete genome-table6-Rhabdoviridae-HMM960-1357_15.0-ORF127
+seq61	>ref-NC_025253.1 Farmington virus strain CT 114, complete genome-table6-Rhabdoviridae-HMM1266-1655_13.0-ORF130
+seq62	>ref-NC_025356.1 Pike fry rhabdovirus isolate F4, complete genome-table6-Rhabdoviridae-HMM977-1376_14.0-ORF127
+seq63	>ref-NC_025362.1 Xiburema virus isolate XIBV/BE AR 362159, complete genome-table4-Rhabdoviridae-HMM460-858_18.0-ORF141
+seq64	>ref-NC_025385.1 Khujand lyssavirus, complete genome-table6-Rhabdoviridae-HMM516-913_18.0-ORF153
+seq65	>ref-NC_025405.1 Niakha virus isolate DakArD 88909, complete genome-table6-Rhabdoviridae-HMM459-856_18.0-ORF128
+seq66	>ref-NC_025400.1 Malakal virus isolate SudAr 1169-64, complete genome-table4-Rhabdoviridae-HMM642-1038_17.0-ORF193
+seq67	>ref-NC_025392.1 Jurona virus, complete genome-table4-Rhabdoviridae-HMM462-862_18.0-ORF124
+seq68	>ref-NC_025394.1 Perinet virus, complete genome-table4-Rhabdoviridae-HMM509-908_18.0-ORF142
+seq69	>ref-NC_025395.1 Puerto Almendras virus isolate LO-39, complete genome-table6-Rhabdoviridae-HMM523-911_18.0-ORF136
+seq70	>ref-NC_025340.1 Long Island tick rhabdovirus strain LS1, complete genome-table4-Rhabdoviridae-HMM456-854_18.0-ORF111
+seq71	>ref-NC_025341.1 Fikirini bat rhabdovirus isolate KEN352, complete genome-table4-Rhabdoviridae-HMM448-847_18.0-ORF109
+seq72	>ref-NC_025358.1 Berrimah virus strain DPP 63, complete genome-table6-Rhabdoviridae-HMM501-896_18.0-ORF171
+seq73	>ref-NC_025364.1 Malpais Spring virus strain 85-488NM, complete genome-table4-Rhabdoviridae-HMM456-856_18.0-ORF136
+seq74	>ref-NC_025365.1 Shimoni bat virus, complete genome-table6-Rhabdoviridae-HMM517-913_17.0-ORF140
+seq75	>ref-NC_025382.1 Spodoptera frugiperda rhabdovirus isolate Sf, complete genome-table6-Rhabdoviridae-HMM476-857_17.0-ORF144
+seq76	>ref-NC_025391.1 Almpiwar virus isolate MRM4059, complete genome-table4-Rhabdoviridae-HMM488-885_18.0-ORF128
+seq77	>ref-NC_025389.1 Eggplant mottled dwarf virus isolate Agapanthus, complete genome-table4-Rhabdoviridae-HMM448-842_19.0-ORF155
+seq78	>ref-NC_025396.1 Kimberley virus isolate CS368, complete genome-table6-Rhabdoviridae-HMM496-892_18.0-ORF195
+seq79	>ref-NC_025393.1 Arboretum virus isolate Lo-121, complete genome-table6-Rhabdoviridae-HMM475-863_18.0-ORF128
+seq80	>ref-NC_026801.1 Black grass varicosavirus-like virus segment RNA 1-table6-Rhabdoviridae-HMM507-898_18.0-ORF72
+seq81	>ref-NC_028236.1 Kumasi rhabdbovirus, complete genome-table4-Rhabdoviridae-HMM1046-1445_14.0-ORF120
+seq82	>ref-NC_028230.1 Inhangapi virus strain BEAR177325, complete genome-table6-Rhabdoviridae-HMM458-856_18.0-ORF147
+seq83	>ref-NC_028241.1 Yata virus isolate DakArB 2181, complete genome-table4-Rhabdoviridae-HMM737-1134_16.0-ORF169
+seq84	>ref-NC_028235.1 Flanders virus isolate BE AN 781455, complete genome-table6-Rhabdoviridae-HMM584-983_17.0-ORF145
+seq85	>ref-NC_028234.1 Santa barbara virus strain AR775619, complete genome-table4-Rhabdoviridae-HMM460-858_18.0-ORF147
+seq86	>ref-NC_028237.1 Alfalfa dwarf virus isolate Manfredi, complete genome-table6-Rhabdoviridae-HMM452-857_18.0-ORF151
+seq87	>ref-NC_028231.1 Datura yellow vein virus, complete genome-table6-Rhabdoviridae-HMM607-1002_17.0-ORF145
+seq88	>ref-NC_028232.1 Walkabout Creek virus isolate CS1056, complete genome-table6-Rhabdoviridae-HMM429-827_18.0-ORF134
+seq89	>ref-NC_028239.1 Koolpinyah virus isolate DPP819, complete genome-table6-Rhabdoviridae-HMM495-892_18.0-ORF177
+seq90	>ref-NC_028244.1 Barley yellow striate mosaic virus strain Hebei, complete genome-table6-Rhabdoviridae-HMM456-858_18.0-ORF142
+seq91	>ref-NC_028246.1 Adelaide River virus isolate DPP61, complete genome-table6-Rhabdoviridae-HMM478-875_18.0-ORF167
+seq92	>ref-NC_028255.1 Cocal virus Indiana 2, complete genome-table4-Rhabdoviridae-HMM978-1378_15.0-ORF101
+seq93	>ref-NC_028484.1 Tongilchon virus 1 strain A12.2676/ROK/2012, complete genome-table4-Rhabdoviridae-HMM485-881_18.0-ORF117
+seq94	>ref-NC_028867.1 Fox fecal rhabdovirus isolate S40 nucleocapsid protein, phosphoprotein, matrix protein, glycoprotein, alpha 1 protein, alpha 2 protein, alpha 3 protein, and L protein genes, complete cds-table6-Rhabdoviridae-HMM662-1050_15.0-ORF168
+seq95	>ref-NC_030451.1 Diachasmimorpha longicaudata rhabdovirus isolate UGA, complete genome-table6-Rhabdoviridae-HMM465-852_17.0-ORF154
+seq96	>ref-NC_031093.1 Sanxia Water Strider Virus 5 strain SXSSP11 nucleocapsid (N), ORF2 (ORF2), ORF3 (ORF3), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds-table6-Rhabdoviridae-HMM598-985_15.0-ORF143
+seq97	>ref-NC_031083.1 Huangpi Tick Virus 3 strain H124-2 nucleocapsid (N), putative phosphoprotein (ORF2), putative matrix protein (ORF3), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds-table6-Rhabdoviridae-HMM550-952_16.0-ORF136
+seq98	>ref-NC_031079.1 Bole Tick Virus 2 strain BL076 nucleocapsid (N), putative phosphoprotein (ORF2), matrix protein (M), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds-table4-Rhabdoviridae-HMM592-990_17.0-ORF102
+seq99	>ref-NC_031216.1 Shayang Fly Virus 3 strain SYY1-1 ORF1 (ORF1), ORF2 (ORF2), ORF3 (ORF3), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds-table6-Rhabdoviridae-HMM511-905_16.0-ORF148
+seq100	>ref-NC_031272.1 Tacheng Tick Virus 7 strain TCRP-3 ORF1 (ORF1), ORF2 (ORF2), ORF3 (ORF3), ORF4 (ORF4), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds-table6-Rhabdoviridae-HMM447-846_17.0-ORF139
+seq101	>ref-NC_031240.1 Wuhan Louse Fly Virus 10 strain BFJSC-8 nucleocapsid (N), putative phosphoprotein (ORF2), matrix protein (M), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds-table6-Rhabdoviridae-HMM481-881_18.0-ORF125
+seq102	>ref-NC_031301.1 Wuhan Louse Fly Virus 5 strain BFJSC-5 nucleocapsid (N), phosphoprotein (P), matrix protein (M), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds-table6-Rhabdoviridae-HMM461-859_18.0-ORF121
+seq103	>ref-NC_031305.1 Yongjia Tick Virus 2 strain YJ1-2 nucleocapsid (N), putative phosphoprotein (ORF2), matrix protein (M), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds-table6-Rhabdoviridae-HMM478-876_18.0-ORF128
+seq104	>ref-NC_031215.1 Shayang Fly Virus 2 strain SYY1-8 nucleocapsid (N), ORF2 (ORF2), X protein (X), matrix protein (M), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds-table6-Rhabdoviridae-HMM557-956_17.0-ORF137
+seq105	>ref-NC_031283.1 Wuhan House Fly Virus 2 strain SYY4-5 ORF1 (ORF1), ORF2 (ORF2), ORF3 (ORF3), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds-table6-Rhabdoviridae-HMM494-890_17.0-ORF155
+seq106	>ref-NC_031276.1 Wuhan Ant Virus strain WHMY02 RNA-dependent RNA polymerase (L) gene, complete cds-table6-Rhabdoviridae-HMM442-821_16.0-ORF70
+seq107	>ref-NC_031236.1 Wuhan Insect virus 7 strain WHYC02 nucleocapsid (N), putative phosphoprotein (ORF2), matrix protein (M), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds-table4-Rhabdoviridae-HMM444-842_18.0-ORF136
+seq108	>ref-NC_031278.1 Wuhan Fly Virus 2 strain SYY1-3 nucleocapsid (N), ORF2 (ORF2), X protein (X), matrix protein (M), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds-table4-Rhabdoviridae-HMM483-882_18.0-ORF150
+seq109	>ref-NC_031273.1 Taishun Tick Virus strain BL198 nucleocapsid (N), ORF2 (ORF2), and RNA-dependent RNA polymerase (L) genes, complete cds-table6-Rhabdoviridae-HMM527-925_17.0-ORF102
+seq110	>ref-NC_031227.1 Wuhan Insect virus 5 strain YCYC02 nucleocapsid (N), phosphoprotein (P), 4b protein (4b), matrix protein (M), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds-table4-Rhabdoviridae-HMM450-855_18.0-ORF150
+seq111	>ref-NC_031303.1 Wuhan Mosquito Virus 9 strain JX1-13 ORF1 (ORF1), ORF2 (ORF2), ORF3 (ORF3), glycoprotein (G), and RNA-dependent RNA polymerases genes, complete cds-table4-Rhabdoviridae-HMM493-881_22.0-ORF123
+seq112	>ref-NC_031217.1 Shuangao Bedbug Virus 2 strain SACC-1 ORF1 (ORF1), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds-table6-Rhabdoviridae-HMM449-841_17.0-ORF110
+seq113	>ref-NC_031225.1 Wuhan Insect virus 4 strain YCYC03 nucleocapsid (N), phosphoprotein (P), 4b protein (4b), putative matrix protein (ORF4), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds-table4-Rhabdoviridae-HMM425-826_18.0-ORF160
+seq114	>ref-NC_031282.1 Wuhan House Fly Virus 1 strain SYY2-4 nucleocapsid (N), putative phosphoprotein (ORF2), putative X protein (ORF3), matrix protein (M), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds-table4-Rhabdoviridae-HMM460-858_18.0-ORF148
+seq115	>ref-NC_031268.1 Tacheng Tick Virus 3 strain TC255 ORF1 (ORF1) and RNA-dependent RNA polymerase (L) genes, complete cds-table4-Rhabdoviridae-HMM486-882_17.0-ORF94
+seq116	>ref-NC_031232.1 Wuhan Insect virus 6 strain SXCC01-1 nucleocapsid (N), phosphoprotein (P), 4b protein (4b), matrix protein (M), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds-table4-Rhabdoviridae-HMM437-839_18.0-ORF159
+seq117	>ref-NC_031304.1 Wuhan Tick Virus 1 strain X78-2 nucleocapsid (N), ORF2 (ORF2), ORF3 (ORF3), and RNA-dependent RNA polymerase (L) genes, complete cds-table6-Rhabdoviridae-HMM502-901_17.0-ORF114
+seq118	>ref-NC_031302.1 Wuhan Louse Fly Virus 9 strain BFJSC-7 nucleocapsid (N), putative phosphoprotein (ORF2), matrix protein (M), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds-table6-Rhabdoviridae-HMM473-873_18.0-ORF117
+seq119	>ref-NC_031690.1 (REVERSE SENSE) Orgi virus strain SP1 L protein, glycoprotein, matrix protein, phosphoprotein, and nucleoprotein genes, complete cds-table4-Rhabdoviridae-HMM460-859_18.0-ORF315
+seq120	>ref-NC_031691.1 (REVERSE SENSE) Gata virus strain M4 L protein, glycoprotein, matrix protein, phosphoprotein, and nucleoprotein genes, complete cds-table6-Rhabdoviridae-HMM465-864_18.0-ORF296
+seq121	>ref-NC_031955.1 Lleida bat lyssavirus isolate RV3208, complete genome-table4-Rhabdoviridae-HMM455-852_18.0-ORF140
+seq122	>ref-NC_031988.1 Gannoruwa bat lyssavirus isolate RV3266, complete genome-table6-Rhabdoviridae-HMM575-971_17.0-ORF137
+seq123	>ref-NC_032432.1 Beihai barnacle virus 7 strain BHTH16013 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, putative glycoprotein, hypothetical protein 4, and RNA-dependent RNA polymerase genes, complete cds-table6-Rhabdoviridae-HMM589-974_17.0-ORF123
+seq124	>ref-NC_032739.1 Wenling crustacean virus 10 strain WLJQ101844 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds-table6-Rhabdoviridae-HMM452-831_17.0-ORF144
+seq125	>ref-NC_033182.1 Shayang ascaridia galli virus 2 strain SYJFC48550 putative nucleoprotein, hypothetical protein, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds-table6-Rhabdoviridae-HMM495-889_16.0-ORF131
+seq126	>ref-NC_032781.1 Wenling crustacean virus 11 strain WLJQ201798 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds-table6-Rhabdoviridae-HMM482-866_17.0-ORF125
+seq127	>ref-NC_033034.1 Hubei diptera virus 9 strain SCM172232 putative nucleoprotein, hypothetical protein 2, putative X protein, putative matrix protein, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds-table6-Rhabdoviridae-HMM471-869_18.0-ORF146
+seq128	>ref-NC_033103.1 Hubei diptera virus 10 strain SCM43656 putative nucleoprotein, hypothetical protein, putative X protein, putative matrix protein, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds-table6-Rhabdoviridae-HMM1103-1501_14.0-ORF144
+seq129	>ref-NC_033070.1 Hubei dimarhabdovirus virus 1 strain SCM51525 putative nucleoprotein, hypothetical protein, putative matrix protein, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds-table6-Rhabdoviridae-HMM1220-1621_13.0-ORF129
+seq130	>ref-NC_032982.1 Hubei dimarhabdovirus virus 3 strain QTM26149 putative nucleoprotein, hypothetical protein 2, hypothetical protein 3, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds-table6-Rhabdoviridae-HMM475-874_18.0-ORF144
+seq131	>ref-NC_032907.1 Hubei lepidoptera virus 2 strain LCM101902 putative nucleoprotein, hypothetical protein 2, putative membrane protein, putative glycoprotein 1, putative glycoprotein 2, and RNA-dependent RNA polymerase genes, complete cds-table4-Rhabdoviridae-HMM491-891_18.0-ORF127
+seq132	>ref-NC_033006.1 Hubei dimarhabdovirus virus 2 strain QTM26629 putative nucleoprotein, hypothetical protein 2, hypothetical protein 3, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds-table6-Rhabdoviridae-HMM479-878_18.0-ORF131
+seq133	>ref-NC_033267.1 Hubei rhabdo-like virus 9 strain WHZHC73015 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, hypothetical protein 4, hypothetical protein 5, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds-table6-Rhabdoviridae-HMM518-910_16.0-ORF157
+seq134	>ref-NC_033261.1 Hubei rhabdo-like virus 2 strain WHSWHC60518 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and RNA-dependent RNA polymerase genes, complete cds-table6-Rhabdoviridae-HMM433-828_17.0-ORF114
+seq135	>ref-NC_032971.1 Hubei rhabdo-like virus 1 strain QTM25107 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds-table6-Rhabdoviridae-HMM431-812_17.0-ORF136
+seq136	>ref-NC_033705.1 Xinzhou nematode virus 4 strain XZSJSC65771 putative nucleoprotein, hypothetical protein 2, hypothetical protein 3, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds-table4-Rhabdoviridae-HMM480-876_18.0-ORF123
+seq137	>ref-NC_033703.1 Xinzhou dimarhabdovirus virus 1 strain XZSJSC65538 hypothetical protein, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds-table4-Rhabdoviridae-HMM522-920_17.0-ORF105
+seq138	>ref-NC_033701.1 Xingshan nematode virus 4 strain XSNXC32924 putative nucleoprotein, hypothetical protein 1, hypothetical protein 2, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds-table4-Rhabdoviridae-HMM506-904_17.0-ORF155
+seq139	>ref-NC_033731.1 Wuhan pillworm virus 2 strain WHSFII14871 putative nucleoprotein, hypothetical protein, putative matrix protein, putative glycoprotein 1, RNA-dependent RNA polymerase, and putative glycoprotein 2 genes, complete cds-table6-Rhabdoviridae-HMM523-919_17.0-ORF129
+seq140	>ref-NC_034240.1 (REVERSE SENSE) Tomato yellow mottle-associated virus, complete genome-table6-Rhabdoviridae-HMM461-866_18.0-ORF327
+seq141	>ref-NC_034443.1 Le Dantec virus nucleoprotein, phosphoprotein, matrix, glycoprotein, hypothetical protein, and polymerase genes, complete cds-table6-Rhabdoviridae-HMM457-856_18.0-ORF126
+seq142	>ref-NC_034448.1 Mosqueiro virus nucleoprotein, phosphoprotein, hypothetical proteins, matrix, glycoprotein, hypothetical protein, and polymerase genes, complete cds-table6-Rhabdoviridae-HMM585-985_17.0-ORF145
+seq143	>ref-NC_034451.1 Kern Canyon virus nucleoprotein, phosphoprotein, matrix, glycoprotein, hypothetical protein, and polymerase genes, complete cds-table4-Rhabdoviridae-HMM525-923_18.0-ORF125
+seq144	>ref-NC_034450.1 Kamese virus nucleoprotein, phosphoprotein, hypothetical proteins, matrix, glycoprotein, hypothetical protein, and polymerase genes, complete cds-table6-Rhabdoviridae-HMM530-929_17.0-ORF145
+seq145	>ref-NC_034454.1 Fukuoka virus nucleoprotein, phosphoprotein, matrix, hypothetical protein, glycoprotein, and polymerase genes, complete cds-table4-Rhabdoviridae-HMM500-897_18.0-ORF129
+seq146	>ref-NC_034447.1 Hart Park virus nucleoprotein, phosphoprotein, hypothetical proteins, matrix, glycoprotein, hypothetical protein, and polymerase genes, complete cds-table6-Rhabdoviridae-HMM471-870_18.0-ORF155
+seq147	>ref-NC_034449.1 Parry Creek virus nucleoprotein, phosphoprotein, hypothetical proteins, matrix, glycoprotein, hypothetical protein, and polymerase genes, complete cds-table4-Rhabdoviridae-HMM579-977_17.0-ORF152
+seq148	>ref-NC_034537.1 La Joya virus nucleoprotein, phosphoprotein, hypothetical proteins, matrix, hypothetical proteins, glycoprotein, hypothetical proteins, and polymerase genes, complete cds-table6-Rhabdoviridae-HMM466-864_18.0-ORF182
+seq149	>ref-NC_034529.1 Sena Madureira virus nucleoprotein, hypothetical protein, phosphoprotein, matrix, glycoprotein, hypothetical protein, and polymerase genes, complete cds-table4-Rhabdoviridae-HMM462-856_18.0-ORF135
+seq150	>ref-NC_034544.1 Iriri virus nucleoprotein, phosphoprotein, matrix, hypothetical proteins, glycoprotein, hypothetical proteins, and polymerase genes, complete cds-table4-Rhabdoviridae-HMM517-915_18.0-ORF132
+seq151	>ref-NC_034535.1 Barur virus nucleoprotein, phosphoprotein, matrix, glycoprotein, and polymerase genes, complete cds-table4-Rhabdoviridae-HMM465-862_18.0-ORF120
+seq152	>ref-NC_034546.1 Sweetwater Branch virus nucleoprotein, phosphoprotein, matrix, hypothetical proteins, glycoprotein, hypothetical protein, and polymerase genes, complete cds-table6-Rhabdoviridae-HMM467-864_18.0-ORF164
+seq153	>ref-NC_034508.1 Morreton virus nucleoprotein, phosphoprotein, matrix, glycoprotein, and polymerase genes, complete cds-table6-Rhabdoviridae-HMM444-844_18.0-ORF125
+seq154	>ref-NC_034530.1 Marco virus nucleoprotein, phosphoprotein, matrix, glycoprotein, hypothetical proteins, and polymerase genes, complete cds-table6-Rhabdoviridae-HMM465-863_18.0-ORF151
+seq155	>ref-NC_034538.1 Joinjakaka virus nucleoprotein, phosphoprotein, hypothetical protein, matrix, glycoprotein, hypothetical proteins, and polymerase genes, complete cds-table6-Rhabdoviridae-HMM618-1018_17.0-ORF156
+seq156	>ref-NC_034550.1 Chaco virus nucleoprotein, hypothetical protein, phosphoprotein, matrix, hypothetical protein, glycoprotein, hypothetical protein, and polymerase genes, complete cds-table6-Rhabdoviridae-HMM456-851_18.0-ORF117
+seq157	>ref-NC_034548.1 Oita virus nucleoprotein, phosphoprotein, matrix, glycoprotein, and polymerase genes, complete cds-table4-Rhabdoviridae-HMM491-888_18.0-ORF131
+seq158	>ref-NC_034539.1 Nkolbisson virus nucleoprotein, phosphoprotein, matrix, glycoprotein, and polymerase genes, complete cds-table6-Rhabdoviridae-HMM461-859_18.0-ORF129
+seq159	>ref-NC_034531.1 Manitoba virus nucleoprotein, phosphoprotein, hypothetical proteins, matrix, glycoprotein, hypothetical protein, and polymerase genes, complete cds-table6-Rhabdoviridae-HMM486-886_18.0-ORF139
+seq160	>ref-NC_034541.1 Gray Lodge virus nucleoprotein, phosphoprotein, hypothetical proteins, matrix, glycoprotein, hypothetical protein, and polymerase genes, complete cds-table6-Rhabdoviridae-HMM592-990_17.0-ORF147
+seq161	>ref-NC_034534.1 Rochambeau virus nucleoprotein, phosphoprotein, matrix, hypothetical proteins, glycoprotein, hypothetical proteins, and polymerase genes, complete cds-table6-Rhabdoviridae-HMM504-902_18.0-ORF160
+seq162	>ref-NC_034545.1 Mount Elgon bat virus nucleoprotein, phosphoprotein, matrix, glycoprotein, and polymerase genes, complete cds-table6-Rhabdoviridae-HMM459-857_18.0-ORF120
+seq163	>ref-NC_034551.1 Colocasia bobone disease-associated virus strain SI, complete genome-table6-Rhabdoviridae-HMM430-831_18.0-ORF138
+seq164	>ref-NC_034533.1 Landjia virus nucleoprotein, phosphoprotein, hypothetical proteins, matrix, glycoprotein, hypothetical proteins, and polymerase genes, complete cds-table6-Rhabdoviridae-HMM479-878_18.0-ORF153
+seq165	>ref-NC_034549.1 Klamath virus nucleoprotein, phosphoprotein, hypothetical protein, matrix, hypothetical protein, glycoprotein, hypothetical protein, and polymerase genes, complete cds-table6-Rhabdoviridae-HMM496-894_18.0-ORF129
+seq166	>ref-NC_034542.1 Sripur virus nucleoprotein, hypothetical protein, phosphoprotein, hypothetical protein, matrix, hypothetical protein, glycoprotein, hypothetical protein, and polymerase genes, complete cds-table6-Rhabdoviridae-HMM450-847_18.0-ORF125
+seq167	>ref-NC_034536.1 Itacaiunas virus nucleoprotein, phosphoprotein, matrix, hypothetical protein, glycoprotein, hypothetical protein, and polymerase genes, complete cds-table4-Rhabdoviridae-HMM515-913_18.0-ORF125
+seq168	>ref-NC_034540.1 Keuraliba virus nucleoprotein, phosphoprotein, matrix, glycoprotein, hypothetical protein, and polymerase genes, complete cds-table6-Rhabdoviridae-HMM530-928_18.0-ORF124
+seq169	>ref-NC_034543.1 Ord River virus nucleoprotein, hypothetical protein, phosphoprotein, hypothetical proteins, matrix, glycoprotein, hypothetical protein, and polymerase genes, complete cds-table4-Rhabdoviridae-HMM604-1001_17.0-ORF154
+seq170	>ref-NC_035132.1 Culex rhabdo-like virus strain mosWSB71420, complete genome-table4-Rhabdoviridae-HMM485-881_18.0-ORF112
+seq171	>ref-NC_031956.1 UNVERIFIED: Balsa virus strain CoB 84, complete sequence-table6-Rhabdoviridae-HMM482-867_18.0-ORF133
+seq172	>ref-NC_031958.1 UNVERIFIED: Rio Chico virus strain GAM 195, complete sequence-table6-Rhabdoviridae-HMM525-910_17.0-ORF125
+seq173	>ref-NC_031957.1 UNVERIFIED: Coot Bay virus strain EVG5-53, complete sequence-table6-Rhabdoviridae-HMM609-993_17.0-ORF135
+seq174	>ref-NC_036390.1 Maize Iranian mosaic nucleorhabdovirus, complete genome-table6-Rhabdoviridae-HMM495-883_19.0-ORF130
+seq175	>nrnt-KX884435 Hubei dimarhabdovirus virus 4 strain SCM46012 RNA-dependent RNA polymerase gene, complete cds.-table4-Rhabdoviridae-HMM523-921_18.0-ORF75
+seq176	>nrnt-MF175079 Murine feces-associated rhabdovirus isolate MFARV/NYC/Q053/1684, partial genome.-table6-Rhabdoviridae-HMM443-842_18.0-ORF136
+seq177	>nrnt-MF918568 Red clover varicosavirus isolate HZ2 segment RNA1, complete sequence.-table6-Rhabdoviridae-HMM452-841_18.0-ORF75
+seq178	>nrnt-MG604920 Wheat yellow striate virus isolate SX-HC nucleocapsid protein, putative phosphoprotein, P3 protein, matrix protein, glycoprotein, hypothetical protein P6, and probable RNA-dependent RNA polymerase genes, complete cds.-table4-Rhabdoviridae-HMM493-889_19.0-ORF155
+seq179	>nrnt-MG385079 Grenada mosquito rhabdovirus 1, complete genome.-table6-Rhabdoviridae-HMM536-922_15.0-ORF141
+seq180	>nrnt-MG600019 Wenling dimarhabdovirus 10 strain XLXMS97756 hypothetical protein genes, complete cds.-table6-Rhabdoviridae-HMM485-873_18.0-ORF104
+seq181	>nrnt-MG600018 Wenling dimarhabdovirus 9 strain XDXMG13839 nucleoprotein, hypothetical protein, and glycoprotein genes, complete cds; and L protein gene, partial cds.-table6-Rhabdoviridae-HMM471-869_29.0-ORF110
+seq182	>nrnt-MG600017 Wenling dimarhabdovirus 8 strain DHBYCGS131 nucleoprotein, hypothetical protein, glycoprotein, hypothetical protein, and L protein genes, complete cds.-table4-Rhabdoviridae-HMM480-869_17.0-ORF156
+seq183	>nrnt-MG600016 Hainan black-spectacled toad dimarhabdovirus strain HKCCG762 nucleoprotein, hypothetical protein, matrix protein, glycoprotein, and L protein genes, complete cds.-table6-Rhabdoviridae-HMM998-1396_14.0-ORF121
+seq184	>nrnt-MG600015 Fujian dimarhabdovirus strain BHNC4885 nucleoprotein, hypothetical protein, and L protein genes, complete cds.-table6-Rhabdoviridae-HMM771-1166_16.0-ORF114
+seq185	>nrnt-MG600014 Wenling dimarhabdovirus 1 strain XYHYC188111 nucleoprotein, phosphoprotein, matrix protein, glycoprotein, and L protein genes, complete cds.-table6-Rhabdoviridae-HMM516-914_18.0-ORF121
+seq186	>nrnt-MG600013 Wuhan redfin culter dimarhabodovirus strain DSYS6218 nucleoprotein, hypothetical protein, matrix protein, glycoprotein, and L protein genes, complete cds.-table4-Rhabdoviridae-HMM987-1384_14.0-ORF114
+seq187	>nrnt-MG600012 Beihai dimarhabodovirus 1 strain BHFishS58819 nucleoprotein, hypothetical protein, and L protein genes, complete cds.-table6-Rhabdoviridae-HMM637-1035_17.0-ORF103
+seq188	>nrnt-MF975531 Chimay rhabdovirus isolate Chimay-1, complete genome.-table6-Rhabdoviridae-HMM496-882_16.0-ORF137
+seq189	>nrnt-MF472710 Taiwan bat lyssavirus isolate TWBLV/TN/2016, complete genome.-table4-Rhabdoviridae-HMM518-914_18.0-ORF145
+seq190	>nrnt-MG021441 Vaprio virus nucleoprotein, phosphoprotein, matrix, glycoprotein, transcriptional unit 1, and polymerase genes, complete cds.-table4-Rhabdoviridae-HMM548-945_17.0-ORF144
+seq191	>nrnt-KY706238 Physostegia chlorotic mottle virus isolate PV-0831, complete genome.-table6-Rhabdoviridae-HMM532-927_18.0-ORF148
+seq192	>nrnt-MF543022 Black currant nucleorhabdovirus 1 isolate Veloy, complete genome.-table4-Rhabdoviridae-HMM498-892_18.0-ORF197
+seq193	>nrnt-MF114348 UNVERIFIED: Apis rhabdovirus 1 strain Apis/Israel/A, complete genome.-table6-Rhabdoviridae-HMM447-844_17.0-ORF130
+seq194	>nrnt-KY810772 Cabbage cytorhabdovirus 1 strain FERA_050726, complete genome.-table4-Rhabdoviridae-HMM416-816_19.0-ORF151
+seq195	>nrnt-KY884303 Maize yellow striate virus, complete genome.-table6-Rhabdoviridae-HMM417-819_18.0-ORF152
+seq196	>nrnt-MF536978 Spodoptera frugiperda rhabdovirus isolate Sf9, complete genome.-table6-Rhabdoviridae-HMM467-850_17.0-ORF141
+seq197	>nrnt-KY768856 Ohlsdorf virus strain Germany/2012/Oc.cantans, complete genome.-table6-Rhabdoviridae-HMM515-911_18.0-ORF138
+seq198	>nrnt-MF279192 Rhabdoviridae sp. strain IH17, complete genome.-table4-Rhabdoviridae-HMM967-1365_14.0-ORF124
+seq199	>nrnt-MF141072 Norway mononegavirus 1 isolate NOR/H3/Skanevik/2014 nucleoprotein, hypothetical protein, matrix protein, glycoprotein, and RNA-dependent RNA-polymerase genes, complete cds.-table6-Rhabdoviridae-HMM549-946_17.0-ORF119
+seq200	>nrnt-KY421919 Holmes Jungle virus isolate DPP1163, complete genome.-table4-Rhabdoviridae-HMM614-1012_17.0-ORF152
+seq201	>nrnt-KY385392 Kanyawara virus isolate MPK007 nucleoprotein, phosphoprotein, matrix, glycoprotein, and polymerase genes, complete cds.-table6-Rhabdoviridae-HMM458-856_18.0-ORF120
+seq202	>nrnt-KJ641709 Bat rhabdovirus isolate BtMp-RhaV/SX2013 polymerase gene, partial cds.-table1-Rhabdoviridae-HMM113-500_39.0-ORF28
+seq203	>nrnt-KY315724 Bovine ephemeral fever virus strain JT02L, complete genome.-table6-Rhabdoviridae-HMM500-895_18.0-ORF169
+seq204	>nrnt-LT839611 European bat lyssavirus 1 isolate 5782 genome assembly, complete genome: monopartite.-table4-Rhabdoviridae-HMM458-855_18.0-ORF130
+seq205	>nrnt-KX343071 Benxi bat virus strain GH1 polymerase protein (L) gene, partial cds.-table1-Rhabdoviridae-HMM205-530_61.0-ORF15
+seq206	>nrnt-KY700686 Citrus chlorotic spot virus strain Trs1 segment RNA2, complete sequence.-table6-Rhabdoviridae-HMM484-881_19.0-ORF75
+seq207	>nrnt-KY965147 Maize associated rhabdovirus strain Peru, complete genome.-table4-Rhabdoviridae-HMM456-858_18.0-ORF140
+seq208	>nrnt-KP324828 Ekpoma virus 2 isolate EKV-2, partial genome.-table4-Rhabdoviridae-HMM468-866_18.0-ORF153
+seq209	>nrnt-KP324827 Ekpoma virus 1 isolate EKV-1, partial genome.-table6-Rhabdoviridae-HMM555-952_19.0-ORF149
+seq210	>nrnt-KY354233 Apis rhabdovirus 2 isolate RI-49 N protein, P protein, M protein, G protein, and L protein genes, complete cds.-table6-Rhabdoviridae-HMM549-946_16.0-ORF134
+seq211	>nrnt-KY549567 Potato yellow dwarf nucleorhabdovirus strain CYDV-constricta, complete genome.-table6-Rhabdoviridae-HMM563-951_18.0-ORF138
+seq212	>nrnt-KY366322 Yerba mate rhabdovirus isolate Montecarlo, complete genome.-table6-Rhabdoviridae-HMM477-877_17.0-ORF144
+seq213	>nrnt-KX951489 Merida-like virus KE-2017a isolate 139-1-21, complete genome.-table6-Rhabdoviridae-HMM573-970_17.0-ORF107
+seq214	>nrnt-KX982181 Citrus leprosis virus N strain sbs1 segment RNA2, complete sequence.-table6-Rhabdoviridae-HMM495-893_20.0-ORF62
+seq215	>nrnt-KX525586 Rice stripe mosaic virus isolate GD-LD, complete genome.-table6-Rhabdoviridae-HMM421-825_19.0-ORF151
+seq216	>nrnt-KY203909 Caligus rogercresseyi rhabdovirus strain CrRV-Ch01, partial genome.-table4-Rhabdoviridae-HMM540-940_18.0-ORF120
+seq217	>nrnt-KX884434 Drosophila immigrans sigmavirus strain SCM45623 nucleocapsid protein, polymerase-associated protein, PP3, matrix protein, glycoprotein, and RNA-dependent RNA polymerase genes, complete cds.-table6-Rhabdoviridae-HMM456-852_18.0-ORF141
+seq218	>nrnt-KX884432 Wuhan House Fly Virus 1 strain SCM39215 putative nucleoprotein, hypothetical protein, putative X protein, putative matrix protein, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds.-table6-Rhabdoviridae-HMM458-856_18.0-ORF132
+seq219	>nrnt-KU127239 Lone star tick rhabdovirus isolate TickAa42, partial genome.-table6-Rhabdoviridae-HMM509-908_17.0-ORF126
+seq220	>nrnt-KX785335 Menghai rhabdovirus isolate Menghai, complete genome.-table6-Rhabdoviridae-HMM1043-1428_14.0-ORF132
+seq221	>nrnt-KU178986 Piry virus strain BeAn2423, complete genome.-table6-Rhabdoviridae-HMM449-849_18.0-ORF136
+seq222	>nrnt-KY073493 Beatrice Hill virus isolate CSIRO 25, complete genome.-table6-Rhabdoviridae-HMM462-859_18.0-ORF139
+seq223	>nrnt-LF163069 JP 2016513115-A/10: Vaccine Composition.-table4-Rhabdoviridae-HMM572-971_17.0-ORF130
+seq224	>nrnt-LF163067 JP 2016513115-A/8: Vaccine Composition.-table4-Rhabdoviridae-HMM456-855_18.0-ORF135
+seq225	>nrnt-LF163065 JP 2016513115-A/6: Vaccine Composition.-table4-Rhabdoviridae-HMM489-888_18.0-ORF140
+seq226	>nrnt-LF163063 JP 2016513115-A/4: Vaccine Composition.-table4-Rhabdoviridae-HMM804-1203_15.0-ORF156
+seq227	>nrnt-KM817658 Wuhan Louse Fly Virus 11 strain BFJSC-9 RNA-dependent RNA polymerase (L) gene, complete cds.-table4-Rhabdoviridae-HMM521-920_18.0-ORF70
+seq228	>nrnt-KM817655 Wuhan Louse Fly Virus 8 strain BFJSC-6 RNA-dependent RNA polymerase (L) gene, complete cds.-table4-Rhabdoviridae-HMM467-867_18.0-ORF72
+seq229	>nrnt-KM817647 Wuhan Fly Virus 3 strain SYY2-5 RNA-dependent RNA polymerase (L) gene, complete cds.-table6-Rhabdoviridae-HMM499-892_16.0-ORF78
+seq230	>nrnt-KM817631 Jingshan Fly Virus 2 strain JSY-4 RNA-dependent RNA polymerase (L) gene, partial cds.-table1-Rhabdoviridae-HMM426-814_16.0-ORF62
+seq231	>nrnt-JF311402 Muscina stabulans sigma virus RNA-dependent RNA polymerase (L) gene, partial cds.-table1-Rhabdoviridae-HMM78-476_41.0-ORF32
+seq232	>nrnt-AY450644 Starry flounder rhabdovirus polymerase (L) gene, partial cds.-table1-Rhabdoviridae-HMM444-842_44.0-ORF30
+seq233	>nrnt-AY250986 Strawberry crinkle virus putative RNA-dependent RNA polymerase gene, partial cds.-table1-Rhabdoviridae-HMM193-595_52.0-ORF16
+seq234	>nrnt-FJ952155 Durham virus nucleocapsid, phosphoprotein, putative protein C, matrix protein, small hydrophobic protein, and glycoprotein genes, complete cds; and RNA polymerase gene, partial cds.-table4-Rhabdoviridae-HMM1049-1448_14.0-ORF126
+seq235	>nrnt-KU660039 Iranian citrus ringspot virus clone CRSV-RdRP1 RNA-dependent RNA polymerase gene, partial cds.-table4-Rhabdoviridae-HMM215-627_38.0-ORF40
+seq236	>nrnt-KR822826 Pararge aegeria rhabdovirus nucleocapsid protein (N), polymerase-associated protein (P), matrix protein (M), glycoprotein 1 (G1), glycoprotein 2 (G2), and RNA-dependent RNA polymerase (L) genes, complete cds.-table6-Rhabdoviridae-HMM1016-1416_14.0-ORF143
+seq237	>nrnt-KR822825 Ceratitis capitata sigmavirus nucleocapsid protein (N), polymerase-associated protein (P), PP3 (X), matrix protein (M), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds.-table4-Rhabdoviridae-HMM451-851_18.0-ORF159
+seq238	>nrnt-KR822824 Drosophila algonquin sigmavirus RNA-dependent RNA polymerase (L) gene, complete cds.-table6-Rhabdoviridae-HMM453-850_17.0-ORF76
+seq239	>nrnt-KR822823 Drosophila sturtevanti rhabdovirus 1 RNA-dependent RNA polymerase (L) gene, complete cds.-table6-Rhabdoviridae-HMM516-912_17.0-ORF78
+seq240	>nrnt-KR822821 Scaptodrosophila deflexa sigmavirus RNA-dependent RNA polymerase (L) gene, partial cds.-table1-Rhabdoviridae-HMM152-342_55.0-ORF8
+seq241	>nrnt-KR822818 Drosophila tristis sigmavirus RNA-dependent RNA polymerase (L) gene, partial cds.-table1-Rhabdoviridae-HMM335-731_22.0-ORF52
+seq242	>nrnt-KR822817 Drosophila subobscura rhabdovirus RNA-dependent RNA polymerase (L) gene, partial cds.-table6-Rhabdoviridae-HMM488-884_17.0-ORF70
+seq243	>nrnt-KR822813 Drosophila busckii rhabdovirus nucleocapsid protein (N), polymerase-associated protein, matrix protein, glycoprotein (G), accessory protein, and RNA-dependent RNA polymerase (L) genes, complete cds.-table6-Rhabdoviridae-HMM442-834_16.0-ORF157
+seq244	>nrnt-KR822812 Drosophila ananassae sigmavirus nucleocapsid protein (N), polymerase-associated protein (P), PP3 (X), matrix protein (M), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds.-table6-Rhabdoviridae-HMM484-883_18.0-ORF146
+seq245	>nrnt-KR822811 Drosophila affinis sigmavirus nucleocapsid protein (N), polymerase-associated protein (P), PP3 (X), matrix protein (M), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds.-table6-Rhabdoviridae-HMM455-852_17.0-ORF156
+seq246	>nrnt-KU248085 Riverside virus 1 strain RISV-Drava 1, complete genome.-table4-Rhabdoviridae-HMM481-876_17.0-ORF149
+seq247	>nrnt-KJ830812 Zahedan rhabdovirus isolate Ar Teh 157764, complete genome.-table6-Rhabdoviridae-HMM479-878_18.0-ORF125
+seq248	>nrnt-KR612230 Eelpout rhabdovirus isolate FSK 0523, partial genome.-table6-Rhabdoviridae-HMM446-844_18.0-ORF134
+seq249	>nrnt-AB609604 Nishimuro virus viral cRNA for hypothetical proteins, complete cds.-table4-Rhabdoviridae-HMM592-989_17.0-ORF120
+seq250	>nrnt-KT187693 Citrus leprosis virus isolate N0 segment RNA2 RNA-dependent RNA polymerase (L) gene, partial cds.-table1-Rhabdoviridae-HMM215-475_54.0-ORF18
+seq251	>nrnt-KP872867 Vesicular stomatitis Indiana virus isolate N4CL30 NS, matrix, glycoprotein precursor, and nucleocapsid genes, complete cds; and polymerase gene, partial cds.-table4-Rhabdoviridae-HMM892-1292_15.0-ORF130
+seq252	>nrnt-KM205024 Radi virus nucleoprotein, phosphoprotein, matrix, glycoprotein, and polymerase genes, complete cds.-table4-Rhabdoviridae-HMM499-898_18.0-ORF124
+seq253	>nrnt-KM205020 Connecticut virus nucleoprotein, phosphoprotein, hypothetical protein, matrix, glycoprotein, hypothetical protein, and polymerase genes, complete cds.-table4-Rhabdoviridae-HMM456-854_18.0-ORF96
+seq254	>nrnt-KM205018 Bahia Grande virus nucleoprotein, phosphoprotein, matrix, glycoprotein, hypothetical protein, and polymerase genes, complete cds.-table6-Rhabdoviridae-HMM489-889_18.0-ORF129
+seq255	>nrnt-KM205015 Carajas virus nucleoprotein, phosphoprotein, matrix, glycoprotein, and polymerase genes, complete cds.-table6-Rhabdoviridae-HMM1010-1410_14.0-ORF125
+seq256	>nrnt-KM205013 Sawgrass virus nucleoprotein, phosphoprotein, matrix, glycoprotein, and polymerase genes, complete cds.-table6-Rhabdoviridae-HMM460-858_18.0-ORF121
+seq257	>nrnt-KM205009 New Minto virus nucleoprotein, phosphoprotein, matrix, glycoprotein, and polymerase genes, complete cds.-table6-Rhabdoviridae-HMM509-907_18.0-ORF121
+seq258	>nrnt-KM204993 Mossuril virus nucleoprotein, phosphoprotein, hypothetical proteins, matrix, glycoprotein, hypothetical protein, and polymerase genes, complete cds.-table6-Rhabdoviridae-HMM538-937_17.0-ORF145
+seq259	>nrnt-KM204990 Muir Springs virus nucleoprotein, phosphoprotein, matrix, glycoprotein, and polymerase genes, complete cds.-table6-Rhabdoviridae-HMM565-965_17.0-ORF131
+seq260	>nrnt-KM204987 Aruac virus nucleoprotein, phosphoprotein, matrix, glycoprotein, hypothetical proteins, and polymerase genes, complete cds.-table4-Rhabdoviridae-HMM454-853_18.0-ORF136
+seq261	>nrnt-KM204985 Kwatta virus nucleoprotein, phosphoprotein, hypothetical protein, matrix, hypothetical protein, glycoprotein, and polymerase genes, complete cds.-table4-Rhabdoviridae-HMM423-817_18.0-ORF129
+seq262	>nrnt-KM204982 Garba virus nucleoprotein, phosphoprotein, hypothetical protein, matrix, hypothetical protein, glycoprotein, and polymerase genes, complete cds.-table4-Rhabdoviridae-HMM434-832_19.0-ORF133
+seq263	>nrnt-KJ958536 Lepeophtheirus salmonis rhabdovirus No127, partial genome.-table6-Rhabdoviridae-HMM605-1006_17.0-ORF110
+seq264	>nrnt-KJ958535 Lepeophtheirus salmonis rhabdovirus No9, partial genome.-table4-Rhabdoviridae-HMM447-847_18.0-ORF140
+seq265	>nrnt-KJ432573 Harrison Dam virus isolate CS75, partial genome.-table6-Rhabdoviridae-HMM1152-1550_14.0-ORF132
+seq266	>nrnt-KF812526 Coffee ringspot virus strain Lavras segment RNA2, complete sequence.-table6-Rhabdoviridae-HMM481-879_20.0-ORF69
+seq267	>nrnt-KF310911 Beaumont virus strain 6 RNA-dependent RNA polymerase gene, partial cds.-table1-Rhabdoviridae-HMM204-601_25.0-ORF44
+seq268	>nrnt-AB839170 Rabies virus genomic RNA, complete genome, strain: rHEP5.0-CVSG.-table6-Rhabdoviridae-HMM555-952_17.0-ORF127
+seq269	>nrnt-KF360973 North Creek virus RNA dependent RNA polymerase (L) gene, complete cds.-table6-Rhabdoviridae-HMM526-922_18.0-ORF75
+seq270	>nrnt-FJ478454 Recombinant vesicular stomatitis Indiana virus rVSV-G/GFP, complete genome.-table6-Rhabdoviridae-HMM444-844_18.0-ORF146
+seq271	>nrnt-JX901139 Lagos bat virus isolate KE476, complete genome.-table4-Rhabdoviridae-HMM518-914_18.0-ORF140
+seq272	>nrnt-GQ249163 Ivy vein banding virus isolate CB6 L protein gene, partial cds.-table1-Rhabdoviridae-HMM84-365_76.0-ORF12
+seq273	>nrnt-JQ685953 Rabies virus isolate 3645DR, complete genome.-table6-Rhabdoviridae-HMM511-908_17.0-ORF141
+seq274	>nrnt-HM627187 Chandipura virus Dak AR D 111125 nucleocapsid protein, phosphoprotein, matrix protein, glycoprotein, and RNA-dependent RNA polymerase genes, complete cds.-table6-Rhabdoviridae-HMM446-846_18.0-ORF130
+seq275	>nrnt-HV325666 JP 2011507523-A/2: Genetically Modified Attenuated Vesicular Stomatitis Virus, Compositions and Methods of Use Thereof.-table6-Rhabdoviridae-HMM444-844_17.0-ORF138
+seq276	>nrnt-HM849039 Soybean cyst nematode associated northern cereal mosaic virus tegument protein, nuclear protein, hypothetical protein, and RNA dependent RNA polymerase genes, complete cds.-table4-Rhabdoviridae-HMM597-988_16.0-ORF44
+seq277	>nrnt-DQ097384 Spring viraemia of carp virus isolate A1, complete genome.-table6-Rhabdoviridae-HMM476-875_18.0-ORF127
+seq278	>nrnt-AF473866 Vesicular stomatitis Indiana virus strain 94GUB, complete genome.-table4-Rhabdoviridae-HMM491-891_18.0-ORF133
+seq279	>nrnt-FN812699 Raspberry vein chlorosis virus partial L gene for RNA-dependent RNA polymerase, genomic RNA.-table1-Rhabdoviridae-HMM168-573_40.0-ORF34
+seq280	>nrnt-FV537081 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Rhabdoviridae-HMM2261-2655_9.0-ORF198
+seq281	>nrnt-FV537079 Modified Microbial Nucleic Acid.-table6-Rhabdoviridae-HMM1-297_82.0-ORF116
+seq282	>nrnt-EU293110 Lagos bat virus isolate 8619NGA, complete genome.-table6-Rhabdoviridae-HMM567-963_17.0-ORF143
+seq283	>nrnt-AJ233396 Viral hemorrhagic septicemia virus N, P, M, G, Nv, L genes, French strain 07-71.-table4-Rhabdoviridae-HMM419-801_18.0-ORF91
+seq284	>tsa-GAHU01042870.1 (REVERSE SENSE) TSA: Agave tequilana Locus20247v2rpkm3.80 transcribed RNA sequence-table6-Rhabdoviridae-HMM499-893_19.0-ORF314
+seq285	>tsa-GAHU01042871.1 TSA: Agave tequilana Locus20247v3rpkm3.66 transcribed RNA sequence-table6-Rhabdoviridae-HMM499-893_19.0-ORF132
+seq286	>tsa-GAHU01142120.1 (REVERSE SENSE) TSA: Agave tequilana Locus88549v1rpkm0.73 transcribed RNA sequence-table6-Rhabdoviridae-HMM499-890_36.0-ORF99
+seq287	>tsa-GEZL01043287.1 TSA: Ambrosia artemisiifolia TR27597_c0_g1_i1 transcribed RNA sequence-table6-Rhabdoviridae-HMM44-250_11.0-ORF62
+seq288	>tsa-GEZL01043290.1 TSA: Ambrosia artemisiifolia TR27597_c0_g1_i2 transcribed RNA sequence-table6-Rhabdoviridae-HMM44-250_11.0-ORF59
+seq289	>tsa-GBMT01017449.1 TSA: Ammophila sabulosa s4896_L_6749_0_a_38_2_l_13423 transcribed RNA sequence-table6-Rhabdoviridae-HMM135-515_18.0-ORF58
+seq290	>tsa-GDGN01027676.1 TSA: Amyelois transitella Atrans_Trinity_comp_938268_c0_seq1 transcribed RNA sequence-table4-Rhabdoviridae-HMM13-67_80.0-ORF1
+seq291	>tsa-GDJX01004422.1 TSA: Anthurium amnicola c17293_g1_i1 transcribed RNA sequence-table1-Rhabdoviridae-HMM369-765_21.0-ORF48
+seq292	>tsa-GAWU02015190.1 TSA: Aposthonia japonica C138784_a_4_0_l_344 transcribed RNA sequence-table6-Rhabdoviridae-HMM14-114_87.0-ORF7
+seq293	>tsa-GAVS01024926.1 TSA: Apostichopus japonicus AMR0033.40625.0.1 transcribed RNA sequence-table6-Rhabdoviridae-HMM8-89_55.0-ORF4
+seq294	>tsa-GDKY01001446.1 (REVERSE SENSE) TSA: Asellus aquaticus Contig_1466l transcribed RNA sequence-table1-Rhabdoviridae-HMM13-269_95.0-ORF22
+seq295	>tsa-GDKY01001658.1 (REVERSE SENSE) TSA: Asellus aquaticus Contig_1682l transcribed RNA sequence-table6-Rhabdoviridae-HMM40-161_25.0-ORF38
+seq296	>tsa-GDKY01001875.1 TSA: Asellus aquaticus Contig_1902l transcribed RNA sequence-table6-Rhabdoviridae-HMM502-712_29.0-ORF28
+seq297	>tsa-GDKY01002452.1 (REVERSE SENSE) TSA: Asellus aquaticus Contig_2485large transcribed RNA sequence-table1-Rhabdoviridae-HMM23-149_81.0-ORF14
+seq298	>tsa-GDKY01021411.1 (REVERSE SENSE) TSA: Asellus aquaticus Contig_23710l transcribed RNA sequence-table6-Rhabdoviridae-HMM7-82_85.0-ORF26
+seq299	>tsa-GBRG01230031.1 (REVERSE SENSE) TSA: Aurelia aurita comp3942963_c0_seq1 transcribed RNA sequence-table1-Rhabdoviridae-HMM3-113_90.0-ORF9
+seq300	>tsa-GEEA01018476.1 TSA: Bactrocera dorsalis comp57202_c0_seq1 transcribed RNA sequence-table6-Rhabdoviridae-HMM481-879_17.0-ORF130
+seq301	>tsa-GFOR01021146.1 (REVERSE SENSE) TSA: Bactrocera latifrons TR13217_c0_g1_i1 transcribed RNA sequence-table6-Rhabdoviridae-HMM68-206_57.0-ORF32
+seq302	>tsa-GFOR01021147.1 (REVERSE SENSE) TSA: Bactrocera latifrons TR13217_c0_g1_i2 transcribed RNA sequence-table6-Rhabdoviridae-HMM68-206_57.0-ORF33
+seq303	>tsa-GAUC01011529.1 (REVERSE SENSE) TSA: Bemisia tabaci Unitig_11606 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-68_42.0-ORF12
+seq304	>tsa-GAUC01021749.1 TSA: Bemisia tabaci Unitig_21858 transcribed RNA sequence-table6-Rhabdoviridae-HMM441-841_18.0-ORF91
+seq305	>tsa-GBLE01003740.1 TSA: Brachymeria minuta C113315_a_4_0_l_448 transcribed RNA sequence-table6-Rhabdoviridae-HMM27-98_71.0-ORF4
+seq306	>tsa-GBXH01037836.1 TSA: Cadra cautella EP1_contig_37900 transcribed RNA sequence-table1-Rhabdoviridae-HMM2-90_53.0-ORF5
+seq307	>tsa-GBXH01069464.1 TSA: Cadra cautella EP1_contig_70088 transcribed RNA sequence-table1-Rhabdoviridae-HMM2-184_98.0-ORF4
+seq308	>tsa-GBXH01077573.1 TSA: Cadra cautella EP1_contig_78398 transcribed RNA sequence-table1-Rhabdoviridae-HMM16-120_85.0-ORF3
+seq309	>tsa-GAZX01000271.1 TSA: Caligus rogercresseyi tsa-crog-ngs-11082852 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-78_88.0-ORF4
+seq310	>tsa-GAZX01005562.1 (REVERSE SENSE) TSA: Caligus rogercresseyi tsa-crog-ngs-11088571 transcribed RNA sequence-table1-Rhabdoviridae-HMM14-73_80.0-ORF8
+seq311	>tsa-GAZX01018058.1 TSA: Caligus rogercresseyi tsa-crog-ngs-11101611 transcribed RNA sequence-table1-Rhabdoviridae-HMM236-637_60.0-ORF23
+seq312	>tsa-GAZX01030327.1 (REVERSE SENSE) TSA: Caligus rogercresseyi tsa-crog-ngs-11114046 transcribed RNA sequence-table1-Rhabdoviridae-HMM350-685_48.0-ORF66
+seq313	>tsa-GAZX01030328.1 TSA: Caligus rogercresseyi tsa-crog-ngs-11114047 transcribed RNA sequence-table4-Rhabdoviridae-HMM350-749_19.0-ORF60
+seq314	>tsa-GAZX01041484.1 TSA: Caligus rogercresseyi tsa-crog-ngs-11125273 transcribed RNA sequence-table6-Rhabdoviridae-HMM542-942_17.0-ORF66
+seq315	>tsa-GFBD01006059.1 (REVERSE SENSE) TSA: Camponotus fellah comp31864_c0_seq1 transcribed RNA sequence-table1-Rhabdoviridae-HMM21-416_33.0-ORF94
+seq316	>tsa-GFBD01015334.1 TSA: Camponotus fellah comp45919_c0_seq1 transcribed RNA sequence-table1-Rhabdoviridae-HMM224-619_28.0-ORF38
+seq317	>tsa-GACW01025811.1 TSA: Carabus granulatus contig25887 mRNA sequence-table1-Rhabdoviridae-HMM1-140_72.0-ORF8
+seq318	>tsa-GEPL01058314.1 (REVERSE SENSE) TSA: Carinurus bicarinatus c66418_g1_i1 transcribed RNA sequence-table1-Rhabdoviridae-HMM2-75_97.0-ORF8
+seq319	>tsa-GEUY01006481.1 (REVERSE SENSE) TSA: Cenchrus americanus pm_c7900 transcribed RNA sequence-table4-Rhabdoviridae-HMM11-357_47.0-ORF277
+seq320	>tsa-GBVD01016746.1 TSA: Ceraphron sp. AD-2014 C214139_a_4_0_l_581 transcribed RNA sequence-table1-Rhabdoviridae-HMM6-128_63.0-ORF8
+seq321	>tsa-GBVD01020109.1 TSA: Ceraphron sp. AD-2014 C230618_a_4_0_l_1367 transcribed RNA sequence-table1-Rhabdoviridae-HMM316-453_30.0-ORF17
+seq322	>tsa-GAMC01017508.1 TSA: Ceratitis capitata comp64935_c0_seq1.1 mRNA sequence-table4-Rhabdoviridae-HMM451-851_18.0-ORF159
+seq323	>tsa-GAMC01017509.1 TSA: Ceratitis capitata comp64935_c0_seq1.2 mRNA sequence-table4-Rhabdoviridae-HMM451-851_18.0-ORF159
+seq324	>tsa-GAMC01017510.1 TSA: Ceratitis capitata comp64935_c0_seq1.3 mRNA sequence-table4-Rhabdoviridae-HMM451-851_18.0-ORF159
+seq325	>tsa-GAMC01017511.1 TSA: Ceratitis capitata comp64935_c0_seq1.4 mRNA sequence-table4-Rhabdoviridae-HMM451-851_18.0-ORF159
+seq326	>tsa-GBOE01015047.1 (REVERSE SENSE) TSA: Chlorion hirtum C82312_a_37_0_l_11802 transcribed RNA sequence-table4-Rhabdoviridae-HMM441-821_17.0-ORF322
+seq327	>tsa-GBKV01003964.1 (REVERSE SENSE) TSA: Ciona intestinalis Cintestinalis32960_c0_seq1_9813nt transcribed RNA sequence-table4-Rhabdoviridae-HMM392-781_19.0-ORF270
+seq328	>tsa-GEDC01025073.1 TSA: Clastoptera arizonana TR20510_c2_g2_i1 transcribed RNA sequence-table4-Rhabdoviridae-HMM23-341_18.0-ORF119
+seq329	>tsa-GAYH02001304.1 (REVERSE SENSE) TSA: Conwentzia psociformis C160207_a_3_0_l_213 transcribed RNA sequence-table1-Rhabdoviridae-HMM2-70_95.0-ORF4
+seq330	>tsa-GDJO01007114.1 TSA: Cotesia glomerata comp93319_c0_seq1 transcribed RNA sequence-table6-Rhabdoviridae-HMM414-793_17.0-ORF126
+seq331	>tsa-GDJO01007115.1 TSA: Cotesia glomerata comp93319_c0_seq2 transcribed RNA sequence-table6-Rhabdoviridae-HMM414-793_17.0-ORF126
+seq332	>tsa-GDJO01010213.1 (REVERSE SENSE) TSA: Cotesia glomerata comp99766_c0_seq1 transcribed RNA sequence-table6-Rhabdoviridae-HMM414-793_17.0-ORF284
+seq333	>tsa-GECZ01009250.1 TSA: Cuerna arida TR14376_c1_g1_i1 transcribed RNA sequence-table1-Rhabdoviridae-HMM168-558_66.0-ORF19
+seq334	>tsa-GFHX01006204.1 TSA: Dactylorhiza fuchsii fB1855_comp88380_c0_seq1 transcribed RNA sequence-table1-Rhabdoviridae-HMM160-291_44.0-ORF8
+seq335	>tsa-GFHX01021080.1 (REVERSE SENSE) TSA: Dactylorhiza fuchsii fB1855_comp153512_c0_seq1 transcribed RNA sequence-table4-Rhabdoviridae-HMM1-176_96.0-ORF14
+seq336	>tsa-GFOY01044656.1 TSA: Daiswa yunnanensis CL7374.Contig1_All transcribed RNA sequence-table6-Rhabdoviridae-HMM262-650_21.0-ORF58
+seq337	>tsa-GBLP01026188.1 (REVERSE SENSE) TSA: Diglyphus isaea s7552_L_26362_0_a_29_5_l_11169 transcribed RNA sequence-table6-Rhabdoviridae-HMM508-903_18.0-ORF263
+seq338	>tsa-GBUO01001857.1 TSA: Diprion pini C28434_a_9_0_l_246 transcribed RNA sequence-table1-Rhabdoviridae-HMM4-78_91.0-ORF2
+seq339	>tsa-GENH01008948.1 (REVERSE SENSE) TSA: Dryadaula visaliella k52_276082 transcribed RNA sequence-table1-Rhabdoviridae-HMM56-370_84.0-ORF31
+seq340	>tsa-GENH01009803.1 (REVERSE SENSE) TSA: Dryadaula visaliella k52_301748 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-75_49.0-ORF11
+seq341	>tsa-GENH01048851.1 TSA: Dryadaula visaliella k60_390731 transcribed RNA sequence-table1-Rhabdoviridae-HMM29-236_87.0-ORF9
+seq342	>tsa-GENH01068219.1 (REVERSE SENSE) TSA: Dryadaula visaliella k66_278806 transcribed RNA sequence-table1-Rhabdoviridae-HMM4-250_98.0-ORF23
+seq343	>tsa-GENH01080037.1 TSA: Dryadaula visaliella k66_572779 transcribed RNA sequence-table6-Rhabdoviridae-HMM42-94_35.0-ORF4
+seq344	>tsa-GENH01097720.1 (REVERSE SENSE) TSA: Dryadaula visaliella k70_41711 transcribed RNA sequence-table1-Rhabdoviridae-HMM2-182_98.0-ORF17
+seq345	>tsa-GENH01105544.1 TSA: Dryadaula visaliella k72_441162 transcribed RNA sequence-table6-Rhabdoviridae-HMM40-92_36.0-ORF4
+seq346	>tsa-GENH01108709.1 TSA: Dryadaula visaliella k72_458582 transcribed RNA sequence-table6-Rhabdoviridae-HMM63-115_29.0-ORF13
+seq347	>tsa-GENH01113355.1 (REVERSE SENSE) TSA: Dryadaula visaliella k74_406941 transcribed RNA sequence-table6-Rhabdoviridae-HMM2-218_85.0-ORF21
+seq348	>tsa-GENH01113423.1 (REVERSE SENSE) TSA: Dryadaula visaliella k74_407425 transcribed RNA sequence-table6-Rhabdoviridae-HMM87-175_18.0-ORF66
+seq349	>tsa-GENH01119023.1 TSA: Dryadaula visaliella k76_370053 transcribed RNA sequence-table6-Rhabdoviridae-HMM126-214_16.0-ORF17
+seq350	>tsa-GENH01119519.1 (REVERSE SENSE) TSA: Dryadaula visaliella k76_372532 transcribed RNA sequence-table6-Rhabdoviridae-HMM3-233_86.0-ORF23
+seq351	>tsa-GENH01119605.1 (REVERSE SENSE) TSA: Dryadaula visaliella k76_373010 transcribed RNA sequence-table6-Rhabdoviridae-HMM3-233_86.0-ORF23
+seq352	>tsa-GENH01119717.1 TSA: Dryadaula visaliella k76_373649 transcribed RNA sequence-table6-Rhabdoviridae-HMM3-233_86.0-ORF10
+seq353	>tsa-GENH01123629.1 TSA: Dryadaula visaliella k78_330379 transcribed RNA sequence-table6-Rhabdoviridae-HMM135-214_12.0-ORF20
+seq354	>tsa-GENH01129683.1 (REVERSE SENSE) TSA: Dryadaula visaliella k80_305263 transcribed RNA sequence-table6-Rhabdoviridae-HMM4-246_87.0-ORF30
+seq355	>tsa-GENH01129704.1 (REVERSE SENSE) TSA: Dryadaula visaliella k80_305385 transcribed RNA sequence-table6-Rhabdoviridae-HMM41-311_78.0-ORF28
+seq356	>tsa-GENH01132741.1 TSA: Dryadaula visaliella k82_265543 transcribed RNA sequence-table6-Rhabdoviridae-HMM123-394_63.0-ORF13
+seq357	>tsa-GENH01133438.1 TSA: Dryadaula visaliella k82_271550 transcribed RNA sequence-table6-Rhabdoviridae-HMM135-214_12.0-ORF20
+seq358	>tsa-GENH01138711.1 (REVERSE SENSE) TSA: Dryadaula visaliella k84_247519 transcribed RNA sequence-table6-Rhabdoviridae-HMM126-396_62.0-ORF33
+seq359	>tsa-GENH01146728.1 (REVERSE SENSE) TSA: Dryadaula visaliella k90_151838 transcribed RNA sequence-table6-Rhabdoviridae-HMM29-118_29.0-ORF28
+seq360	>tsa-GENH01148549.1 (REVERSE SENSE) TSA: Dryadaula visaliella k92_9389 transcribed RNA sequence-table6-Rhabdoviridae-HMM1-90_75.0-ORF11
+seq361	>tsa-GENH01149119.1 TSA: Dryadaula visaliella k92_106439 transcribed RNA sequence-table6-Rhabdoviridae-HMM27-120_46.0-ORF8
+seq362	>tsa-GENH01151880.1 TSA: Dryadaula visaliella k94_98426 transcribed RNA sequence-table6-Rhabdoviridae-HMM4-247_86.0-ORF11
+seq363	>tsa-GENH01152410.1 TSA: Dryadaula visaliella k94_101712 transcribed RNA sequence-table6-Rhabdoviridae-HMM26-119_51.0-ORF6
+seq364	>tsa-GENH01154196.1 (REVERSE SENSE) TSA: Dryadaula visaliella k96_72996 transcribed RNA sequence-table6-Rhabdoviridae-HMM1-185_84.0-ORF17
+seq365	>tsa-GEOD01060338.1 TSA: Dryadaula visaliella c40879_g5_i1 transcribed RNA sequence-table6-Rhabdoviridae-HMM158-554_51.0-ORF29
+seq366	>tsa-GEOD01060340.1 TSA: Dryadaula visaliella c40879_g5_i2 transcribed RNA sequence-table6-Rhabdoviridae-HMM247-301_17.0-ORF11
+seq367	>tsa-GEOD01060342.1 TSA: Dryadaula visaliella c40879_g5_i3 transcribed RNA sequence-table6-Rhabdoviridae-HMM158-514_58.0-ORF23
+seq368	>tsa-GEOD01062397.1 TSA: Dryadaula visaliella c41034_g12_i2 transcribed RNA sequence-table6-Rhabdoviridae-HMM12-74_45.0-ORF4
+seq369	>tsa-GEOD01062398.1 TSA: Dryadaula visaliella c41034_g12_i3 transcribed RNA sequence-table6-Rhabdoviridae-HMM11-74_60.0-ORF4
+seq370	>tsa-GEOD01062401.1 TSA: Dryadaula visaliella c41034_g12_i4 transcribed RNA sequence-table6-Rhabdoviridae-HMM63-115_31.0-ORF7
+seq371	>tsa-GEOD01069157.1 (REVERSE SENSE) TSA: Dryadaula visaliella c41461_g1_i1 transcribed RNA sequence-table6-Rhabdoviridae-HMM270-540_46.0-ORF146
+seq372	>tsa-GENE01036810.1 (REVERSE SENSE) TSA: Dryophytes cinereus TR797053_c3_g1_i1 transcribed RNA sequence-table6-Rhabdoviridae-HMM1-140_19.0-ORF62
+seq373	>tsa-GENE01036811.1 (REVERSE SENSE) TSA: Dryophytes cinereus TR797053_c3_g2_i3 transcribed RNA sequence-table4-Rhabdoviridae-HMM472-694_31.0-ORF220
+seq374	>tsa-GENE01042838.1 TSA: Dryophytes cinereus TR804219_c0_g1_i1 transcribed RNA sequence-table4-Rhabdoviridae-HMM37-341_18.0-ORF106
+seq375	>tsa-GBRW01045544.1 (REVERSE SENSE) TSA: Elysia cornigera Eco019752_seq1 transcribed RNA sequence-table6-Rhabdoviridae-HMM602-993_31.0-ORF242
+seq376	>tsa-GEOE01071368.1 (REVERSE SENSE) TSA: Enteucha acetosae TR39593-c0_g1_i1 transcribed RNA sequence-table4-Rhabdoviridae-HMM74-143_44.0-ORF24
+seq377	>tsa-GEOE01122611.1 TSA: Enteucha acetosae TR68620-c0_g1_i1 transcribed RNA sequence-table6-Rhabdoviridae-HMM39-108_63.0-ORF4
+seq378	>tsa-GEOE01122612.1 TSA: Enteucha acetosae TR68620-c0_g2_i1 transcribed RNA sequence-table6-Rhabdoviridae-HMM28-98_62.0-ORF3
+seq379	>tsa-GEOE01122613.1 (REVERSE SENSE) TSA: Enteucha acetosae TR68620-c0_g3_i1 transcribed RNA sequence-table4-Rhabdoviridae-HMM13-173_90.0-ORF18
+seq380	>tsa-GEOE01141701.1 TSA: Enteucha acetosae TR80979-c0_g2_i1 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-107_99.0-ORF2
+seq381	>tsa-GEOE01141702.1 TSA: Enteucha acetosae TR80979-c0_g3_i1 transcribed RNA sequence-table6-Rhabdoviridae-HMM7-58_26.0-ORF4
+seq382	>tsa-GFBH01004968.1 TSA: Eogystia hippophaecolus c106588.graph_c0 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-65_91.0-ORF2
+seq383	>tsa-GFBH01008461.1 TSA: Eogystia hippophaecolus c111417.graph_c0 transcribed RNA sequence-table6-Rhabdoviridae-HMM6-91_81.0-ORF2
+seq384	>tsa-GFBH01013859.1 (REVERSE SENSE) TSA: Eogystia hippophaecolus c118707.graph_c0 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-108_99.0-ORF10
+seq385	>tsa-GFBH01018059.1 TSA: Eogystia hippophaecolus c124363.graph_c0 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-72_98.0-ORF2
+seq386	>tsa-GFBH01041505.1 (REVERSE SENSE) TSA: Eogystia hippophaecolus c32840.graph_c0 transcribed RNA sequence-table4-Rhabdoviridae-HMM1-55_79.0-ORF10
+seq387	>tsa-GFBH01050071.1 (REVERSE SENSE) TSA: Eogystia hippophaecolus c45171.graph_c0 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-371_76.0-ORF31
+seq388	>tsa-GFBH01084877.1 TSA: Eogystia hippophaecolus c79367.graph_c0 transcribed RNA sequence-table6-Rhabdoviridae-HMM66-171_52.0-ORF27
+seq389	>tsa-GDQF01122294.1 TSA: Erigeron breviscapus c70805_g1_i1 transcribed RNA sequence-table6-Rhabdoviridae-HMM1178-1569_12.0-ORF139
+seq390	>tsa-GAXD01021508.1 (REVERSE SENSE) TSA: Frankliniella occidentalis THRIPS_11_08_2011_22282 transcribed RNA sequence-table4-Rhabdoviridae-HMM429-813_17.0-ORF178
+seq391	>tsa-GFCV01099755.1 (REVERSE SENSE) TSA: Gammarus chevreuxi TRINITY_DN71093_c0_g1_i1 transcribed RNA sequence-table6-Rhabdoviridae-HMM582-979_17.0-ORF306
+seq392	>tsa-HADC01039874.1 TSA: Gammarus chevreuxi, contig comp56656_c0_seq1, transcribed RNA sequence-table6-Rhabdoviridae-HMM582-979_17.0-ORF132
+seq393	>tsa-GAIW01024762.1 TSA: Ganaspis sp. G1 comp20548_c0_seq1 transcribed RNA sequence-table4-Rhabdoviridae-HMM5-103_9.0-ORF54
+seq394	>tsa-GBLN01018092.1 (REVERSE SENSE) TSA: Gonatocerus morrilli s3312_L_20996_0_a_65_4_l_11741 transcribed RNA sequence-table6-Rhabdoviridae-HMM576-975_17.0-ORF310
+seq395	>tsa-GEXH01074186.1 (REVERSE SENSE) TSA: Hapalochlaena maculosa comp64696_c1_seq1 transcribed RNA sequence-table6-Rhabdoviridae-HMM13-106_83.0-ORF14
+seq396	>tsa-GEXH01138425.1 (REVERSE SENSE) TSA: Hapalochlaena maculosa comp74374_c0_seq1 transcribed RNA sequence-table6-Rhabdoviridae-HMM207-400_40.0-ORF49
+seq397	>tsa-GEXH01138426.1 (REVERSE SENSE) TSA: Hapalochlaena maculosa comp74374_c0_seq2 transcribed RNA sequence-table6-Rhabdoviridae-HMM207-400_44.0-ORF48
+seq398	>tsa-GEXH01138427.1 (REVERSE SENSE) TSA: Hapalochlaena maculosa comp74374_c0_seq3 transcribed RNA sequence-table4-Rhabdoviridae-HMM1-146_44.0-ORF59
+seq399	>tsa-GEXH01138428.1 (REVERSE SENSE) TSA: Hapalochlaena maculosa comp74374_c0_seq4 transcribed RNA sequence-table6-Rhabdoviridae-HMM94-287_52.0-ORF43
+seq400	>tsa-GEXH01181957.1 (REVERSE SENSE) TSA: Hapalochlaena maculosa comp114455_c0_seq1 transcribed RNA sequence-table6-Rhabdoviridae-HMM1-95_94.0-ORF11
+seq401	>tsa-GEXH01188547.1 (REVERSE SENSE) TSA: Hapalochlaena maculosa comp121224_c0_seq1 transcribed RNA sequence-table4-Rhabdoviridae-HMM14-78_80.0-ORF10
+seq402	>tsa-GBNZ01015427.1 TSA: Heterodontonyx sp. AD-2014 s3015_L_4055_0_a_41_9_l_12565 transcribed RNA sequence-table6-Rhabdoviridae-HMM476-863_17.0-ORF117
+seq403	>tsa-GBNZ01015428.1 TSA: Heterodontonyx sp. AD-2014 s3016_L_4055_1_a_41_9_l_8853 transcribed RNA sequence-table6-Rhabdoviridae-HMM452-839_38.0-ORF92
+seq404	>tsa-GEQG01028924.1 TSA: Hyalellopsis costata c57943_g1_i1 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-143_98.0-ORF5
+seq405	>tsa-GEQG01048244.1 TSA: Hyalellopsis costata c82911_g4_i1 transcribed RNA sequence-table1-Rhabdoviridae-HMM2-138_98.0-ORF6
+seq406	>tsa-GAVM02018061.1 TSA: Hydroptila sp. AD-2013 s1318_L_1462_0_a_37_0_l_3628 transcribed RNA sequence-table6-Rhabdoviridae-HMM37-140_63.0-ORF22
+seq407	>tsa-GAVM02022345.1 (REVERSE SENSE) TSA: Hydroptila sp. AD-2013 s5186_L_11687_0_a_6_6_l_879 transcribed RNA sequence-table6-Rhabdoviridae-HMM16-85_69.0-ORF18
+seq408	>tsa-GEWR01003579.1 TSA: Ilex paraguariensis comp11357_c0_seq1 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-142_97.0-ORF6
+seq409	>tsa-GEWR01024462.1 (REVERSE SENSE) TSA: Ilex paraguariensis comp62853_c0_seq1 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-204_98.0-ORF18
+seq410	>tsa-GEWR01048676.1 (REVERSE SENSE) TSA: Ilex paraguariensis comp91451_c0_seq1 transcribed RNA sequence-table1-Rhabdoviridae-HMM2-108_98.0-ORF9
+seq411	>tsa-GEWR01104619.1 (REVERSE SENSE) TSA: Ilex paraguariensis comp114131_c1_seq1 transcribed RNA sequence-table6-Rhabdoviridae-HMM478-878_31.0-ORF233
+seq412	>tsa-GEWR01113585.1 TSA: Ilex paraguariensis comp115874_c1_seq1 transcribed RNA sequence-table6-Rhabdoviridae-HMM478-878_25.0-ORF119
+seq413	>tsa-GEWR01165032.1 (REVERSE SENSE) TSA: Ilex paraguariensis comp130479_c0_seq1 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-98_98.0-ORF8
+seq414	>tsa-GBDY01035336.1 (REVERSE SENSE) TSA: Kerria lacca L_9810_T_1/1_C_1.000_L_1419 transcribed RNA sequence-table1-Rhabdoviridae-HMM106-472_77.0-ORF30
+seq415	>tsa-GBCS01035131.1 (REVERSE SENSE) TSA: Latrodectus hesperus venom_comp86781_c0_seq1 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-74_98.0-ORF9
+seq416	>tsa-GBCS01036765.1 TSA: Latrodectus hesperus venom_comp86781_c1_seq1 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-72_98.0-ORF2
+seq417	>tsa-GBJN01089705.1 (REVERSE SENSE) TSA: Latrodectus hesperus Lh1tf083046g0u transcribed RNA sequence-table1-Rhabdoviridae-HMM1-74_98.0-ORF9
+seq418	>tsa-GBJN01124046.1 TSA: Latrodectus hesperus Lh0tf093248g0u transcribed RNA sequence-table1-Rhabdoviridae-HMM1-72_98.0-ORF2
+seq419	>tsa-GBRK01010350.1 (REVERSE SENSE) TSA: Limonium bicolor LB108593_1 transcribed RNA sequence-table1-Rhabdoviridae-HMM162-365_55.0-ORF38
+seq420	>tsa-GAZD02014540.1 (REVERSE SENSE) TSA: Lipara lucens C153124_a_3_0_l_1089 transcribed RNA sequence-table6-Rhabdoviridae-HMM175-277_36.0-ORF22
+seq421	>tsa-GAYX01123773.1 (REVERSE SENSE) TSA: Lolium perenne comp118786_c0_seq1 transcribed RNA sequence-table1-Rhabdoviridae-HMM323-458_29.0-ORF44
+seq422	>tsa-GAYX01140226.1 TSA: Lolium perenne comp149606_c0_seq1 transcribed RNA sequence-table1-Rhabdoviridae-HMM7-256_93.0-ORF9
+seq423	>tsa-GAYX01155223.1 (REVERSE SENSE) TSA: Lolium perenne comp183724_c0_seq1 transcribed RNA sequence-table1-Rhabdoviridae-HMM13-154_87.0-ORF17
+seq424	>tsa-GACB01019936.1 (REVERSE SENSE) TSA: Lotus corniculatus Unigene16959 mRNA sequence-table1-Rhabdoviridae-HMM134-217_38.0-ORF18
+seq425	>tsa-GACB01029361.1 (REVERSE SENSE) TSA: Lotus corniculatus Unigene28142 mRNA sequence-table1-Rhabdoviridae-HMM1-79_50.0-ORF18
+seq426	>tsa-GACB01032749.1 TSA: Lotus corniculatus Unigene31535 mRNA sequence-table1-Rhabdoviridae-HMM5-166_95.0-ORF6
+seq427	>tsa-GACB01036222.1 (REVERSE SENSE) TSA: Lotus corniculatus Unigene1949 mRNA sequence-table6-Rhabdoviridae-HMM481-875_22.0-ORF139
+seq428	>tsa-GACB01037464.1 TSA: Lotus corniculatus Unigene3194 mRNA sequence-table1-Rhabdoviridae-HMM2-163_98.0-ORF3
+seq429	>tsa-GFCJ01031662.1 (REVERSE SENSE) TSA: Loxostege sticticalis c48480.graph_c0 transcribed RNA sequence-table6-Rhabdoviridae-HMM713-1093_14.0-ORF332
+seq430	>tsa-GBOH01005129.1 (REVERSE SENSE) TSA: Masaris aegyptiacus aegyptiacus C45684_a_3_0_l_349 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-109_93.0-ORF11
+seq431	>tsa-GAFF01090372.1 (REVERSE SENSE) TSA: Medicago sativa comp67654_c0_seq1 mRNA sequence-table6-Rhabdoviridae-HMM540-945_18.0-ORF205
+seq432	>tsa-GCPB01001983.1 TSA: Megastigmus spermotrophus contig2323 transcribed RNA sequence-table6-Rhabdoviridae-HMM390-608_33.0-ORF81
+seq433	>tsa-GCPB01003984.1 TSA: Megastigmus spermotrophus contig4570 transcribed RNA sequence-table6-Rhabdoviridae-HMM24-113_33.0-ORF9
+seq434	>tsa-GCPB01004684.1 TSA: Megastigmus spermotrophus contig5334 transcribed RNA sequence-table4-Rhabdoviridae-HMM74-128_40.0-ORF27
+seq435	>tsa-GCPB01005871.1 TSA: Megastigmus spermotrophus contig6630 transcribed RNA sequence-table4-Rhabdoviridae-HMM184-519_64.0-ORF29
+seq436	>tsa-GCPB01010681.1 (REVERSE SENSE) TSA: Megastigmus spermotrophus contig12564 transcribed RNA sequence-table4-Rhabdoviridae-HMM74-128_40.0-ORF78
+seq437	>tsa-GCPB01053948.1 TSA: Megastigmus spermotrophus contig97174 transcribed RNA sequence-table4-Rhabdoviridae-HMM263-494_46.0-ORF19
+seq438	>tsa-GCPB01068125.1 (REVERSE SENSE) TSA: Megastigmus spermotrophus contig160143 transcribed RNA sequence-table6-Rhabdoviridae-HMM1-110_79.0-ORF10
+seq439	>tsa-GCPB01077093.1 TSA: Megastigmus spermotrophus contig177931 transcribed RNA sequence-table4-Rhabdoviridae-HMM74-128_40.0-ORF6
+seq440	>tsa-GCPB01084984.1 (REVERSE SENSE) TSA: Megastigmus spermotrophus contig189580 transcribed RNA sequence-table4-Rhabdoviridae-HMM74-128_40.0-ORF144
+seq441	>tsa-GCPB01085928.1 TSA: Megastigmus spermotrophus contig190683 transcribed RNA sequence-table4-Rhabdoviridae-HMM74-128_40.0-ORF25
+seq442	>tsa-GCPB01087256.1 TSA: Megastigmus spermotrophus contig192144 transcribed RNA sequence-table4-Rhabdoviridae-HMM74-128_40.0-ORF22
+seq443	>tsa-GACY01016602.1 (REVERSE SENSE) TSA: Mengenilla moldrzyki contig16636 mRNA sequence-table6-Rhabdoviridae-HMM2-231_98.0-ORF21
+seq444	>tsa-GACY01042926.1 (REVERSE SENSE) TSA: Mengenilla moldrzyki contig43008 mRNA sequence-table6-Rhabdoviridae-HMM27-99_72.0-ORF12
+seq445	>tsa-GEOM01054836.1 TSA: Metaphatus ochraceus TR57341-c0_g2_i1 transcribed RNA sequence-table6-Rhabdoviridae-HMM27-141_80.0-ORF7
+seq446	>tsa-GFFK01014037.1 TSA: Microphallus sp. 'livelyi' LB-2017 cds.comp4023_c0_seq1_m.579 transcribed RNA sequence-table6-Rhabdoviridae-HMM1-321_22.0-ORF57
+seq447	>tsa-GACP01001540.1 TSA: Micropterix calthella contig01541 mRNA sequence-table1-Rhabdoviridae-HMM11-108_23.0-ORF15
+seq448	>tsa-GFAT01037671.1 (REVERSE SENSE) TSA: Mnemiopsis leidyi c24406_g1_i1 transcribed RNA sequence-table1-Rhabdoviridae-HMM2-244_99.0-ORF18
+seq449	>tsa-GBWQ01013408.1 TSA: Monosapyga clavicornis C96030_a_10_0_l_5549 transcribed RNA sequence-table6-Rhabdoviridae-HMM113-496_20.0-ORF64
+seq450	>tsa-GBAB01012379.1 (REVERSE SENSE) TSA: Musca domestica Unigene12692 transcribed RNA sequence-table6-Rhabdoviridae-HMM494-890_31.0-ORF297
+seq451	>tsa-GFCT01038758.1 TSA: Mythimna separata c23322_g1 transcribed RNA sequence-table6-Rhabdoviridae-HMM1131-1511_12.0-ORF139
+seq452	>tsa-GATC02018702.1 TSA: Nemophora degeerella C163756_a_10_0_l_6487 transcribed RNA sequence-table6-Rhabdoviridae-HMM416-795_17.0-ORF74
+seq453	>tsa-GANM01018622.1 TSA: Nilaparvata lugens Unigene33662_All transcribed RNA sequence-table1-Rhabdoviridae-HMM1-55_76.0-ORF3
+seq454	>tsa-GBQU01021061.1 TSA: Nitela sp. AD-2014 C299514_a_5_0_l_842 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-76_26.0-ORF10
+seq455	>tsa-GEXG01015531.1 TSA: Octopus kaurna comp17314_c0_seq1 transcribed RNA sequence-table1-Rhabdoviridae-HMM63-126_49.0-ORF3
+seq456	>tsa-GEXG01060191.1 TSA: Octopus kaurna comp44707_c0_seq1 transcribed RNA sequence-table1-Rhabdoviridae-HMM2-87_97.0-ORF5
+seq457	>tsa-GEQQ01056495.1 TSA: Odontogammarus calcaratus c61048_g1_i1 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-247_99.0-ORF8
+seq458	>tsa-GAWY01012238.1 TSA: Oropsylla silantiewi comp16734_c0_seq1 transcribed RNA sequence-table1-Rhabdoviridae-HMM426-809_16.0-ORF74
+seq459	>tsa-GAVD01036510.1 TSA: Ostrinia nubilalis comp576287_c0_seq1 transcribed RNA sequence-table1-Rhabdoviridae-HMM55-212_74.0-ORF7
+seq460	>tsa-GEQX01051126.1 TSA: Pallasea cancelloides c48167_g1_i1 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-67_95.0-ORF3
+seq461	>tsa-GAIX01008626.1 TSA: Pararge aegeria PaContig12934 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-367_39.0-ORF28
+seq462	>tsa-IACA01091217.1 TSA: Parasteatoda tepidariorum mRNA, contig: Pt_tra_AS01_contig_56955, transcribed RNA sequence-table4-Rhabdoviridae-HMM7-76_69.0-ORF5
+seq463	>tsa-GFFO01061439.1 TSA: Phlox pilosa Pilo@c81039_g1_i1 transcribed RNA sequence-table6-Rhabdoviridae-HMM1-88_84.0-ORF5
+seq464	>tsa-GFFO01061440.1 TSA: Phlox pilosa Pilo@c81039_g1_i2 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-123_96.0-ORF6
+seq465	>tsa-GAXF02004668.1 TSA: Planococcus citri C115347_a_3_0_l_980 transcribed RNA sequence-table1-Rhabdoviridae-HMM191-323_40.0-ORF8
+seq466	>tsa-GAXF02008567.1 (REVERSE SENSE) TSA: Planococcus citri C126934_a_3_0_l_1814 transcribed RNA sequence-table1-Rhabdoviridae-HMM19-192_28.0-ORF48
+seq467	>tsa-GBAC01010686.1 (REVERSE SENSE) TSA: Plutella xylostella Unigene13975_brain-1 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-59_81.0-ORF6
+seq468	>tsa-GBWE01012488.1 TSA: Pompilus cinereus C78057_a_49_0_l_12250 transcribed RNA sequence-table4-Rhabdoviridae-HMM447-824_17.0-ORF142
+seq469	>tsa-GDRW01006051.1 TSA: Priapulus caudatus m.10731 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-111_93.0-ORF4
+seq470	>tsa-GDRW01006053.1 TSA: Priapulus caudatus m.10733 transcribed RNA sequence-table6-Rhabdoviridae-HMM1-110_95.0-ORF7
+seq471	>tsa-GDRW01007295.1 TSA: Priapulus caudatus m.12757 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-230_99.0-ORF10
+seq472	>tsa-HAEO01090179.1 TSA: Proasellus aragonensis, contig comp1754029_c0_seq1, transcribed RNA sequence-table1-Rhabdoviridae-HMM4-74_94.0-ORF3
+seq473	>tsa-HAES01082801.1 TSA: Proasellus cavaticus, contig comp63200_c0_seq1, transcribed RNA sequence-table4-Rhabdoviridae-HMM443-840_18.0-ORF85
+seq474	>tsa-HAES01082802.1 TSA: Proasellus cavaticus, contig comp63200_c0_seq2, transcribed RNA sequence-table4-Rhabdoviridae-HMM443-840_18.0-ORF84
+seq475	>tsa-HAEV01057744.1 (REVERSE SENSE) TSA: Proasellus escolai, contig comp101307_c0_seq1, transcribed RNA sequence-table1-Rhabdoviridae-HMM3-172_49.0-ORF32
+seq476	>tsa-HAEV01089001.1 (REVERSE SENSE) TSA: Proasellus escolai, contig comp110975_c1_seq3, transcribed RNA sequence-table6-Rhabdoviridae-HMM364-510_26.0-ORF38
+seq477	>tsa-HAEV01089002.1 (REVERSE SENSE) TSA: Proasellus escolai, contig comp110975_c1_seq4, transcribed RNA sequence-table6-Rhabdoviridae-HMM479-625_21.0-ORF70
+seq478	>tsa-HAEV01089003.1 (REVERSE SENSE) TSA: Proasellus escolai, contig comp110975_c1_seq5, transcribed RNA sequence-table6-Rhabdoviridae-HMM479-625_21.0-ORF132
+seq479	>tsa-HAFF01035674.1 (REVERSE SENSE) TSA: Proasellus ortizi, contig c27793_g2_i1, transcribed RNA sequence-table6-Rhabdoviridae-HMM483-580_16.0-ORF45
+seq480	>tsa-HAFF01035675.1 (REVERSE SENSE) TSA: Proasellus ortizi, contig c27793_g2_i2, transcribed RNA sequence-table6-Rhabdoviridae-HMM483-880_30.0-ORF101
+seq481	>tsa-HAFG01117133.1 TSA: Proasellus parvulus, contig comp90631_c4_seq1, transcribed RNA sequence-table6-Rhabdoviridae-HMM570-964_27.0-ORF77
+seq482	>tsa-HAFI01061877.1 TSA: Proasellus rectus, contig comp67224_c0_seq1, transcribed RNA sequence-table6-Rhabdoviridae-HMM471-869_25.0-ORF91
+seq483	>tsa-HAFI01061878.1 TSA: Proasellus rectus, contig comp67224_c0_seq2, transcribed RNA sequence-table6-Rhabdoviridae-HMM471-869_25.0-ORF91
+seq484	>tsa-HAFI01061880.1 TSA: Proasellus rectus, contig comp67224_c0_seq4, transcribed RNA sequence-table6-Rhabdoviridae-HMM471-869_25.0-ORF53
+seq485	>tsa-HAFI01061881.1 TSA: Proasellus rectus, contig comp67224_c0_seq5, transcribed RNA sequence-table6-Rhabdoviridae-HMM471-869_25.0-ORF53
+seq486	>tsa-HAFK01022275.1 TSA: Proasellus spelaeus, contig comp25682_c0_seq1, transcribed RNA sequence-table6-Rhabdoviridae-HMM598-994_17.0-ORF110
+seq487	>tsa-IABT01075229.1 TSA: Protophormia terraenovae mRNA, contig: pterra34843_c0_seq1, transcribed RNA sequence-table4-Rhabdoviridae-HMM479-878_18.0-ORF163
+seq488	>tsa-IABT01075230.1 TSA: Protophormia terraenovae mRNA, contig: pterra34843_c0_seq2, transcribed RNA sequence-table4-Rhabdoviridae-HMM479-878_18.0-ORF162
+seq489	>tsa-GENS01142548.1 TSA: Ptyssoptera sp. AB-2015 k60_737558 transcribed RNA sequence-table6-Rhabdoviridae-HMM28-94_65.0-ORF4
+seq490	>tsa-GENS01204830.1 TSA: Ptyssoptera sp. AB-2015 k70_74051 transcribed RNA sequence-table4-Rhabdoviridae-HMM3-52_62.0-ORF4
+seq491	>tsa-GERG01126309.1 (REVERSE SENSE) TSA: Ptyssoptera sp. AB-2015 c110859_g1_i1 transcribed RNA sequence-table6-Rhabdoviridae-HMM28-96_66.0-ORF38
+seq492	>tsa-GETQ01040945.1 TSA: Rhagoletis pomonella c79928_g1_i1 transcribed RNA sequence-table6-Rhabdoviridae-HMM45-229_76.0-ORF11
+seq493	>tsa-HACP01000379.1 TSA: Rhipicephalus sanguineus, contig R_sang_379, transcribed RNA sequence-table1-Rhabdoviridae-HMM3-132_97.0-ORF7
+seq494	>tsa-HACW01027774.1 TSA: Rhipicephalus sanguineus, contig R_sang_tr_00563, transcribed RNA sequence-table1-Rhabdoviridae-HMM3-132_97.0-ORF7
+seq495	>tsa-HACX01009139.1 TSA: Salix viminalis x (Salix viminalis x Salix schwerinii), contig c26185_g1_i1, transcribed RNA sequence-table6-Rhabdoviridae-HMM450-847_27.0-ORF43
+seq496	>tsa-HACX01020423.1 (REVERSE SENSE) TSA: Salix viminalis x (Salix viminalis x Salix schwerinii), contig c35368_g2_i1, transcribed RNA sequence-table1-Rhabdoviridae-HMM1-296_20.0-ORF115
+seq497	>tsa-HACX01020424.1 TSA: Salix viminalis x (Salix viminalis x Salix schwerinii), contig c35368_g3_i1, transcribed RNA sequence-table6-Rhabdoviridae-HMM459-554_17.0-ORF21
+seq498	>tsa-GEZY01022965.1 TSA: Sitophilus oryzae c53300.graph_c0 transcribed RNA sequence-table1-Rhabdoviridae-HMM1-58_68.0-ORF3
+seq499	>tsa-GENP01134089.1 TSA: Acanthopteroctetes unifascia TR142348-c0_g1_i1 transcribed RNA sequence-table4-Rhabdoviridae-HMM2-73_94.0-ORF2
+seq500	>tsa-GENT01032875.1 TSA: Acanthopteroctetes unifascia TR53197-c0_g1_i1 transcribed RNA sequence-table4-Rhabdoviridae-HMM2-73_94.0-ORF2
+seq501	>tsa-GFBH01085278.1 TSA: Eogystia hippophaecolus c79659.graph_c1 transcribed RNA sequence-table4-Rhabdoviridae-HMM1-64_28.0-ORF9
+seq502	>tsa-GEXH01110056.1 TSA: Hapalochlaena maculosa comp72304_c0_seq1 transcribed RNA sequence-table4-Rhabdoviridae-HMM2-75_33.0-ORF7
+seq503	>tsa-GEFJ01026546.1 (REVERSE SENSE) TSA: Rhipicephalus appendiculatus comp64478_c0_seq2 transcribed RNA sequence-table4-Rhabdoviridae-HMM26-89_67.0-ORF15
+seq504	>tsa-GAXP01035003.1 (REVERSE SENSE) TSA: Sphaeropthalma orestes comp24593_c0_seq1 transcribed RNA sequence-table4-Rhabdoviridae-HMM1-184_72.0-ORF25
+seq505	>tsa-GAXP01044774.1 TSA: Sphaeropthalma orestes comp80157_c0_seq1 transcribed RNA sequence-table4-Rhabdoviridae-HMM4-80_95.0-ORF3
+seq506	>tsa-GAFU01006927.1 (REVERSE SENSE) TSA: Spodoptera exigua comp28341_c0_seq1 transcribed RNA sequence-table4-Rhabdoviridae-HMM2-91_96.0-ORF7
+seq507	>tsa-GAOQ01032876.1 (REVERSE SENSE) TSA: Spodoptera exigua SE_U34042 transcribed RNA sequence-table6-Rhabdoviridae-HMM19-71_64.0-ORF8
+seq508	>tsa-GARL01089993.1 TSA: Spodoptera exigua SEUC46553_TC01 transcribed RNA sequence-table4-Rhabdoviridae-HMM3-244_86.0-ORF17
+seq509	>tsa-GARL01089995.1 TSA: Spodoptera exigua SEUC46553_TC03 transcribed RNA sequence-table4-Rhabdoviridae-HMM3-244_48.0-ORF26
+seq510	>tsa-GARL01089996.1 TSA: Spodoptera exigua SEUC46553_TC04 transcribed RNA sequence-table4-Rhabdoviridae-HMM3-244_49.0-ORF43
+seq511	>tsa-GARL01089997.1 TSA: Spodoptera exigua SEUC46553_TC05 transcribed RNA sequence-table4-Rhabdoviridae-HMM3-244_86.0-ORF17
+seq512	>tsa-GARL01089998.1 TSA: Spodoptera exigua SEUC46553_TC06 transcribed RNA sequence-table4-Rhabdoviridae-HMM3-244_86.0-ORF34
+seq513	>tsa-GARL01090000.1 TSA: Spodoptera exigua SEUC46553_TC08 transcribed RNA sequence-table4-Rhabdoviridae-HMM3-244_86.0-ORF35
+seq514	>tsa-GARL01090001.1 TSA: Spodoptera exigua SEUC46553_TC09 transcribed RNA sequence-table4-Rhabdoviridae-HMM3-244_86.0-ORF35
+seq515	>tsa-GARL01090002.1 TSA: Spodoptera exigua SEUC46553_TC10 transcribed RNA sequence-table4-Rhabdoviridae-HMM3-244_86.0-ORF34
+seq516	>tsa-GARL01090003.1 TSA: Spodoptera exigua SEUC46553_TC11 transcribed RNA sequence-table4-Rhabdoviridae-HMM3-244_48.0-ORF43
+seq517	>tsa-GARL01090004.1 TSA: Spodoptera exigua SEUC46553_TC12 transcribed RNA sequence-table4-Rhabdoviridae-HMM3-244_48.0-ORF44
+seq518	>tsa-GARL01090005.1 TSA: Spodoptera exigua SEUC46553_TC13 transcribed RNA sequence-table4-Rhabdoviridae-HMM3-244_49.0-ORF25
+seq519	>tsa-GARL01090006.1 TSA: Spodoptera exigua SEUC46553_TC14 transcribed RNA sequence-table4-Rhabdoviridae-HMM3-244_49.0-ORF42
+seq520	>tsa-GCTM01002581.1 (REVERSE SENSE) TSA: Spodoptera frugiperda SF21Tr2582 transcribed RNA sequence-table6-Rhabdoviridae-HMM467-850_17.0-ORF346
+seq521	>tsa-GCTM01018396.1 TSA: Spodoptera frugiperda SF21Tr18406 transcribed RNA sequence-table4-Rhabdoviridae-HMM4-146_97.0-ORF6
+seq522	>tsa-GESP01017611.1 (REVERSE SENSE) TSA: Spodoptera frugiperda TRINITY_DN21157_c0_g1_i1 transcribed RNA sequence-table6-Rhabdoviridae-HMM15-237_49.0-ORF51
+seq523	>tsa-GESP01110281.1 (REVERSE SENSE) TSA: Spodoptera frugiperda TRINITY_DN37998_c2_g1_i1 transcribed RNA sequence-table6-Rhabdoviridae-HMM476-857_20.0-ORF151
+seq524	>tsa-GESP01110282.1 TSA: Spodoptera frugiperda TRINITY_DN37998_c3_g1_i1 transcribed RNA sequence-table6-Rhabdoviridae-HMM476-857_17.0-ORF101
+seq525	>tsa-GESP01110283.1 TSA: Spodoptera frugiperda TRINITY_DN37998_c3_g1_i2 transcribed RNA sequence-table6-Rhabdoviridae-HMM476-857_17.0-ORF101
+seq526	>tsa-GBWA01015677.1 TSA: Synergus umbraculus C154609_a_5_0_l_720 transcribed RNA sequence-table4-Rhabdoviridae-HMM11-150_58.0-ORF8
+seq527	>tsa-GEOV01077225.1 TSA: Tegeticula yuccasella TR70698-c0_g3_i1 transcribed RNA sequence-table4-Rhabdoviridae-HMM3-170_78.0-ORF7
+seq528	>tsa-GEOV01077229.1 (REVERSE SENSE) TSA: Tegeticula yuccasella TR70698-c0_g14_i1 transcribed RNA sequence-table4-Rhabdoviridae-HMM401-613_34.0-ORF47
+seq529	>tsa-GASM01012649.1 TSA: Tetramorium bicarinatum Tb13239 transcribed RNA sequence-table6-Rhabdoviridae-HMM3-232_87.0-ORF9
+seq530	>tsa-GENN01000430.1 TSA: Tineola bisselliella k52_13220 transcribed RNA sequence-table4-Rhabdoviridae-HMM18-83_75.0-ORF13
+seq531	>tsa-GENN01008239.1 (REVERSE SENSE) TSA: Tineola bisselliella k52_256794 transcribed RNA sequence-table6-Rhabdoviridae-HMM2-95_83.0-ORF12
+seq532	>tsa-GENN01008562.1 (REVERSE SENSE) TSA: Tineola bisselliella k52_266230 transcribed RNA sequence-table4-Rhabdoviridae-HMM24-71_65.0-ORF14
+seq533	>tsa-GENN01025903.1 TSA: Tineola bisselliella k56_73357 transcribed RNA sequence-table6-Rhabdoviridae-HMM10-75_51.0-ORF6
+seq534	>tsa-GENN01055242.1 TSA: Tineola bisselliella k72_45655 transcribed RNA sequence-table6-Rhabdoviridae-HMM10-75_69.0-ORF4
+seq535	>tsa-GEOR01018915.1 TSA: Tineola bisselliella c14250_g1_i1 transcribed RNA sequence-table6-Rhabdoviridae-HMM10-75_51.0-ORF29
+seq536	>tsa-GEOR01018916.1 TSA: Tineola bisselliella c14250_g1_i2 transcribed RNA sequence-table6-Rhabdoviridae-HMM10-75_51.0-ORF29
+seq537	>tsa-GEOR01018917.1 TSA: Tineola bisselliella c14250_g1_i3 transcribed RNA sequence-table6-Rhabdoviridae-HMM10-75_51.0-ORF31
+seq538	>tsa-GEOR01018918.1 TSA: Tineola bisselliella c14250_g1_i4 transcribed RNA sequence-table6-Rhabdoviridae-HMM10-75_51.0-ORF31
+seq539	>tsa-GEOR01018920.1 TSA: Tineola bisselliella c14250_g1_i6 transcribed RNA sequence-table6-Rhabdoviridae-HMM10-75_51.0-ORF31
+seq540	>tsa-GEOR01018921.1 TSA: Tineola bisselliella c14250_g1_i7 transcribed RNA sequence-table6-Rhabdoviridae-HMM10-75_51.0-ORF23
+seq541	>tsa-GEOR01029061.1 (REVERSE SENSE) TSA: Tineola bisselliella c19151_g1_i1 transcribed RNA sequence-table6-Rhabdoviridae-HMM3-146_78.0-ORF39
+seq542	>tsa-GBZU01004764.1 TSA: Tityus serrulatus Locus_26047 transcribed RNA sequence-table4-Rhabdoviridae-HMM1-75_54.0-ORF6
+seq543	>tsa-GBZU01009580.1 TSA: Tityus serrulatus Contig_11991 transcribed RNA sequence-table6-Rhabdoviridae-HMM37-240_78.0-ORF9
+seq544	>tsa-GECA01004658.1 TSA: Trichinella patagoniensis Seq70148 transcribed RNA sequence-table6-Rhabdoviridae-HMM427-814_18.0-ORF141
+seq545	>tsa-GECA01006689.1 TSA: Trichinella patagoniensis Seq556304 transcribed RNA sequence-table6-Rhabdoviridae-HMM427-814_35.0-ORF76
+seq546	>tsa-GECA01011275.1 TSA: Trichinella patagoniensis Seq622216 transcribed RNA sequence-table6-Rhabdoviridae-HMM427-814_35.0-ORF66
+seq547	>tsa-GECA01013195.1 TSA: Trichinella patagoniensis Seq588053 transcribed RNA sequence-table4-Rhabdoviridae-HMM441-828_36.0-ORF138
+seq548	>tsa-GECA01013952.1 TSA: Trichinella patagoniensis Seq815586 transcribed RNA sequence-table4-Rhabdoviridae-HMM441-828_19.0-ORF139
+seq549	>tsa-GECA01014708.1 TSA: Trichinella patagoniensis Seq83578 transcribed RNA sequence-table6-Rhabdoviridae-HMM427-814_18.0-ORF125
+seq550	>tsa-GECA01020700.1 TSA: Trichinella patagoniensis Seq423799 transcribed RNA sequence-table6-Rhabdoviridae-HMM427-814_18.0-ORF94
+seq551	>tsa-GECA01020791.1 TSA: Trichinella patagoniensis Seq428943 transcribed RNA sequence-table6-Rhabdoviridae-HMM427-814_18.0-ORF109
+seq552	>tsa-GECA01021865.1 TSA: Trichinella patagoniensis Seq483351 transcribed RNA sequence-table6-Rhabdoviridae-HMM427-814_18.0-ORF141
+seq553	>tsa-GECA01028751.1 TSA: Trichinella patagoniensis Seq498828 transcribed RNA sequence-table6-Rhabdoviridae-HMM427-814_18.0-ORF109
+seq554	>tsa-GECA01028932.1 TSA: Trichinella patagoniensis Seq433200 transcribed RNA sequence-table4-Rhabdoviridae-HMM441-828_19.0-ORF107
+seq555	>tsa-GECA01029533.1 TSA: Trichinella patagoniensis Seq627332 transcribed RNA sequence-table6-Rhabdoviridae-HMM427-814_18.0-ORF130
+seq556	>tsa-GECA01033607.1 TSA: Trichinella patagoniensis Seq169096 transcribed RNA sequence-table6-Rhabdoviridae-HMM427-814_18.0-ORF94
+seq557	>tsa-GECA01034978.1 TSA: Trichinella patagoniensis Seq89212 transcribed RNA sequence-table4-Rhabdoviridae-HMM441-828_19.0-ORF122
+seq558	>tsa-GEBR01004982.1 TSA: Trichinella pseudospiralis Seq53608 transcribed RNA sequence-table4-Rhabdoviridae-HMM3-84_23.0-ORF16
+seq559	>tsa-GEBR01021010.1 TSA: Trichinella pseudospiralis Seq10011 transcribed RNA sequence-table4-Rhabdoviridae-HMM3-84_32.0-ORF10
+seq560	>tsa-GBUQ01000979.1 (REVERSE SENSE) TSA: Trichopria drosophilae C20297_a_3_0_l_237 transcribed RNA sequence-table4-Rhabdoviridae-HMM1-79_98.0-ORF8
+seq561	>tsa-GDIG01019240.1 TSA: Trichosanthes kirilowii Unigene0019242 transcribed RNA sequence-table6-Rhabdoviridae-HMM715-1116_28.0-ORF80
+seq562	>tsa-GAVB02027194.1 TSA: Triodia sylvina C192022_a_55_0_l_13264 transcribed RNA sequence-table6-Rhabdoviridae-HMM540-920_16.0-ORF139
+seq563	>tsa-GERD01002180.1 (REVERSE SENSE) TSA: Gammarus lacustris c3100_g1_i1 transcribed RNA sequence-table6-Rhabdoviridae-HMM1-82_92.0-ORF10
+seq564	>tsa-GFCJ01010644.1 (REVERSE SENSE) TSA: Loxostege sticticalis c22824.graph_c0 transcribed RNA sequence-table6-Rhabdoviridae-HMM7-61_72.0-ORF7
+seq565	>tsa-GEOM01069584.1 (REVERSE SENSE) TSA: Metaphatus ochraceus TR72370-c0_g1_i1 transcribed RNA sequence-table6-Rhabdoviridae-HMM33-99_66.0-ORF13
+seq566	>tsa-GENS01193120.1 TSA: Ptyssoptera sp. AB-2015 k68_153838 transcribed RNA sequence-table6-Rhabdoviridae-HMM9-55_74.0-ORF3
+seq567	>tsa-GETQ01097224.1 TSA: Rhagoletis pomonella c137158_g1_i1 transcribed RNA sequence-table6-Rhabdoviridae-HMM38-106_61.0-ORF13
+seq568	>tsa-GETM01255623.1 TSA: Varroa jacobsoni comp124512_c0_seq1 transcribed RNA sequence-table6-Rhabdoviridae-HMM601-998_15.0-ORF139
+seq569	>tsa-GETM01255624.1 (REVERSE SENSE) TSA: Varroa jacobsoni comp124513_c0_seq1 transcribed RNA sequence-table6-Rhabdoviridae-HMM498-891_17.0-ORF233
+seq570	>tsa-GETP01259991.1 TSA: Varroa jacobsoni comp124512_c0_seq1 transcribed RNA sequence-table6-Rhabdoviridae-HMM601-998_15.0-ORF139
+seq571	>tsa-GETP01259992.1 (REVERSE SENSE) TSA: Varroa jacobsoni comp124513_c0_seq1 transcribed RNA sequence-table6-Rhabdoviridae-HMM498-891_17.0-ORF233
+seq572	>tsa-GFWF01045134.1 (REVERSE SENSE) TSA: Viola verecunda c35930_g1_i1 transcribed RNA sequence-table6-Rhabdoviridae-HMM2-221_98.0-ORF17

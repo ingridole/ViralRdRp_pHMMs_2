@@ -1,0 +1,420 @@
+seq1	>ref-NC_001748.1 Papaya mosaic virus, complete genome-table6-Alphaflexiviridae-HMM1130-1564_27.0-ORF49
+seq2	>ref-NC_003093.1 Indian citrus ringspot virus, complete genome-table6-Alphaflexiviridae-HMM1239-1671_24.0-ORF43
+seq3	>ref-NC_001642.1 Bamboo mosaic virus, complete genome-table6-Alphaflexiviridae-HMM943-1377_28.0-ORF43
+seq4	>ref-NC_003376.1 Garlic virus C, complete genome-table6-Alphaflexiviridae-HMM1035-1461_26.0-ORF43
+seq5	>ref-NC_003375.1 Garlic virus A, complete genome-table6-Alphaflexiviridae-HMM1142-1568_25.0-ORF44
+seq6	>ref-NC_001483.1 Foxtail mosaic virus, complete genome-table6-Alphaflexiviridae-HMM896-1332_31.0-ORF40
+seq7	>ref-NC_001441.1 Narcissus mosaic virus, complete genome-table6-Alphaflexiviridae-HMM1175-1606_25.0-ORF51
+seq8	>ref-NC_001658.1 Cassava common mosaic virus, complete genome-table6-Alphaflexiviridae-HMM1035-1467_28.0-ORF48
+seq9	>ref-NC_001753.1 Clover yellow mosaic virus, complete genome-table6-Alphaflexiviridae-HMM1262-1693_25.0-ORF47
+seq10	>ref-NC_003795.1 Shallot virus X, complete genome-table6-Alphaflexiviridae-HMM1224-1649_23.0-ORF54
+seq11	>ref-NC_003632.1 Potato aucuba mosaic virus, complete genome-table6-Alphaflexiviridae-HMM1189-1618_25.0-ORF53
+seq12	>ref-NC_004012.1 Garlic virus E, complete genome-table6-Alphaflexiviridae-HMM1052-1477_26.0-ORF49
+seq13	>ref-NC_004322.1 Tulip virus X, complete genome-table6-Alphaflexiviridae-HMM947-1384_30.0-ORF31
+seq14	>ref-NC_006060.1 Opuntia virus X, complete genome-table6-Alphaflexiviridae-HMM1141-1572_26.0-ORF53
+seq15	>ref-NC_005132.1 Botrytis virus X, complete genome-table6-Alphaflexiviridae-HMM952-1376_27.0-ORF30
+seq16	>ref-NC_006059.1 Zygocactus virus X, complete genome-table6-Alphaflexiviridae-HMM1104-1535_26.0-ORF54
+seq17	>ref-NC_003820.1 White clover mosaic virus, complete genome-table6-Alphaflexiviridae-HMM858-1289_32.0-ORF41
+seq18	>ref-NC_003400.1 Scallion virus X, complete genome-table6-Alphaflexiviridae-HMM1180-1610_22.0-ORF40
+seq19	>ref-NC_003794.1 Strawberry mild yellow edge virus, complete genome-table6-Alphaflexiviridae-HMM894-1324_31.0-ORF48
+seq20	>ref-NC_001800.1 Garlic virus X, complete genome-table6-Alphaflexiviridae-HMM1027-1452_27.0-ORF52
+seq21	>ref-NC_002815.2 Cactus virus X, complete genome-table4-Alphaflexiviridae-HMM1130-1562_27.0-ORF40
+seq22	>ref-NC_003849.1 Plantago asiatica mosaic virus, complete genome-table6-Alphaflexiviridae-HMM968-1405_24.0-ORF28
+seq23	>ref-NC_004067.1 Pepino mosaic virus, complete genome-table4-Alphaflexiviridae-HMM1004-1435_29.0-ORF47
+seq24	>ref-NC_006943.1 Hydrangea ringspot virus, complete genome-table6-Alphaflexiviridae-HMM973-1408_30.0-ORF29
+seq25	>ref-NC_006948.1 Mint virus X, complete genome-table6-Alphaflexiviridae-HMM896-1327_32.0-ORF37
+seq26	>ref-NC_007415.1 Sclerotinia sclerotiorum debilitation-associated RNA virus, complete genome-table6-Alphaflexiviridae-HMM1175-1596_24.0-ORF59
+seq27	>ref-NC_001812.1 Cymbidium mosaic virus, complete genome-table6-Alphaflexiviridae-HMM967-1397_25.0-ORF48
+seq28	>ref-NC_007192.1 Lily virus X, complete genome-table6-Alphaflexiviridae-HMM883-1314_31.0-ORF44
+seq29	>ref-NC_007679.1 Nerine virus X, complete genome-table6-Alphaflexiviridae-HMM1074-1505_26.0-ORF53
+seq30	>ref-NC_011620.1 Potato virus X, complete genome-table6-Alphaflexiviridae-HMM1040-1471_24.0-ORF57
+seq31	>ref-NC_007408.1 Alstroemeria virus x, complete genome-table6-Alphaflexiviridae-HMM1185-1616_25.0-ORF45
+seq32	>ref-NC_007731.1 Alternanthera mosaic virus, complete genome-table6-Alphaflexiviridae-HMM1122-1556_26.0-ORF46
+seq33	>ref-NC_008251.1 Malva mosaic virus, complete genome-table4-Alphaflexiviridae-HMM1123-1539_22.0-ORF58
+seq34	>ref-NC_010295.1 Phaius virus X, complete genome-table6-Alphaflexiviridae-HMM860-1291_31.0-ORF43
+seq35	>ref-NC_010434.1 Lolium latent virus, complete genome-table6-Alphaflexiviridae-HMM1290-1729_23.0-ORF59
+seq36	>ref-NC_010416.1 Asparagus virus 3, complete genome-table6-Alphaflexiviridae-HMM1163-1594_25.0-ORF34
+seq37	>ref-NC_010832.1 Lettuce virus X, complete genome-table6-Alphaflexiviridae-HMM1248-1679_17.0-ORF60
+seq38	>ref-NC_011544.1 Hosta virus X, complete genome-table6-Alphaflexiviridae-HMM1083-1516_28.0-ORF38
+seq39	>ref-NC_011659.1 Schlumbergera virus X, complete genome-table4-Alphaflexiviridae-HMM1132-1563_27.0-ORF43
+seq40	>ref-NC_012211.2 Allium virus X, complete genome-table4-Alphaflexiviridae-HMM1297-1728_21.0-ORF55
+seq41	>ref-NC_016003.1 Tamus red mosaic virus isolate IT, complete genome-table6-Alphaflexiviridae-HMM1089-1520_27.0-ORF55
+seq42	>ref-NC_015706.1 Blackberry virus E, complete genome-table4-Alphaflexiviridae-HMM1028-1452_27.0-ORF44
+seq43	>ref-NC_022894.1 Donkey orchid symptomless virus isolate Mariginiup11, complete genome-table6-Alphaflexiviridae-HMM949-1373_22.0-ORF50
+seq44	>ref-NC_022961.1 Garlic virus D isolate GarVD-SW10, complete genome-table6-Alphaflexiviridae-HMM1045-1471_26.0-ORF52
+seq45	>ref-NC_024298.1 Sclerotinia sclerotiorum debilitation-associated RNA virus 2 isolate SX247, complete genome-table6-Alphaflexiviridae-HMM1198-1623_24.0-ORF65
+seq46	>ref-NC_024458.1 Pitaya virus X isolate P37, complete genome-table4-Alphaflexiviridae-HMM1145-1575_27.0-ORF39
+seq47	>ref-NC_025252.1 Yam virus X isolate T551, complete genome-table6-Alphaflexiviridae-HMM950-1379_23.0-ORF64
+seq48	>ref-NC_025789.1 Garlic virus B isolate Mesi 13, complete genome-table4-Alphaflexiviridae-HMM1026-1452_27.0-ORF51
+seq49	>ref-NC_026592.1 Citrus yellow vein clearing virus isolate CQ, complete genome-table6-Alphaflexiviridae-HMM1230-1662_22.0-ORF54
+seq50	>ref-NC_028649.1 Actinidia virus X strain RV-3124 RNA-dependent RNA polymerase, triple gene block protein 1, triple gene block protein 2, triple gene block protein 3, coat protein, and putative 10 kDa protein genes, complete cds-table6-Alphaflexiviridae-HMM1141-1572_23.0-ORF51
+seq51	>ref-NC_030746.1 Senna mosaic virus isolate Brazilian, complete genome-table6-Alphaflexiviridae-HMM1099-1533_27.0-ORF53
+seq52	>ref-NC_032104.1 Arachis pintoi virus isolate Var A RdRp, TGBp1, TGBp2, 40 kDa protein, and CP genes, complete cds-table4-Alphaflexiviridae-HMM930-1354_30.0-ORF40
+seq53	>ref-NC_034375.1 Cassava virus X isolate Ven164 RNA-dependent RNA polymerase (RdRp), triple gene block protein 1 (TGB1), triple gene block protein 2 (TGB2), and coat protein (CP) genes, complete cds-table6-Alphaflexiviridae-HMM891-1322_29.0-ORF45
+seq54	>ref-NC_034622.1 Alfalfa virus S isolate 98.3A, complete genome-table4-Alphaflexiviridae-HMM1195-1620_21.0-ORF63
+seq55	>ref-NC_035204.1 Vanilla latent virus isolate CRV2148ALL, complete genome-table6-Alphaflexiviridae-HMM976-1401_24.0-ORF45
+seq56	>ref-NC_035190.1 Euonymus yellow vein virus isolate LNsyA RdRp protein, TGB 1 protein, TGB 2 protein, TGB 3 protein, and coat protein genes, complete cds-table4-Alphaflexiviridae-HMM1101-1532_27.0-ORF47
+seq57	>ref-NC_035205.1 Vanilla virus X isolate CRV2148POT, complete genome-table6-Alphaflexiviridae-HMM999-1431_28.0-ORF45
+seq58	>ref-NC_036587.1 Babaco mosaic virus isolate Tandapi, complete genome-table4-Alphaflexiviridae-HMM1092-1526_27.0-ORF39
+seq59	>nrnt-KX883811 Hubei alphaflexi-like virus strain WHCC96629 hypothetical protein gene, complete cds; and hypothetical protein gene, partial cds.-table6-Alphaflexiviridae-HMM663-1094_35.0-ORF39
+seq60	>nrnt-LC155796 Plantago asiatica mosaic virus genomic RNA, complete genome, isolate: Vi.-table6-Alphaflexiviridae-HMM970-1407_27.0-ORF27
+seq61	>nrnt-LC155795 Plantago asiatica mosaic virus genomic RNA, complete genome, isolate: NJ.-table6-Alphaflexiviridae-HMM970-1407_27.0-ORF41
+seq62	>nrnt-KX648532 Bamboo mosaic virus isolate XSNZHA10, complete genome.-table6-Alphaflexiviridae-HMM943-1377_28.0-ORF49
+seq63	>nrnt-KX245539 Plantago asiatica mosaic virus strain CAAS01, complete genome.-table6-Alphaflexiviridae-HMM963-1400_28.0-ORF37
+seq64	>nrnt-GU481094 Cassia mild mosaic virus replicase (Rep) gene, partial cds.-table1-Alphaflexiviridae-HMM325-693_53.0-ORF22
+seq65	>nrnt-LC107515 Alternanthera mosaic virus genomic RNA, complete genome, isolate: Ac.-table6-Alphaflexiviridae-HMM1101-1535_27.0-ORF47
+seq66	>nrnt-LC128411 Cactus virus X genomic RNA, complete genome.-table4-Alphaflexiviridae-HMM1130-1561_27.0-ORF40
+seq67	>nrnt-KP760463 Donkey orchid symptomless virus isolate Capel, complete sequence.-table6-Alphaflexiviridae-HMM923-1347_20.0-ORF39
+seq68	>nrnt-KM009120 Yam virus X isolate WX1, complete genome.-table6-Alphaflexiviridae-HMM905-1337_31.0-ORF44
+seq69	>nrnt-KJ544560 Asparagus virus 3 isolate SW12, complete genome.-table6-Alphaflexiviridae-HMM984-1414_29.0-ORF36
+seq70	>nrnt-JF937699 Cactus virus X isolate NTU, complete genome.-table4-Alphaflexiviridae-HMM1130-1561_27.0-ORF41
+seq71	>nrnt-KC505252 Cassava alphaflexivirus isolate CM5460-10 replicase, TGB1, TGB2, and coat protein genes, complete cds.-table6-Alphaflexiviridae-HMM693-1125_37.0-ORF29
+seq72	>nrnt-KF421918 Escobaria virus isolate 05TGP00120B putative RNA replicase gene, partial cds.-table1-Alphaflexiviridae-HMM365-789_49.0-ORF29
+seq73	>nrnt-KF421905 Ambrosia asymptomatic virus 1 isolate 05TGP00321 putative RNA-dependent RNA polymerase, putative triple gene block protein 1, putative triple gene block protein 2, putative triple gene block protein 3, putative coat protein, and putative nucleic acid binding protein genes, complete cds.-table4-Alphaflexiviridae-HMM1175-1605_26.0-ORF47
+seq74	>nrnt-KF632716 Garlic virus A isolate GarVA-SP, complete genome.-table4-Alphaflexiviridae-HMM1143-1569_25.0-ORF53
+seq75	>nrnt-JX997952 Garlic virus A isolate WA7, complete genome.-table6-Alphaflexiviridae-HMM1128-1554_25.0-ORF51
+seq76	>nrnt-JQ899449 Garlic virus X isolate SW3.4A, partial genome.-table4-Alphaflexiviridae-HMM1038-1463_27.0-ORF44
+seq77	>nrnt-JQ899447 Garlic virus C isolate SW3.3A, complete genome.-table6-Alphaflexiviridae-HMM1014-1440_26.0-ORF46
+seq78	>nrnt-JQ899444 Garlic virus A isolate SW3.1A, complete genome.-table4-Alphaflexiviridae-HMM1129-1555_25.0-ORF47
+seq79	>nrnt-JQ807994 Garlic virus X isolate SW3, complete genome.-table6-Alphaflexiviridae-HMM1027-1453_27.0-ORF54
+seq80	>nrnt-JX310755 Shallot virus X strain Russian, complete genome.-table6-Alphaflexiviridae-HMM1225-1651_24.0-ORF53
+seq81	>nrnt-HQ663892 Pepino mosaic virus isolate SIC2-09, complete genome.-table6-Alphaflexiviridae-HMM1008-1439_29.0-ORF42
+seq82	>nrnt-AB546335 Lagenaria mild mosaic virus RdRP, TGB1, TGB2, TGB3, CP genes, partial and complete cds.-table4-Alphaflexiviridae-HMM200-634_63.0-ORF20
+seq83	>nrnt-AY800279 Nandina mosaic virus isolate PLH 1, complete genome.-table6-Alphaflexiviridae-HMM951-1388_29.0-ORF37
+seq84	>nrnt-DQ412998 White ash mosaic virus replicase, 27 kDa protein, 11 kDa protein, 34 kDa protein, and coat protein (CP) genes, complete cds.-table4-Alphaflexiviridae-HMM118-280_49.0-ORF32
+seq85	>tsa-GAHU01000008.1 TSA: Agave tequilana Locus5v2rpkm796.85 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-219_53.0-ORF16
+seq86	>tsa-GAHU01000009.1 TSA: Agave tequilana Locus5v3rpkm597.29 transcribed RNA sequence-table6-Alphaflexiviridae-HMM891-1321_26.0-ORF53
+seq87	>tsa-GAHU01000010.1 TSA: Agave tequilana Locus5v4rpkm181.46_PRE transcribed RNA sequence-table6-Alphaflexiviridae-HMM119-549_51.0-ORF29
+seq88	>tsa-GAHU01000128.1 TSA: Agave tequilana Locus46v1rpkm1220.37 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1030-1460_23.0-ORF54
+seq89	>tsa-GAHU01000406.1 TSA: Agave tequilana Locus162v1rpkm588.69 transcribed RNA sequence-table1-Alphaflexiviridae-HMM356-786_54.0-ORF32
+seq90	>tsa-GAHU01000582.1 TSA: Agave tequilana Locus242v2rpkm225.05 transcribed RNA sequence-table1-Alphaflexiviridae-HMM989-1419_30.0-ORF50
+seq91	>tsa-GAHU01000906.1 TSA: Agave tequilana Locus388v1rpkm365.74 transcribed RNA sequence-table1-Alphaflexiviridae-HMM432-848_48.0-ORF36
+seq92	>tsa-GAHU01000907.1 TSA: Agave tequilana Locus388v2rpkm172.34 transcribed RNA sequence-table6-Alphaflexiviridae-HMM32-462_53.0-ORF27
+seq93	>tsa-GAHU01000908.1 TSA: Agave tequilana Locus388v3rpkm163.79 transcribed RNA sequence-table6-Alphaflexiviridae-HMM347-777_45.0-ORF33
+seq94	>tsa-GAHU01000983.1 TSA: Agave tequilana Locus415v1rpkm351.78 transcribed RNA sequence-table1-Alphaflexiviridae-HMM565-919_38.0-ORF36
+seq95	>tsa-GAHU01003643.1 TSA: Agave tequilana Locus1629v1rpkm144.36 transcribed RNA sequence-table1-Alphaflexiviridae-HMM591-836_29.0-ORF32
+seq96	>tsa-GAHU01004680.1 TSA: Agave tequilana Locus1949v1rpkm127.30 transcribed RNA sequence-table1-Alphaflexiviridae-HMM604-722_16.0-ORF22
+seq97	>tsa-GAHU01029148.1 TSA: Agave tequilana Locus13472v1rpkm21.77 transcribed RNA sequence-table4-Alphaflexiviridae-HMM1-133_84.0-ORF4
+seq98	>tsa-GFAR01008161.1 (REVERSE SENSE) TSA: Allium ampeloprasum c100476_g2 transcribed RNA sequence-table1-Alphaflexiviridae-HMM764-856_10.0-ORF68
+seq99	>tsa-GFAR01009853.1 TSA: Allium ampeloprasum c78038_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-105_99.0-ORF3
+seq100	>tsa-GFAR01033720.1 TSA: Allium ampeloprasum c110828_g1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1057-1482_26.0-ORF53
+seq101	>tsa-GFAR01040575.1 TSA: Allium ampeloprasum c85735_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM963-1265_23.0-ORF48
+seq102	>tsa-GFAR01048972.1 (REVERSE SENSE) TSA: Allium ampeloprasum c65036_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-61_89.0-ORF7
+seq103	>tsa-GFAR01069827.1 TSA: Allium ampeloprasum c78660_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM2-76_97.0-ORF4
+seq104	>tsa-GFAR01078551.1 (REVERSE SENSE) TSA: Allium ampeloprasum c113617_g2 transcribed RNA sequence-table6-Alphaflexiviridae-HMM2-365_73.0-ORF92
+seq105	>tsa-GFAR01098450.1 (REVERSE SENSE) TSA: Allium ampeloprasum c106623_g1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM865-1291_29.0-ORF153
+seq106	>tsa-GFAR01107293.1 TSA: Allium ampeloprasum c89452_g1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-131_49.0-ORF10
+seq107	>tsa-GFAR01119250.1 (REVERSE SENSE) TSA: Allium ampeloprasum c100476_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM327-436_25.0-ORF36
+seq108	>tsa-GFAR01121511.1 TSA: Allium ampeloprasum c113944_g1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM764-1190_32.0-ORF41
+seq109	>tsa-GFAR01129823.1 (REVERSE SENSE) TSA: Allium ampeloprasum c113902_g1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1057-1482_26.0-ORF172
+seq110	>tsa-GFAR01188978.1 TSA: Allium ampeloprasum c84566_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM96-162_40.0-ORF8
+seq111	>tsa-GFAJ01004206.1 TSA: Allium ascalonicum c52102_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM3-173_97.0-ORF7
+seq112	>tsa-GFAJ01053119.1 TSA: Allium ascalonicum c14780_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-129_99.0-ORF4
+seq113	>tsa-GFAJ01054305.1 TSA: Allium ascalonicum c26215_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-102_99.0-ORF4
+seq114	>tsa-GFAJ01057274.1 TSA: Allium ascalonicum c55046_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM2-72_95.0-ORF2
+seq115	>tsa-GFAJ01066170.1 TSA: Allium ascalonicum c37115_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-112_99.0-ORF5
+seq116	>tsa-GFAJ01071056.1 TSA: Allium ascalonicum c49718_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-75_98.0-ORF4
+seq117	>tsa-GFAJ01074900.1 TSA: Allium ascalonicum c52102_g2 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-125_99.0-ORF6
+seq118	>tsa-GFAL01008348.1 TSA: Allium chinense c22455_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM4-237_98.0-ORF9
+seq119	>tsa-GFAL01021643.1 TSA: Allium chinense c75077_g1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-144_53.0-ORF9
+seq120	>tsa-GFAL01092479.1 TSA: Allium chinense c18126_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-79_83.0-ORF3
+seq121	>tsa-GFAP01023817.1 (REVERSE SENSE) TSA: Allium sativum c85301_g2 transcribed RNA sequence-table6-Alphaflexiviridae-HMM2-153_53.0-ORF35
+seq122	>tsa-GFAP01034294.1 TSA: Allium sativum c78960_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM229-431_46.0-ORF17
+seq123	>tsa-GFAP01036834.1 TSA: Allium sativum c84405_g1 transcribed RNA sequence-table4-Alphaflexiviridae-HMM1-228_69.0-ORF9
+seq124	>tsa-GFAP01037056.1 (REVERSE SENSE) TSA: Allium sativum c83846_g1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM2-118_47.0-ORF22
+seq125	>tsa-GFAP01041200.1 TSA: Allium sativum c86169_g1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1057-1230_14.0-ORF39
+seq126	>tsa-GFAP01042465.1 (REVERSE SENSE) TSA: Allium sativum c99948_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-67_98.0-ORF9
+seq127	>tsa-GFAP01047326.1 (REVERSE SENSE) TSA: Allium sativum c87621_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-74_98.0-ORF8
+seq128	>tsa-GFAP01048862.1 (REVERSE SENSE) TSA: Allium sativum c86115_g2 transcribed RNA sequence-table4-Alphaflexiviridae-HMM1-255_72.0-ORF31
+seq129	>tsa-GFAP01052275.1 (REVERSE SENSE) TSA: Allium sativum c72172_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM148-350_57.0-ORF32
+seq130	>tsa-GFAP01055806.1 (REVERSE SENSE) TSA: Allium sativum c86115_g3 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1070-1208_11.0-ORF104
+seq131	>tsa-GFAP01057676.1 (REVERSE SENSE) TSA: Allium sativum c78302_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-167_99.0-ORF16
+seq132	>tsa-GFAP01072541.1 (REVERSE SENSE) TSA: Allium sativum c86115_g1 transcribed RNA sequence-table4-Alphaflexiviridae-HMM1-293_73.0-ORF46
+seq133	>tsa-GFAP01082349.1 TSA: Allium sativum c85301_g3 transcribed RNA sequence-table1-Alphaflexiviridae-HMM2-337_99.0-ORF15
+seq134	>tsa-GFAP01091229.1 (REVERSE SENSE) TSA: Allium sativum c85539_g3 transcribed RNA sequence-table1-Alphaflexiviridae-HMM189-362_47.0-ORF32
+seq135	>tsa-GFAP01093526.1 (REVERSE SENSE) TSA: Allium sativum c85301_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-220_99.0-ORF24
+seq136	>tsa-GFAP01096371.1 TSA: Allium sativum c85167_g1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1052-1478_26.0-ORF49
+seq137	>tsa-GFAP01120040.1 TSA: Allium sativum c86113_g1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM2-118_47.0-ORF9
+seq138	>tsa-GFAP01120333.1 TSA: Allium sativum c86243_g1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM914-1340_29.0-ORF44
+seq139	>tsa-GFAP01124310.1 (REVERSE SENSE) TSA: Allium sativum c85564_g2 transcribed RNA sequence-table1-Alphaflexiviridae-HMM57-166_65.0-ORF11
+seq140	>tsa-GFAP01125716.1 TSA: Allium sativum c61210_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-119_99.0-ORF6
+seq141	>tsa-GFAP01131999.1 (REVERSE SENSE) TSA: Allium sativum c62299_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-119_99.0-ORF14
+seq142	>tsa-GFAN01030844.1 TSA: Allium tuberosum c139592_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-73_98.0-ORF3
+seq143	>tsa-GFAN01076592.1 TSA: Allium tuberosum c29469_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-90_98.0-ORF4
+seq144	>tsa-GFAN01111450.1 TSA: Allium tuberosum c105019_g1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1057-1482_26.0-ORF52
+seq145	>tsa-GFAN01141853.1 TSA: Allium tuberosum c136974_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-193_98.0-ORF8
+seq146	>tsa-GFAN01142536.1 TSA: Allium tuberosum c42212_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-66_78.0-ORF4
+seq147	>tsa-GBSY01000818.1 TSA: Andrographis paniculata contig15343 transcribed RNA sequence-table6-Alphaflexiviridae-HMM2-58_65.0-ORF4
+seq148	>tsa-GBSY01001426.1 TSA: Andrographis paniculata contig14773 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-103_99.0-ORF6
+seq149	>tsa-GBSY01003389.1 (REVERSE SENSE) TSA: Andrographis paniculata contig12891 transcribed RNA sequence-table1-Alphaflexiviridae-HMM59-167_64.0-ORF17
+seq150	>tsa-GEHN01002084.1 (REVERSE SENSE) TSA: Apios americana comp7685_c0_seq1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM11-153_92.0-ORF13
+seq151	>tsa-GEHN01095199.1 TSA: Apios americana comp462770_c0_seq1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-78_98.0-ORF4
+seq152	>tsa-GBQR01000163.1 TSA: Bembix rostrata C100537_a_3_0_l_1301 transcribed RNA sequence-table6-Alphaflexiviridae-HMM2-112_85.0-ORF3
+seq153	>tsa-GBHQ01005969.1 (REVERSE SENSE) TSA: Cephalotaxus hainanensis comp3098_c0_seq1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM975-1405_24.0-ORF125
+seq154	>tsa-GBHQ01014024.1 TSA: Cephalotaxus hainanensis comp29574_c0_seq1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-187_71.0-ORF6
+seq155	>tsa-GBHQ01015638.1 TSA: Cephalotaxus hainanensis comp33533_c0_seq1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM2-120_98.0-ORF4
+seq156	>tsa-GBHQ01033573.1 (REVERSE SENSE) TSA: Cephalotaxus hainanensis comp14491_c0_seq1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-122_99.0-ORF11
+seq157	>tsa-GBHQ01034626.1 (REVERSE SENSE) TSA: Cephalotaxus hainanensis comp15320_c0_seq1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM62-272_77.0-ORF21
+seq158	>tsa-GEUI01023099.1 (REVERSE SENSE) TSA: Cyclocarya paliurus c38550_g1_i1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM963-1393_25.0-ORF122
+seq159	>tsa-GEMM01004962.1 TSA: Cymodocea nodosa TR5951_c0_g1_i1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-139_98.0-ORF7
+seq160	>tsa-GEMM01014470.1 TSA: Cymodocea nodosa TR18243_c3_g1_i1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM944-1369_28.0-ORF44
+seq161	>tsa-GEMM01014496.1 (REVERSE SENSE) TSA: Cymodocea nodosa TR18253_c2_g1_i1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM2-102_43.0-ORF36
+seq162	>tsa-GEMM01014498.1 (REVERSE SENSE) TSA: Cymodocea nodosa TR18253_c2_g1_i3 transcribed RNA sequence-table6-Alphaflexiviridae-HMM944-1369_28.0-ORF121
+seq163	>tsa-GEMM01026814.1 TSA: Cymodocea nodosa TR34357_c0_g1_i1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-76_53.0-ORF5
+seq164	>tsa-GEMM01048642.1 (REVERSE SENSE) TSA: Cymodocea nodosa TR64375_c0_g1_i1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM59-146_59.0-ORF14
+seq165	>tsa-GEMM01048643.1 (REVERSE SENSE) TSA: Cymodocea nodosa TR64375_c0_g2_i1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM139-226_38.0-ORF21
+seq166	>tsa-GEMM01054392.1 TSA: Cymodocea nodosa TR72664_c0_g1_i1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM140-224_37.0-ORF6
+seq167	>tsa-GEMM01066893.1 (REVERSE SENSE) TSA: Cymodocea nodosa TR119308_c0_g1_i1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM2-135_97.0-ORF16
+seq168	>tsa-GBCR01022277.1 (REVERSE SENSE) TSA: Dioscorea zingiberensis comp27709_c1_seq1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-104_99.0-ORF10
+seq169	>tsa-GBCR01022850.1 TSA: Dioscorea zingiberensis comp27805_c0_seq1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM621-1053_38.0-ORF33
+seq170	>tsa-GBCR01022851.1 TSA: Dioscorea zingiberensis comp27805_c0_seq2 transcribed RNA sequence-table6-Alphaflexiviridae-HMM621-1053_38.0-ORF33
+seq171	>tsa-GBCR01022852.1 TSA: Dioscorea zingiberensis comp27805_c0_seq3 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-193_57.0-ORF12
+seq172	>tsa-GBCR01022853.1 TSA: Dioscorea zingiberensis comp27805_c0_seq4 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-193_56.0-ORF13
+seq173	>tsa-GBCR01022854.1 TSA: Dioscorea zingiberensis comp27805_c0_seq5 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-193_54.0-ORF13
+seq174	>tsa-GBCR01022855.1 TSA: Dioscorea zingiberensis comp27805_c0_seq6 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-193_69.0-ORF12
+seq175	>tsa-GBCR01022856.1 TSA: Dioscorea zingiberensis comp27805_c0_seq7 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-193_54.0-ORF13
+seq176	>tsa-GBCR01022857.1 TSA: Dioscorea zingiberensis comp27805_c0_seq8 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-193_69.0-ORF12
+seq177	>tsa-GBCR01022858.1 TSA: Dioscorea zingiberensis comp27805_c0_seq9 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-193_57.0-ORF12
+seq178	>tsa-GBCR01022859.1 TSA: Dioscorea zingiberensis comp27805_c0_seq10 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-193_56.0-ORF13
+seq179	>tsa-GBCR01022860.1 TSA: Dioscorea zingiberensis comp27805_c0_seq11 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-193_69.0-ORF13
+seq180	>tsa-GBCR01022983.1 (REVERSE SENSE) TSA: Dioscorea zingiberensis comp27826_c0_seq1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM901-1333_29.0-ORF151
+seq181	>tsa-GBCR01022984.1 (REVERSE SENSE) TSA: Dioscorea zingiberensis comp27826_c0_seq2 transcribed RNA sequence-table6-Alphaflexiviridae-HMM901-1333_29.0-ORF149
+seq182	>tsa-GBCR01029200.1 (REVERSE SENSE) TSA: Dioscorea zingiberensis comp28571_c0_seq1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM981-1411_23.0-ORF125
+seq183	>tsa-GBCR01033021.1 (REVERSE SENSE) TSA: Dioscorea zingiberensis comp28899_c0_seq1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-140_99.0-ORF11
+seq184	>tsa-GBCR01033029.1 (REVERSE SENSE) TSA: Dioscorea zingiberensis comp29102_c0_seq1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM35-144_75.0-ORF10
+seq185	>tsa-GBCR01033031.1 TSA: Dioscorea zingiberensis comp29126_c0_seq1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-103_99.0-ORF4
+seq186	>tsa-GBCR01033262.1 (REVERSE SENSE) TSA: Dioscorea zingiberensis comp35533_c0_seq1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-122_99.0-ORF11
+seq187	>tsa-GBCR01034091.1 (REVERSE SENSE) TSA: Dioscorea zingiberensis comp45643_c0_seq1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM39-149_73.0-ORF11
+seq188	>tsa-GBCR01067213.1 TSA: Dioscorea zingiberensis comp7337_c0_seq1 transcribed RNA sequence-table4-Alphaflexiviridae-HMM62-143_43.0-ORF7
+seq189	>tsa-GBCR01068257.1 TSA: Dioscorea zingiberensis comp8588_c0_seq1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM25-136_81.0-ORF5
+seq190	>tsa-GBCR01068957.1 TSA: Dioscorea zingiberensis comp9341_c0_seq1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-106_98.0-ORF4
+seq191	>tsa-GBCR01073487.1 (REVERSE SENSE) TSA: Dioscorea zingiberensis comp15933_c0_seq1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM54-486_87.0-ORF40
+seq192	>tsa-GBCR01073488.1 (REVERSE SENSE) TSA: Dioscorea zingiberensis comp15933_c0_seq2 transcribed RNA sequence-table1-Alphaflexiviridae-HMM29-265_89.0-ORF22
+seq193	>tsa-GBCR01073489.1 (REVERSE SENSE) TSA: Dioscorea zingiberensis comp15933_c0_seq3 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-193_95.0-ORF19
+seq194	>tsa-GBCR01078115.1 (REVERSE SENSE) TSA: Dioscorea zingiberensis comp20754_c0_seq1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM577-946_39.0-ORF70
+seq195	>tsa-GBCR01078119.1 (REVERSE SENSE) TSA: Dioscorea zingiberensis comp20754_c0_seq5 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-125_99.0-ORF15
+seq196	>tsa-GBCR01080173.1 TSA: Dioscorea zingiberensis comp21833_c0_seq1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-195_99.0-ORF6
+seq197	>tsa-GEIA01078256.1 TSA: Hevea brasiliensis c85840_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM470-571_17.0-ORF20
+seq198	>tsa-GEIA01089747.1 TSA: Hevea brasiliensis c120839_g1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-87_59.0-ORF2
+seq199	>tsa-GEIA01138369.1 (REVERSE SENSE) TSA: Hevea brasiliensis c100676_g1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-168_99.0-ORF16
+seq200	>tsa-GDAA01014031.1 TSA: Bemisia tabaci CL2125.Contig1_NB1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM2-92_96.0-ORF2
+seq201	>tsa-GDAA01025533.1 (REVERSE SENSE) TSA: Bemisia tabaci CL4699.Contig1_NB1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-131_98.0-ORF14
+seq202	>tsa-GDAA01048472.1 (REVERSE SENSE) TSA: Bemisia tabaci CL1199.Contig1_NB1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM9-150_94.0-ORF12
+seq203	>tsa-GDAA01055285.1 TSA: Bemisia tabaci Unigene33230_NB1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-73_96.0-ORF2
+seq204	>tsa-GBXX01050786.1 (REVERSE SENSE) TSA: Lolium multiflorum L.multiflorum137107_c0_seq1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM2-69_97.0-ORF5
+seq205	>tsa-GBXX01054140.1 (REVERSE SENSE) TSA: Lolium multiflorum L.multiflorum183247_c0_seq1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM2-100_85.0-ORF14
+seq206	>tsa-GAYX01022168.1 (REVERSE SENSE) TSA: Lolium perenne comp18209_c0_seq1 transcribed RNA sequence-table4-Alphaflexiviridae-HMM98-537_75.0-ORF40
+seq207	>tsa-GAYX01135615.1 TSA: Lolium perenne comp139538_c0_seq1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM99-203_50.0-ORF9
+seq208	>tsa-GAYX01151971.1 TSA: Lolium perenne comp175871_c0_seq1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-117_99.0-ORF4
+seq209	>tsa-GAYX01157939.1 TSA: Lolium perenne comp194345_c0_seq1 transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-130_99.0-ORF6
+seq210	>tsa-GBLK01010632.1 TSA: Mesembryanthemum crystallinum Mcr000235t1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM960-1390_29.0-ORF42
+seq211	>tsa-GDHJ01036489.1 (REVERSE SENSE) TSA: Phalaenopsis equestris c35183_g1_i1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM956-1386_30.0-ORF122
+seq212	>tsa-GEBH01252680.1 TSA: Poa pratensis IXRNA007_contig_266649 transcribed RNA sequence-table4-Alphaflexiviridae-HMM84-178_51.0-ORF4
+seq213	>tsa-GEHP01110756.1 (REVERSE SENSE) TSA: Porites astreoides TR85755_c0_g1_i1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1021-1448_28.0-ORF131
+seq214	>tsa-GEHP01292265.1 (REVERSE SENSE) TSA: Porites astreoides TR126637_c0_g1_i1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1040-1466_27.0-ORF106
+seq215	>tsa-HACD01003517.1 (REVERSE SENSE) TSA: Pseudodiploria strigosa, contig dist72412_c0_seq1, transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-98_98.0-ORF7
+seq216	>tsa-HACD01012154.1 TSA: Pseudodiploria strigosa, contig dist100010_c0_seq1, transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-97_98.0-ORF3
+seq217	>tsa-HACD01051502.1 TSA: Pseudodiploria strigosa, contig dist197506_c0_seq1, transcribed RNA sequence-table1-Alphaflexiviridae-HMM2-107_98.0-ORF5
+seq218	>tsa-HACD01051503.1 TSA: Pseudodiploria strigosa, contig dist197506_c0_seq2, transcribed RNA sequence-table1-Alphaflexiviridae-HMM2-52_74.0-ORF4
+seq219	>tsa-HACD01063226.1 TSA: Pseudodiploria strigosa, contig dist209199_c0_seq1, transcribed RNA sequence-table1-Alphaflexiviridae-HMM2-84_95.0-ORF3
+seq220	>tsa-HACD01063227.1 TSA: Pseudodiploria strigosa, contig dist209199_c0_seq2, transcribed RNA sequence-table1-Alphaflexiviridae-HMM2-70_95.0-ORF2
+seq221	>tsa-HACD01073454.1 TSA: Pseudodiploria strigosa, contig dist217306_c0_seq1, transcribed RNA sequence-table1-Alphaflexiviridae-HMM3-138_97.0-ORF1
+seq222	>tsa-HACD01074455.1 (REVERSE SENSE) TSA: Pseudodiploria strigosa, contig dist218010_c0_seq1, transcribed RNA sequence-table1-Alphaflexiviridae-HMM2-96_89.0-ORF9
+seq223	>tsa-HACD01087007.1 (REVERSE SENSE) TSA: Pseudodiploria strigosa, contig dist225793_c0_seq1, transcribed RNA sequence-table1-Alphaflexiviridae-HMM2-69_95.0-ORF8
+seq224	>tsa-GBYO01000039.1 TSA: Setaria italica Unigene41_shuidaomiao transcribed RNA sequence-table1-Alphaflexiviridae-HMM1124-1317_14.0-ORF44
+seq225	>tsa-GBYO01001475.1 TSA: Setaria italica Unigene2538_shuidaomiao transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-275_78.0-ORF13
+seq226	>tsa-GBYO01011387.1 TSA: Setaria italica Unigene17003_shuidaomiao transcribed RNA sequence-table1-Alphaflexiviridae-HMM246-353_30.0-ORF12
+seq227	>tsa-GBYO01015134.1 TSA: Setaria italica Unigene22714_shuidaomiao transcribed RNA sequence-table1-Alphaflexiviridae-HMM1-89_98.0-ORF3
+seq228	>tsa-GBYO01016739.1 TSA: Setaria italica Unigene25395_shuidaomiao transcribed RNA sequence-table1-Alphaflexiviridae-HMM2-112_97.0-ORF4
+seq229	>tsa-GBYO01020863.1 TSA: Setaria italica Unigene30518_shuidaomiao transcribed RNA sequence-table4-Alphaflexiviridae-HMM1-126_89.0-ORF4
+seq230	>tsa-GDZW01000001.1 TSA: Solanum chacoense comp0_c0_seq1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1072-1503_24.0-ORF137
+seq231	>tsa-GDZW01000002.1 TSA: Solanum chacoense comp0_c0_seq2 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1072-1503_24.0-ORF138
+seq232	>tsa-GDZW01000003.1 TSA: Solanum chacoense comp0_c0_seq3 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1041-1472_24.0-ORF65
+seq233	>tsa-GDZW01000004.1 (REVERSE SENSE) TSA: Solanum chacoense comp0_c0_seq4 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1041-1472_24.0-ORF132
+seq234	>tsa-GDZW01000005.1 TSA: Solanum chacoense comp0_c0_seq5 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1041-1123_7.0-ORF42
+seq235	>tsa-GDZX01000543.1 TSA: Solanum chacoense contig02927 transcribed RNA sequence-table6-Alphaflexiviridae-HMM31-183_83.0-ORF4
+seq236	>tsa-GDZX01000555.1 TSA: Solanum chacoense contig03110 transcribed RNA sequence-table4-Alphaflexiviridae-HMM11-101_63.0-ORF7
+seq237	>tsa-GDZX01000567.1 TSA: Solanum chacoense contig03395 transcribed RNA sequence-table4-Alphaflexiviridae-HMM982-1152_14.0-ORF35
+seq238	>tsa-GDZX01000569.1 TSA: Solanum chacoense contig03481 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-190_42.0-ORF18
+seq239	>tsa-GDZX01000573.1 TSA: Solanum chacoense contig04564 transcribed RNA sequence-table4-Alphaflexiviridae-HMM86-208_58.0-ORF4
+seq240	>tsa-GDZX01000574.1 (REVERSE SENSE) TSA: Solanum chacoense contig04738 transcribed RNA sequence-table4-Alphaflexiviridae-HMM1-244_99.0-ORF21
+seq241	>tsa-GDZX01000575.1 (REVERSE SENSE) TSA: Solanum chacoense contig04807 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-180_73.0-ORF21
+seq242	>tsa-GEDG01000015.1 TSA: Solanum chacoense ScOT_00015 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1072-1503_24.0-ORF113
+seq243	>tsa-GEDG01000016.1 TSA: Solanum chacoense ScOT_00016 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1072-1503_24.0-ORF114
+seq244	>tsa-GEDG01002611.1 TSA: Solanum chacoense ScOT_02828 transcribed RNA sequence-table4-Alphaflexiviridae-HMM27-69_60.0-ORF21
+seq245	>tsa-GEDG01013415.1 TSA: Solanum chacoense ScOT_14322 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-190_42.0-ORF18
+seq246	>tsa-GBHL01000768.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22919 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-59_78.0-ORF7
+seq247	>tsa-GBHL01000818.1 TSA: Tinospora cordifolia contig11883 transcribed RNA sequence-table4-Alphaflexiviridae-HMM1-73_97.0-ORF4
+seq248	>tsa-GBHL01001780.1 TSA: Tinospora cordifolia contig11413 transcribed RNA sequence-table4-Alphaflexiviridae-HMM1-85_98.0-ORF3
+seq249	>tsa-GBHL01002141.1 TSA: Tinospora cordifolia contig11248 transcribed RNA sequence-table4-Alphaflexiviridae-HMM1-81_90.0-ORF4
+seq250	>tsa-GBHL01002242.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22252 transcribed RNA sequence-table4-Alphaflexiviridae-HMM2-72_78.0-ORF11
+seq251	>tsa-GBHL01002281.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22641 transcribed RNA sequence-table4-Alphaflexiviridae-HMM27-80_59.0-ORF3
+seq252	>tsa-GBHL01002575.1 TSA: Tinospora cordifolia contig11012 transcribed RNA sequence-table4-Alphaflexiviridae-HMM1-93_98.0-ORF4
+seq253	>tsa-GBHL01002584.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c234 transcribed RNA sequence-table4-Alphaflexiviridae-HMM1-88_93.0-ORF5
+seq254	>tsa-GBHL01002771.1 TSA: Tinospora cordifolia contig10912 transcribed RNA sequence-table4-Alphaflexiviridae-HMM1-96_98.0-ORF5
+seq255	>tsa-GBHL01002960.1 TSA: Tinospora cordifolia contig10856 transcribed RNA sequence-table4-Alphaflexiviridae-HMM1-96_97.0-ORF4
+seq256	>tsa-GBHL01003010.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22379 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-41_50.0-ORF1
+seq257	>tsa-GBHL01003368.1 (REVERSE SENSE) TSA: Tinospora cordifolia contig10652 transcribed RNA sequence-table4-Alphaflexiviridae-HMM2-97_93.0-ORF11
+seq258	>tsa-GBHL01003784.1 TSA: Tinospora cordifolia contig10510 transcribed RNA sequence-table6-Alphaflexiviridae-HMM51-106_51.0-ORF3
+seq259	>tsa-GBHL01004060.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22235 transcribed RNA sequence-table4-Alphaflexiviridae-HMM2-89_79.0-ORF4
+seq260	>tsa-GBHL01004630.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_c21877 transcribed RNA sequence-table6-Alphaflexiviridae-HMM17-82_65.0-ORF5
+seq261	>tsa-GBHL01004813.1 TSA: Tinospora cordifolia contig10143 transcribed RNA sequence-table4-Alphaflexiviridae-HMM1-105_88.0-ORF5
+seq262	>tsa-GBHL01005466.1 TSA: Tinospora cordifolia contig09933 transcribed RNA sequence-table4-Alphaflexiviridae-HMM47-123_61.0-ORF9
+seq263	>tsa-GBHL01006058.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22313 transcribed RNA sequence-table4-Alphaflexiviridae-HMM28-104_59.0-ORF4
+seq264	>tsa-GBHL01006403.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_c17661 transcribed RNA sequence-table4-Alphaflexiviridae-HMM25-89_71.0-ORF10
+seq265	>tsa-GBHL01006702.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22226 transcribed RNA sequence-table6-Alphaflexiviridae-HMM55-124_52.0-ORF6
+seq266	>tsa-GBHL01007208.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22467 transcribed RNA sequence-table4-Alphaflexiviridae-HMM73-116_31.0-ORF6
+seq267	>tsa-GBHL01007397.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22468 transcribed RNA sequence-table4-Alphaflexiviridae-HMM11-74_46.0-ORF3
+seq268	>tsa-GBHL01007808.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22871 transcribed RNA sequence-table6-Alphaflexiviridae-HMM2-48_92.0-ORF11
+seq269	>tsa-GBHL01008323.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_c22180 transcribed RNA sequence-table4-Alphaflexiviridae-HMM18-92_67.0-ORF2
+seq270	>tsa-GBHL01009021.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22879 transcribed RNA sequence-table6-Alphaflexiviridae-HMM39-122_56.0-ORF4
+seq271	>tsa-GBHL01009209.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22331 transcribed RNA sequence-table6-Alphaflexiviridae-HMM3-61_39.0-ORF3
+seq272	>tsa-GBHL01009210.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22349 transcribed RNA sequence-table4-Alphaflexiviridae-HMM16-107_68.0-ORF6
+seq273	>tsa-GBHL01009275.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22016 transcribed RNA sequence-table4-Alphaflexiviridae-HMM33-117_61.0-ORF5
+seq274	>tsa-GBHL01009349.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22233 transcribed RNA sequence-table4-Alphaflexiviridae-HMM2-68_52.0-ORF3
+seq275	>tsa-GBHL01009540.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22359 transcribed RNA sequence-table6-Alphaflexiviridae-HMM10-75_52.0-ORF6
+seq276	>tsa-GBHL01010064.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c21914 transcribed RNA sequence-table6-Alphaflexiviridae-HMM31-135_68.0-ORF8
+seq277	>tsa-GBHL01010533.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c927 transcribed RNA sequence-table6-Alphaflexiviridae-HMM52-128_49.0-ORF6
+seq278	>tsa-GBHL01010836.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22092 transcribed RNA sequence-table6-Alphaflexiviridae-HMM42-148_68.0-ORF7
+seq279	>tsa-GBHL01011440.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22796 transcribed RNA sequence-table4-Alphaflexiviridae-HMM2-58_35.0-ORF11
+seq280	>tsa-GBHL01011704.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c8299 transcribed RNA sequence-table4-Alphaflexiviridae-HMM4-139_85.0-ORF4
+seq281	>tsa-GBHL01011833.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_c1958 transcribed RNA sequence-table6-Alphaflexiviridae-HMM42-86_29.0-ORF3
+seq282	>tsa-GBHL01014372.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_c22065 transcribed RNA sequence-table4-Alphaflexiviridae-HMM2-62_35.0-ORF11
+seq283	>tsa-GBHL01014614.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22346 transcribed RNA sequence-table4-Alphaflexiviridae-HMM70-167_57.0-ORF10
+seq284	>tsa-GBHL01015318.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22852 transcribed RNA sequence-table4-Alphaflexiviridae-HMM34-172_79.0-ORF5
+seq285	>tsa-GBHL01015813.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22818 transcribed RNA sequence-table6-Alphaflexiviridae-HMM43-130_56.0-ORF7
+seq286	>tsa-GBHL01016309.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22348 transcribed RNA sequence-table4-Alphaflexiviridae-HMM46-135_50.0-ORF7
+seq287	>tsa-GBHL01016530.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c2446 transcribed RNA sequence-table6-Alphaflexiviridae-HMM96-180_46.0-ORF4
+seq288	>tsa-GBHL01017091.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c728 transcribed RNA sequence-table4-Alphaflexiviridae-HMM55-112_37.0-ORF5
+seq289	>tsa-GBHL01017461.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22327 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-68_47.0-ORF11
+seq290	>tsa-GBHL01017531.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22152 transcribed RNA sequence-table4-Alphaflexiviridae-HMM85-161_41.0-ORF15
+seq291	>tsa-GBHL01017532.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22336 transcribed RNA sequence-table4-Alphaflexiviridae-HMM17-71_59.0-ORF3
+seq292	>tsa-GBHL01018620.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22041 transcribed RNA sequence-table4-Alphaflexiviridae-HMM7-112_55.0-ORF20
+seq293	>tsa-GBHL01019430.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22318 transcribed RNA sequence-table6-Alphaflexiviridae-HMM105-178_41.0-ORF4
+seq294	>tsa-GBHL01019527.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22064 transcribed RNA sequence-table4-Alphaflexiviridae-HMM27-111_48.0-ORF12
+seq295	>tsa-GBHL01019788.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_c18793 transcribed RNA sequence-table4-Alphaflexiviridae-HMM1-46_32.0-ORF12
+seq296	>tsa-GBHL01019897.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22737 transcribed RNA sequence-table6-Alphaflexiviridae-HMM151-188_18.0-ORF4
+seq297	>tsa-GBHL01020687.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c21253 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-72_36.0-ORF12
+seq298	>tsa-GBHL01021250.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c21918 transcribed RNA sequence-table6-Alphaflexiviridae-HMM59-170_53.0-ORF14
+seq299	>tsa-GBHL01021359.1 TSA: Tinospora cordifolia contig06543 transcribed RNA sequence-table4-Alphaflexiviridae-HMM1-205_98.0-ORF8
+seq300	>tsa-GBHL01021407.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c34 transcribed RNA sequence-table6-Alphaflexiviridae-HMM61-139_40.0-ORF4
+seq301	>tsa-GBHL01021438.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_dn_rep_c22004 transcribed RNA sequence-table6-Alphaflexiviridae-HMM60-130_46.0-ORF17
+seq302	>tsa-GBHL01022148.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22243 transcribed RNA sequence-table4-Alphaflexiviridae-HMM59-109_27.0-ORF18
+seq303	>tsa-GBHL01022959.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22808 transcribed RNA sequence-table4-Alphaflexiviridae-HMM104-185_40.0-ORF19
+seq304	>tsa-GBHL01023063.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22355 transcribed RNA sequence-table4-Alphaflexiviridae-HMM27-71_20.0-ORF4
+seq305	>tsa-GBHL01023258.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22462 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-127_95.0-ORF12
+seq306	>tsa-GBHL01023315.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22228 transcribed RNA sequence-table4-Alphaflexiviridae-HMM56-119_49.0-ORF9
+seq307	>tsa-GBHL01023331.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c1169 transcribed RNA sequence-table4-Alphaflexiviridae-HMM46-213_74.0-ORF7
+seq308	>tsa-GBHL01023493.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22377 transcribed RNA sequence-table4-Alphaflexiviridae-HMM107-152_24.0-ORF13
+seq309	>tsa-GBHL01023495.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22728 transcribed RNA sequence-table4-Alphaflexiviridae-HMM3-80_33.0-ORF17
+seq310	>tsa-GBHL01023650.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_c2169 transcribed RNA sequence-table6-Alphaflexiviridae-HMM42-137_65.0-ORF13
+seq311	>tsa-GBHL01023998.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22685 transcribed RNA sequence-table6-Alphaflexiviridae-HMM18-65_29.0-ORF14
+seq312	>tsa-GBHL01024646.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22710 transcribed RNA sequence-table4-Alphaflexiviridae-HMM1-88_38.0-ORF16
+seq313	>tsa-GBHL01024647.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22722 transcribed RNA sequence-table4-Alphaflexiviridae-HMM64-146_47.0-ORF6
+seq314	>tsa-GBHL01025166.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22662 transcribed RNA sequence-table6-Alphaflexiviridae-HMM3-126_51.0-ORF19
+seq315	>tsa-GBHL01025199.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22656 transcribed RNA sequence-table4-Alphaflexiviridae-HMM141-223_33.0-ORF9
+seq316	>tsa-GBHL01025424.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c31 transcribed RNA sequence-table6-Alphaflexiviridae-HMM16-101_34.0-ORF5
+seq317	>tsa-GBHL01025546.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22694 transcribed RNA sequence-table4-Alphaflexiviridae-HMM72-178_42.0-ORF17
+seq318	>tsa-GBHL01025795.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c21786 transcribed RNA sequence-table4-Alphaflexiviridae-HMM34-142_52.0-ORF22
+seq319	>tsa-GBHL01026180.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22117 transcribed RNA sequence-table6-Alphaflexiviridae-HMM109-194_43.0-ORF8
+seq320	>tsa-GBHL01026408.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c416 transcribed RNA sequence-table6-Alphaflexiviridae-HMM14-125_84.0-ORF10
+seq321	>tsa-GBHL01026616.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c241 transcribed RNA sequence-table4-Alphaflexiviridae-HMM11-98_35.0-ORF5
+seq322	>tsa-GBHL01026627.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_c22775 transcribed RNA sequence-table6-Alphaflexiviridae-HMM3-125_69.0-ORF15
+seq323	>tsa-GBHL01026744.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c2270 transcribed RNA sequence-table6-Alphaflexiviridae-HMM26-119_39.0-ORF14
+seq324	>tsa-GBHL01026787.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22898 transcribed RNA sequence-table6-Alphaflexiviridae-HMM29-108_29.0-ORF11
+seq325	>tsa-GBHL01027065.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_c22037 transcribed RNA sequence-table6-Alphaflexiviridae-HMM5-160_66.0-ORF9
+seq326	>tsa-GBHL01027172.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22811 transcribed RNA sequence-table4-Alphaflexiviridae-HMM1-58_83.0-ORF2
+seq327	>tsa-GBHL01027340.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22091 transcribed RNA sequence-table6-Alphaflexiviridae-HMM89-189_48.0-ORF5
+seq328	>tsa-GBHL01027466.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22044 transcribed RNA sequence-table6-Alphaflexiviridae-HMM89-172_30.0-ORF8
+seq329	>tsa-GBHL01028023.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22428 transcribed RNA sequence-table6-Alphaflexiviridae-HMM164-238_25.0-ORF6
+seq330	>tsa-GBHL01028039.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22716 transcribed RNA sequence-table4-Alphaflexiviridae-HMM14-142_71.0-ORF19
+seq331	>tsa-GBHL01028040.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22867 transcribed RNA sequence-table4-Alphaflexiviridae-HMM58-107_21.0-ORF13
+seq332	>tsa-GBHL01028184.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22373 transcribed RNA sequence-table4-Alphaflexiviridae-HMM14-52_15.0-ORF18
+seq333	>tsa-GBHL01028390.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22451 transcribed RNA sequence-table6-Alphaflexiviridae-HMM58-162_38.0-ORF22
+seq334	>tsa-GBHL01028566.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_dn_rep_c654 transcribed RNA sequence-table4-Alphaflexiviridae-HMM20-97_53.0-ORF7
+seq335	>tsa-GBHL01028697.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22698 transcribed RNA sequence-table4-Alphaflexiviridae-HMM1-116_40.0-ORF8
+seq336	>tsa-GBHL01028734.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22135 transcribed RNA sequence-table6-Alphaflexiviridae-HMM24-108_77.0-ORF21
+seq337	>tsa-GBHL01028793.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_c21911 transcribed RNA sequence-table6-Alphaflexiviridae-HMM45-96_24.0-ORF13
+seq338	>tsa-GBHL01028835.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c21854 transcribed RNA sequence-table4-Alphaflexiviridae-HMM36-115_58.0-ORF21
+seq339	>tsa-GBHL01028847.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c2016 transcribed RNA sequence-table6-Alphaflexiviridae-HMM21-164_46.0-ORF9
+seq340	>tsa-GBHL01028895.1 TSA: Tinospora cordifolia contig03355 transcribed RNA sequence-table4-Alphaflexiviridae-HMM143-308_53.0-ORF13
+seq341	>tsa-GBHL01028994.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22783 transcribed RNA sequence-table4-Alphaflexiviridae-HMM1-82_61.0-ORF4
+seq342	>tsa-GBHL01029001.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c256 transcribed RNA sequence-table6-Alphaflexiviridae-HMM87-130_30.0-ORF8
+seq343	>tsa-GBHL01029225.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c21933 transcribed RNA sequence-table6-Alphaflexiviridae-HMM85-181_39.0-ORF5
+seq344	>tsa-GBHL01029382.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c21862 transcribed RNA sequence-table6-Alphaflexiviridae-HMM44-106_35.0-ORF14
+seq345	>tsa-GBHL01029391.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22897 transcribed RNA sequence-table4-Alphaflexiviridae-HMM13-97_27.0-ORF21
+seq346	>tsa-GBHL01029408.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c2063 transcribed RNA sequence-table6-Alphaflexiviridae-HMM129-207_36.0-ORF9
+seq347	>tsa-GBHL01029585.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22369 transcribed RNA sequence-table4-Alphaflexiviridae-HMM1-256_78.0-ORF22
+seq348	>tsa-GBHL01029627.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_c22360 transcribed RNA sequence-table4-Alphaflexiviridae-HMM17-83_61.0-ORF25
+seq349	>tsa-GBHL01029980.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22293 transcribed RNA sequence-table4-Alphaflexiviridae-HMM5-86_45.0-ORF18
+seq350	>tsa-GBHL01030014.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22875 transcribed RNA sequence-table6-Alphaflexiviridae-HMM86-163_28.0-ORF7
+seq351	>tsa-GBHL01030038.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c2072 transcribed RNA sequence-table6-Alphaflexiviridae-HMM48-106_45.0-ORF4
+seq352	>tsa-GBHL01030070.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22665 transcribed RNA sequence-table4-Alphaflexiviridae-HMM1-134_50.0-ORF9
+seq353	>tsa-GBHL01030165.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c999 transcribed RNA sequence-table4-Alphaflexiviridae-HMM10-72_67.0-ORF25
+seq354	>tsa-GBHL01030322.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_c190 transcribed RNA sequence-table4-Alphaflexiviridae-HMM2-55_36.0-ORF16
+seq355	>tsa-GBHL01030360.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22039 transcribed RNA sequence-table6-Alphaflexiviridae-HMM30-105_45.0-ORF2
+seq356	>tsa-GBHL01030387.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22047 transcribed RNA sequence-table4-Alphaflexiviridae-HMM193-278_25.0-ORF11
+seq357	>tsa-GBHL01030568.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c21799 transcribed RNA sequence-table4-Alphaflexiviridae-HMM54-126_40.0-ORF5
+seq358	>tsa-GBHL01030584.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22251 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-64_69.0-ORF3
+seq359	>tsa-GBHL01030602.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22678 transcribed RNA sequence-table6-Alphaflexiviridae-HMM22-75_60.0-ORF21
+seq360	>tsa-GBHL01030658.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c86 transcribed RNA sequence-table6-Alphaflexiviridae-HMM58-133_54.0-ORF5
+seq361	>tsa-GBHL01030779.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22221 transcribed RNA sequence-table6-Alphaflexiviridae-HMM46-118_51.0-ORF7
+seq362	>tsa-GBHL01030808.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22296 transcribed RNA sequence-table4-Alphaflexiviridae-HMM6-102_41.0-ORF8
+seq363	>tsa-GBHL01030833.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22136 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-76_45.0-ORF18
+seq364	>tsa-GBHL01030849.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c2010 transcribed RNA sequence-table6-Alphaflexiviridae-HMM19-77_26.0-ORF5
+seq365	>tsa-GBHL01031235.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22342 transcribed RNA sequence-table6-Alphaflexiviridae-HMM30-77_29.0-ORF32
+seq366	>tsa-GBHL01031327.1 TSA: Tinospora cordifolia contig01740 transcribed RNA sequence-table4-Alphaflexiviridae-HMM179-398_55.0-ORF14
+seq367	>tsa-GBHL01031361.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22270 transcribed RNA sequence-table6-Alphaflexiviridae-HMM3-123_75.0-ORF24
+seq368	>tsa-GBHL01031392.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22679 transcribed RNA sequence-table4-Alphaflexiviridae-HMM129-211_37.0-ORF14
+seq369	>tsa-GBHL01031586.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c1893 transcribed RNA sequence-table4-Alphaflexiviridae-HMM31-89_32.0-ORF19
+seq370	>tsa-GBHL01031676.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c2001 transcribed RNA sequence-table4-Alphaflexiviridae-HMM65-123_32.0-ORF25
+seq371	>tsa-GBHL01031987.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c676 transcribed RNA sequence-table6-Alphaflexiviridae-HMM48-182_66.0-ORF17
+seq372	>tsa-GBHL01032103.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c2101 transcribed RNA sequence-table4-Alphaflexiviridae-HMM233-292_18.0-ORF12
+seq373	>tsa-GBHL01032157.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_dn_rep_c13 transcribed RNA sequence-table4-Alphaflexiviridae-HMM80-154_42.0-ORF11
+seq374	>tsa-GBHL01032184.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c19 transcribed RNA sequence-table4-Alphaflexiviridae-HMM206-282_24.0-ORF9
+seq375	>tsa-GBHL01032445.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22131 transcribed RNA sequence-table6-Alphaflexiviridae-HMM169-272_32.0-ORF30
+seq376	>tsa-GBHL01032517.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c186 transcribed RNA sequence-table6-Alphaflexiviridae-HMM59-285_75.0-ORF8
+seq377	>tsa-GBHL01032535.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c78 transcribed RNA sequence-table4-Alphaflexiviridae-HMM37-213_38.0-ORF14
+seq378	>tsa-GBHL01032578.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_dn_rep_c1369 transcribed RNA sequence-table6-Alphaflexiviridae-HMM180-244_21.0-ORF12
+seq379	>tsa-GBHL01032605.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c510 transcribed RNA sequence-table6-Alphaflexiviridae-HMM34-125_43.0-ORF10
+seq380	>tsa-GBHL01032683.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c143 transcribed RNA sequence-table4-Alphaflexiviridae-HMM11-85_49.0-ORF23
+seq381	>tsa-GBHL01032821.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_dn_rep_c22081 transcribed RNA sequence-table4-Alphaflexiviridae-HMM12-99_23.0-ORF32
+seq382	>tsa-GBHL01032826.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22014 transcribed RNA sequence-table6-Alphaflexiviridae-HMM5-101_43.0-ORF8
+seq383	>tsa-GBHL01032862.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c301 transcribed RNA sequence-table6-Alphaflexiviridae-HMM164-235_20.0-ORF9
+seq384	>tsa-GBHL01032863.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c2 transcribed RNA sequence-table6-Alphaflexiviridae-HMM147-309_51.0-ORF17
+seq385	>tsa-GBHL01032882.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c4 transcribed RNA sequence-table6-Alphaflexiviridae-HMM24-120_36.0-ORF9
+seq386	>tsa-GBHL01032892.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c85 transcribed RNA sequence-table6-Alphaflexiviridae-HMM27-158_31.0-ORF20
+seq387	>tsa-GBHL01032909.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_c1116 transcribed RNA sequence-table4-Alphaflexiviridae-HMM2-116_41.0-ORF7
+seq388	>tsa-GBHL01032973.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c21905 transcribed RNA sequence-table6-Alphaflexiviridae-HMM129-230_25.0-ORF11
+seq389	>tsa-GBHL01032980.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c75 transcribed RNA sequence-table4-Alphaflexiviridae-HMM135-263_34.0-ORF28
+seq390	>tsa-GBHL01033040.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c2083 transcribed RNA sequence-table6-Alphaflexiviridae-HMM8-67_83.0-ORF21
+seq391	>tsa-GBHL01033070.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_c81 transcribed RNA sequence-table4-Alphaflexiviridae-HMM16-201_59.0-ORF47
+seq392	>tsa-GBHL01033115.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c23 transcribed RNA sequence-table6-Alphaflexiviridae-HMM9-143_31.0-ORF19
+seq393	>tsa-GBHL01033117.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c21844 transcribed RNA sequence-table6-Alphaflexiviridae-HMM25-79_11.0-ORF18
+seq394	>tsa-GBHL01033132.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c22088 transcribed RNA sequence-table6-Alphaflexiviridae-HMM166-230_21.0-ORF40
+seq395	>tsa-GBHL01033166.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_dn_rep_c2108 transcribed RNA sequence-table4-Alphaflexiviridae-HMM23-185_34.0-ORF51
+seq396	>tsa-GBHL01033202.1 TSA: Tinospora cordifolia contig00117 transcribed RNA sequence-table6-Alphaflexiviridae-HMM2-109_29.0-ORF12
+seq397	>tsa-GBHL01033225.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c2085 transcribed RNA sequence-table6-Alphaflexiviridae-HMM110-176_22.0-ORF6
+seq398	>tsa-GBHL01033241.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c1760 transcribed RNA sequence-table6-Alphaflexiviridae-HMM178-241_19.0-ORF17
+seq399	>tsa-GBHL01033251.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c29 transcribed RNA sequence-table6-Alphaflexiviridae-HMM327-707_51.0-ORF26
+seq400	>tsa-GBHL01033261.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_c462 transcribed RNA sequence-table4-Alphaflexiviridae-HMM198-335_40.0-ORF19
+seq401	>tsa-GBHL01033264.1 TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c791 transcribed RNA sequence-table4-Alphaflexiviridae-HMM70-142_40.0-ORF16
+seq402	>tsa-GBHL01033269.1 (REVERSE SENSE) TSA: Tinospora cordifolia contig00059 transcribed RNA sequence-table4-Alphaflexiviridae-HMM697-862_19.0-ORF54
+seq403	>tsa-GBHL01033294.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_dn_rep_c22042 transcribed RNA sequence-table6-Alphaflexiviridae-HMM91-305_55.0-ORF41
+seq404	>tsa-GBHL01033321.1 (REVERSE SENSE) TSA: Tinospora cordifolia Tinospora-est-454-singleton_rep_c8 transcribed RNA sequence-table4-Alphaflexiviridae-HMM1-177_43.0-ORF42
+seq405	>tsa-GAXZ02017877.1 TSA: Trichocera saltator C229721_a_4_0_l_344 transcribed RNA sequence-table4-Alphaflexiviridae-HMM10-114_91.0-ORF2
+seq406	>tsa-GFHP01011027.1 (REVERSE SENSE) TSA: Yucca gloriosa yucca_T011027 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-119_99.0-ORF12
+seq407	>tsa-GFHP01011028.1 (REVERSE SENSE) TSA: Yucca gloriosa yucca_T011028 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-125_99.0-ORF9
+seq408	>tsa-GFHP01011029.1 TSA: Yucca gloriosa yucca_T011029 transcribed RNA sequence-table6-Alphaflexiviridae-HMM118-549_75.0-ORF22
+seq409	>tsa-GFHP01011030.1 TSA: Yucca gloriosa yucca_T011030 transcribed RNA sequence-table6-Alphaflexiviridae-HMM112-471_76.0-ORF15
+seq410	>tsa-GFHP01011031.1 TSA: Yucca gloriosa yucca_T011031 transcribed RNA sequence-table6-Alphaflexiviridae-HMM112-330_65.0-ORF10
+seq411	>tsa-GFHP01022058.1 (REVERSE SENSE) TSA: Yucca gloriosa yucca_T022058 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-140_98.0-ORF13
+seq412	>tsa-GFHP01022059.1 (REVERSE SENSE) TSA: Yucca gloriosa yucca_T022059 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-141_87.0-ORF14
+seq413	>tsa-GFHP01022060.1 TSA: Yucca gloriosa yucca_T022060 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-170_99.0-ORF6
+seq414	>tsa-GFHP01022061.1 TSA: Yucca gloriosa yucca_T022061 transcribed RNA sequence-table6-Alphaflexiviridae-HMM96-393_75.0-ORF13
+seq415	>tsa-GFHP01022062.1 TSA: Yucca gloriosa yucca_T022062 transcribed RNA sequence-table6-Alphaflexiviridae-HMM975-1406_30.0-ORF45
+seq416	>tsa-GFHP01023351.1 (REVERSE SENSE) TSA: Yucca gloriosa yucca_T023351 transcribed RNA sequence-table6-Alphaflexiviridae-HMM2-219_91.0-ORF34
+seq417	>tsa-GFHP01023352.1 (REVERSE SENSE) TSA: Yucca gloriosa yucca_T023352 transcribed RNA sequence-table6-Alphaflexiviridae-HMM2-219_91.0-ORF36
+seq418	>tsa-GFHP01023353.1 (REVERSE SENSE) TSA: Yucca gloriosa yucca_T023353 transcribed RNA sequence-table6-Alphaflexiviridae-HMM2-219_91.0-ORF38
+seq419	>tsa-GFHP01023354.1 (REVERSE SENSE) TSA: Yucca gloriosa yucca_T023354 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-197_90.0-ORF34
+seq420	>tsa-GAOT01014582.1 (REVERSE SENSE) TSA: Zantedeschia aethiopica comp116089_c0_seq1 transcribed RNA sequence-table6-Alphaflexiviridae-HMM1-276_98.0-ORF23

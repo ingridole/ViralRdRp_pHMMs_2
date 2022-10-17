@@ -1,0 +1,43 @@
+seq1	>ref-NC_003092.2 Simian hemorrhagic fever virus, complete genome-table4-Arteriviridae-HMM208-652_29.0-ORF98
+seq2	>ref-NC_001639.1 Lactate dehydrogenase-elevating virus, complete genome-table6-Arteriviridae-HMM207-652_26.0-ORF131
+seq3	>ref-NC_002532.2 Equine arteritis virus, complete genome-table4-Arteriviridae-HMM210-649_30.0-ORF82
+seq4	>ref-NC_001961.1 Porcine respiratory and reproductive syndrome virus, complete genome-table4-Arteriviridae-HMM202-646_28.0-ORF100
+seq5	>ref-NC_025113.1 Southwest baboon virus 1 isolate SWBV_16986_11/4/2013, complete genome-table4-Arteriviridae-HMM281-725_28.0-ORF96
+seq6	>ref-NC_025112.1 Mikumi yellow baboon virus 1 isolate MYBV_M58, complete genome-table4-Arteriviridae-HMM209-653_29.0-ORF94
+seq7	>ref-NC_026439.1 Forest pouched giant rat arterivirus isolate PREDICT-06509, complete genome-table6-Arteriviridae-HMM217-662_30.0-ORF111
+seq8	>ref-NC_026509.1 DeBrazzas monkey arterivirus isolate PREDICT-06530, complete genome-table6-Arteriviridae-HMM221-666_28.0-ORF95
+seq9	>ref-NC_026811.1 Possum nidovirus isolate WPDV, partial genome-table6-Arteriviridae-HMM228-664_30.0-ORF100
+seq10	>ref-NC_027124.1 Pebjah virus isolate I621, complete genome-table4-Arteriviridae-HMM220-665_27.0-ORF83
+seq11	>ref-NC_028963.1 Rat arterivirus 1 isolate Jilin2014, complete genome-table6-Arteriviridae-HMM209-653_28.0-ORF139
+seq12	>ref-NC_029053.1 Kafue Kinda chacma baboon virus isolate KKCBV-1, complete genome-table4-Arteriviridae-HMM209-653_29.0-ORF86
+seq13	>ref-NC_029992.1 UNVERIFIED: Free State vervet virus isolate VSAI1003, complete genome-table6-Arteriviridae-HMM200-643_28.0-ORF112
+seq14	>ref-NC_032987.1 Rat arterivirus 1 isolate Ningxia2015 ORF1ab polyprotein, ORF1a polyprotein, E, GP2, GP3, GP4, ORF5a, GP5, M, and N genes, complete cds-table4-Arteriviridae-HMM245-688_26.0-ORF99
+seq15	>ref-NC_035127.1 Olivier's shrew virus 1 isolate Gkd-1, complete genome-table4-Arteriviridae-HMM298-723_28.0-ORF82
+seq16	>nrnt-MG600025 Chinese broad-headed pond turtle arterivirus strain WHWGC150683 1ab protein, hypothetical protein, and putative glycoprotein genes, complete cds.-table4-Arteriviridae-HMM254-620_20.0-ORF132
+seq17	>nrnt-MF196906 Porcine reproductive and respiratory syndrome virus strain SCnj16, complete genome.-table4-Arteriviridae-HMM202-646_28.0-ORF109
+seq18	>nrnt-MG600023 Guangdong greater green snake arterivirus strain LPSG2430 1ab protein, putative glycoprotein, and hypothetical protein genes, complete cds.-table6-Arteriviridae-HMM271-686_16.0-ORF148
+seq19	>nrnt-MG600022 Hainan oligodon formosanus arterivirus strain LPSF32245 1ab protein, putative glycoprotein, and hypothetical protein genes, complete cds.-table4-Arteriviridae-HMM303-730_22.0-ORF151
+seq20	>nrnt-KM677927 Simian hemorrhagic encephalitis virus isolate Sukhumi, complete genome.-table6-Arteriviridae-HMM220-663_28.0-ORF112
+seq21	>nrnt-KY369969 Rodent arterivirus isolate RtClan-Arterivirus/GZ2015, complete genome.-table4-Arteriviridae-HMM461-904_22.0-ORF98
+seq22	>nrnt-KY369968 Rodent arterivirus isolate RtEi-Arterivirus/SX2014, complete genome.-table4-Arteriviridae-HMM261-705_29.0-ORF110
+seq23	>nrnt-KY369967 Rodent arterivirus isolate RtMc-Arterivirus/Tibet2014, complete genome.-table6-Arteriviridae-HMM225-669_29.0-ORF128
+seq24	>nrnt-MF346695 Porcine reproductive and respiratory syndrome virus 1 strain PR40/2014, partial genome.-table6-Arteriviridae-HMM201-645_28.0-ORF121
+seq25	>nrnt-KX668221 Porcine reproductive and respiratory syndrome virus isolate Siberian, complete genome.-table4-Arteriviridae-HMM292-736_27.0-ORF111
+seq26	>nrnt-JX473849 Kibale red-tailed guenon virus 1 isolate krtg05, partial genome.-table4-Arteriviridae-HMM252-696_28.0-ORF94
+seq27	>nrnt-KC787644 Kibale red colobus virus 2 isolate SHFV-krc2_RC26, partial genome.-table4-Arteriviridae-HMM392-836_26.0-ORF95
+seq28	>nrnt-HQ845737 Kibale red colobus virus 1 isolate krc1, partial genome.-table4-Arteriviridae-HMM206-650_28.0-ORF87
+seq29	>nrnt-LQ249403 Sequence 22 from Patent EP3009948.-table6-Arteriviridae-HMM201-645_28.0-ORF162
+seq30	>nrnt-KT257967 Porcine reproductive and respiratory syndrome virus strain ISU17, complete genome.-table4-Arteriviridae-HMM202-646_28.0-ORF101
+seq31	>nrnt-KT166441 Free State vervet virus isolate SHFVagmMal_seqID_01, partial genome.-table6-Arteriviridae-HMM200-643_27.0-ORF111
+seq32	>nrnt-KP280008 Rat arterivirus 1 ORF1b polyprotein gene, partial cds.-table6-Arteriviridae-HMM2-108_11.0-ORF30
+seq33	>nrnt-KP280007 Rat arterivirus 4 ORF1ab polyprotein gene, partial cds.-table4-Arteriviridae-HMM273-716_29.0-ORF80
+seq34	>nrnt-KP860913 Porcine reproductive and respiratory syndrome virus strain FJQEU14, complete genome.-table4-Arteriviridae-HMM253-697_22.0-ORF112
+seq35	>nrnt-KP860912 Porcine reproductive and respiratory syndrome virus strain FJEU13, complete genome.-table4-Arteriviridae-HMM209-653_26.0-ORF109
+seq36	>nrnt-KP998423 Porcine reproductive and respiratory syndrome virus strain Tsai, complete genome.-table4-Arteriviridae-HMM202-646_28.0-ORF102
+seq37	>nrnt-KP998410 Porcine reproductive and respiratory syndrome virus strain JM, complete genome.-table4-Arteriviridae-HMM230-674_28.0-ORF100
+seq38	>nrnt-KP998409 Porcine reproductive and respiratory syndrome virus strain HC120904-CHYL, complete genome.-table6-Arteriviridae-HMM209-653_28.0-ORF121
+seq39	>nrnt-JX473850 Simian hemorrhagic fever virus isolate krtg09, partial sequence.-table4-Arteriviridae-HMM387-831_25.0-ORF95
+seq40	>nrnt-JN662424 Porcine reproductive and respiratory syndrome virus strain GM2, complete genome.-table4-Arteriviridae-HMM202-646_28.0-ORF114
+seq41	>nrnt-JF802085 Porcine reproductive and respiratory syndrome virus strain lena, complete genome.-table4-Arteriviridae-HMM244-688_29.0-ORF93
+seq42	>nrnt-HV197395 JP 2000514304-A/1: Recombinant DNA vector containing EA-virus genomic sequence.-table4-Arteriviridae-HMM210-649_30.0-ORF81
+seq43	>tsa-GBRX01007442.1 TSA: Glossina palpalis gambiensis GLOS_RPOA.1.1_6762 transcribed RNA sequence-table4-Arteriviridae-HMM9-454_36.0-ORF40

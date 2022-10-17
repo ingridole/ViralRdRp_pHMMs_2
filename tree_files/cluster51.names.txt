@@ -1,0 +1,38 @@
+seq1	>ref-NC_007547.1 Rotavirus C segment 1, complete sequence-table6-Sedoreovirinae_2-HMM118-714_54.0-ORF38
+seq2	>ref-NC_007548.1 Adult diarrheal rotavirus strain J19, complete genome-table6-Sedoreovirinae_2-HMM141-771_53.0-ORF36
+seq3	>ref-NC_011507.2 Rotavirus A segment 1, complete genome-table6-Sedoreovirinae_2-HMM112-716_54.0-ORF35
+seq4	>ref-NC_014511.1 Rotavirus D chicken/05V0049/DEU/2005 segment 1, complete genome-table6-Sedoreovirinae_2-HMM113-706_54.0-ORF39
+seq5	>ref-NC_021541.1 Human rotavirus B strain Bang373 RNA dependent RNA polymerase (VP1) mRNA, complete cds-table6-Sedoreovirinae_2-HMM138-764_53.0-ORF35
+seq6	>ref-NC_021625.1 Rotavirus F chicken/03V0568/DEU/2003 segment 1, complete sequence-table6-Sedoreovirinae_2-HMM120-714_54.0-ORF28
+seq7	>ref-NC_026825.2 Rotavirus I strain KE135/2012 VP1 gene, complete cds-table6-Sedoreovirinae_2-HMM138-766_53.0-ORF38
+seq8	>ref-NC_021590.1 Rotavirus G chicken/03V0567/DEU/2003 segment 1, complete sequence-table6-Sedoreovirinae_2-HMM139-766_53.0-ORF37
+seq9	>nrnt-KU254592 Porcine rotavirus H strain MN.9.65 VP1 gene, complete cds.-table6-Sedoreovirinae_2-HMM141-771_53.0-ORF41
+seq10	>nrnt-MG600125 Nanhai dogfish shark rotavirus strain NHJSC29872 RNA-dependent RNA polymerase gene, partial cds.-table6-Sedoreovirinae_2-HMM172-768_50.0-ORF43
+seq11	>nrnt-MG600124 Wenzhou pacific spadenose shark rotavirus strain RGYQSMGReov43230 RNA-dependent RNA polymerase gene, complete cds.-table6-Sedoreovirinae_2-HMM112-705_54.0-ORF33
+seq12	>nrnt-MG600123 Wenling jack mackerels rotavirus strain LXMC144087 RNA-dependent RNA polymerase gene, complete cds.-table6-Sedoreovirinae_2-HMM104-700_54.0-ORF35
+seq13	>nrnt-KX257410 Rotavirus A strain RVA/Human-wt/SUR/2014735512/2013/G20P[28] segment 1 VP1 gene, complete cds.-table6-Sedoreovirinae_2-HMM106-709_55.0-ORF40
+seq14	>nrnt-KX869730 (REVERSE SENSE) Rotavirus B isolate RVB/Pig/Russia/Buryat15/GXP[X] segment 1 RNA-dependent RNA polymerase (VP1) gene, complete cds.-table6-Sedoreovirinae_2-HMM136-762_53.0-ORF85
+seq15	>nrnt-LC105239 Human rotavirus A VP1 gene for VP1 protein, partial cds, strain: RVA/Human-wt/JPN/To14-1/2014/G2P[4].-table1-Sedoreovirinae_2-HMM1-252_53.0-ORF10
+seq16	>nrnt-KX814956 Rotavirus A isolate RVA/Bat-wt/CHN/YSSK5/2015/G3P[3] VP1 gene, complete cds.-table6-Sedoreovirinae_2-HMM111-715_55.0-ORF34
+seq17	>nrnt-KX814935 Rotavirus A isolate RVA/Bat-wt/CHN/GLRL1/2005/G33P[48] VP1 gene, complete cds.-table6-Sedoreovirinae_2-HMM112-717_55.0-ORF32
+seq18	>nrnt-KY026784 Rotavirus I VP1 gene, complete cds.-table4-Sedoreovirinae_2-HMM136-764_53.0-ORF41
+seq19	>nrnt-LC185703 Bovine group B rotavirus gene for VP1, partial cds, strain: RVB/Cow-wt/JPN/IS-1/1999/G3P[X].-table1-Sedoreovirinae_2-HMM2-125_23.0-ORF16
+seq20	>nrnt-KX756624 Rotavirus J strain BO4351/Ms/2014 VP1 (VP1 Pol) gene, complete cds.-table6-Sedoreovirinae_2-HMM141-772_53.0-ORF38
+seq21	>nrnt-GU983672 Rotavirus A bat/4852/Kenya/2007 VP1 gene, partial cds.-table1-Sedoreovirinae_2-HMM30-388_89.0-ORF7
+seq22	>nrnt-KX268787 Rotavirus A isolate Bat-wt/CMR/BatLy17/2014/G30P47_R15 VP1 gene, complete cds.-table6-Sedoreovirinae_2-HMM109-712_55.0-ORF37
+seq23	>nrnt-KX268776 Rotavirus A isolate Bat-wt/CMR/BatLy03/2014/G25P43_R16 VP1 gene, complete cds.-table4-Sedoreovirinae_2-HMM110-714_55.0-ORF37
+seq24	>nrnt-KX362411 Rotavirus B strain RVB/Pig-wt/VNM/14250_10/VP1 RNA-dependent RNA polymerase (VP1) gene, partial cds.-table1-Sedoreovirinae_2-HMM1-502_55.0-ORF29
+seq25	>nrnt-KX362400 Rotavirus B strain RVB/Pig-wt/VNM/14177_18/VP1 RNA-dependent RNA polymerase (VP1) gene, partial cds.-table6-Sedoreovirinae_2-HMM135-761_53.0-ORF38
+seq26	>nrnt-KU243542 Rotavirus G28 strain RVA/Shrew/CHN/LW9/2013 VP1 gene, partial cds.-table1-Sedoreovirinae_2-HMM88-692_58.0-ORF15
+seq27	>nrnt-KT873808 Rotavirus A strain fox-wt/ITA/288356/2011/G18P[17] segment 1 VP1 gene, complete cds.-table6-Sedoreovirinae_2-HMM111-717_55.0-ORF34
+seq28	>nrnt-LC088218 Rotavirus A VP1 gene for VP1 protein, complete cds, strain: RVA/CommonGull-wt/JPN/Ho374/2013/G28P[39].-table6-Sedoreovirinae_2-HMM105-708_55.0-ORF33
+seq29	>nrnt-LC088125 Rotavirus A VP1 gene for VP1 protein, complete cds, strain: RVA/Chicken-tc/IRL/Ch-1/1979/G19P[30].-table6-Sedoreovirinae_2-HMM111-717_55.0-ORF31
+seq30	>nrnt-KR632623 Rotavirus A strain human-wt/ITA/ME848/12/2012/G12P9 VP1 gene, complete cds.-table6-Sedoreovirinae_2-HMM112-716_54.0-ORF37
+seq31	>nrnt-KR052714 Rotavirus B strain RVB/Pig-tc/USA/LS00011_Ohio/XXXX/GXP[X] segment 1 RNA-dependent RNA polymerase VP1 (VP1) gene, complete cds.-table6-Sedoreovirinae_2-HMM138-764_53.0-ORF36
+seq32	>nrnt-KJ477105 Murine rotavirus strain EB-A8/G16P[16] VP1 (VP1) gene, complete cds.-table6-Sedoreovirinae_2-HMM112-716_54.0-ORF33
+seq33	>nrnt-KC876010 Rotavirus G pigeon/HK18 strain HK18 VP1 gene, complete cds.-table6-Sedoreovirinae_2-HMM140-767_53.0-ORF40
+seq34	>nrnt-JN974793 Porcine rotavirus strain 82 VP1 gene, complete cds.-table6-Sedoreovirinae_2-HMM112-716_54.0-ORF38
+seq35	>nrnt-AB738405 Bovine group C rotavirus VP1 gene for VP1, complete cds, strain: Shintoku.-table4-Sedoreovirinae_2-HMM118-714_54.0-ORF38
+seq36	>nrnt-GQ358721 Bovine group B rotavirus strain RUBV282 VP1 gene, complete cds.-table6-Sedoreovirinae_2-HMM136-762_53.0-ORF36
+seq37	>nrnt-ROTROTAB Rotavirus group B genomic RNA sequence.-table6-Sedoreovirinae_2-HMM137-763_53.0-ORF36
+seq38	>nrnt-LC047794 Bovine astrovirus genomic RNA, nearly complete genome, strain: BoAstV/JPN/Hokkaido12-27.-table6-Sedoreovirinae_2-HMM1-42_77.0-ORF1

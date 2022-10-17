@@ -1,0 +1,108 @@
+seq1	>ref-NC_001480.1 Eggplant mosaic virus, complete genome-table6-Tymoviridae-HMM1388-1809_22.0-ORF41
+seq2	>ref-NC_001977.1 Erysimum latent virus, complete genome-table4-Tymoviridae-HMM1293-1714_21.0-ORF33
+seq3	>ref-NC_001746.1 Kennedya yellow mosaic virus, complete genome-table6-Tymoviridae-HMM1388-1809_20.0-ORF50
+seq4	>ref-NC_001513.1 Ononis yellow mosaic virus, complete genome-table6-Tymoviridae-HMM1308-1729_22.0-ORF44
+seq5	>ref-NC_003634.1 Physalis mottle virus, complete genome-table6-Tymoviridae-HMM1447-1868_21.0-ORF41
+seq6	>ref-NC_006950.1 Citrus sudden death-associated virus, complete genome-table6-Tymoviridae-HMM1506-1927_18.0-ORF51
+seq7	>ref-NC_003347.1 Grapevine fleck virus, complete genome-table6-Tymoviridae-HMM1555-1974_20.0-ORF25
+seq8	>ref-NC_002164.1 Poinsettia mosaic virus, complete genome-table6-Tymoviridae-HMM1315-1737_20.0-ORF53
+seq9	>ref-NC_001793.1 Oat blue dwarf virus complete genome-table6-Tymoviridae-HMM1371-1792_19.0-ORF40
+seq10	>ref-NC_004063.1 Turnip yellow mosaic virus, complete genome-table6-Tymoviridae-HMM1357-1779_21.0-ORF38
+seq11	>ref-NC_002786.1 Maize rayado fino virus isolate Costa Rican, complete genome-table6-Tymoviridae-HMM1324-1745_20.0-ORF35
+seq12	>ref-NC_002588.1 Chayote mosaic virus, complete genome-table6-Tymoviridae-HMM1350-1771_21.0-ORF42
+seq13	>ref-NC_007609.1 Dulcamara mottle virus, complete genome-table6-Tymoviridae-HMM1300-1721_23.0-ORF44
+seq14	>ref-NC_009532.1 Okra mosaic virus, complete genome-table4-Tymoviridae-HMM1368-1789_20.0-ORF12
+seq15	>ref-NC_011086.1 Diascia yellow mottle virus, complete genome-table6-Tymoviridae-HMM1356-1777_22.0-ORF34
+seq16	>ref-NC_011559.1 Anagyris vein yellowing virus, complete genome-table4-Tymoviridae-HMM1309-1729_22.0-ORF38
+seq17	>ref-NC_011538.1 Nemesia ring necrosis virus, complete genome-table6-Tymoviridae-HMM1342-1763_22.0-ORF40
+seq18	>ref-NC_011537.1 Scrophularia mottle virus, complete genome-table4-Tymoviridae-HMM1337-1758_22.0-ORF23
+seq19	>ref-NC_012484.1 Grapevine Syrah Virus-1, complete genome-table6-Tymoviridae-HMM1412-1628_9.0-ORF50
+seq20	>ref-NC_011539.1 Plantago mottle virus, complete genome-table4-Tymoviridae-HMM1336-1757_22.0-ORF39
+seq21	>ref-NC_013920.1 Olive latent virus 3, complete genome-table4-Tymoviridae-HMM1538-1957_18.0-ORF26
+seq22	>ref-NC_014127.1 Chiltepin yellow mosaic virus, complete genome-table4-Tymoviridae-HMM1375-1817_21.0-ORF32
+seq23	>ref-NC_015523.1 Asclepias asymptomatic virus, complete genome-table6-Tymoviridae-HMM1322-1743_21.0-ORF42
+seq24	>ref-NC_015524.1 Bombyx mori Macula-like virus, complete genome-table6-Tymoviridae-HMM1282-1703_22.0-ORF44
+seq25	>ref-NC_015229.1 Fig fleck-associated virus, complete genome-table6-Tymoviridae-HMM1380-1797_18.0-ORF37
+seq26	>ref-NC_015522.1 Switchgrass mosaic virus, complete genome-table6-Tymoviridae-HMM1359-1780_19.0-ORF45
+seq27	>ref-NC_018703.1 Culex originated Tymoviridae-like virus, complete genome-table6-Tymoviridae-HMM1325-1747_22.0-ORF43
+seq28	>ref-NC_020471.1 Andean potato mild mosaic virus isolate Hu, complete genome-table6-Tymoviridae-HMM1324-1745_22.0-ORF44
+seq29	>ref-NC_020470.1 Andean potato latent virus, complete genome-table4-Tymoviridae-HMM1390-1811_20.0-ORF28
+seq30	>ref-NC_021851.1 Tomato blistering mosaic virus isolate SC50, complete genome-table4-Tymoviridae-HMM1323-1744_22.0-ORF35
+seq31	>ref-NC_027619.1 Varroa Tymo-like virus isolate PSU-1var, complete genome-table4-Tymoviridae-HMM1235-1656_20.0-ORF21
+seq32	>ref-NC_027631.1 Bee Macula-like virus isolate France 878V, complete genome-table6-Tymoviridae-HMM1321-1741_22.0-ORF32
+seq33	>ref-NC_029063.1 Nectarine virus M isolate NeVM/12C51, complete genome-table6-Tymoviridae-HMM1356-1777_20.0-ORF55
+seq34	>ref-NC_030693.1 Grapevine Red Globe virus isolate Graciano-T101, complete genome-table4-Tymoviridae-HMM1435-1856_19.0-ORF17
+seq35	>ref-NC_030844.1 Bat tymo-like virus polyprotein and capsid protein genes, complete cds-table6-Tymoviridae-HMM1249-1667_23.0-ORF46
+seq36	>ref-NC_031692.1 Grapevine asteroid mosaic-associated virus isolate GV30, complete genome-table4-Tymoviridae-HMM1479-1900_18.0-ORF15
+seq37	>ref-NC_033254.1 Hubei macula-like virus 1 strain QTM27280 hypothetical protein genes, complete cds-table6-Tymoviridae-HMM1116-1537_25.0-ORF47
+seq38	>ref-NC_033260.1 Hubei macula-like virus 2 strain QTM27299 hypothetical protein genes, complete cds-table6-Tymoviridae-HMM1206-1625_24.0-ORF34
+seq39	>ref-NC_033828.1 Peach virus D isolate SK, complete genome-table6-Tymoviridae-HMM1405-1826_19.0-ORF44
+seq40	>ref-NC_034205.1 Grapevine rupestris vein feathering virus isolate Mauzac, complete genome-table4-Tymoviridae-HMM1502-1923_19.0-ORF18
+seq41	>nrnt-KX883800 Hubei macula-like virus 3 strain spider129741 hypothetical protein gene, partial cds; and hypothetical protein gene, complete cds.-table6-Tymoviridae-HMM769-1179_32.0-ORF36
+seq42	>nrnt-KX883799 Hubei macula-like virus 3 strain spider128797 hypothetical protein gene, partial cds; and hypothetical protein gene, complete cds.-table6-Tymoviridae-HMM562-972_36.0-ORF24
+seq43	>nrnt-MG676465 Alfalfa virus F isolate SM-1_C50, complete genome.-table6-Tymoviridae-HMM1417-1838_18.0-ORF44
+seq44	>nrnt-MG323924 Naranjilla chlorotic mosaic virus isolate NarCMV, complete genome.-table6-Tymoviridae-HMM1362-1783_22.0-ORF34
+seq45	>nrnt-KY823429 Passionfruit enation virus isolate PPEV_Antioquia movement protein, RNA dependent RNA polymerase, and coat protein genes, complete cds.-table4-Tymoviridae-HMM1318-1738_20.0-ORF23
+seq46	>nrnt-MF998084 Bee Macula-Like virus 2 isolate BeeMLV2_ahae2, complete genome.-table4-Tymoviridae-HMM1221-1643_23.0-ORF47
+seq47	>nrnt-MF443260 Medicago sativa marafivirus 1 polyprotein gene, complete cds.-table6-Tymoviridae-HMM1399-1820_18.0-ORF43
+seq48	>nrnt-AF467107 (REVERSE SENSE) Passion fruit yellow mosaic virus polymerase protein gene, partial cds; and coat protein gene, complete cds.-table4-Tymoviridae-HMM12-78_30.0-ORF14
+seq49	>nrnt-FJ713524 Mertensia leaf curl virus isolate NTR8 replication-associated polyprotein (RP) gene, partial cds; and coat protein (CP) gene, complete cds.-table6-Tymoviridae-HMM22-443_76.0-ORF17
+seq50	>nrnt-AF035633 Wild cucumber mosaic virus replicase protein gene, partial cds; and virion protein gene, complete cds.-table4-Tymoviridae-HMM20-149_31.0-ORF5
+seq51	>nrnt-KT834406 Tomato blistering mosaic virus isolate SP-01, complete genome.-table4-Tymoviridae-HMM1341-1762_21.0-ORF39
+seq52	>nrnt-KT162925 Bee Macula-like virus isolate PSU-1var, complete genome.-table6-Tymoviridae-HMM1374-1794_21.0-ORF46
+seq53	>nrnt-HW607974 JP 2014513921-A/1: EXOGENOUS INTERNAL POSITIVE CONTROL.-table6-Tymoviridae-HMM1342-1764_21.0-ORF34
+seq54	>nrnt-JQ001816 Watercress white vein virus isolate 20903772 movement protein, RNA polymerase, and capsid protein genes, complete cds.-table6-Tymoviridae-HMM1341-1763_20.0-ORF43
+seq55	>nrnt-JN545837 Cassia yellow mosaic-associated virus RNA-dependent RNA-polymerase-like gene, partial sequence; and coat protein gene, complete cds.-table4-Tymoviridae-HMM2-294_53.0-ORF13
+seq56	>nrnt-HQ585115 Tymovirus Eptesicus fuscus/P5/IT/USA/2009 replicase-like gene, partial sequence.-table6-Tymoviridae-HMM2-363_68.0-ORF9
+seq57	>nrnt-FJ915122 Blackberry virus S polyprotein mRNA, complete cds.-table6-Tymoviridae-HMM1384-1805_20.0-ORF56
+seq58	>nrnt-AY706994 Grapevine rupestris vein feathering virus polyprotein gene, complete cds.-table4-Tymoviridae-HMM1499-1874_17.0-ORF32
+seq59	>tsa-GEZL01184301.1 (REVERSE SENSE) TSA: Ambrosia artemisiifolia TR72506_c0_g1_i1 transcribed RNA sequence-table1-Tymoviridae-HMM2-80_97.0-ORF7
+seq60	>tsa-GCKF01012406.1 (REVERSE SENSE) TSA: Araucaria cunninghamii Ref_Hoop_Pine_Transcript_14135_579 transcribed RNA sequence-table1-Tymoviridae-HMM1-192_98.0-ORF16
+seq61	>tsa-GEEA01002867.1 TSA: Bactrocera dorsalis comp10325_c0_seq1 transcribed RNA sequence-table1-Tymoviridae-HMM3-111_97.0-ORF4
+seq62	>tsa-GEEA01033685.1 (REVERSE SENSE) TSA: Bactrocera dorsalis comp360672_c0_seq1 transcribed RNA sequence-table1-Tymoviridae-HMM1-70_98.0-ORF7
+seq63	>tsa-HAEN01089561.1 TSA: Bragasellus peltatus, contig comp624299_c0_seq1, transcribed RNA sequence-table6-Tymoviridae-HMM21-66_68.0-ORF3
+seq64	>tsa-GCIB01016986.1 (REVERSE SENSE) TSA: Colobanthus quitensis Colobanthus_quitensis_contig_16725_1 transcribed RNA sequence-table6-Tymoviridae-HMM211-629_57.0-ORF75
+seq65	>tsa-GCIB01113494.1 (REVERSE SENSE) TSA: Colobanthus quitensis Colobanthus_quitensis_contig_112650_1 transcribed RNA sequence-table6-Tymoviridae-HMM203-621_58.0-ORF86
+seq66	>tsa-GCIB01140911.1 (REVERSE SENSE) TSA: Colobanthus quitensis Colobanthus_quitensis_contig_140177_1 transcribed RNA sequence-table6-Tymoviridae-HMM1-273_73.0-ORF25
+seq67	>tsa-GCIB01153130.1 (REVERSE SENSE) TSA: Colobanthus quitensis Colobanthus_quitensis_contig_152564_1 transcribed RNA sequence-table1-Tymoviridae-HMM1-123_99.0-ORF10
+seq68	>tsa-GCIB01161071.1 TSA: Colobanthus quitensis Colobanthus_quitensis_contig_160734_1 transcribed RNA sequence-table1-Tymoviridae-HMM67-208_67.0-ORF6
+seq69	>tsa-GBLP01018970.1 TSA: Diglyphus isaea s102_L_124_2_a_82_7_l_15745 transcribed RNA sequence-table6-Tymoviridae-HMM1375-1797_22.0-ORF53
+seq70	>tsa-GAYT01013323.1 (REVERSE SENSE) TSA: Ficus carica isotig13208 transcribed RNA sequence-table1-Tymoviridae-HMM1-75_34.0-ORF14
+seq71	>tsa-GBPJ01001766.1 TSA: Heteropelma amictum C111023_a_62_0_l_6492 transcribed RNA sequence-table6-Tymoviridae-HMM1288-1709_23.0-ORF51
+seq72	>tsa-GAVM02005754.1 (REVERSE SENSE) TSA: Hydroptila sp. AD-2013 C57868_a_3_0_l_245 transcribed RNA sequence-table1-Tymoviridae-HMM1-80_97.0-ORF8
+seq73	>tsa-GEWR01189164.1 (REVERSE SENSE) TSA: Ilex paraguariensis comp224605_c0_seq1 transcribed RNA sequence-table1-Tymoviridae-HMM1-48_71.0-ORF10
+seq74	>tsa-GAFF01146228.1 TSA: Medicago sativa comp275172_c0_seq1 mRNA sequence-table6-Tymoviridae-HMM1004-1425_23.0-ORF35
+seq75	>tsa-GEMC01029934.1 TSA: Nasturtium officinale c31735_g1_i1 transcribed RNA sequence-table6-Tymoviridae-HMM840-1262_30.0-ORF49
+seq76	>tsa-GBKW01002583.1 (REVERSE SENSE) TSA: Olea europaea OlePic_t_9979 transcribed RNA sequence-table1-Tymoviridae-HMM2-68_97.0-ORF6
+seq77	>tsa-GBKW01008755.1 (REVERSE SENSE) TSA: Olea europaea OlePic_t_34825 transcribed RNA sequence-table4-Tymoviridae-HMM1-141_54.0-ORF13
+seq78	>tsa-GBKW01020302.1 (REVERSE SENSE) TSA: Olea europaea OlePic_t_80368 transcribed RNA sequence-table4-Tymoviridae-HMM694-1113_32.0-ORF59
+seq79	>tsa-GBKW01030924.1 TSA: Olea europaea OlePic_t_122802 transcribed RNA sequence-table4-Tymoviridae-HMM770-1189_33.0-ORF18
+seq80	>tsa-GBKW01038613.1 (REVERSE SENSE) TSA: Olea europaea OlePic_t_153098 transcribed RNA sequence-table1-Tymoviridae-HMM1-306_89.0-ORF27
+seq81	>tsa-GBKW01075104.1 (REVERSE SENSE) TSA: Olea europaea OlePic_t_299552 transcribed RNA sequence-table1-Tymoviridae-HMM1420-1500_5.0-ORF102
+seq82	>tsa-GBKW01089001.1 (REVERSE SENSE) TSA: Olea europaea OlePic_t_355190 transcribed RNA sequence-table1-Tymoviridae-HMM1-74_98.0-ORF7
+seq83	>tsa-GBKW01093804.1 (REVERSE SENSE) TSA: Olea europaea OlePic_t_374250 transcribed RNA sequence-table1-Tymoviridae-HMM1-133_99.0-ORF15
+seq84	>tsa-GBKW01098717.1 TSA: Olea europaea OlePic_t_394220 transcribed RNA sequence-table1-Tymoviridae-HMM7-82_90.0-ORF5
+seq85	>tsa-GBKW01101538.1 TSA: Olea europaea OlePic_t_405372 transcribed RNA sequence-table1-Tymoviridae-HMM2-72_85.0-ORF3
+seq86	>tsa-GBKW01103211.1 TSA: Olea europaea OlePic_t_411928 transcribed RNA sequence-table1-Tymoviridae-HMM1-92_98.0-ORF5
+seq87	>tsa-GBKW01107750.1 TSA: Olea europaea OlePic_t_430208 transcribed RNA sequence-table1-Tymoviridae-HMM33-111_70.0-ORF7
+seq88	>tsa-GBKW01123066.1 TSA: Olea europaea OlePic_t_491273 transcribed RNA sequence-table1-Tymoviridae-HMM1-243_99.0-ORF8
+seq89	>tsa-GBKW01124744.1 (REVERSE SENSE) TSA: Olea europaea OlePic_t_497931 transcribed RNA sequence-table1-Tymoviridae-HMM1-126_99.0-ORF10
+seq90	>tsa-GBKW01133838.1 (REVERSE SENSE) TSA: Olea europaea OlePic_t_534124 transcribed RNA sequence-table1-Tymoviridae-HMM2-107_98.0-ORF12
+seq91	>tsa-GBKW01145137.1 TSA: Olea europaea OlePic_t_578119 transcribed RNA sequence-table1-Tymoviridae-HMM1-101_99.0-ORF4
+seq92	>tsa-GBKW01147225.1 TSA: Olea europaea OlePic_t_586552 transcribed RNA sequence-table4-Tymoviridae-HMM1425-1844_21.0-ORF28
+seq93	>tsa-GCHX01163578.1 TSA: Picea glauca PG29_BFMXY_Trinity_Pasafly_comp381839_c0_seq1 transcribed RNA sequence-table1-Tymoviridae-HMM227-331_31.0-ORF12
+seq94	>tsa-GDQR01003894.1 TSA: Pinus albicaulis seq3896 transcribed RNA sequence-table4-Tymoviridae-HMM1-45_38.0-ORF6
+seq95	>tsa-GDQR01005194.1 TSA: Pinus albicaulis seq5198 transcribed RNA sequence-table1-Tymoviridae-HMM1-96_68.0-ORF4
+seq96	>tsa-GDQR01021255.1 TSA: Pinus albicaulis seq21267 transcribed RNA sequence-table1-Tymoviridae-HMM2-115_98.0-ORF3
+seq97	>tsa-GDQR01021607.1 TSA: Pinus albicaulis seq21619 transcribed RNA sequence-table1-Tymoviridae-HMM1-129_92.0-ORF6
+seq98	>tsa-GEDP01283657.1 (REVERSE SENSE) TSA: Triticum polonicum comp65889_c0 transcribed RNA sequence-table6-Tymoviridae-HMM7-90_92.0-ORF7
+seq99	>tsa-GETM01263059.1 TSA: Varroa jacobsoni comp132163_c0_seq1 transcribed RNA sequence-table6-Tymoviridae-HMM3-89_93.0-ORF4
+seq100	>tsa-GETP01262250.1 TSA: Varroa jacobsoni comp132163_c0_seq1 transcribed RNA sequence-table6-Tymoviridae-HMM3-89_93.0-ORF4
+seq101	>tsa-GBQS01017430.1 TSA: Vespa crabro C163546_a_5_0_l_1952 transcribed RNA sequence-table6-Tymoviridae-HMM334-650_48.0-ORF15
+seq102	>tsa-GBQS01018888.1 TSA: Vespa crabro C169216_a_58_0_l_6899 transcribed RNA sequence-table6-Tymoviridae-HMM1545-1966_18.0-ORF64
+seq103	>tsa-GBQS01033238.1 TSA: Vespa crabro s12975_L_36156_0_a_9_4_l_1301 transcribed RNA sequence-table6-Tymoviridae-HMM1-70_19.0-ORF7
+seq104	>tsa-GAKH01047155.1 (REVERSE SENSE) TSA: Vitis vinifera Seeds_3_1_16513_Transcript_1__1_Confidence_1.000_Length_921 transcribed RNA sequence-table6-Tymoviridae-HMM1-299_97.0-ORF14
+seq105	>tsa-GAKH01056628.1 (REVERSE SENSE) TSA: Vitis vinifera Seeds_3_3_13408_Transcript_1__1_Confidence_1.000_Length_1735 transcribed RNA sequence-table6-Tymoviridae-HMM1-300_51.0-ORF30
+seq106	>tsa-GAKH01102091.1 TSA: Vitis vinifera Skin_3_1_16452_Transcript_1__1_Confidence_1.000_Length_3946 transcribed RNA sequence-table6-Tymoviridae-HMM416-837_36.0-ORF29
+seq107	>tsa-GBXP01018307.1 (REVERSE SENSE) TSA: Vitis vinifera Unigene2380_CLI-a transcribed RNA sequence-table6-Tymoviridae-HMM550-969_40.0-ORF58
+seq108	>tsa-GBXP01050759.1 (REVERSE SENSE) TSA: Vitis vinifera Unigene34866_CLI-a transcribed RNA sequence-table6-Tymoviridae-HMM1-69_97.0-ORF6

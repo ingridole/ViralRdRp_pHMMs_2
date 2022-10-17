@@ -1,0 +1,134 @@
+seq1	>ref-NC_003436.1 Porcine epidemic diarrhea virus, complete genome-table4-Coronaviridae-HMM414-910_18.0-ORF218
+seq2	>ref-NC_002645.1 Human coronavirus 229E, complete genome-table6-Coronaviridae-HMM401-897_18.0-ORF214
+seq3	>ref-NC_005831.2 Human Coronavirus NL63, complete genome-table4-Coronaviridae-HMM422-918_18.0-ORF212
+seq4	>ref-NC_002306.3 Feline infectious peritonitis virus, complete genome-table4-Coronaviridae-HMM416-912_18.0-ORF210
+seq5	>ref-NC_006577.2 Human coronavirus HKU1, complete genome-table6-Coronaviridae-HMM428-924_17.0-ORF202
+seq6	>ref-NC_001846.1 Mouse hepatitis virus strain MHV-A59 C12 mutant, complete genome-table6-Coronaviridae-HMM428-924_17.0-ORF221
+seq7	>ref-NC_003045.1 Bovine coronavirus, complete genome-table6-Coronaviridae-HMM409-905_16.0-ORF221
+seq8	>ref-NC_001451.1 Avian infectious bronchitis virus, complete genome-table6-Coronaviridae-HMM409-904_18.0-ORF191
+seq9	>ref-NC_004718.3 SARS coronavirus, complete genome-table6-Coronaviridae-HMM417-913_12.0-ORF240
+seq10	>ref-NC_007447.1 Breda virus, complete genome-table6-Coronaviridae-HMM362-798_18.0-ORF208
+seq11	>ref-NC_008516.1 White bream virus, complete genome-table6-Coronaviridae-HMM423-835_16.0-ORF172
+seq12	>ref-NC_009021.1 Bat coronavirus HKU9-1, complete genome-table4-Coronaviridae-HMM407-903_18.0-ORF233
+seq13	>ref-NC_016992.1 Sparrow coronavirus HKU17, complete genome-table4-Coronaviridae-HMM413-902_18.0-ORF201
+seq14	>ref-NC_009019.1 Bat coronavirus HKU4-1, complete genome-table6-Coronaviridae-HMM420-916_18.0-ORF219
+seq15	>ref-NC_009657.1 Scotophilus bat coronavirus 512, complete genome-table4-Coronaviridae-HMM408-904_18.0-ORF205
+seq16	>ref-NC_010646.1 Beluga Whale coronavirus SW1, complete genome-table4-Coronaviridae-HMM478-974_17.0-ORF215
+seq17	>ref-NC_009020.1 Bat coronavirus HKU5-1, complete genome-table4-Coronaviridae-HMM422-918_17.0-ORF236
+seq18	>ref-NC_009988.1 Bat coronavirus HKU2, complete genome-table4-Coronaviridae-HMM406-902_18.0-ORF188
+seq19	>ref-NC_010437.1 Bat coronavirus 1A, complete genome-table6-Coronaviridae-HMM401-897_18.0-ORF183
+seq20	>ref-NC_010438.1 Bat coronavirus HKU8, complete genome-table4-Coronaviridae-HMM415-911_18.0-ORF189
+seq21	>ref-NC_010800.1 Turkey coronavirus, complete genome-table6-Coronaviridae-HMM411-906_18.0-ORF190
+seq22	>ref-NC_011550.1 Munia coronavirus HKU13-3514, complete genome-table6-Coronaviridae-HMM419-909_16.0-ORF175
+seq23	>ref-NC_011549.1 Thrush coronavirus HKU12-600, complete genome-table6-Coronaviridae-HMM419-908_16.0-ORF187
+seq24	>ref-NC_012936.1 Rat coronavirus Parker, complete genome-table6-Coronaviridae-HMM428-924_17.0-ORF211
+seq25	>ref-NC_014470.1 Bat coronavirus BM48-31/BGR/2008, complete genome-table6-Coronaviridae-HMM406-902_12.0-ORF239
+seq26	>ref-NC_016993.1 Magpie-robin coronavirus HKU18, complete genome-table6-Coronaviridae-HMM419-908_16.0-ORF178
+seq27	>ref-NC_016990.2 Porcine coronavirus HKU15 strain HKU15-44, complete genome-table4-Coronaviridae-HMM413-902_17.0-ORF216
+seq28	>ref-NC_016995.1 Wigeon coronavirus HKU20, complete genome-table6-Coronaviridae-HMM396-886_17.0-ORF179
+seq29	>ref-NC_016994.1 Night-heron coronavirus HKU19, complete genome-table6-Coronaviridae-HMM426-916_16.0-ORF190
+seq30	>ref-NC_016991.1 White-eye coronavirus HKU16, complete genome-table6-Coronaviridae-HMM419-908_17.0-ORF155
+seq31	>ref-NC_016996.1 Common-moorhen coronavirus HKU21, complete genome-table6-Coronaviridae-HMM419-908_18.0-ORF156
+seq32	>ref-NC_017083.1 Rabbit coronavirus HKU14, complete genome-table6-Coronaviridae-HMM428-924_16.0-ORF230
+seq33	>ref-NC_018871.1 Rousettus bat coronavirus HKU10, complete genome-table4-Coronaviridae-HMM410-906_18.0-ORF205
+seq34	>ref-NC_019843.3 Middle East respiratory syndrome coronavirus, complete genome-table6-Coronaviridae-HMM419-915_18.0-ORF207
+seq35	>ref-NC_022643.1 Betacoronavirus Erinaceus/VMC/DEU/2012 isolate ErinaceusCoV/2012-216/GER/2012, complete genome-table4-Coronaviridae-HMM406-902_18.0-ORF235
+seq36	>ref-NC_022103.1 Bat coronavirus CDPHE15/USA/2006, complete genome-table4-Coronaviridae-HMM409-905_18.0-ORF192
+seq37	>ref-NC_023760.1 Mink coronavirus strain WD1127, complete genome-table6-Coronaviridae-HMM411-907_18.0-ORF200
+seq38	>ref-NC_025217.1 Bat Hp-betacoronavirus/Zhejiang2013, complete genome-table6-Coronaviridae-HMM404-900_14.0-ORF246
+seq39	>ref-NC_026011.1 Betacoronavirus HKU24 strain HKU24-R05005I, complete genome-table4-Coronaviridae-HMM447-943_17.0-ORF235
+seq40	>ref-NC_026812.1 Chinook salmon bafinivirus isolate NIDO, complete genome-table6-Coronaviridae-HMM390-818_17.0-ORF184
+seq41	>ref-NC_027199.1 Bovine nidovirus TCH5, complete genome-table6-Coronaviridae-HMM361-812_21.0-ORF176
+seq42	>ref-NC_028752.1 Camel alphacoronavirus isolate camel/Riyadh/Ry141/2015, complete genome-table6-Coronaviridae-HMM401-897_18.0-ORF208
+seq43	>ref-NC_028806.1 Swine enteric coronavirus strain Italy/213306/2009, complete genome-table6-Coronaviridae-HMM401-897_12.0-ORF228
+seq44	>ref-NC_028824.1 BtRf-AlphaCoV/YN2012, complete genome-table4-Coronaviridae-HMM406-902_18.0-ORF180
+seq45	>ref-NC_028811.1 BtMr-AlphaCoV/SAX2011, complete genome-table6-Coronaviridae-HMM401-897_18.0-ORF197
+seq46	>ref-NC_028814.1 BtRf-AlphaCoV/HuB2013, complete genome-table6-Coronaviridae-HMM401-897_18.0-ORF206
+seq47	>ref-NC_028833.1 BtNv-AlphaCoV/SC2013, complete genome-table6-Coronaviridae-HMM401-897_17.0-ORF184
+seq48	>ref-NC_030292.1 Ferret coronavirus isolate FRCoV-NL-2010, complete genome-table4-Coronaviridae-HMM410-906_18.0-ORF217
+seq49	>ref-NC_030886.1 Rousettus bat coronavirus isolate GCCDC1 356, complete genome-table6-Coronaviridae-HMM405-901_18.0-ORF217
+seq50	>ref-NC_032107.1 NL63-related bat coronavirus strain BtKYNL63-9a, complete genome-table4-Coronaviridae-HMM425-921_16.0-ORF223
+seq51	>ref-NC_032730.1 Lucheng Rn rat coronavirus isolate Lucheng-19, complete genome-table4-Coronaviridae-HMM406-901_18.0-ORF175
+seq52	>ref-NC_033700.1 Xinzhou toro-like virus strain XZSJSC65757 1ab, putative glycoprotein, and hypothetical protein genes, complete cds-table6-Coronaviridae-HMM342-755_18.0-ORF223
+seq53	>ref-NC_034440.1 Bat coronavirus isolate PREDICT/PDF-2180, complete genome-table6-Coronaviridae-HMM420-916_18.0-ORF203
+seq54	>ref-NC_034972.1 Coronavirus AcCoV-JC34, complete genome-table4-Coronaviridae-HMM399-894_18.0-ORF208
+seq55	>ref-NC_034976.1 Goat torovirus strain SZ, complete genome-table6-Coronaviridae-HMM362-798_18.0-ORF206
+seq56	>ref-NC_035191.1 Wencheng Sm shrew coronavirus isolate Xingguo-101 ORF1ab polyprotein, spike glycoprotein, envelope protein, membrane protein, and nucleocapsid protein genes, complete cds-table6-Coronaviridae-HMM413-907_12.0-ORF231
+seq57	>nrnt-KX883637 Xinzhou nematode virus 6 strain XZSJSC61041 1ab gene, partial cds; and S protein, hypothetical protein, M protein, hypothetical protein, haemagglutinin-neuraminidase, and hypothetical protein genes, complete cds.-table6-Coronaviridae-HMM351-768_16.0-ORF132
+seq58	>nrnt-LC364345 Quail coronavirus UAE-HKU30 411F genomic RNA, complete genome.-table6-Coronaviridae-HMM419-908_17.0-ORF173
+seq59	>nrnt-LC364342 Falcon coronavirus UAE-HKU27 988F genomic RNA, complete genome.-table6-Coronaviridae-HMM419-908_16.0-ORF178
+seq60	>nrnt-MF113046 Alphacoronavirus Mink/China/1/2016, complete genome.-table6-Coronaviridae-HMM411-907_18.0-ORF197
+seq61	>nrnt-MG021452 Middle East respiratory syndrome-related coronavirus isolate NL140422, complete genome.-table4-Coronaviridae-HMM417-913_18.0-ORF212
+seq62	>nrnt-MG021451 Middle East respiratory syndrome-related coronavirus isolate NL13845, complete genome.-table6-Coronaviridae-HMM436-932_18.0-ORF201
+seq63	>nrnt-MF094685 Swine acute diarrhea syndrome related coronavirus isolate 8462, complete genome.-table4-Coronaviridae-HMM406-902_18.0-ORF187
+seq64	>nrnt-MG772933 Bat SARS-like coronavirus isolate bat-SL-CoVZC45, complete genome.-table6-Coronaviridae-HMM417-913_12.0-ORF242
+seq65	>nrnt-MG762674 Rousettus bat coronavirus HKU9 isolate Rousettus spp/Jinghong/2009, complete genome.-table4-Coronaviridae-HMM407-903_18.0-ORF243
+seq66	>nrnt-MG600031 Guangdong mandarin rat snake torovirus strain LPSF32319 1ab protein gene, partial cds; and spike protein, hypothetical protein, hemagglutinin-neuraminidase, and hypothetical protein genes, complete cds.-table6-Coronaviridae-HMM417-835_15.0-ORF130
+seq67	>nrnt-MG600029 Guangdong chinese water snake torovirus strain LPSF20552 1b protein gene, partial cds; and spike protein, hypothetical protein, and putative glycoprotein genes, complete cds.-table4-Coronaviridae-HMM971-1391_14.0-ORF81
+seq68	>nrnt-MG600030 Guangdong red-banded snake torovirus strain LPSF30546 1ab protein, spike protein, hypothetical protein, and putative glycoprotein genes, complete cds.-table4-Coronaviridae-HMM392-812_17.0-ORF238
+seq69	>nrnt-MG600028 Hainan hebius popei torovirus strain LPSC33749 1ab protein, spike protein, and hypothetical protein genes, complete cds.-table6-Coronaviridae-HMM378-800_16.0-ORF249
+seq70	>nrnt-MG448607 Infectious bronchitis virus strain ck/CH/LHB/121042, complete genome.-table6-Coronaviridae-HMM409-902_18.0-ORF200
+seq71	>nrnt-KX442564 Hypsugo bat coronavirus HKU25 isolate YD131305, complete genome.-table4-Coronaviridae-HMM417-913_18.0-ORF250
+seq72	>nrnt-MG596802 Middle East respiratory syndrome-related coronavirus isolate Bat-CoV/H.savii/Italy/206645-40/2011, complete genome.-table6-Coronaviridae-HMM420-916_18.0-ORF206
+seq73	>nrnt-KY370053 Shrew coronavirus isolate Shrew-CoV/Tibet2014 ORF1ab polyprotein, spike glycoprotein, envelope protein, membrane protein, and nucleocapsid protein genes, complete cds.-table6-Coronaviridae-HMM394-891_12.0-ORF235
+seq74	>nrnt-KY370052 Rodent coronavirus isolate RtMm-CoV-1/IM2014 ORF1ab polyprotein, hemagglutinin-esterase protein, spike glycoprotein, envelope protein, membrane protein, and nucleocapsid protein genes, complete cds.-table6-Coronaviridae-HMM460-956_17.0-ORF210
+seq75	>nrnt-KY370049 Rodent coronavirus isolate RtNn-CoV/SAX2015 ORF1ab polyprotein, hemagglutinin-esterase protein, spike glycoprotein, envelope protein, membrane protein, and nucleocapsid protein genes, complete cds.-table6-Coronaviridae-HMM428-924_16.0-ORF223
+seq76	>nrnt-KY370046 Rodent coronavirus isolate RtMruf-CoV-2/JL2014 ORF1ab polyprotein, hemagglutinin-esterase protein, spike glycoprotein, envelope protein, membrane protein, and nucleocapsid protein genes, complete cds.-table6-Coronaviridae-HMM418-914_16.0-ORF220
+seq77	>nrnt-KY370045 Rodent coronavirus isolate RtMruf-CoV-1/JL2014 ORF1ab polyprotein, spike glycoprotein, envelope protein, membrane protein, and nucleocapsid protein genes, complete cds.-table6-Coronaviridae-HMM399-894_18.0-ORF185
+seq78	>nrnt-KY370044 Rodent coronavirus isolate RtAs-CoV/IM2014 ORF1ab polyprotein, hemagglutinin-esterase protein, spike glycoprotein, envelope protein, membrane protein, and nucleocapsid protein genes, complete cds.-table6-Coronaviridae-HMM428-924_17.0-ORF239
+seq79	>nrnt-KX722530 Feline coronavirus isolate Cat 1 Karlslunde, complete genome.-table4-Coronaviridae-HMM416-912_18.0-ORF220
+seq80	>nrnt-KY566209 Feline coronavirus strain HLJ/HRB/2016/10, complete genome.-table4-Coronaviridae-HMM416-912_18.0-ORF224
+seq81	>nrnt-KY799179 Myotis lucifugus coronavirus, complete genome.-table4-Coronaviridae-HMM409-905_18.0-ORF191
+seq82	>nrnt-MF577027 Porcine epidemic diarrhea virus strain PEDV/Belgorod/dom/2008, complete genome.-table4-Coronaviridae-HMM414-910_18.0-ORF221
+seq83	>nrnt-KY938558 Bat coronavirus strain 16BO133, complete genome.-table6-Coronaviridae-HMM417-913_12.0-ORF241
+seq84	>nrnt-KJ473799 BtMf-AlphaCoV/FJ2012, complete genome.-table6-Coronaviridae-HMM410-906_18.0-ORF169
+seq85	>nrnt-KJ473821 BtVs-BetaCoV/SC2013, complete genome.-table4-Coronaviridae-HMM417-913_18.0-ORF220
+seq86	>nrnt-KY063617 Canine coronavirus isolate HLJ-072, complete genome.-table4-Coronaviridae-HMM417-913_18.0-ORF209
+seq87	>nrnt-KY770851 Bat coronavirus isolate Anlong-57, complete genome.-table6-Coronaviridae-HMM402-897_18.0-ORF193
+seq88	>nrnt-KX443143 Porcine deltacoronavirus strain CH-01, complete genome.-table4-Coronaviridae-HMM398-887_17.0-ORF220
+seq89	>nrnt-KY073745 NL63-related bat coronavirus strain BtKYNL63-9b, complete genome.-table4-Coronaviridae-HMM414-910_18.0-ORF202
+seq90	>nrnt-LC119077 Ferret coronavirus genomic RNA, complete genome, strain: FRCoV4370.-table6-Coronaviridae-HMM411-907_18.0-ORF204
+seq91	>nrnt-KX185057 Infectious bronchitis virus strain ck/CH/LHLJ/95I, complete genome.-table6-Coronaviridae-HMM409-904_18.0-ORF185
+seq92	>nrnt-KF294382 Anlong Ms bat coronavirus isolate Neixiang-32 orf1ab polyprotein gene, partial cds.-table4-Coronaviridae-HMM406-902_18.0-ORF135
+seq93	>nrnt-KX184715 Shingleback nidovirus 1 replicase 1a, replicase 1b, spike protein, putative accessory protein, and membrane protein genes, complete cds.-table6-Coronaviridae-HMM513-938_16.0-ORF161
+seq94	>nrnt-JF414934 Rocky Mountain bat coronavirus 61/2007/EF clone 61-4 replicase gene, partial cds.-table1-Coronaviridae-HMM386-649_40.0-ORF19
+seq95	>nrnt-FJ647224 Murine coronavirus MHV-3, complete genome.-table6-Coronaviridae-HMM428-924_17.0-ORF213
+seq96	>nrnt-KJ425503 Infectious bronchitis virus strain ck/CH/LHLJ/090908, complete genome.-table6-Coronaviridae-HMM409-904_18.0-ORF182
+seq97	>nrnt-KU182966 Bat coronavirus P1ab (ORF1ab) gene, partial cds; spike protein (S), 3a protein (ORF3a), envelope protein (E), and membrane protein (M) genes, complete cds; and nucleocapsid protein (N) gene, partial cds.-table4-Coronaviridae-HMM408-904_18.0-ORF195
+seq98	>nrnt-DQ022305 Bat SARS coronavirus HKU3-1, complete genome.-table6-Coronaviridae-HMM417-913_11.0-ORF241
+seq99	>nrnt-AF220295 Bovine coronavirus strain Quebec, complete genome.-table6-Coronaviridae-HMM409-905_17.0-ORF211
+seq100	>nrnt-AF207902 Murine hepatitis virus strain ML-11 RNA-directed RNA polymerase (orf1A), RNA-directed RNA polymerase (orf1B), non-structural protein (orf2A), hemagglutinin esterase protein (orf2B), spike glycoprotein precursor (orf3), non-structural protein (orf5A), envelope glycoprotein E (orf5B), matrix glycoprotein (orf6), and nucleocapsid protein (orf7) genes, complete cds.-table6-Coronaviridae-HMM428-924_17.0-ORF218
+seq101	>nrnt-KT253272 229E-related bat coronavirus isolate BtCoV/AT1A-F1/Hip_aba/GHA/2010 orf1ab, orf1a, spike glycoprotein, orf4, E, M, N, and orf8 genes, complete cds.-table4-Coronaviridae-HMM400-896_18.0-ORF226
+seq102	>nrnt-KT253271 229E-related bat coronavirus isolate BtCoV/KW2E-F56/Hip_cf._rub/GHA/2011 orf1ab, orf1a, spike glycoprotein, orf4, E, M, N, and orf8 genes, complete cds.-table6-Coronaviridae-HMM401-897_18.0-ORF209
+seq103	>nrnt-KP849472 Alphacoronavirus 1 strain 23/03, complete genome.-table4-Coronaviridae-HMM417-913_11.0-ORF252
+seq104	>nrnt-KP868572 Infectious bronchitis virus strain ck/CH/LHLJ/111043, complete genome.-table6-Coronaviridae-HMM333-828_18.0-ORF178
+seq105	>nrnt-KF294372 Longquan Rl rat coronavirus isolate Longquan-708 orf1ab polyprotein gene, partial cds; and hemagglutinin-esterase, spike protein, envelope protein, membrane protein, and nucleocapsid protein genes, complete cds.-table6-Coronaviridae-HMM407-903_16.0-ORF221
+seq106	>nrnt-KP662631 Infectious bronchitis virus isolate ck/ZA/3665/11, complete genome.-table6-Coronaviridae-HMM409-904_18.0-ORF184
+seq107	>nrnt-KM454473 Duck coronavirus isolate DK/GD/27/2014, complete genome.-table6-Coronaviridae-HMM422-917_18.0-ORF189
+seq108	>nrnt-KF530271 UNVERIFIED: Feline coronavirus strain feline/USA/236kid/2011 genomic sequence.-table1-Coronaviridae-HMM411-907_18.0-ORF146
+seq109	>nrnt-KF530133 UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU44/2007 genomic sequence.-table4-Coronaviridae-HMM416-912_18.0-ORF211
+seq110	>nrnt-KF530132 UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU57/2010 genomic sequence.-table4-Coronaviridae-HMM416-912_18.0-ORF171
+seq111	>nrnt-KF530127 UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU74/2010 genomic sequence.-table4-Coronaviridae-HMM416-912_18.0-ORF186
+seq112	>nrnt-KF530120 UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU73/2011 genomic sequence.-table4-Coronaviridae-HMM416-912_18.0-ORF202
+seq113	>nrnt-KF530118 UNVERIFIED: Feline coronavirus strain Felis catus/NLD/UU77/2009 genomic sequence.-table4-Coronaviridae-HMM416-912_18.0-ORF153
+seq114	>nrnt-KF514431 Human coronavirus 229E strain 229E/human/USA/953-49/1995, partial genome.-table6-Coronaviridae-HMM36-197_7.0-ORF154
+seq115	>nrnt-KM213963 Infectious bronchitis virus isolate CK/CH/XDC- 2/2013, complete genome.-table6-Coronaviridae-HMM400-895_18.0-ORF181
+seq116	>nrnt-KF793826 Bottlenose dolphin coronavirus HKU22 isolate CF090331, complete genome.-table4-Coronaviridae-HMM478-974_17.0-ORF223
+seq117	>nrnt-KF850449 Rat coronavirus strain mouse_lab/USA/MG6644_HOLMES10/1996, partial genome.-table6-Coronaviridae-HMM428-924_17.0-ORF221
+seq118	>nrnt-KF280270 Infectious bronchitis virus strain CK/CH/LHLJ/04V P110 clone 3, partial genome.-table6-Coronaviridae-HMM409-904_18.0-ORF172
+seq119	>nrnt-HQ728486 Chaerephon bat coronavirus/Kenya/KY22/2006 polyprotein (ORF1ab) gene, partial cds; and spike protein (S), ORF3 protein (ORF3), envelope protein (E), membrane protein (M), nucleocapsid protein (N), and hypothetical protein ORFx (ORFx) genes, complete cds.-table6-Coronaviridae-HMM401-897_18.0-ORF73
+seq120	>nrnt-HQ728485 Miniopterus bat coronavirus/Kenya/KY33/2006 polyprotein (ORF1ab) gene, partial cds; and spike protein (S), ORF3 protein (ORF3), envelope protein (E), membrane protein (M), nucleocapsid protein (N), and hypothetical protein ORFx (ORFx) genes, complete cds.-table6-Coronaviridae-HMM403-899_18.0-ORF79
+seq121	>nrnt-HQ728482 Eidolon bat coronavirus/Kenya/KY24/2006 polyprotein (ORF1ab) gene, partial cds; and spike protein (S), ORF3 protein (ORF3), envelope protein (E), membrane protein (M), nucleocapsid protein (N), hypothetical protein ORFx (ORFx), and hypothetical protein ORFy (ORFy) genes, complete cds.-table6-Coronaviridae-HMM408-904_18.0-ORF74
+seq122	>nrnt-HQ728481 Chaerephon bat coronavirus/Kenya/KY41/2006 polyprotein (ORF1ab) gene, partial cds; and spike protein (S), ORF3 protein (ORF3), envelope protein (E), membrane protein (M), nucleocapsid protein (N), hypothetical protein ORFx (ORFx), and hypothetical protein ORFy (ORFy) genes, complete cds.-table4-Coronaviridae-HMM403-899_18.0-ORF84
+seq123	>nrnt-HQ728480 Cardioderma bat coronavirus/Kenya/KY43/2006 polyprotein (ORF1ab) gene, partial cds; and spike protein (S), ORF3 protein (ORF3), envelope protein (E), membrane protein (M), nucleocapsid protein (N), and hypothetical protein ORFx (ORFx) genes, complete cds.-table6-Coronaviridae-HMM403-899_17.0-ORF85
+seq124	>nrnt-GU002364 Fathead minnow nidovirus replicase polyprotein 1ab (pp1ab), replicase polyprotein 1a (pp1a), spike glycoprotein (S), membrane protein (M), and nucleocapsid protein (N) genes, complete cds.-table6-Coronaviridae-HMM408-803_11.0-ORF209
+seq125	>nrnt-JN874562 Rabbit coronavirus HKU14 strain HKU14-10, complete genome.-table6-Coronaviridae-HMM428-924_16.0-ORF233
+seq126	>nrnt-EU769557 Bat coronavirus Trinidad/1FY2BA/2007 nonfunctional nonstructural protein 1b` gene, partial sequence.-table6-Coronaviridae-HMM211-707_28.0-ORF45
+seq127	>nrnt-HM211101 Bat coronavirus HKU9-10-2, complete genome.-table6-Coronaviridae-HMM405-901_18.0-ORF206
+seq128	>nrnt-HM211100 Bat coronavirus HKU9-10-1, complete genome.-table6-Coronaviridae-HMM405-901_17.0-ORF195
+seq129	>nrnt-FJ376619 Bulbul coronavirus HKU11-934, complete genome.-table4-Coronaviridae-HMM443-932_17.0-ORF214
+seq130	>nrnt-EF446615 Equine coronavirus strain NC99, complete genome.-table6-Coronaviridae-HMM409-905_16.0-ORF214
+seq131	>nrnt-CS480537 Sequence 11 from Patent WO2006136448.-table6-Coronaviridae-HMM4782-5278_5.0-ORF242
+seq132	>nrnt-EF065516 Bat coronavirus HKU9-4, complete genome.-table6-Coronaviridae-HMM405-901_18.0-ORF203
+seq133	>nrnt-Z69629 Infectious bronchitis virus RNA (defective RNA CD-61).-table4-Coronaviridae-HMM528-1023_43.0-ORF46
+seq134	>tsa-GECV01031551.1 TSA: Microhyla fissipes comp126516_c0 transcribed RNA sequence-table4-Coronaviridae-HMM403-896_18.0-ORF133

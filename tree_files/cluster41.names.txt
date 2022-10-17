@@ -1,0 +1,65 @@
+seq1	>ref-NC_003113.1 Perina nuda virus, complete genome-table6-Iflaviridae_4-HMM2465-2949_16.0-ORF110
+seq2	>ref-NC_005092.1 Ectropis obliqua picorna-like virus, complete genome-table6-Iflaviridae_4-HMM2505-2989_15.0-ORF112
+seq3	>ref-NC_023676.1 Spodoptera exigua iflavirus 2 isolate Korean, complete genome-table4-Iflaviridae_4-HMM2535-3016_15.0-ORF117
+seq4	>ref-NC_034384.1 Diamondback moth iflavirus isolate Guangzhou, complete genome-table6-Iflaviridae_4-HMM2640-3124_15.0-ORF106
+seq5	>tsa-GARC01006886.1 (REVERSE SENSE) TSA: Athetis lepigone T2_7637 transcribed RNA sequence-table1-Iflaviridae_4-HMM1-97_92.0-ORF10
+seq6	>tsa-GARC01019120.1 TSA: Athetis lepigone T2_20307 transcribed RNA sequence-table1-Iflaviridae_4-HMM320-650_50.0-ORF20
+seq7	>tsa-GARD01006938.1 TSA: Athetis lepigone T4_7004 transcribed RNA sequence-table4-Iflaviridae_4-HMM2508-2989_15.0-ORF112
+seq8	>tsa-GARD01031804.1 (REVERSE SENSE) TSA: Athetis lepigone T4_31963 transcribed RNA sequence-table4-Iflaviridae_4-HMM95-576_78.0-ORF53
+seq9	>tsa-GARG01027655.1 (REVERSE SENSE) TSA: Athetis lepigone T1_28430 transcribed RNA sequence-table4-Iflaviridae_4-HMM2508-2989_15.0-ORF252
+seq10	>tsa-GCJP01042481.1 (REVERSE SENSE) TSA: Biston suppressaria Unigene16314_All transcribed RNA sequence-table6-Iflaviridae_4-HMM2557-2788_8.0-ORF261
+seq11	>tsa-GCJP01042482.1 TSA: Biston suppressaria Unigene16315_All transcribed RNA sequence-table6-Iflaviridae_4-HMM1-269_79.0-ORF15
+seq12	>tsa-GADH01008113.1 (REVERSE SENSE) TSA: Corydalinae sp. KMRSPBM-2012 contig08815 mRNA sequence-table1-Iflaviridae_4-HMM88-257_65.0-ORF21
+seq13	>tsa-GADH01025699.1 (REVERSE SENSE) TSA: Corydalinae sp. KMRSPBM-2012 contig27655 mRNA sequence-table6-Iflaviridae_4-HMM1-78_48.0-ORF14
+seq14	>tsa-GADH01040177.1 (REVERSE SENSE) TSA: Corydalinae sp. KMRSPBM-2012 contig42955 mRNA sequence-table1-Iflaviridae_4-HMM1-111_99.0-ORF11
+seq15	>tsa-GAQF01028919.1 (REVERSE SENSE) TSA: Cotesia vestalis Unigene28919_Cotesia_vestalis_venom_glands transcribed RNA sequence-table1-Iflaviridae_4-HMM1-83_98.0-ORF8
+seq16	>tsa-GEOK01042151.1 (REVERSE SENSE) TSA: Metaphatus ochraceus TR45640-c0_g18_i1 transcribed RNA sequence-table1-Iflaviridae_4-HMM1-91_98.0-ORF5
+seq17	>tsa-GEOK01042155.1 (REVERSE SENSE) TSA: Metaphatus ochraceus TR45640-c0_g21_i1 transcribed RNA sequence-table1-Iflaviridae_4-HMM1-215_99.0-ORF18
+seq18	>tsa-GEOK01042158.1 (REVERSE SENSE) TSA: Metaphatus ochraceus TR45640-c0_g25_i1 transcribed RNA sequence-table1-Iflaviridae_4-HMM6-184_96.0-ORF16
+seq19	>tsa-GEOL01034640.1 (REVERSE SENSE) TSA: Metaphatus ochraceus TR44464-c0_g13_i1 transcribed RNA sequence-table1-Iflaviridae_4-HMM1-93_98.0-ORF7
+seq20	>tsa-GEOL01034644.1 TSA: Metaphatus ochraceus TR44464-c0_g18_i1 transcribed RNA sequence-table1-Iflaviridae_4-HMM1-79_97.0-ORF4
+seq21	>tsa-GEOL01034649.1 TSA: Metaphatus ochraceus TR44464-c0_g26_i1 transcribed RNA sequence-table1-Iflaviridae_4-HMM2-89_97.0-ORF1
+seq22	>tsa-GEOM01021685.1 TSA: Metaphatus ochraceus TR22032-c2_g7_i7 transcribed RNA sequence-table4-Iflaviridae_4-HMM909-1390_33.0-ORF46
+seq23	>tsa-GAQJ01015956.1 TSA: Ostrinia furnacalis CL6441.Contig1_All transcribed RNA sequence-table1-Iflaviridae_4-HMM876-1133_22.0-ORF30
+seq24	>tsa-GAQJ01036479.1 (REVERSE SENSE) TSA: Ostrinia furnacalis Unigene13590_All transcribed RNA sequence-table6-Iflaviridae_4-HMM1-265_85.0-ORF22
+seq25	>tsa-GAOQ01021988.1 TSA: Spodoptera exigua SE_U22376 transcribed RNA sequence-table4-Iflaviridae_4-HMM808-1290_36.0-ORF47
+seq26	>tsa-GARL01061707.1 TSA: Spodoptera exigua SEUC38835_TC01 transcribed RNA sequence-table4-Iflaviridae_4-HMM2512-2994_15.0-ORF113
+seq27	>tsa-GARL01061708.1 TSA: Spodoptera exigua SEUC38835_TC02 transcribed RNA sequence-table4-Iflaviridae_4-HMM2535-3017_15.0-ORF114
+seq28	>tsa-GARL01094585.1 (REVERSE SENSE) TSA: Spodoptera exigua SEUC49922_TC02 transcribed RNA sequence-table4-Iflaviridae_4-HMM437-830_46.0-ORF65
+seq29	>tsa-GARL01094586.1 TSA: Spodoptera exigua SEUC49922_TC03 transcribed RNA sequence-table4-Iflaviridae_4-HMM386-868_53.0-ORF30
+seq30	>tsa-GARL01094587.1 (REVERSE SENSE) TSA: Spodoptera exigua SEUC49922_TC04 transcribed RNA sequence-table4-Iflaviridae_4-HMM708-1101_35.0-ORF90
+seq31	>tsa-GARL01094588.1 (REVERSE SENSE) TSA: Spodoptera exigua SEUC49922_TC05 transcribed RNA sequence-table4-Iflaviridae_4-HMM473-866_44.0-ORF68
+seq32	>tsa-GARL01094589.1 (REVERSE SENSE) TSA: Spodoptera exigua SEUC49922_TC06 transcribed RNA sequence-table4-Iflaviridae_4-HMM708-845_16.0-ORF69
+seq33	>tsa-GARL01094591.1 TSA: Spodoptera exigua SEUC49922_TC08 transcribed RNA sequence-table6-Iflaviridae_4-HMM221-703_65.0-ORF22
+seq34	>tsa-GARL01094592.1 (REVERSE SENSE) TSA: Spodoptera exigua SEUC49922_TC09 transcribed RNA sequence-table4-Iflaviridae_4-HMM4-363_96.0-ORF32
+seq35	>tsa-GARL01094593.1 TSA: Spodoptera exigua SEUC49922_TC10 transcribed RNA sequence-table4-Iflaviridae_4-HMM130-523_74.0-ORF20
+seq36	>tsa-GARL01094595.1 TSA: Spodoptera exigua SEUC49922_TC12 transcribed RNA sequence-table4-Iflaviridae_4-HMM130-612_74.0-ORF22
+seq37	>tsa-GARL01094598.1 TSA: Spodoptera exigua SEUC49922_TC15 transcribed RNA sequence-table4-Iflaviridae_4-HMM137-619_73.0-ORF22
+seq38	>tsa-GARL01094599.1 (REVERSE SENSE) TSA: Spodoptera exigua SEUC49922_TC16 transcribed RNA sequence-table4-Iflaviridae_4-HMM137-274_48.0-ORF22
+seq39	>tsa-GARL01094601.1 (REVERSE SENSE) TSA: Spodoptera exigua SEUC49922_TC18 transcribed RNA sequence-table4-Iflaviridae_4-HMM405-798_48.0-ORF64
+seq40	>tsa-GARL01094602.1 (REVERSE SENSE) TSA: Spodoptera exigua SEUC49922_TC19 transcribed RNA sequence-table4-Iflaviridae_4-HMM473-610_22.0-ORF47
+seq41	>tsa-GARL01094603.1 TSA: Spodoptera exigua SEUC49922_TC20 transcribed RNA sequence-table4-Iflaviridae_4-HMM708-1190_39.0-ORF42
+seq42	>tsa-GARL01094605.1 TSA: Spodoptera exigua SEUC49922_TC22 transcribed RNA sequence-table4-Iflaviridae_4-HMM8-140_75.0-ORF5
+seq43	>tsa-GARL01094606.1 TSA: Spodoptera exigua SEUC49922_TC23 transcribed RNA sequence-table4-Iflaviridae_4-HMM437-919_50.0-ORF31
+seq44	>tsa-GARL01094607.1 TSA: Spodoptera exigua SEUC49922_TC24 transcribed RNA sequence-table4-Iflaviridae_4-HMM137-530_73.0-ORF20
+seq45	>tsa-GARL01094609.1 TSA: Spodoptera exigua SEUC49922_TC26 transcribed RNA sequence-table6-Iflaviridae_4-HMM221-614_63.0-ORF20
+seq46	>tsa-GARL01094611.1 (REVERSE SENSE) TSA: Spodoptera exigua SEUC49922_TC28 transcribed RNA sequence-table6-Iflaviridae_4-HMM221-358_37.0-ORF27
+seq47	>tsa-GARL01094614.1 TSA: Spodoptera exigua SEUC49922_TC31 transcribed RNA sequence-table4-Iflaviridae_4-HMM4-452_91.0-ORF16
+seq48	>tsa-GARL01094615.1 TSA: Spodoptera exigua SEUC49922_TC32 transcribed RNA sequence-table4-Iflaviridae_4-HMM405-887_52.0-ORF31
+seq49	>tsa-GARL01094616.1 (REVERSE SENSE) TSA: Spodoptera exigua SEUC49922_TC33 transcribed RNA sequence-table4-Iflaviridae_4-HMM437-574_23.0-ORF44
+seq50	>tsa-GARL01094617.1 (REVERSE SENSE) TSA: Spodoptera exigua SEUC49922_TC34 transcribed RNA sequence-table4-Iflaviridae_4-HMM386-523_25.0-ORF42
+seq51	>tsa-GARL01094618.1 (REVERSE SENSE) TSA: Spodoptera exigua SEUC49922_TC35 transcribed RNA sequence-table4-Iflaviridae_4-HMM130-267_50.0-ORF22
+seq52	>tsa-GARL01094619.1 (REVERSE SENSE) TSA: Spodoptera exigua SEUC49922_TC36 transcribed RNA sequence-table4-Iflaviridae_4-HMM405-542_24.0-ORF43
+seq53	>tsa-GARL01094621.1 TSA: Spodoptera exigua SEUC49922_TC38 transcribed RNA sequence-table4-Iflaviridae_4-HMM473-955_48.0-ORF32
+seq54	>tsa-GARL01094622.1 (REVERSE SENSE) TSA: Spodoptera exigua SEUC49922_TC39 transcribed RNA sequence-table4-Iflaviridae_4-HMM386-779_49.0-ORF63
+seq55	>tsa-GARL01094657.1 TSA: Spodoptera exigua SEUC49922_TC41 transcribed RNA sequence-table4-Iflaviridae_4-HMM4-107_90.0-ORF5
+seq56	>tsa-GARL01095465.1 TSA: Spodoptera exigua SEUC50725_TC01 transcribed RNA sequence-table4-Iflaviridae_4-HMM6-189_94.0-ORF7
+seq57	>tsa-GARL01095492.1 TSA: Spodoptera exigua SEUC50746_TC01 transcribed RNA sequence-table4-Iflaviridae_4-HMM156-306_49.0-ORF11
+seq58	>tsa-GARL01095493.1 TSA: Spodoptera exigua SEUC50746_TC02 transcribed RNA sequence-table4-Iflaviridae_4-HMM107-257_58.0-ORF10
+seq59	>tsa-GARL01095494.1 (REVERSE SENSE) TSA: Spodoptera exigua SEUC50746_TC03 transcribed RNA sequence-table4-Iflaviridae_4-HMM127-277_54.0-ORF21
+seq60	>tsa-GARL01095796.1 TSA: Spodoptera exigua SEUC50971_TC01 transcribed RNA sequence-table4-Iflaviridae_4-HMM1-70_98.0-ORF3
+seq61	>tsa-GBBY01006537.1 TSA: Spodoptera litura comp18494_c0;orf1 transcribed RNA sequence-table4-Iflaviridae_4-HMM2504-2986_15.0-ORF109
+seq62	>tsa-GBZS01023574.1 TSA: Spodoptera litura Unigene26481 transcribed RNA sequence-table4-Iflaviridae_4-HMM86-219_60.0-ORF9
+seq63	>tsa-GBZS01024410.1 TSA: Spodoptera litura Unigene27387 transcribed RNA sequence-table4-Iflaviridae_4-HMM1-348_90.0-ORF13
+seq64	>tsa-GEZO01001727.1 TSA: Spodoptera litura comp15097_c0 transcribed RNA sequence-table4-Iflaviridae_4-HMM2535-3017_15.0-ORF116
+seq65	>tsa-GASG02025545.1 (REVERSE SENSE) TSA: Yponomeuta evonymellus C219647_a_68_0_l_9308 transcribed RNA sequence-table6-Iflaviridae_4-HMM2381-2827_15.0-ORF210

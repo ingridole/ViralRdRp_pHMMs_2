@@ -1,0 +1,43 @@
+seq1	>ref-NC_001989.1 Bovine respiratory syncytial virus, complete genome-table6-Pneumoviridae-HMM621-1054_18.0-ORF150
+seq2	>ref-NC_001781.1 Human orthopneumovirus, complete genome-table6-Pneumoviridae-HMM611-1044_19.0-ORF158
+seq3	>ref-NC_001803.1 Respiratory syncytial virus, complete genome-table6-Pneumoviridae-HMM718-1151_18.0-ORF159
+seq4	>ref-NC_006579.1 Pneumonia virus of mice J3666, complete genome-table6-Pneumoviridae-HMM568-999_20.0-ORF155
+seq5	>ref-NC_007652.1 Avian metapneumovirus-table6-Pneumoviridae-HMM572-1004_22.0-ORF137
+seq6	>ref-NC_004148.2 Human metapneumovirus, complete genome-table6-Pneumoviridae-HMM634-1066_20.0-ORF137
+seq7	>ref-NC_025344.1 Canine pneumovirus strain dog/Bari/100-12/ITA/2012, complete genome-table6-Pneumoviridae-HMM578-1009_20.0-ORF157
+seq8	>nrnt-KY674984 Human respiratory syncytial virus B strain 16B7, complete genome.-table6-Pneumoviridae-HMM611-1044_19.0-ORF158
+seq9	>nrnt-MF093139 Avian metapneumovirus isolate aMPV-A/chicken/Brazil-SP/669/2003, complete genome.-table4-Pneumoviridae-HMM541-973_21.0-ORF163
+seq10	>nrnt-KU821121 Human metapneumovirus strain BJ-1610, complete genome.-table6-Pneumoviridae-HMM566-998_20.0-ORF136
+seq11	>nrnt-KX510249 Human respiratory syncytial virus isolate Kilifi_10010_58_RSVA_2010, partial genome.-table6-Pneumoviridae-HMM718-1151_18.0-ORF131
+seq12	>nrnt-KX510165 Human respiratory syncytial virus isolate Kilifi_9696_43_RSVA_2010, partial genome.-table6-Pneumoviridae-HMM718-1151_18.0-ORF130
+seq13	>nrnt-KP317952 Human respiratory syncytial virus isolate Kilifi_9465_6_RSVB_2010, complete genome.-table6-Pneumoviridae-HMM611-1044_19.0-ORF158
+seq14	>nrnt-KJ817801 Human respiratory syncytial virus MinFLC, complete genome.-table6-Pneumoviridae-HMM718-1151_18.0-ORF119
+seq15	>nrnt-HG934339 Avian metapneumovirus type D complete genome, strain Turkey/1985/Fr85.1.-table6-Pneumoviridae-HMM746-1178_18.0-ORF141
+seq16	>nrnt-KF713491 Mutant Human respiratory syncytial virus strain luc_recombinant_long, complete genome.-table6-Pneumoviridae-HMM718-1151_18.0-ORF176
+seq17	>nrnt-KF530187 UNVERIFIED: Human metapneumovirus strain HMPV/MEX/13/2004/B cRNA sequence.-table6-Pneumoviridae-HMM739-1171_21.0-ORF88
+seq18	>nrnt-KF530184 UNVERIFIED: Human metapneumovirus strain HMPV/DEU/105/2004/A cRNA sequence.-table6-Pneumoviridae-HMM566-998_23.0-ORF107
+seq19	>nrnt-KC562231 Human metapneumovirus strain HMPV/AUS/172437891/2004/B, complete genome.-table6-Pneumoviridae-HMM548-980_21.0-ORF133
+seq20	>nrnt-FJ971960 Paramyxovirus bat/GH31/2009 polymerase (L) gene, partial cds.-table1-Pneumoviridae-HMM147-344_57.0-ORF7
+seq21	>nrnt-AB548428 Avian metapneumovirus viral cRNA, complete genome, strain: VCO3/60616.-table6-Pneumoviridae-HMM555-987_20.0-ORF135
+seq22	>nrnt-AY579780 Avian pneumovirus from USA, complete genome.-table6-Pneumoviridae-HMM602-1034_20.0-ORF146
+seq23	>nrnt-EF535506 Human metapneumovirus isolate TW05-00125, complete genome.-table6-Pneumoviridae-HMM545-977_21.0-ORF134
+seq24	>nrnt-EF199772 Avian metapneumovirus strain PL-2, complete genome.-table6-Pneumoviridae-HMM689-1121_19.0-ORF146
+seq25	>ref-NC_002549.1 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1976/Yambuku-Mayinga, complete genome-table4-Filoviridae-HMM538-960_18.0-ORF213
+seq26	>ref-NC_004161.1 Reston ebolavirus isolate Reston virus/M.fascicularis-tc/USA/1989/Philippines89-Pennsylvania, complete genome-table6-Filoviridae-HMM566-988_18.0-ORF208
+seq27	>ref-NC_006432.1 Sudan ebolavirus isolate Sudan virus/H.sapiens-tc/UGA/2000/Gulu-808892, complete genome-table6-Filoviridae-HMM579-1001_18.0-ORF198
+seq28	>ref-NC_001608.3 Marburg marburgvirus isolate Marburg virus/H.sapiens-tc/KEN/1980/Mt. Elgon-Musoke, complete genome-table6-Filoviridae-HMM676-1097_16.0-ORF218
+seq29	>ref-NC_014372.1 Tai Forest ebolavirus isolate Tai Forest virus/H.sapiens-tc/CIV/1994/Pauleoula-CI, complete genome-table6-Filoviridae-HMM564-986_18.0-ORF200
+seq30	>ref-NC_014373.1 Bundibugyo ebolavirus isolate Bundibugyo virus/H.sapiens-tc/UGA/2007/Butalya-811250, complete genome-table6-Filoviridae-HMM564-986_18.0-ORF208
+seq31	>ref-NC_016144.1 Lloviu cuevavirus isolate Lloviu virus/M.schreibersii-wt/ESP/2003/Asturias-Bat86, complete genome-table4-Filoviridae-HMM625-1047_18.0-ORF199
+seq32	>ref-NC_024781.1 Marburg marburgvirus isolate Ravn virus/H.sapiens-tc/KEN/1987/Kitum Cave-810040, complete genome-table4-Filoviridae-HMM570-991_17.0-ORF242
+seq33	>nrnt-MG599980 Wenling frogfish filovirus strain XYHYS28627 nucleoprotein, hypothetical protein, matrix protein, hypothetical protein, putative glycoprotein 1, putative glycoprotein 2, VP30, hypothetical protein, and L protein genes, complete cds.-table6-Filoviridae-HMM975-1396_16.0-ORF182
+seq34	>nrnt-KX371887 Bat filovirus isolate Rousettus sp./China/2015/Bat9447-1 RNA-dependent RNA polymerase gene, partial cds.-table1-Filoviridae-HMM115-491_76.0-ORF13
+seq35	>nrnt-KU321193 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1995/Kikwit-9510621-2807D9 membrane-associated protein VP24 (VP24) gene, partial cds; and polymerase (L) gene, complete cds.-table4-Filoviridae-HMM538-960_18.0-ORF138
+seq36	>nrnt-KU321158 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1995/Kikwit-9510621-2534D5 membrane-associated protein VP24 (VP24) gene, partial cds; and polymerase (L) gene, complete cds.-table4-Filoviridae-HMM538-960_18.0-ORF165
+seq37	>nrnt-KU321157 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1995/Kikwit-9510621-2516D7 membrane-associated protein VP24 (VP24) and polymerase (L) genes, complete cds.-table4-Filoviridae-HMM538-960_18.0-ORF200
+seq38	>nrnt-KU321151 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1995/Kikwit-9510621-1495D9 membrane-associated protein VP24 (VP24) gene, partial cds; and polymerase (L) gene, complete cds.-table4-Filoviridae-HMM538-960_18.0-ORF139
+seq39	>nrnt-KU174141 Zaire ebolavirus isolate Ebola virus/H.sapiens-rec/COD/1976/Yambuku-Mayinga-eGFP-MARV_GPed, complete genome.-table4-Filoviridae-HMM538-960_18.0-ORF219
+seq40	>nrnt-KU174140 Zaire ebolavirus isolate Ebola virus/H.sapiens-rec/COD/1976/Yambuku-Mayinga-eGFP-MARV_GP, complete genome.-table4-Filoviridae-HMM538-960_18.0-ORF220
+seq41	>nrnt-KU174139 Zaire ebolavirus isolate Ebola virus/H.sapiens-rec/COD/1976/Yambuku-Mayinga-eGFP-LLOV_GP, complete genome.-table4-Filoviridae-HMM538-960_18.0-ORF214
+seq42	>nrnt-FV537283 Modified Microbial Nucleic Acid.-table6-Filoviridae-HMM221-372_40.0-ORF190
+seq43	>nrnt-FV537275 Modified Microbial Nucleic Acid.-table6-Filoviridae-HMM3-114_58.0-ORF197

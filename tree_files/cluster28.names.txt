@@ -1,0 +1,100 @@
+seq1	>ref-NC_031244.1 Xincheng Mosquito Virus strain XC1-6 ORF1 (ORF1), ORF2 (ORF2), glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds-table6-Xinmoviridae-HMM543-951_19.0-ORF141
+seq2	>ref-NC_033055.1 Hubei diptera virus 11 strain SCM51501 hypothetical protein 1, hypothetical protein 2, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds-table6-Xinmoviridae-HMM572-982_18.0-ORF125
+seq3	>ref-NC_033027.1 Hubei rhabdo-like virus 7 strain QTM26925 hypothetical protein, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds-table6-Xinmoviridae-HMM492-902_19.0-ORF105
+seq4	>ref-NC_035133.1 Culex mononega-like virus 2 strain mos191gb23464, complete genome-table6-Xinmoviridae-HMM533-950_19.0-ORF153
+seq5	>nrnt-MF176296 Culex mononega-like virus 1 strain mos191gb14102 segment 1, complete sequence.-table6-Xinmoviridae-HMM566-973_19.0-ORF70
+seq6	>nrnt-KR822819 Drosophila unispina virus 1 ORF1, ORF2, ORF3, glycoprotein (G), and RNA-dependent RNA polymerase (L) genes, complete cds.-table6-Xinmoviridae-HMM670-1077_17.0-ORF147
+seq7	>nrnt-MG012486 Aedes aegypti anphevirus isolate a1 polyprotein gene, partial cds.-table1-Xinmoviridae-HMM489-900_23.0-ORF50
+seq8	>nrnt-KX148553 Gambie virus putative nucleoprotein, putative small transmembrane protein, putative glycoprotein, putative small ZnF protein, and RdRp genes, complete cds.-table6-Xinmoviridae-HMM484-896_20.0-ORF128
+seq9	>nrnt-KX148552 Bolahun virus variant 2 putative nucleoprotein, putative small transmembrane protein, putative glycoprotein, putative small ZnF protein, and RdRp genes, complete cds.-table6-Xinmoviridae-HMM485-897_20.0-ORF126
+seq10	>nrnt-KM817638 Shuangao Fly Virus 2 strain QSA05 RNA-dependent RNA polymerase (L) gene, partial cds.-table6-Xinmoviridae-HMM496-897_20.0-ORF60
+seq11	>tsa-GATX01016397.1 TSA: Annulipalpia sp. AD-2013 s16418_L_107611_0 transcribed RNA sequence-table6-Xinmoviridae-HMM199-301_24.0-ORF22
+seq12	>tsa-GATX01044276.1 TSA: Annulipalpia sp. AD-2013 C272409 transcribed RNA sequence-table1-Xinmoviridae-HMM3-80_93.0-ORF3
+seq13	>tsa-GATX01053554.1 TSA: Annulipalpia sp. AD-2013 C292093 transcribed RNA sequence-table1-Xinmoviridae-HMM3-82_92.0-ORF4
+seq14	>tsa-GATX01068255.1 (REVERSE SENSE) TSA: Annulipalpia sp. AD-2013 C333980 transcribed RNA sequence-table1-Xinmoviridae-HMM2-124_98.0-ORF9
+seq15	>tsa-GATX01075612.1 TSA: Annulipalpia sp. AD-2013 C356734 transcribed RNA sequence-table1-Xinmoviridae-HMM1-162_96.0-ORF5
+seq16	>tsa-GDQV01036918.1 TSA: Arachnocampa luminosa Alum41746_c0_seq1 transcribed RNA sequence-table6-Xinmoviridae-HMM495-903_19.0-ORF73
+seq17	>tsa-GDQV01146420.1 (REVERSE SENSE) TSA: Arachnocampa luminosa Alum79592_c0_seq1 transcribed RNA sequence-table1-Xinmoviridae-HMM1-118_98.0-ORF7
+seq18	>tsa-GDQV01155079.1 (REVERSE SENSE) TSA: Arachnocampa luminosa Alum88487_c0_seq1 transcribed RNA sequence-table1-Xinmoviridae-HMM1-79_96.0-ORF7
+seq19	>tsa-GDQV01156346.1 (REVERSE SENSE) TSA: Arachnocampa luminosa Alum89782_c0_seq1 transcribed RNA sequence-table1-Xinmoviridae-HMM5-70_87.0-ORF4
+seq20	>tsa-GDQV01170621.1 (REVERSE SENSE) TSA: Arachnocampa luminosa Alum104449_c0_seq1 transcribed RNA sequence-table1-Xinmoviridae-HMM1-67_98.0-ORF4
+seq21	>tsa-GDQV01171586.1 (REVERSE SENSE) TSA: Arachnocampa luminosa Alum105453_c0_seq1 transcribed RNA sequence-table1-Xinmoviridae-HMM89-155_42.0-ORF13
+seq22	>tsa-GBJR01003404.1 TSA: Bombyx mori Bm_nscaf2623_38_1 transcribed RNA sequence-table6-Xinmoviridae-HMM1-328_24.0-ORF47
+seq23	>tsa-GBJR01004440.1 TSA: Bombyx mori Bm_nscaf2779_3_1 transcribed RNA sequence-table6-Xinmoviridae-HMM1-331_57.0-ORF24
+seq24	>tsa-GBMS01020903.1 TSA: Brachygaster minutus C216629_a_10_0_l_3215 transcribed RNA sequence-table1-Xinmoviridae-HMM366-765_37.0-ORF24
+seq25	>tsa-GCVB01010309.1 TSA: Brachyserphus parvulus C55128_a_3_0_l_476 transcribed RNA sequence-table4-Xinmoviridae-HMM8-141_84.0-ORF6
+seq26	>tsa-GCVB01023822.1 (REVERSE SENSE) TSA: Brachyserphus parvulus s4587_L_19915_0_a_10_1_l_2623 transcribed RNA sequence-table6-Xinmoviridae-HMM7-213_44.0-ORF62
+seq27	>tsa-GEUD01128768.1 (REVERSE SENSE) TSA: Callosobruchus maculatus TR19536-c0_g1_i1 transcribed RNA sequence-table1-Xinmoviridae-HMM1-128_98.0-ORF8
+seq28	>tsa-GEUD01165431.1 (REVERSE SENSE) TSA: Callosobruchus maculatus TR42273-c0_g1_i1 transcribed RNA sequence-table1-Xinmoviridae-HMM7-116_93.0-ORF9
+seq29	>tsa-GEUE01007971.1 (REVERSE SENSE) TSA: Callosobruchus maculatus c55805_g1_i1 transcribed RNA sequence-table1-Xinmoviridae-HMM3-252_98.0-ORF23
+seq30	>tsa-GEUE01024374.1 (REVERSE SENSE) TSA: Callosobruchus maculatus c57340_g1_i1 transcribed RNA sequence-table1-Xinmoviridae-HMM3-91_96.0-ORF9
+seq31	>tsa-GEUH01035501.1 (REVERSE SENSE) TSA: Callosobruchus maculatus c36236_g1_i1 transcribed RNA sequence-table6-Xinmoviridae-HMM23-100_76.0-ORF11
+seq32	>tsa-GEUH01056154.1 (REVERSE SENSE) TSA: Callosobruchus maculatus c26419_g1_i1 transcribed RNA sequence-table1-Xinmoviridae-HMM1-98_97.0-ORF8
+seq33	>tsa-GBOI01016763.1 TSA: Camptopoeum sacrum C91408_a_18_0_l_5704 transcribed RNA sequence-table4-Xinmoviridae-HMM21-181_85.0-ORF28
+seq34	>tsa-GBQM01022467.1 (REVERSE SENSE) TSA: Colpa sexmaculata s430_L_492_3_a_26_4_l_6495 transcribed RNA sequence-table6-Xinmoviridae-HMM529-932_19.0-ORF155
+seq35	>tsa-GAYO02000691.1 TSA: Cordulegaster boltonii C102089_a_29_0_l_11218 transcribed RNA sequence-table6-Xinmoviridae-HMM469-883_19.0-ORF126
+seq36	>tsa-GANO01004103.1 TSA: Corethrella appendiculata Co-95038 mRNA sequence-table6-Xinmoviridae-HMM502-915_19.0-ORF75
+seq37	>tsa-GDJM01036333.1 TSA: Cotesia rubecula comp54991_c0_seq1 transcribed RNA sequence-table6-Xinmoviridae-HMM499-905_19.0-ORF69
+seq38	>tsa-GDJM01036629.1 (REVERSE SENSE) TSA: Cotesia rubecula comp55049_c0_seq1 transcribed RNA sequence-table6-Xinmoviridae-HMM499-905_19.0-ORF322
+seq39	>tsa-GECN01012197.1 (REVERSE SENSE) TSA: Diachasma alloeum Dall_Trinity_18928_c0_g1_i1 transcribed RNA sequence-table1-Xinmoviridae-HMM1-162_98.0-ORF13
+seq40	>tsa-GECN01088475.1 (REVERSE SENSE) TSA: Diachasma alloeum Dall_Trinity_107429_c0_g1_i1 transcribed RNA sequence-table1-Xinmoviridae-HMM195-275_28.0-ORF27
+seq41	>tsa-GECN01114815.1 (REVERSE SENSE) TSA: Diachasma alloeum Dall_Trinity_124999_c0_g1_i1 transcribed RNA sequence-table1-Xinmoviridae-HMM3-189_97.0-ORF15
+seq42	>tsa-GECN01123719.1 TSA: Diachasma alloeum Dall_Trinity_129710_c0_g3_i2 transcribed RNA sequence-table6-Xinmoviridae-HMM511-916_21.0-ORF61
+seq43	>tsa-GENH01017381.1 (REVERSE SENSE) TSA: Dryadaula visaliella k52_502087 transcribed RNA sequence-table6-Xinmoviridae-HMM12-293_90.0-ORF23
+seq44	>tsa-GENH01085208.1 (REVERSE SENSE) TSA: Dryadaula visaliella k66_586295 transcribed RNA sequence-table1-Xinmoviridae-HMM16-165_89.0-ORF12
+seq45	>tsa-GENH01085249.1 (REVERSE SENSE) TSA: Dryadaula visaliella k66_586395 transcribed RNA sequence-table6-Xinmoviridae-HMM126-532_23.0-ORF150
+seq46	>tsa-GENH01095024.1 TSA: Dryadaula visaliella k68_536184 transcribed RNA sequence-table6-Xinmoviridae-HMM12-370_43.0-ORF27
+seq47	>tsa-GENH01107330.1 TSA: Dryadaula visaliella k72_451423 transcribed RNA sequence-table6-Xinmoviridae-HMM12-370_48.0-ORF23
+seq48	>tsa-GENH01135775.1 (REVERSE SENSE) TSA: Dryadaula visaliella k84_143083 transcribed RNA sequence-table1-Xinmoviridae-HMM4-73_88.0-ORF10
+seq49	>tsa-GEOD01067609.1 (REVERSE SENSE) TSA: Dryadaula visaliella c41361_g1_i2 transcribed RNA sequence-table6-Xinmoviridae-HMM9-285_21.0-ORF96
+seq50	>tsa-GEOD01067612.1 (REVERSE SENSE) TSA: Dryadaula visaliella c41361_g1_i5 transcribed RNA sequence-table1-Xinmoviridae-HMM9-285_24.0-ORF97
+seq51	>tsa-GEOD01067613.1 (REVERSE SENSE) TSA: Dryadaula visaliella c41361_g1_i6 transcribed RNA sequence-table6-Xinmoviridae-HMM507-892_40.0-ORF75
+seq52	>tsa-GEOD01071422.1 (REVERSE SENSE) TSA: Dryadaula visaliella c41594_g9_i2 transcribed RNA sequence-table6-Xinmoviridae-HMM126-532_39.0-ORF126
+seq53	>tsa-GEOE01111455.1 TSA: Enteucha acetosae TR62965-c0_g1_i1 transcribed RNA sequence-table1-Xinmoviridae-HMM1-99_98.0-ORF5
+seq54	>tsa-GEOE01111456.1 (REVERSE SENSE) TSA: Enteucha acetosae TR62965-c1_g1_i1 transcribed RNA sequence-table4-Xinmoviridae-HMM1-75_98.0-ORF7
+seq55	>tsa-GEOE01167989.1 TSA: Enteucha acetosae TR109255-c0_g1_i1 transcribed RNA sequence-table1-Xinmoviridae-HMM5-110_95.0-ORF4
+seq56	>tsa-GEOE01241624.1 (REVERSE SENSE) TSA: Enteucha acetosae TR206215-c0_g1_i1 transcribed RNA sequence-table1-Xinmoviridae-HMM2-108_71.0-ORF13
+seq57	>tsa-GBQL01007774.1 (REVERSE SENSE) TSA: Episyron rufipes C60596_a_6_0_l_660 transcribed RNA sequence-table1-Xinmoviridae-HMM1-214_97.0-ORF16
+seq58	>tsa-GBQL01009310.1 (REVERSE SENSE) TSA: Episyron rufipes C68180_a_5_0_l_991 transcribed RNA sequence-table1-Xinmoviridae-HMM210-330_36.0-ORF27
+seq59	>tsa-GEOF01017473.1 (REVERSE SENSE) TSA: Eudarcia simulatricella c20313_g2_i1 transcribed RNA sequence-table6-Xinmoviridae-HMM2-301_99.0-ORF52
+seq60	>tsa-GEYB01075381.1 TSA: Hermannia gibba TR29175_c1_g1_i1 transcribed RNA sequence-table1-Xinmoviridae-HMM3-153_96.0-ORF6
+seq61	>tsa-GBPJ01001792.1 (REVERSE SENSE) TSA: Heteropelma amictum C111171_a_27_0_l_12539 transcribed RNA sequence-table6-Xinmoviridae-HMM653-1062_18.0-ORF305
+seq62	>tsa-GCRV01047535.1 TSA: insect metagenome Unigene34923_All transcribed RNA sequence-table1-Xinmoviridae-HMM5-82_91.0-ORF4
+seq63	>tsa-GEEF01167740.1 TSA: Leptinotarsa decemlineata comp119499_c0_seq1 transcribed RNA sequence-table6-Xinmoviridae-HMM625-1031_24.0-ORF84
+seq64	>tsa-GAJC01007217.1 (REVERSE SENSE) TSA: Leptopilina heterotoma comp8491_c0_seq1 transcribed RNA sequence-table4-Xinmoviridae-HMM1-70_89.0-ORF32
+seq65	>tsa-GBDZ01044363.1 TSA: Locusta migratoria manilensis a206726;7 transcribed RNA sequence-table1-Xinmoviridae-HMM3-182_98.0-ORF7
+seq66	>tsa-GBDZ01094880.1 (REVERSE SENSE) TSA: Locusta migratoria manilensis a899076;3 transcribed RNA sequence-table1-Xinmoviridae-HMM1-88_98.0-ORF7
+seq67	>tsa-GAQJ01038033.1 (REVERSE SENSE) TSA: Ostrinia furnacalis Unigene15144_All transcribed RNA sequence-table1-Xinmoviridae-HMM6-102_94.0-ORF8
+seq68	>tsa-GAQJ01047689.1 TSA: Ostrinia furnacalis Unigene24800_All transcribed RNA sequence-table1-Xinmoviridae-HMM5-91_89.0-ORF1
+seq69	>tsa-GAOP01012381.1 TSA: Pachypsylla venusta comp79132_c0_seq1 transcribed RNA sequence-table6-Xinmoviridae-HMM1-91_66.0-ORF3
+seq70	>tsa-GAOP01139035.1 (REVERSE SENSE) TSA: Pachypsylla venusta comp1291574_c0_seq1 transcribed RNA sequence-table1-Xinmoviridae-HMM1-96_98.0-ORF10
+seq71	>tsa-GAXH02000751.1 (REVERSE SENSE) TSA: Parides eurimedes C103198_a_5_0_l_883 transcribed RNA sequence-table1-Xinmoviridae-HMM3-256_86.0-ORF28
+seq72	>tsa-GAXH02012594.1 (REVERSE SENSE) TSA: Parides eurimedes C71891_a_7_0_l_318 transcribed RNA sequence-table1-Xinmoviridae-HMM3-104_96.0-ORF9
+seq73	>tsa-GAXH02013147.1 (REVERSE SENSE) TSA: Parides eurimedes C73822_a_6_0_l_334 transcribed RNA sequence-table1-Xinmoviridae-HMM1-111_99.0-ORF7
+seq74	>tsa-GAXH02018310.1 (REVERSE SENSE) TSA: Parides eurimedes C92316_a_16_0_l_575 transcribed RNA sequence-table1-Xinmoviridae-HMM3-190_97.0-ORF20
+seq75	>tsa-GEOW01097245.1 TSA: Photinus pyralis TR51666_c0_g1_i1 transcribed RNA sequence-table6-Xinmoviridae-HMM534-923_17.0-ORF117
+seq76	>tsa-GEOW01102926.1 (REVERSE SENSE) TSA: Photinus pyralis TR53768_c0_g1_i1 transcribed RNA sequence-table4-Xinmoviridae-HMM576-965_17.0-ORF329
+seq77	>tsa-GFUB01011654.1 TSA: Podisus maculiventris TRINITY_DN19911_c0_g1_i1 transcribed RNA sequence-table4-Xinmoviridae-HMM27-74_60.0-ORF7
+seq78	>tsa-GFUB01037427.1 TSA: Podisus maculiventris TRINITY_DN43978_c0_g2_i1 transcribed RNA sequence-table4-Xinmoviridae-HMM4-77_93.0-ORF4
+seq79	>tsa-GFUB01046682.1 TSA: Podisus maculiventris TRINITY_DN50794_c0_g2_i1 transcribed RNA sequence-table1-Xinmoviridae-HMM9-93_90.0-ORF2
+seq80	>tsa-GFUB01046684.1 TSA: Podisus maculiventris TRINITY_DN50794_c0_g4_i1 transcribed RNA sequence-table6-Xinmoviridae-HMM6-86_87.0-ORF4
+seq81	>tsa-GFUB01217599.1 (REVERSE SENSE) TSA: Podisus maculiventris TRINITY_DN89810_c0_g1_i1 transcribed RNA sequence-table1-Xinmoviridae-HMM2-79_97.0-ORF9
+seq82	>tsa-HAFL01091503.1 (REVERSE SENSE) TSA: Proasellus beticus, contig comp98441_c0_seq1, transcribed RNA sequence-table6-Xinmoviridae-HMM501-896_17.0-ORF179
+seq83	>tsa-HAEU01065190.1 TSA: Proasellus coiffaiti, contig comp62368_c0_seq2, transcribed RNA sequence-table6-Xinmoviridae-HMM765-1160_17.0-ORF72
+seq84	>tsa-HAFJ01104821.1 TSA: Proasellus solanasi, contig comp991448_c0_seq1, transcribed RNA sequence-table1-Xinmoviridae-HMM10-114_91.0-ORF2
+seq85	>tsa-GCDX01014588.1 (REVERSE SENSE) TSA: Psyttalia concolor Pc_016182 transcribed RNA sequence-table1-Xinmoviridae-HMM1-117_97.0-ORF13
+seq86	>tsa-GETQ01254149.1 TSA: Rhagoletis pomonella c161923_g1_i1 transcribed RNA sequence-table1-Xinmoviridae-HMM1-364_72.0-ORF15
+seq87	>tsa-GETQ01254150.1 TSA: Rhagoletis pomonella c161923_g1_i2 transcribed RNA sequence-table6-Xinmoviridae-HMM14-368_69.0-ORF19
+seq88	>tsa-GEMJ01013571.1 TSA: Rhipidia sejuga c48713.graph_c0_seq1 transcribed RNA sequence-table1-Xinmoviridae-HMM3-148_97.0-ORF2
+seq89	>tsa-GEZY01000478.1 TSA: Sitophilus oryzae c53407.graph_c0 transcribed RNA sequence-table1-Xinmoviridae-HMM2-69_97.0-ORF2
+seq90	>tsa-GEOE01210631.1 TSA: Enteucha acetosae TR165501-c0_g1_i1 transcribed RNA sequence-table4-Xinmoviridae-HMM1-76_96.0-ORF3
+seq91	>tsa-GEOE01238497.1 TSA: Enteucha acetosae TR202112-c0_g1_i1 transcribed RNA sequence-table4-Xinmoviridae-HMM23-110_78.0-ORF5
+seq92	>tsa-GFUB01046683.1 TSA: Podisus maculiventris TRINITY_DN50794_c0_g3_i1 transcribed RNA sequence-table4-Xinmoviridae-HMM9-93_90.0-ORF4
+seq93	>tsa-GBWA01031076.1 (REVERSE SENSE) TSA: Synergus umbraculus s3325_L_3054_0_a_56_9_l_4015 transcribed RNA sequence-table6-Xinmoviridae-HMM62-117_42.0-ORF87
+seq94	>tsa-GBBP01045500.1 (REVERSE SENSE) TSA: Teleopsis dalmanni Td_comp148643_c0_seq1 transcribed RNA sequence-table4-Xinmoviridae-HMM3-86_94.0-ORF24
+seq95	>tsa-GBBP01120021.1 (REVERSE SENSE) TSA: Teleopsis dalmanni Td_comp163350_c1_seq1 transcribed RNA sequence-table6-Xinmoviridae-HMM120-217_38.0-ORF55
+seq96	>tsa-GBBP01120022.1 (REVERSE SENSE) TSA: Teleopsis dalmanni Td_comp163350_c1_seq2 transcribed RNA sequence-table4-Xinmoviridae-HMM91-232_57.0-ORF70
+seq97	>tsa-GAVA02009035.1 TSA: Triarthria setipennis C71097_a_7_0_l_335 transcribed RNA sequence-table6-Xinmoviridae-HMM1-108_96.0-ORF6
+seq98	>tsa-GAVA02024003.1 (REVERSE SENSE) TSA: Triarthria setipennis s7777_L_20148_0_a_4_4_l_1429 transcribed RNA sequence-table4-Xinmoviridae-HMM1-187_93.0-ORF36
+seq99	>tsa-GAJC01022112.1 (REVERSE SENSE) TSA: Leptopilina heterotoma comp4077_c0_seq1 transcribed RNA sequence-table6-Xinmoviridae-HMM1-163_95.0-ORF27
+seq100	>tsa-GFUB01001752.1 TSA: Podisus maculiventris TRINITY_DN101679_c0_g1_i1 transcribed RNA sequence-table6-Xinmoviridae-HMM1-59_78.0-ORF3

@@ -1,0 +1,88 @@
+seq1	>ref-NC_032430.1 Beihai barnacle virus 8 strain BHTH14652 hypothetical protein 1, hypothetical protein 2, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds-table6-Artoviridae-HMM367-845_20.0-ORF122
+seq2	>ref-NC_032558.1 Beihai rhabdo-like virus 2 strain BHTSS7258 hypothetical protein 1, hypothetical protein 2, putative glycoprotein, and RNA-dependent RNA polymerase genes, complete cds-table4-Artoviridae-HMM345-823_21.0-ORF124
+seq3	>ref-NC_032555.1 Beihai rhabdo-like virus 1 strain BHTSS15727 hypothetical protein 1, hypothetical protein 2, and RNA-dependent RNA polymerase genes, complete cds-table6-Artoviridae-HMM469-947_19.0-ORF115
+seq4	>nrnt-KX884446 Hubei rhabdo-like virus 5 strain WHSFII19440 RNA-dependent RNA polymerase gene, complete cds.-table6-Artoviridae-HMM432-910_20.0-ORF73
+seq5	>nrnt-KX884421 Hubei rhabdo-like virus 6 strain QTM24798 hypothetical protein and RNA-dependent RNA polymerase genes, complete cds.-table6-Artoviridae-HMM885-1363_17.0-ORF81
+seq6	>nrnt-KX884420 Hubei rhabdo-like virus 8 strain QTM19395 RNA-dependent RNA polymerase gene, complete cds.-table6-Artoviridae-HMM264-742_22.0-ORF80
+seq7	>nrnt-KX431032 Pteromalus puparum negative-strand RNA virus 1, complete genome.-table6-Artoviridae-HMM956-1434_16.0-ORF142
+seq8	>tsa-GENP01040236.1 TSA: Acanthopteroctetes unifascia TR50678-c1_g2_i4 transcribed RNA sequence-table1-Artoviridae-HMM9-155_57.0-ORF5
+seq9	>tsa-GENP01077375.1 (REVERSE SENSE) TSA: Acanthopteroctetes unifascia TR83915-c0_g2_i1 transcribed RNA sequence-table6-Artoviridae-HMM17-93_81.0-ORF11
+seq10	>tsa-GENP01077383.1 TSA: Acanthopteroctetes unifascia TR83915-c2_g1_i1 transcribed RNA sequence-table6-Artoviridae-HMM3-101_97.0-ORF5
+seq11	>tsa-GENP01077384.1 TSA: Acanthopteroctetes unifascia TR83915-c2_g2_i1 transcribed RNA sequence-table6-Artoviridae-HMM26-104_75.0-ORF9
+seq12	>tsa-GENT01063213.1 TSA: Acanthopteroctetes unifascia TR93861-c0_g1_i1 transcribed RNA sequence-table1-Artoviridae-HMM8-78_88.0-ORF1
+seq13	>tsa-GENT01063214.1 TSA: Acanthopteroctetes unifascia TR93861-c1_g1_i1 transcribed RNA sequence-table6-Artoviridae-HMM7-83_46.0-ORF10
+seq14	>tsa-GENT01063215.1 TSA: Acanthopteroctetes unifascia TR93861-c1_g1_i2 transcribed RNA sequence-table6-Artoviridae-HMM7-83_53.0-ORF8
+seq15	>tsa-GENT01072580.1 TSA: Acanthopteroctetes unifascia TR105382-c0_g1_i1 transcribed RNA sequence-table1-Artoviridae-HMM2-95_97.0-ORF3
+seq16	>tsa-GENU01005727.1 TSA: Acanthopteroctetes unifascia TR6590-c0_g1_i1 transcribed RNA sequence-table1-Artoviridae-HMM1-111_40.0-ORF5
+seq17	>tsa-GENU01009426.1 TSA: Acanthopteroctetes unifascia TR10631-c0_g2_i1 transcribed RNA sequence-table6-Artoviridae-HMM3-62_39.0-ORF7
+seq18	>tsa-GENU01017859.1 TSA: Acanthopteroctetes unifascia TR19292-c0_g2_i1 transcribed RNA sequence-table6-Artoviridae-HMM63-126_49.0-ORF9
+seq19	>tsa-GENU01017860.1 (REVERSE SENSE) TSA: Acanthopteroctetes unifascia TR19292-c1_g1_i1 transcribed RNA sequence-table6-Artoviridae-HMM3-164_78.0-ORF20
+seq20	>tsa-GENU01023534.1 (REVERSE SENSE) TSA: Acanthopteroctetes unifascia TR24590-c0_g1_i1 transcribed RNA sequence-table1-Artoviridae-HMM1-144_99.0-ORF14
+seq21	>tsa-GBRG01002909.1 (REVERSE SENSE) TSA: Aurelia aurita comp6818_c0_seq1 transcribed RNA sequence-table1-Artoviridae-HMM43-190_77.0-ORF14
+seq22	>tsa-GARP01043931.1 (REVERSE SENSE) TSA: Bemisia tabaci comp73759_c0_seq1 transcribed RNA sequence-table1-Artoviridae-HMM1-135_99.0-ORF14
+seq23	>tsa-GARP01052149.1 (REVERSE SENSE) TSA: Bemisia tabaci comp94582_c0_seq1 transcribed RNA sequence-table1-Artoviridae-HMM5-125_96.0-ORF10
+seq24	>tsa-GARP01053265.1 (REVERSE SENSE) TSA: Bemisia tabaci comp98112_c0_seq1 transcribed RNA sequence-table1-Artoviridae-HMM12-67_82.0-ORF7
+seq25	>tsa-GARP01057288.1 (REVERSE SENSE) TSA: Bemisia tabaci comp116592_c0_seq1 transcribed RNA sequence-table1-Artoviridae-HMM1-69_97.0-ORF7
+seq26	>tsa-GAUC01020065.1 (REVERSE SENSE) TSA: Bemisia tabaci Unitig_20173 transcribed RNA sequence-table6-Artoviridae-HMM439-917_20.0-ORF274
+seq27	>tsa-GEZK01014275.1 (REVERSE SENSE) TSA: Bemisia tabaci c161565_g3 transcribed RNA sequence-table4-Artoviridae-HMM7-306_95.0-ORF38
+seq28	>tsa-GEZK01055542.1 (REVERSE SENSE) TSA: Bemisia tabaci c137560_g1 transcribed RNA sequence-table1-Artoviridae-HMM5-97_94.0-ORF8
+seq29	>tsa-GBLE01001053.1 (REVERSE SENSE) TSA: Brachymeria minuta C103833_a_3_0_l_367 transcribed RNA sequence-table1-Artoviridae-HMM12-113_82.0-ORF8
+seq30	>tsa-GCVB01002405.1 (REVERSE SENSE) TSA: Brachyserphus parvulus C33377_a_3_0_l_237 transcribed RNA sequence-table1-Artoviridae-HMM2-78_97.0-ORF5
+seq31	>tsa-GCVB01008329.1 TSA: Brachyserphus parvulus C49617_a_4_0_l_392 transcribed RNA sequence-table4-Artoviridae-HMM1-119_99.0-ORF7
+seq32	>tsa-GCVB01010450.1 TSA: Brachyserphus parvulus C55542_a_8_0_l_483 transcribed RNA sequence-table6-Artoviridae-HMM1-140_89.0-ORF6
+seq33	>tsa-GAZX01006983.1 (REVERSE SENSE) TSA: Caligus rogercresseyi tsa-crog-ngs-11090062 transcribed RNA sequence-table1-Artoviridae-HMM3-90_93.0-ORF10
+seq34	>tsa-GAZX01041427.1 (REVERSE SENSE) TSA: Caligus rogercresseyi tsa-crog-ngs-11125216 transcribed RNA sequence-table6-Artoviridae-HMM323-801_39.0-ORF95
+seq35	>tsa-IABX01092330.1 (REVERSE SENSE) TSA: Caridina multidentata mRNA, contig: Cm_tra_AS01_contig_114013, transcribed RNA sequence-table4-Artoviridae-HMM10-80_87.0-ORF12
+seq36	>tsa-IABX01126649.1 (REVERSE SENSE) TSA: Caridina multidentata mRNA, contig: Cm_tra_AS01_contig_16325, transcribed RNA sequence-table6-Artoviridae-HMM22-158_37.0-ORF32
+seq37	>tsa-GDAR01013999.1 (REVERSE SENSE) TSA: Dendroctonus ponderosae Dpon-CLC-20141217_contig_71961 transcribed RNA sequence-table6-Artoviridae-HMM904-1381_17.0-ORF322
+seq38	>tsa-GENH01015357.1 (REVERSE SENSE) TSA: Dryadaula visaliella k52_472695 transcribed RNA sequence-table6-Artoviridae-HMM9-205_88.0-ORF21
+seq39	>tsa-GESR01006780.1 TSA: Eulimnogammarus violaceus c14813_g1_i1 transcribed RNA sequence-table1-Artoviridae-HMM3-96_95.0-ORF2
+seq40	>tsa-GESR01019648.1 TSA: Eulimnogammarus violaceus c35841_g2_i1 transcribed RNA sequence-table1-Artoviridae-HMM4-401_90.0-ORF13
+seq41	>tsa-GESR01041617.1 TSA: Eulimnogammarus violaceus c46537_g1_i1 transcribed RNA sequence-table1-Artoviridae-HMM56-138_58.0-ORF6
+seq42	>tsa-HAFM01000279.1 TSA: Gammarus pulex, contig Locus_10755_Transcript_1/1, transcribed RNA sequence-table1-Artoviridae-HMM6-132_94.0-ORF6
+seq43	>tsa-GEQG01046040.1 (REVERSE SENSE) TSA: Hyalellopsis costata c81023_g1_i1 transcribed RNA sequence-table6-Artoviridae-HMM352-830_21.0-ORF309
+seq44	>tsa-GEQH01074535.1 TSA: Hyalellopsis grisea c91553_g1_i1 transcribed RNA sequence-table1-Artoviridae-HMM2-86_97.0-ORF4
+seq45	>tsa-HACH01054910.1 (REVERSE SENSE) TSA: Hyas araneus, contig c52388_g1_i1, transcribed RNA sequence-table1-Artoviridae-HMM1-106_99.0-ORF11
+seq46	>tsa-GBTQ01007490.1 TSA: Lestica clypeata C46490_a_4_0_l_946 transcribed RNA sequence-table1-Artoviridae-HMM127-314_59.0-ORF10
+seq47	>tsa-GFFK01000596.1 TSA: Microphallus sp. 'livelyi' LB-2017 cds.comp12485_c0_seq4_m.3125 transcribed RNA sequence-table1-Artoviridae-HMM368-529_30.0-ORF17
+seq48	>tsa-GEQN01009078.1 TSA: Micruropus glaber c15793_g1_i1 transcribed RNA sequence-table1-Artoviridae-HMM2-108_98.0-ORF6
+seq49	>tsa-GEQN01057373.1 TSA: Micruropus glaber c60417_g1_i1 transcribed RNA sequence-table1-Artoviridae-HMM50-150_64.0-ORF6
+seq50	>tsa-GEQN01070718.1 TSA: Micruropus glaber c76033_g1_i1 transcribed RNA sequence-table1-Artoviridae-HMM1-187_64.0-ORF10
+seq51	>tsa-GAXM01002940.1 (REVERSE SENSE) TSA: Mischocyttarus flavitarsis comp2571_c0_seq1 transcribed RNA sequence-table1-Artoviridae-HMM3-88_96.0-ORF8
+seq52	>tsa-GAXM01003752.1 TSA: Mischocyttarus flavitarsis comp3629_c0_seq1 transcribed RNA sequence-table6-Artoviridae-HMM2-126_51.0-ORF7
+seq53	>tsa-GEQR01011818.1 (REVERSE SENSE) TSA: Ommatogammarus albinus c16153_g1_i1 transcribed RNA sequence-table1-Artoviridae-HMM1-84_97.0-ORF6
+seq54	>tsa-GEQR01072189.1 TSA: Ommatogammarus albinus c55956_g1_i1 transcribed RNA sequence-table1-Artoviridae-HMM1-183_99.0-ORF8
+seq55	>tsa-GEQS01004404.1 TSA: Ommatogammarus flavus c5692_g1_i1 transcribed RNA sequence-table6-Artoviridae-HMM321-799_21.0-ORF84
+seq56	>tsa-GEQT01051368.1 TSA: Pachyschesis branchialis c44235_g1_i1 transcribed RNA sequence-table1-Artoviridae-HMM1-47_45.0-ORF4
+seq57	>tsa-GEQT01057456.1 (REVERSE SENSE) TSA: Pachyschesis branchialis c51325_g1_i1 transcribed RNA sequence-table1-Artoviridae-HMM1-121_98.0-ORF10
+seq58	>tsa-GEQT01069082.1 (REVERSE SENSE) TSA: Pachyschesis branchialis c64868_g1_i1 transcribed RNA sequence-table1-Artoviridae-HMM1-67_97.0-ORF3
+seq59	>tsa-GBYW01005119.1 (REVERSE SENSE) TSA: Pacifastacus leniusculus comp8583_c0_seq1 transcribed RNA sequence-table1-Artoviridae-HMM3-83_95.0-ORF7
+seq60	>tsa-GBYW01020640.1 TSA: Pacifastacus leniusculus comp31346_c0_seq1 transcribed RNA sequence-table4-Artoviridae-HMM119-261_52.0-ORF9
+seq61	>tsa-GBYW01020641.1 TSA: Pacifastacus leniusculus comp31346_c0_seq2 transcribed RNA sequence-table1-Artoviridae-HMM119-432_72.0-ORF16
+seq62	>tsa-GBYW01020642.1 (REVERSE SENSE) TSA: Pacifastacus leniusculus comp31346_c0_seq3 transcribed RNA sequence-table1-Artoviridae-HMM8-94_90.0-ORF9
+seq63	>tsa-GBYW01050638.1 (REVERSE SENSE) TSA: Pacifastacus leniusculus comp49005_c0_seq1 transcribed RNA sequence-table1-Artoviridae-HMM2-75_96.0-ORF7
+seq64	>tsa-GAXH02016009.1 (REVERSE SENSE) TSA: Parides eurimedes C83778_a_4_0_l_439 transcribed RNA sequence-table1-Artoviridae-HMM6-144_95.0-ORF16
+seq65	>tsa-GASS02018243.1 (REVERSE SENSE) TSA: Platycentropus radiatus C86793_a_8_0_l_459 transcribed RNA sequence-table1-Artoviridae-HMM1-153_99.0-ORF13
+seq66	>tsa-GASS02023452.1 TSA: Platycentropus radiatus s2069_L_2572_0_a_16_0_l_1576 transcribed RNA sequence-table4-Artoviridae-HMM29-235_67.0-ORF14
+seq67	>tsa-GASS02023454.1 TSA: Platycentropus radiatus s2070_L_2572_1_a_14_2_l_1956 transcribed RNA sequence-table4-Artoviridae-HMM28-234_67.0-ORF18
+seq68	>tsa-GBWR01018282.1 (REVERSE SENSE) TSA: Polistes dominula C82168_a_13_0_l_260 transcribed RNA sequence-table4-Artoviridae-HMM1-71_95.0-ORF7
+seq69	>tsa-HAES01084426.1 TSA: Proasellus cavaticus, contig comp63289_c0_seq1, transcribed RNA sequence-table6-Artoviridae-HMM938-1416_17.0-ORF125
+seq70	>tsa-HAEU01056085.1 (REVERSE SENSE) TSA: Proasellus coiffaiti, contig comp61247_c11_seq1, transcribed RNA sequence-table4-Artoviridae-HMM96-574_24.0-ORF172
+seq71	>tsa-HAEW01012538.1 (REVERSE SENSE) TSA: Proasellus ebrensis, contig c13540_g1_i1, transcribed RNA sequence-table1-Artoviridae-HMM2-68_95.0-ORF7
+seq72	>tsa-HAFC01086094.1 TSA: Proasellus karamani, contig comp80810_c0_seq1, transcribed RNA sequence-table4-Artoviridae-HMM156-634_23.0-ORF97
+seq73	>tsa-HAFE01076147.1 TSA: Proasellus meridianus, contig comp69066_c0_seq2, transcribed RNA sequence-table4-Artoviridae-HMM334-812_21.0-ORF141
+seq74	>tsa-HAFJ01014572.1 TSA: Proasellus solanasi, contig comp30193_c0_seq1, transcribed RNA sequence-table1-Artoviridae-HMM2-283_99.0-ORF8
+seq75	>tsa-HAFJ01036947.1 (REVERSE SENSE) TSA: Proasellus solanasi, contig comp53606_c0_seq1, transcribed RNA sequence-table1-Artoviridae-HMM1-143_52.0-ORF18
+seq76	>tsa-HAFJ01061575.1 TSA: Proasellus solanasi, contig comp60852_c0_seq4, transcribed RNA sequence-table1-Artoviridae-HMM1-146_13.0-ORF38
+seq77	>tsa-HAFJ01061577.1 TSA: Proasellus solanasi, contig comp60852_c0_seq6, transcribed RNA sequence-table1-Artoviridae-HMM1-146_68.0-ORF8
+seq78	>tsa-HAFJ01063252.1 (REVERSE SENSE) TSA: Proasellus solanasi, contig comp60994_c0_seq5, transcribed RNA sequence-table6-Artoviridae-HMM321-671_52.0-ORF58
+seq79	>tsa-HAFJ01063255.1 (REVERSE SENSE) TSA: Proasellus solanasi, contig comp60994_c0_seq8, transcribed RNA sequence-table1-Artoviridae-HMM321-419_23.0-ORF36
+seq80	>tsa-HAFJ01063256.1 (REVERSE SENSE) TSA: Proasellus solanasi, contig comp60994_c0_seq9, transcribed RNA sequence-table6-Artoviridae-HMM321-419_23.0-ORF42
+seq81	>tsa-HAFJ01063257.1 (REVERSE SENSE) TSA: Proasellus solanasi, contig comp60994_c0_seq10, transcribed RNA sequence-table1-Artoviridae-HMM321-671_52.0-ORF54
+seq82	>tsa-HAFJ01088324.1 (REVERSE SENSE) TSA: Proasellus solanasi, contig comp587342_c0_seq1, transcribed RNA sequence-table1-Artoviridae-HMM52-110_52.0-ORF10
+seq83	>tsa-GECT01024248.1 TSA: Pteromalus puparum comp39766_c0 transcribed RNA sequence-table6-Artoviridae-HMM956-1434_16.0-ORF140
+seq84	>tsa-GEDB01070107.1 (REVERSE SENSE) TSA: Polistes dominula PdomTSAr1.2-072103 transcribed RNA sequence-table4-Artoviridae-HMM5-79_67.0-ORF13
+seq85	>tsa-GEDB01070108.1 (REVERSE SENSE) TSA: Polistes dominula PdomTSAr1.2-072104 transcribed RNA sequence-table4-Artoviridae-HMM5-74_86.0-ORF8
+seq86	>tsa-GENT01101356.1 (REVERSE SENSE) TSA: Acanthopteroctetes unifascia TR139359-c0_g1_i1 transcribed RNA sequence-table6-Artoviridae-HMM29-92_63.0-ORF10
+seq87	>tsa-IABX01035896.1 TSA: Caridina multidentata mRNA, contig: Cm_tra_AS01_contig_128423, transcribed RNA sequence-table6-Artoviridae-HMM2-81_97.0-ORF3
+seq88	>tsa-HACH01020242.1 (REVERSE SENSE) TSA: Hyas araneus, contig c24900_g1_i1, transcribed RNA sequence-table6-Artoviridae-HMM6-72_67.0-ORF14

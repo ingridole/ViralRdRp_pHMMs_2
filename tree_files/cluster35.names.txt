@@ -1,0 +1,85 @@
+seq1	>ref-NC_001556.1 Tobacco mild green mosaic virus, complete genome-table6-Virgaviridae-HMM1160-1630_28.0-ORF53
+seq2	>ref-NC_001801.1 Cucumber green mottle mosaic virus, complete genome-table6-Virgaviridae-HMM1190-1665_28.0-ORF55
+seq3	>ref-NC_001873.1 Turnip vein-clearing virus, complete genome-table6-Virgaviridae-HMM1155-1622_28.0-ORF52
+seq4	>ref-NC_002351.1 Soil-borne cereal mosaic virus RNA1 complete genome-table4-Virgaviridae-HMM1343-1807_25.0-ORF53
+seq5	>ref-NC_002633.1 Cucumber fruit mottle mosaic virus, complete genome-table6-Virgaviridae-HMM1208-1683_23.0-ORF71
+seq6	>ref-NC_003355.1 Wasabi mottle virus, complete genome-table6-Virgaviridae-HMM1151-1618_28.0-ORF49
+seq7	>ref-NC_002359.1 Chinese wheat mosaic virus RNA1, complete sequence-table4-Virgaviridae-HMM1400-1864_24.0-ORF62
+seq8	>ref-NC_003672.1 Peanut clump virus RNA 1, complete sequence-table4-Virgaviridae-HMM1203-1678_27.0-ORF55
+seq9	>ref-NC_004729.1 Indian peanut clump virus RNA 1, complete sequence-table4-Virgaviridae-HMM1202-1677_27.0-ORF55
+seq10	>ref-NC_003805.1 Tobacco rattle virus RNA 1, complete sequence-table4-Virgaviridae-HMM1271-1737_26.0-ORF59
+seq11	>ref-NC_003852.1 Obuda pepper virus, complete genome-table6-Virgaviridae-HMM1163-1639_28.0-ORF55
+seq12	>ref-NC_004422.1 Youcai mosaic virus, complete genome-table6-Virgaviridae-HMM1151-1618_28.0-ORF49
+seq13	>ref-NC_003669.1 Pepper ringspot virus RNA 1, complete sequence-table4-Virgaviridae-HMM1217-1679_27.0-ORF50
+seq14	>ref-NC_002692.1 Tomato mosaic virus, complete genome-table6-Virgaviridae-HMM1165-1635_28.0-ORF51
+seq15	>ref-NC_004106.1 Paprika mild mottle virus, complete genome-table6-Virgaviridae-HMM1163-1639_28.0-ORF57
+seq16	>ref-NC_001367.1 Tobacco mosaic virus, complete genome-table6-Virgaviridae-HMM1164-1634_28.0-ORF52
+seq17	>ref-NC_002792.2 Ribgrass mosaic virus, complete genome-table6-Virgaviridae-HMM1155-1622_28.0-ORF50
+seq18	>ref-NC_003478.1 Barley stripe mosaic virus RNA 3, complete sequence-table6-Virgaviridae-HMM320-784_58.0-ORF28
+seq19	>ref-NC_002036.1 Pea early browning virus RNA 1, complete sequence-table4-Virgaviridae-HMM1314-1782_25.0-ORF66
+seq20	>ref-NC_003610.1 Kyuri green mottle mosaic virus, complete genome-table6-Virgaviridae-HMM1211-1686_27.0-ORF54
+seq21	>ref-NC_003630.1 Pepper mild mottle virus, complete genome-table6-Virgaviridae-HMM1166-1635_23.0-ORF70
+seq22	>ref-NC_003878.1 Zucchini green mottle mosaic virus, complete genome-table6-Virgaviridae-HMM1211-1686_27.0-ORF57
+seq23	>ref-NC_001728.1 Odontoglossum ringspot virus, complete genome-table6-Virgaviridae-HMM1161-1628_28.0-ORF51
+seq24	>ref-NC_008310.2 Hibiscus latent Singapore virus, complete genome-table6-Virgaviridae-HMM1179-1657_28.0-ORF57
+seq25	>ref-NC_008716.1 Maracuja mosaic virus, complete genome-table4-Virgaviridae-HMM71-532_85.0-ORF55
+seq26	>ref-NC_008614.1 Cucumber mottle virus, complete genome-table6-Virgaviridae-HMM1212-1687_27.0-ORF57
+seq27	>ref-NC_008365.1 Streptocarpus flower break virus, complete genome-table6-Virgaviridae-HMM1150-1620_28.0-ORF51
+seq28	>ref-NC_009041.1 Rehmannia mosaic virus, complete genome-table6-Virgaviridae-HMM1165-1635_28.0-ORF60
+seq29	>ref-NC_009642.1 Bell pepper mottle tobamovirus, complete genome-table6-Virgaviridae-HMM1158-1623_28.0-ORF59
+seq30	>ref-NC_010944.1 Brugmansia mild mottle virus, complete genome-table6-Virgaviridae-HMM1161-1629_28.0-ORF60
+seq31	>ref-NC_011803.1 Cactus mild mottle virus, complete genome-table6-Virgaviridae-HMM1186-1652_27.0-ORF53
+seq32	>ref-NC_014546.1 Frangipani mosaic virus, complete genome-table6-Virgaviridae-HMM1197-1667_28.0-ORF57
+seq33	>ref-NC_015552.1 Passion fruit mosaic virus, complete genome-table6-Virgaviridae-HMM1133-1616_29.0-ORF60
+seq34	>ref-NC_016442.1 Rattail cactus necrosis associated virus, complete genome-table6-Virgaviridae-HMM1185-1654_27.0-ORF51
+seq35	>ref-NC_016519.1 Clitoria yellow mottle virus, complete genome-table6-Virgaviridae-HMM1184-1657_28.0-ORF57
+seq36	>ref-NC_022230.1 Tomato mottle mosaic virus isolate MX5, complete genome-table6-Virgaviridae-HMM1167-1637_28.0-ORF54
+seq37	>ref-NC_022801.1 Yellow tailflower mild mottle virus isolate Cervantes, complete genome-table6-Virgaviridae-HMM1168-1637_28.0-ORF50
+seq38	>ref-NC_024501.1 Gentian ovary ring-spot virus genomic RNA, segment 1, complete sequence, isolate: S-table4-Virgaviridae-HMM1231-1698_26.0-ORF68
+seq39	>ref-NC_025381.1 Hibiscus latent Fort Pierce virus genomic RNA, complete genome, isolate: J-table6-Virgaviridae-HMM1180-1658_28.0-ORF58
+seq40	>ref-NC_026816.1 Plumeria mosaic virus isolate Plu-Ind-1, complete genome-table6-Virgaviridae-HMM1208-1678_27.0-ORF60
+seq41	>ref-NC_028478.1 Tomato brown rugose fruit virus isolate Tom1-Jo, complete genome-table6-Virgaviridae-HMM1167-1637_28.0-ORF50
+seq42	>ref-NC_030229.1 Tropical soda apple mosaic virus isolate Okeechobee, complete genome-table6-Virgaviridae-HMM1166-1635_28.0-ORF56
+seq43	>ref-NC_034509.1 Hoya chlorotic spot virus isolate 12-415, complete genome-table6-Virgaviridae-HMM1157-1625_28.0-ORF64
+seq44	>nrnt-MTV30KCP Sunn-hemp mosaic virus 165 kDa protein gene, partial cds; and 30 kDa protein and coat protein genes, complete cds.-table4-Virgaviridae-HMM7-91_88.0-ORF4
+seq45	>nrnt-MF768255 Lychnis ringspot virus isolate mild segment RNA gamma, complete sequence.-table4-Virgaviridae-HMM176-639_69.0-ORF20
+seq46	>nrnt-KX683424 Piper chlorosis virus isolate DSMZ PV-1126 replicase gene, partial cds; and RNA polymerase, movement protein, and coat protein genes, complete cds.-table6-Virgaviridae-HMM998-1465_31.0-ORF50
+seq47	>nrnt-KX650855 Tobacco mosaic virus isolate Xch-Wh nonfunctional Replicase, nonfunctional movement protein, and nonfunctional coat protein genes, complete sequence.-table6-Virgaviridae-HMM1064-1534_30.0-ORF49
+seq48	>nrnt-KT225277 Soil-borne virus 2 isolate IS16 segment RNA1 putative replicase (ORF2) and polymerase (ORF1) genes, complete cds.-table4-Virgaviridae-HMM1370-1835_25.0-ORF63
+seq49	>nrnt-KP760461 Drakaea virus A isolate Canning Mills replicase (ORF1) gene, partial cds.-table4-Virgaviridae-HMM1062-1493_28.0-ORF55
+seq50	>nrnt-SMU47034 Sunn-hemp mosaic virus 129 kDa replicase mRNA, complete cds.-table6-Virgaviridae-HMM1180-1560_24.0-ORF56
+seq51	>nrnt-AX466963 Sequence 13 from Patent WO0208404.-table6-Virgaviridae-HMM1164-1634_28.0-ORF52
+seq52	>tsa-GFNA01009570.1 TSA: Aedes aegypti comp66143_c0_seq1 transcribed RNA sequence-table1-Virgaviridae-HMM20-178_87.0-ORF8
+seq53	>tsa-GAJW01005214.1 TSA: Aphis craccivora Aphis_trimmed_contig_5248 transcribed RNA sequence-table6-Virgaviridae-HMM23-133_72.0-ORF10
+seq54	>tsa-GAZV01047297.1 TSA: Apis mellifera comp22947_c0_seq1 transcribed RNA sequence-table1-Virgaviridae-HMM1-72_98.0-ORF3
+seq55	>tsa-GBLB01001160.1 TSA: Astata minor C104876_a_3_0_l_615 transcribed RNA sequence-table1-Virgaviridae-HMM1-204_99.0-ORF7
+seq56	>tsa-GBLB01016682.1 (REVERSE SENSE) TSA: Astata minor C82360_a_8_0_l_353 transcribed RNA sequence-table1-Virgaviridae-HMM7-106_84.0-ORF7
+seq57	>tsa-GBPV01011001.1 (REVERSE SENSE) TSA: Auplopus albifrons C59790_a_10_0_l_1616 transcribed RNA sequence-table6-Virgaviridae-HMM2-87_67.0-ORF30
+seq58	>tsa-GAPQ01015985.1 TSA: Bemisia tabaci BT_Q_G_ZJU_Unigene12428 transcribed RNA sequence-table1-Virgaviridae-HMM22-217_89.0-ORF10
+seq59	>tsa-GBLE01031818.1 (REVERSE SENSE) TSA: Brachymeria minuta s6874_L_12100_0_a_19_5_l_1048 transcribed RNA sequence-table1-Virgaviridae-HMM147-348_57.0-ORF23
+seq60	>tsa-GAZX01041453.1 (REVERSE SENSE) TSA: Caligus rogercresseyi tsa-crog-ngs-11125242 transcribed RNA sequence-table1-Virgaviridae-HMM118-278_57.0-ORF16
+seq61	>tsa-GBJN01082381.1 TSA: Latrodectus hesperus Lh0tf008716g0u transcribed RNA sequence-table4-Virgaviridae-HMM97-332_68.0-ORF9
+seq62	>tsa-GEEC01027749.1 (REVERSE SENSE) TSA: Mangifera indica contig30373 transcribed RNA sequence-table1-Virgaviridae-HMM1-202_99.0-ORF16
+seq63	>tsa-GEEC01029921.1 TSA: Mangifera indica contig34899 transcribed RNA sequence-table6-Virgaviridae-HMM66-110_39.0-ORF3
+seq64	>tsa-GEEC01030816.1 TSA: Mangifera indica contig36820 transcribed RNA sequence-table6-Virgaviridae-HMM1-108_89.0-ORF4
+seq65	>tsa-GBOY01004582.1 TSA: Mellinus arvensis C35150_a_3_0_l_339 transcribed RNA sequence-table1-Virgaviridae-HMM9-110_90.0-ORF3
+seq66	>tsa-GFKT010505801.1 TSA: Nephila clavipes Nep008_E_silk_comp450676_c0_seq1 transcribed RNA sequence-table1-Virgaviridae-HMM37-127_67.0-ORF4
+seq67	>tsa-GFKT010643733.1 TSA: Nephila clavipes Nep008_F_silk_comp77804_c1_seq1 transcribed RNA sequence-table4-Virgaviridae-HMM193-366_46.0-ORF14
+seq68	>tsa-GBLU01000332.1 (REVERSE SENSE) TSA: Oxybelus bipunctatus C102189_a_8_0_l_3101 transcribed RNA sequence-table1-Virgaviridae-HMM857-1032_16.0-ORF72
+seq69	>tsa-GCVO01038814.1 TSA: Pardosa pseudoannulata comp54483_c0_seq1 transcribed RNA sequence-table4-Virgaviridae-HMM151-255_40.0-ORF17
+seq70	>tsa-GCVT01038814.1 TSA: Pardosa pseudoannulata comp54483_c0_seq1 transcribed RNA sequence-table4-Virgaviridae-HMM151-255_40.0-ORF17
+seq71	>tsa-GAXH02019512.1 (REVERSE SENSE) TSA: Parides eurimedes C97192_a_4_0_l_688 transcribed RNA sequence-table6-Virgaviridae-HMM46-165_55.0-ORF19
+seq72	>tsa-GBDQ01039629.1 TSA: Petunia integrifolia subsp. inflata S2P_comp50588_c1_seq1 transcribed RNA sequence-table1-Virgaviridae-HMM2-75_97.0-ORF2
+seq73	>tsa-GDQR01016267.1 TSA: Pinus albicaulis seq16278 transcribed RNA sequence-table1-Virgaviridae-HMM328-527_37.0-ORF22
+seq74	>tsa-GDQE01004101.1 TSA: Pinus flexilis seq4104 transcribed RNA sequence-table1-Virgaviridae-HMM224-480_53.0-ORF22
+seq75	>tsa-GAXQ01007906.1 (REVERSE SENSE) TSA: Pseudomasaris vespoides comp6844_c0_seq1 transcribed RNA sequence-table1-Virgaviridae-HMM3-78_74.0-ORF9
+seq76	>tsa-GBNW01012051.1 (REVERSE SENSE) TSA: Pseudoscolia sinaitica C73186_a_5_0_l_1021 transcribed RNA sequence-table1-Virgaviridae-HMM151-339_55.0-ORF31
+seq77	>tsa-GAYZ02014407.1 (REVERSE SENSE) TSA: Ranatra linearis C67827_a_8_0_l_431 transcribed RNA sequence-table1-Virgaviridae-HMM18-141_86.0-ORF14
+seq78	>tsa-GBGQ01038227.1 TSA: Schmidtea mediterranea tr5_comp36660_c0_seq1 transcribed RNA sequence-table1-Virgaviridae-HMM11-199_93.0-ORF2
+seq79	>tsa-GEYW01052214.1 TSA: Silene subconica c36122_g1_i1 transcribed RNA sequence-table1-Virgaviridae-HMM2-78_97.0-ORF3
+seq80	>tsa-GEYW01058626.1 TSA: Silene subconica c42694_g1_i1 transcribed RNA sequence-table1-Virgaviridae-HMM5-97_93.0-ORF4
+seq81	>tsa-GFMC01002902.1 TSA: Triatoma infestans TINF_isotig03010 transcribed RNA sequence-table4-Virgaviridae-HMM90-275_67.0-ORF10
+seq82	>tsa-GCLM01031167.1 TSA: Aedes albopictus CL12112.Contig10_All transcribed RNA sequence-table6-Virgaviridae-HMM21-127_80.0-ORF13
+seq83	>tsa-GCLM01031169.1 TSA: Aedes albopictus CL12112.Contig12_All transcribed RNA sequence-table6-Virgaviridae-HMM21-127_80.0-ORF11
+seq84	>tsa-GCLM01031174.1 TSA: Aedes albopictus CL12112.Contig17_All transcribed RNA sequence-table6-Virgaviridae-HMM20-126_80.0-ORF5
+seq85	>tsa-GCLM01063209.1 TSA: Aedes albopictus Unigene29463_All transcribed RNA sequence-table6-Virgaviridae-HMM20-126_80.0-ORF5

@@ -1,0 +1,105 @@
+seq1	>ref-NC_007069.1 Phytophthora endornavirus 1-table6-Endornaviridae-HMM4133-4613_10.0-ORF162
+seq2	>ref-NC_007648.1 Vicia faba endornavirus, complete genome-table4-Endornaviridae-HMM5251-5689_7.0-ORF183
+seq3	>ref-NC_007649.1 Oryza rufipogon endornavirus, complete genome-table4-Endornaviridae-HMM4147-4627_10.0-ORF143
+seq4	>ref-NC_007647.1 Oryza sativa endornavirus, complete genome-table4-Endornaviridae-HMM4146-4626_10.0-ORF144
+seq5	>ref-NC_007920.1 Gremmeniella abietina type B RNA virus XL1, complete genome-table6-Endornaviridae-HMM2932-3390_13.0-ORF100
+seq6	>ref-NC_013447.1 Helicobasidium mompa endornavirus 1, complete genome-table6-Endornaviridae-HMM4893-5376_8.0-ORF186
+seq7	>ref-NC_014904.1 Tuber aestivum endornavirus, complete genome-table6-Endornaviridae-HMM2709-3185_14.0-ORF106
+seq8	>ref-NC_015781.2 Bell pepper endornavirus, complete genome-table6-Endornaviridae-HMM4408-4888_9.0-ORF164
+seq9	>ref-NC_016648.1 Persea americana endornavirus, complete genome-table6-Endornaviridae-HMM3993-4474_10.0-ORF166
+seq10	>ref-NC_019493.1 Grapevine endophyte endornavirus, complete genome-table6-Endornaviridae-HMM3548-4030_11.0-ORF125
+seq11	>ref-NC_021706.1 Sclerotinia sclerotiorum endornavirus-1 strain JZJL2, complete genome-table6-Endornaviridae-HMM3028-3505_13.0-ORF112
+seq12	>ref-NC_022619.1 Rhizoctonia cerealis endornavirus 1, complete genome-table6-Endornaviridae-HMM5329-5808_8.0-ORF191
+seq13	>ref-NC_023678.1 Phaseolus vulgaris endornavirus 1 gene for polyprotein, complete cds-table6-Endornaviridae-HMM4136-4617_10.0-ORF148
+seq14	>ref-NC_023641.1 Lagenaria siceraria endornavirus-California isolate FB, complete genome-table6-Endornaviridae-HMM4528-5007_9.0-ORF174
+seq15	>ref-NC_023893.1 Sclerotinia sclerotiorum betaendornavirus 1 isolate 11691, complete genome-table6-Endornaviridae-HMM2958-3434_13.0-ORF106
+seq16	>ref-NC_024455.1 Yerba mate endornavirus strain INTA, complete genome-table4-Endornaviridae-HMM4148-4629_10.0-ORF146
+seq17	>ref-NC_026136.1 Alternaria brassicicola endornavirus isolate 1, complete genome-table4-Endornaviridae-HMM2937-3412_13.0-ORF121
+seq18	>ref-NC_027920.1 Hot pepper endornavirus isolate CS, complete genome-table4-Endornaviridae-HMM4404-4885_9.0-ORF174
+seq19	>ref-NC_028949.1 Hordeum vulgare endornavirus, complete genome-table6-Endornaviridae-HMM4248-4729_10.0-ORF150
+seq20	>ref-NC_029064.1 Cucumis melo endornavirus isolate CL-01, complete genome-table6-Endornaviridae-HMM4532-5012_9.0-ORF177
+seq21	>ref-NC_029095.1 Erysiphe cichoracearum endornavirus isolate HBJZ1506, complete genome-table6-Endornaviridae-HMM3473-3955_12.0-ORF138
+seq22	>ref-NC_030938.1 Rosellinia necatrix endornavirus 1 genomic RNA, complete genome, strain: W1141-table6-Endornaviridae-HMM2702-3176_14.0-ORF103
+seq23	>ref-NC_031336.1 Psophocarpus tetragonolobus endornavirus genomic RNA, complete genome-table6-Endornaviridae-HMM4377-4858_9.0-ORF172
+seq24	>ref-NC_031449.1 Ceratobasidium endornavirus D isolate Murdoch-4 polyprotein gene, complete cds-table6-Endornaviridae-HMM5965-6444_7.0-ORF215
+seq25	>ref-NC_031463.1 Ceratobasidium endornavirus B isolate Murdoch-2 polyprotein and ORF2 genes, complete cds-table6-Endornaviridae-HMM5263-5746_6.0-ORF220
+seq26	>ref-NC_031462.1 Ceratobasidium endornavirus A isolate Murdoch-1 polyprotein gene, complete cds-table4-Endornaviridae-HMM4528-5011_9.0-ORF165
+seq27	>ref-NC_031464.1 Ceratobasidium endornavirus G isolate Murdoch-7 polyprotein and ORF2 genes, complete cds-table6-Endornaviridae-HMM4486-4966_9.0-ORF156
+seq28	>ref-NC_031752.1 Botrytis cinerea endornavirus 1 strain HBtom-372, complete genome-table6-Endornaviridae-HMM3297-3772_12.0-ORF118
+seq29	>ref-NC_032798.1 Shahe endorna-like virus 1 strain SHWC0209c12790 hypothetical protein gene, complete cds-table4-Endornaviridae-HMM4749-5226_9.0-ORF171
+seq30	>ref-NC_033204.1 Hubei endorna-like virus 1 strain QCM148882 hypothetical protein gene, complete cds-table6-Endornaviridae-HMM4078-4559_10.0-ORF162
+seq31	>ref-NC_033419.1 Wuchan romanomermis nematode virus 1 strain WCLSXC58279 hypothetical protein gene, complete cds-table6-Endornaviridae-HMM4276-4738_9.0-ORF173
+seq32	>ref-NC_034216.1 Lagenaria siceraria endornavirus-Hubei isolate JZ, complete genome-table6-Endornaviridae-HMM4531-5010_9.0-ORF166
+seq33	>ref-NC_031461.1 Ceratobasidium endornavirus C isolate Murdoch-3 polyprotein and ORF2 genes, complete cds-table6-Endornaviridae-HMM4988-5477_8.0-ORF170
+seq34	>nrnt-MF098782 Rhizoctonia solani endornavirus 1 isolate GD-2, complete genome.-table6-Endornaviridae-HMM5053-5534_8.0-ORF194
+seq35	>nrnt-LN827950 Botrytis endornavirus 1 partial RdRp gene for RNA dependent RNA polymerase, isolate HAZ2-1.-table1-Endornaviridae-HMM393-580_32.0-ORF18
+seq36	>nrnt-AB844265 Basella alba endornavirus genomic RNA, complete sequence.-table6-Endornaviridae-HMM4173-4654_10.0-ORF155
+seq37	>nrnt-KY357509 Agaricus bisporus endornavirus 1 isolate AbEV1-2990, partial sequence.-table6-Endornaviridae-HMM3737-4218_11.0-ORF141
+seq38	>nrnt-KX355146 Ceratobasidium endornavirus F isolate Murdoch-6 polyprotein gene, partial cds.-table6-Endornaviridae-HMM1915-2388_19.0-ORF76
+seq39	>nrnt-KX355150 Endornavirus-like virus clone 2 polyprotein gene, partial cds.-table6-Endornaviridae-HMM445-946_52.0-ORF33
+seq40	>nrnt-KX349065 Rhizoctonia solani endornavirus 3 RNA-dependent RNA polymerase (RdRp) gene, partial cds.-table1-Endornaviridae-HMM8-337_97.0-ORF11
+seq41	>nrnt-KT598232 Soybean leaf-associated endornavirus 1 isolate SaEndV1-1, partial sequence.-table6-Endornaviridae-HMM832-1312_36.0-ORF43
+seq42	>nrnt-KT823701 Rhizoctonia solani endornavirus 2 isolate RsEnd-Illinois1 polyprotein gene, complete cds.-table6-Endornaviridae-HMM4791-5261_8.0-ORF171
+seq43	>nrnt-AP014908 Diatom colony associated dsRNA virus 15 genomic RNA, complete genome.-table6-Endornaviridae-HMM3802-4279_11.0-ORF150
+seq44	>nrnt-GQ494150 Chalara endornavirus CeEV1 strain NC1527 polyprotein mRNA, partial cds.-table1-Endornaviridae-HMM3400-3867_12.0-ORF135
+seq45	>nrnt-KC792590 Rhizoctonia solani endornavirus - RS002, partial genome.-table1-Endornaviridae-HMM4576-4896_6.0-ORF170
+seq46	>nrnt-AB719398 Phaseolus vulgaris endornavirus 2 gene for polyprotein, complete cds.-table6-Endornaviridae-HMM4445-4926_9.0-ORF170
+seq47	>nrnt-HE579703 Uncultured endornavirus genomic RNA containing putative polyprotein, contig 63Hv1_454_1.-table6-Endornaviridae-HMM15-485_92.0-ORF98
+seq48	>nrnt-KX883750 Behai endorna-like virus 1 strain BHTSS17827 hypothetical protein gene, complete cds.-table6-Endornaviridae-HMM746-1235_39.0-ORF42
+seq49	>tsa-GAZX01008676.1 TSA: Caligus rogercresseyi tsa-crog-ngs-11091897 transcribed RNA sequence-table1-Endornaviridae-HMM2-114_98.0-ORF5
+seq50	>tsa-GAZX01018165.1 (REVERSE SENSE) TSA: Caligus rogercresseyi tsa-crog-ngs-11101720 transcribed RNA sequence-table1-Endornaviridae-HMM1-155_99.0-ORF12
+seq51	>tsa-GAXU01057475.1 (REVERSE SENSE) TSA: Capsicum annuum Capsicum_annuum_Resistant_1211719seq1_len339 transcribed RNA sequence-table1-Endornaviridae-HMM2-111_97.0-ORF8
+seq52	>tsa-GAXU01062682.1 TSA: Capsicum annuum Capsicum_annuum_Resistant_1253556seq1_len653 transcribed RNA sequence-table1-Endornaviridae-HMM1-216_99.0-ORF4
+seq53	>tsa-GAXV01073069.1 (REVERSE SENSE) TSA: Capsicum annuum Capsicum_annuum_suceptible363634seq1_lent295 transcribed RNA sequence-table1-Endornaviridae-HMM1-97_98.0-ORF7
+seq54	>tsa-GAXV01076403.1 (REVERSE SENSE) TSA: Capsicum annuum Capsicum_annuum_suceptible279181seq1_lent308 transcribed RNA sequence-table1-Endornaviridae-HMM2-102_98.0-ORF7
+seq55	>tsa-GAXV01083451.1 TSA: Capsicum annuum Capsicum_annuum_suceptible555138seq1_lent203 transcribed RNA sequence-table1-Endornaviridae-HMM3-66_94.0-ORF3
+seq56	>tsa-GEWG01002230.1 TSA: Chorda filum GWS036236_c49252_g1_i1 transcribed RNA sequence-table4-Endornaviridae-HMM345-820_54.0-ORF32
+seq57	>tsa-GEWG01008154.1 (REVERSE SENSE) TSA: Chorda filum GWS036236_c33807_g1_i1 transcribed RNA sequence-table4-Endornaviridae-HMM5-467_84.0-ORF47
+seq58	>tsa-GFJG01020737.1 TSA: Eurypanopeus depressus TR151914-c0_g1_i1 transcribed RNA sequence-table6-Endornaviridae-HMM76-536_83.0-ORF12
+seq59	>tsa-GFJG01058372.1 TSA: Eurypanopeus depressus TR242432-c0_g1_i1 transcribed RNA sequence-table4-Endornaviridae-HMM1491-1816_17.0-ORF68
+seq60	>tsa-GFJG01058373.1 TSA: Eurypanopeus depressus TR242432-c0_g1_i2 transcribed RNA sequence-table6-Endornaviridae-HMM4253-4713_9.0-ORF167
+seq61	>tsa-GFJG01058374.1 TSA: Eurypanopeus depressus TR242432-c0_g1_i3 transcribed RNA sequence-table4-Endornaviridae-HMM2637-2962_10.0-ORF108
+seq62	>tsa-GFJG01058375.1 TSA: Eurypanopeus depressus TR242432-c0_g1_i4 transcribed RNA sequence-table4-Endornaviridae-HMM4253-4578_7.0-ORF159
+seq63	>tsa-GFJG01058376.1 TSA: Eurypanopeus depressus TR242432-c0_g2_i1 transcribed RNA sequence-table6-Endornaviridae-HMM7-157_87.0-ORF6
+seq64	>tsa-GCRV01010234.1 (REVERSE SENSE) TSA: insect metagenome CL3728.Contig1_All transcribed RNA sequence-table1-Endornaviridae-HMM104-409_74.0-ORF32
+seq65	>tsa-GCRV01015751.1 (REVERSE SENSE) TSA: insect metagenome Unigene3139_All transcribed RNA sequence-table6-Endornaviridae-HMM210-691_69.0-ORF53
+seq66	>tsa-GCRV01016291.1 (REVERSE SENSE) TSA: insect metagenome Unigene3679_All transcribed RNA sequence-table1-Endornaviridae-HMM2-142_98.0-ORF11
+seq67	>tsa-GCRV01016740.1 TSA: insect metagenome Unigene4128_All transcribed RNA sequence-table6-Endornaviridae-HMM1870-2350_20.0-ORF74
+seq68	>tsa-GCRV01016743.1 TSA: insect metagenome Unigene4131_All transcribed RNA sequence-table1-Endornaviridae-HMM1182-1587_25.0-ORF49
+seq69	>tsa-GCRV01017946.1 TSA: insect metagenome Unigene5334_All transcribed RNA sequence-table1-Endornaviridae-HMM1-125_99.0-ORF5
+seq70	>tsa-GEYJ01002326.1 TSA: Nothrus palustris TR547_c0_g2_i1 transcribed RNA sequence-table1-Endornaviridae-HMM737-1207_38.0-ORF31
+seq71	>tsa-GEYJ01026106.1 TSA: Nothrus palustris TR5695_c0_g1_i1 transcribed RNA sequence-table4-Endornaviridae-HMM32-100_66.0-ORF5
+seq72	>tsa-GEYJ01026107.1 TSA: Nothrus palustris TR5695_c0_g2_i1 transcribed RNA sequence-table1-Endornaviridae-HMM2-146_97.0-ORF6
+seq73	>tsa-GEYJ01026108.1 TSA: Nothrus palustris TR5695_c0_g3_i1 transcribed RNA sequence-table6-Endornaviridae-HMM1519-1797_15.0-ORF130
+seq74	>tsa-GEYJ01026109.1 TSA: Nothrus palustris TR5695_c0_g3_i2 transcribed RNA sequence-table1-Endornaviridae-HMM3190-3468_8.0-ORF90
+seq75	>tsa-GEYJ01026110.1 TSA: Nothrus palustris TR5695_c0_g3_i3 transcribed RNA sequence-table1-Endornaviridae-HMM3100-3378_8.0-ORF87
+seq76	>tsa-GEYJ01026111.1 TSA: Nothrus palustris TR5695_c1_g1_i1 transcribed RNA sequence-table6-Endornaviridae-HMM2-105_88.0-ORF4
+seq77	>tsa-GEYJ01057980.1 TSA: Nothrus palustris TR19910_c0_g2_i1 transcribed RNA sequence-table6-Endornaviridae-HMM4010-4488_10.0-ORF161
+seq78	>tsa-GEYJ01057982.1 TSA: Nothrus palustris TR19910_c0_g2_i3 transcribed RNA sequence-table6-Endornaviridae-HMM4015-4493_10.0-ORF158
+seq79	>tsa-GEYJ01057984.1 TSA: Nothrus palustris TR19910_c1_g2_i1 transcribed RNA sequence-table6-Endornaviridae-HMM142-620_75.0-ORF148
+seq80	>tsa-GEYJ01112176.1 (REVERSE SENSE) TSA: Nothrus palustris TR42066_c0_g1_i1 transcribed RNA sequence-table1-Endornaviridae-HMM2-111_98.0-ORF7
+seq81	>tsa-GEYJ01116884.1 (REVERSE SENSE) TSA: Nothrus palustris TR44953_c0_g1_i1 transcribed RNA sequence-table1-Endornaviridae-HMM3-136_97.0-ORF7
+seq82	>tsa-GBGX01013336.1 (REVERSE SENSE) TSA: Phytophthora cactorum U13336 transcribed RNA sequence-table6-Endornaviridae-HMM1218-1700_28.0-ORF133
+seq83	>tsa-GBGX01017215.1 (REVERSE SENSE) TSA: Phytophthora cactorum U17215 transcribed RNA sequence-table6-Endornaviridae-HMM8-461_97.0-ORF35
+seq84	>tsa-GBGX01020160.1 TSA: Phytophthora cactorum U20160 transcribed RNA sequence-table6-Endornaviridae-HMM3727-4206_11.0-ORF146
+seq85	>tsa-GDQE01003331.1 TSA: Pinus flexilis seq3333 transcribed RNA sequence-table1-Endornaviridae-HMM136-329_58.0-ORF11
+seq86	>tsa-GDQE01008227.1 TSA: Pinus flexilis seq8234 transcribed RNA sequence-table1-Endornaviridae-HMM1766-1980_10.0-ORF62
+seq87	>tsa-GCZR01015601.1 (REVERSE SENSE) TSA: Poa supina soap21_401875 transcribed RNA sequence-table6-Endornaviridae-HMM2-103_89.0-ORF8
+seq88	>tsa-GCZR01034964.1 (REVERSE SENSE) TSA: Poa supina trinity_c31511_g1_i1 transcribed RNA sequence-table1-Endornaviridae-HMM21-206_89.0-ORF14
+seq89	>tsa-GDRE01036319.1 TSA: Rotaria magnacalcarata RMAGT0036426 transcribed RNA sequence-table1-Endornaviridae-HMM3-97_96.0-ORF4
+seq90	>tsa-GDRK01066851.1 TSA: Rotaria tardigrada RTART0066911 transcribed RNA sequence-table1-Endornaviridae-HMM2-113_95.0-ORF3
+seq91	>tsa-GCZV01019674.1 (REVERSE SENSE) TSA: Senna alexandrina transcript_19687 transcribed RNA sequence-table6-Endornaviridae-HMM2-126_37.0-ORF21
+seq92	>tsa-GCZV01023451.1 (REVERSE SENSE) TSA: Senna alexandrina transcript_23464 transcribed RNA sequence-table1-Endornaviridae-HMM28-299_90.0-ORF20
+seq93	>tsa-GCZV01029678.1 TSA: Senna alexandrina transcript_29691 transcribed RNA sequence-table6-Endornaviridae-HMM153-231_29.0-ORF9
+seq94	>tsa-GCZV01032857.1 TSA: Senna alexandrina transcript_32871 transcribed RNA sequence-table1-Endornaviridae-HMM81-217_62.0-ORF4
+seq95	>tsa-GEEB01039111.1 (REVERSE SENSE) TSA: Senna alexandrina transcript_39111 transcribed RNA sequence-table6-Endornaviridae-HMM1410-1801_19.0-ORF127
+seq96	>tsa-GEYV01054520.1 TSA: Silene grisebachii c34999_g1_i1 transcribed RNA sequence-table4-Endornaviridae-HMM5174-5653_8.0-ORF169
+seq97	>tsa-GEYV01054521.1 TSA: Silene grisebachii c34999_g1_i2 transcribed RNA sequence-table4-Endornaviridae-HMM2663-3142_15.0-ORF90
+seq98	>tsa-GEYV01132511.1 (REVERSE SENSE) TSA: Silene grisebachii c66462_g1_i1 transcribed RNA sequence-table6-Endornaviridae-HMM269-330_18.0-ORF23
+seq99	>tsa-GEYV01156364.1 (REVERSE SENSE) TSA: Silene grisebachii c90951_g1_i1 transcribed RNA sequence-table1-Endornaviridae-HMM1-73_98.0-ORF6
+seq100	>tsa-GELW01101398.1 (REVERSE SENSE) TSA: Taxillus chinensis c55538_g3_i1 transcribed RNA sequence-table6-Endornaviridae-HMM45-526_89.0-ORF39
+seq101	>tsa-GELW01113885.1 TSA: Taxillus chinensis c64285_g1_i1 transcribed RNA sequence-table6-Endornaviridae-HMM2-148_92.0-ORF7
+seq102	>tsa-GELW01118996.1 TSA: Taxillus chinensis c69661_g1_i1 transcribed RNA sequence-table4-Endornaviridae-HMM3-214_98.0-ORF9
+seq103	>tsa-GELW01122626.1 (REVERSE SENSE) TSA: Taxillus chinensis c73432_g1_i1 transcribed RNA sequence-table4-Endornaviridae-HMM137-244_43.0-ORF21
+seq104	>tsa-GFTX01072545.1 TSA: Ulva lactuca c33871_g2_i1 transcribed RNA sequence-table6-Endornaviridae-HMM1179-1645_27.0-ORF57
+seq105	>tsa-GFUR01034265.1 (REVERSE SENSE) TSA: Ulva lactuca c24708_g1_i1 transcribed RNA sequence-table6-Endornaviridae-HMM4092-4558_10.0-ORF335

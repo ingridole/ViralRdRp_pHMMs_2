@@ -1,0 +1,18 @@
+seq1	>ref-NC_033197.1 Wenling zhaovirus-like virus 1 strain WLJQ103300 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds-table6-Zhaovirus-HMM517-800_22.0-ORF35
+seq2	>ref-NC_033186.1 Hubei zhaovirus-like virus 1 strain WHBL52766 RNA-dependent RNA polymerase and putative capsid protein genes, complete cds-table6-Zhaovirus-HMM1042-1459_27.0-ORF48
+seq3	>ref-NC_033167.1 Beihai zhaovirus-like virus 3 strain BHZY60564 polyprotein gene, complete cds-table6-Zhaovirus-HMM934-1226_20.0-ORF55
+seq4	>ref-NC_033175.1 Beihai zhaovirus-like virus 4 strain BHZY60633 polyprotein gene, complete cds-table6-Zhaovirus-HMM544-806_28.0-ORF70
+seq5	>ref-NC_033181.1 Changjiang zhaovirus-like virus 1 strain CJLX30599 polyprotein gene, complete cds-table6-Zhaovirus-HMM1363-1809_19.0-ORF62
+seq6	>ref-NC_033193.1 Hubei zhaovirus-like virus 2 strain WHBL71389 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds-table6-Zhaovirus-HMM1007-1418_27.0-ORF42
+seq7	>ref-NC_033159.1 Beihai zhaovirus-like virus 2 strain BHTSS12281 polyprotein gene, complete cds-table6-Zhaovirus-HMM588-1018_33.0-ORF85
+seq8	>ref-NC_033154.1 Beihai zhaovirus-like virus 5 strain BHNXC41311 RNA-dependent RNA polymerase gene, complete cds-table6-Zhaovirus-HMM1001-1265_16.0-ORF51
+seq9	>ref-NC_033162.1 Beihai zhaovirus-like virus 1 strain BHZY59866 polyprotein gene, complete cds-table6-Zhaovirus-HMM870-983_11.0-ORF34
+seq10	>nrnt-KF412899 Brinovirus polyprotein gene, partial cds.-table6-Zhaovirus-HMM1997-2226_7.0-ORF94
+seq11	>nrnt-JN661159 Cilio virus clone SF125 polyprotein gene, complete cds.-table6-Zhaovirus-HMM2259-2497_7.0-ORF104
+seq12	>tsa-GALT01021323.1 TSA: gut metagenome Locus111529v1rpkm6.43 transcribed RNA sequence-table1-Zhaovirus-HMM55-209_73.0-ORF3
+seq13	>tsa-GEDP01021692.1 TSA: Triticum polonicum comp211744_c0 transcribed RNA sequence-table6-Zhaovirus-HMM1413-1784_18.0-ORF61
+seq14	>ref-NC_033106.1 Shahe isopoda virus 3 strain SHWC0209c10670 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds-table6-Yanvirus-HMM596-1079_41.0-ORF42
+seq15	>ref-NC_033100.1 Wenzhou bivalvia virus 2 strain beimix75763 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds-table6-Yanvirus-HMM799-1264_35.0-ORF43
+seq16	>ref-NC_033113.1 Hubei yanvirus-like virus 1 strain WHCC105213 hypothetical protein 1, RNA-dependent RNA polymerase, and hypothetical protein 2 genes, complete cds-table4-Yanvirus-HMM173-604_48.0-ORF25
+seq17	>ref-NC_033424.1 Wenzhou yanvirus-like virus 2 strain beimix74779 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds-table6-Yanvirus-HMM902-1366_32.0-ORF42
+seq18	>ref-NC_033428.1 Wenzhou yanvirus-like virus 1 strain WZFSL78003 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds-table6-Yanvirus-HMM1117-1228_8.0-ORF40

@@ -1,0 +1,463 @@
+seq1	>ref-NC_004752.1 Yam mosaic virus, complete genome-table6-Potyviridae-HMM2298-2761_14.0-ORF110
+seq2	>ref-NC_005136.1 Oat necrotic mottle virus, complete genome-table6-Potyviridae-HMM2197-2648_14.0-ORF99
+seq3	>ref-NC_003398.1 Sugarcane mosaic virus, complete genome-table6-Potyviridae-HMM2244-2706_14.0-ORF91
+seq4	>ref-NC_005304.1 Beet mosaic virus, complete genome-table6-Potyviridae-HMM2347-2813_14.0-ORF111
+seq5	>ref-NC_005904.1 Hordeum mosaic virus, complete genome-table6-Potyviridae-HMM2270-2736_14.0-ORF105
+seq6	>ref-NC_006262.1 Watermelon mosaic virus, complete genome-table6-Potyviridae-HMM2462-2928_14.0-ORF109
+seq7	>ref-NC_005903.1 Agropyron mosaic virus, complete genome-table4-Potyviridae-HMM2269-2735_14.0-ORF100
+seq8	>ref-NC_004035.1 Sorghum mosaic virus, complete genome-table4-Potyviridae-HMM2290-2752_14.0-ORF111
+seq9	>ref-NC_003397.1 Bean common mosaic virus, complete genome-table6-Potyviridae-HMM2441-2905_14.0-ORF104
+seq10	>ref-NC_006941.1 Cucumber vein yellowing virus, complete genome-table4-Potyviridae-HMM2305-2757_14.0-ORF113
+seq11	>ref-NC_003399.1 Scallion mosaic virus, complete genome-table4-Potyviridae-HMM2221-2686_15.0-ORF105
+seq12	>ref-NC_004011.1 Leek yellow stripe virus, complete genome-table4-Potyviridae-HMM2381-2844_14.0-ORF111
+seq13	>ref-NC_005778.1 Chilli veinal mottle virus, complete genome-table6-Potyviridae-HMM2335-2800_14.0-ORF98
+seq14	>ref-NC_001671.1 Pea seed-borne mosaic virus, complete genome-table6-Potyviridae-HMM2417-2883_14.0-ORF117
+seq15	>ref-NC_001517.1 Pepper mottle virus, complete genome-table4-Potyviridae-HMM2294-2760_14.0-ORF106
+seq16	>ref-NC_003501.1 Brome streak mosaic virus, complete genome-table6-Potyviridae-HMM2324-2778_14.0-ORF111
+seq17	>ref-NC_003797.1 Sweet potato mild mottle virus, complete genome-table6-Potyviridae-HMM2699-3154_12.0-ORF113
+seq18	>ref-NC_001814.1 Ryegrass mosaic virus, complete genome-table6-Potyviridae-HMM2276-2742_14.0-ORF111
+seq19	>ref-NC_001768.1 Tobacco vein mottling virus, complete genome-table6-Potyviridae-HMM2292-2758_14.0-ORF94
+seq20	>ref-NC_002600.1 Peanut mottle virus, complete genome-table6-Potyviridae-HMM2343-2808_14.0-ORF114
+seq21	>ref-NC_002990.1 Barley yellow mosaic virus RNA 1, complete sequence-table6-Potyviridae-HMM1684-2136_17.0-ORF72
+seq22	>ref-NC_004010.1 Potato virus V, complete genome-table6-Potyviridae-HMM2342-2808_14.0-ORF116
+seq23	>ref-NC_003537.1 Dasheen mosaic virus, complete genome-table6-Potyviridae-HMM2416-2881_14.0-ORF103
+seq24	>ref-NC_005028.1 Papaya leaf-distortion mosaic potyvirus, complete genome-table6-Potyviridae-HMM2501-2966_13.0-ORF114
+seq25	>ref-NC_001555.1 Tobacco etch virus, complete genome-table4-Potyviridae-HMM2325-2787_14.0-ORF102
+seq26	>ref-NC_004047.1 Bean common mosaic necrosis virus, complete genome-table6-Potyviridae-HMM2343-2809_14.0-ORF104
+seq27	>ref-NC_003606.1 Johnsongrass mosaic virus, complete genome-table6-Potyviridae-HMM2279-2744_14.0-ORF104
+seq28	>ref-NC_003536.1 Clover yellow vein virus, complete genome-table6-Potyviridae-HMM2346-2811_14.0-ORF102
+seq29	>ref-NC_004039.1 Potato virus A, complete genome-table6-Potyviridae-HMM2291-2757_15.0-ORF103
+seq30	>ref-NC_003224.1 Zucchini yellow mosaic virus, complete genome-table6-Potyviridae-HMM2329-2795_14.0-ORF110
+seq31	>ref-NC_004013.1 Cowpea aphid-borne mosaic virus, complete genome-table4-Potyviridae-HMM2284-2751_15.0-ORF102
+seq32	>ref-NC_004573.1 Peru tomato mosaic virus, complete genome-table6-Potyviridae-HMM2344-2810_14.0-ORF113
+seq33	>ref-NC_001785.1 Papaya ringspot virus, complete genome-table6-Potyviridae-HMM2550-3012_13.0-ORF107
+seq34	>ref-NC_001445.1 Plum pox virus, complete genome-table6-Potyviridae-HMM2339-2805_14.0-ORF111
+seq35	>ref-NC_003483.1 Barley mild mosaic virus RNA 1, complete sequence-table6-Potyviridae-HMM1564-2016_19.0-ORF78
+seq36	>ref-NC_003605.1 Lettuce mosaic virus, complete genome-table6-Potyviridae-HMM2490-2956_13.0-ORF100
+seq37	>ref-NC_001886.1 Wheat streak mosaic virus, complete genome-table6-Potyviridae-HMM2196-2648_14.0-ORF101
+seq38	>ref-NC_002350.1 Wheat yellow mosaic virus RNA 1, complete sequence-table6-Potyviridae-HMM1655-2105_17.0-ORF74
+seq39	>ref-NC_002634.1 Soybean mosaic virus, complete genome-table6-Potyviridae-HMM2326-2792_14.0-ORF102
+seq40	>ref-NC_004016.1 Oat mosaic virus RNA 1, complete genome-table6-Potyviridae-HMM1609-2062_18.0-ORF76
+seq41	>ref-NC_003742.1 Cocksfoot streak virus, complete genome-table4-Potyviridae-HMM2330-2795_14.0-ORF108
+seq42	>ref-NC_005029.1 Onion yellow dwarf virus, complete genome-table4-Potyviridae-HMM2664-3130_13.0-ORF124
+seq43	>ref-NC_001616.1 Potato virus Y, complete genome-table6-Potyviridae-HMM2335-2803_14.0-ORF100
+seq44	>ref-NC_003492.1 Bean yellow mosaic virus, complete genome-table6-Potyviridae-HMM2275-2739_14.0-ORF106
+seq45	>ref-NC_001841.1 Sweet potato feathery mottle virus, complete genome-table6-Potyviridae-HMM2695-3161_12.0-ORF116
+seq46	>ref-NC_003377.1 Maize dwarf mosaic virus, complete genome-table4-Potyviridae-HMM2278-2741_14.0-ORF114
+seq47	>ref-NC_000947.1 Japanese yam mosaic virus, complete genome-table6-Potyviridae-HMM2374-2840_14.0-ORF100
+seq48	>ref-NC_004426.1 Wild potato mosaic virus, complete genome-table6-Potyviridae-HMM2334-2800_14.0-ORF112
+seq49	>ref-NC_002509.2 Turnip mosaic virus, complete genome-table4-Potyviridae-HMM2401-2867_14.0-ORF110
+seq50	>ref-NC_007147.1 Pennisetum mosaic virus, complete genome-table4-Potyviridae-HMM2301-2765_14.0-ORF98
+seq51	>ref-NC_007433.1 Shallot yellow stripe virus, complete genome-table6-Potyviridae-HMM2633-3098_13.0-ORF115
+seq52	>ref-NC_007180.1 Thunberg fritillary virus, complete genome-table4-Potyviridae-HMM2382-2844_14.0-ORF119
+seq53	>ref-NC_005288.1 Lily mottle virus, complete genome-table6-Potyviridae-HMM2355-2819_14.0-ORF104
+seq54	>ref-NC_007216.1 Wisteria vein mosaic virus, complete genome-table4-Potyviridae-HMM2322-2788_14.0-ORF119
+seq55	>ref-NC_007728.1 East Asian Passiflora virus, complete genome-table4-Potyviridae-HMM2454-2920_14.0-ORF103
+seq56	>ref-NC_007913.1 Konjac mosaic virus, complete genome-table6-Potyviridae-HMM2344-2808_14.0-ORF111
+seq57	>ref-NC_008393.1 Pepper severe mosaic virus, complete genome-table6-Potyviridae-HMM2323-2789_14.0-ORF116
+seq58	>ref-NC_008558.1 Blackberry virus Y, complete genome-table6-Potyviridae-HMM2664-3123_12.0-ORF111
+seq59	>ref-NC_008028.1 Daphne mosaic virus, complete genome-table4-Potyviridae-HMM2296-2761_14.0-ORF92
+seq60	>ref-NC_008824.1 Narcissus degeneration virus, complete genome-table6-Potyviridae-HMM2418-2882_14.0-ORF111
+seq61	>ref-NC_009744.1 Wild tomato mosaic virus, complete genome-table6-Potyviridae-HMM2331-2795_14.0-ORF101
+seq62	>ref-NC_009995.1 Moroccan watermelon mosaic virus, complete genome-table4-Potyviridae-HMM2372-2836_14.0-ORF104
+seq63	>ref-NC_009745.1 Banana bract mosaic virus, complete genome-table6-Potyviridae-HMM2347-2811_14.0-ORF112
+seq64	>ref-NC_009742.1 Telosma mosaic virus, complete genome-table6-Potyviridae-HMM2325-2791_14.0-ORF104
+seq65	>ref-NC_009805.1 Wheat eqlid mosaic virus, complete genome-table4-Potyviridae-HMM2261-2719_14.0-ORF108
+seq66	>ref-NC_009994.1 Tobacco vein banding mosaic virus, complete genome-table6-Potyviridae-HMM2326-2791_14.0-ORF104
+seq67	>ref-NC_009741.1 Basella rugose mosaic virus, complete genome-table6-Potyviridae-HMM2345-2811_14.0-ORF111
+seq68	>ref-NC_010735.1 Verbena virus Y, complete genome-table6-Potyviridae-HMM2346-2812_14.0-ORF112
+seq69	>ref-NC_010521.1 Squash vein yellowing virus, complete genome-table4-Potyviridae-HMM2353-2808_14.0-ORF104
+seq70	>ref-NC_010736.1 Algerian watermelon mosaic virus, complete genome-table4-Potyviridae-HMM2386-2849_14.0-ORF111
+seq71	>ref-NC_010954.1 Fritillary virus Y, complete genome-table6-Potyviridae-HMM2344-2809_14.0-ORF109
+seq72	>ref-NC_011541.1 Narcissus yellow stripe virus, complete genome-table4-Potyviridae-HMM2354-2819_14.0-ORF108
+seq73	>ref-NC_011560.1 Zantedeschia mild mosaic virus, complete genome-table6-Potyviridae-HMM2365-2831_14.0-ORF100
+seq74	>ref-NC_011918.1 Pepper veinal mottle virus, complete genome-table4-Potyviridae-HMM2294-2759_15.0-ORF98
+seq75	>ref-NC_012799.1 Triticum mosaic virus, complete genome-table4-Potyviridae-HMM2384-2835_14.0-ORF117
+seq76	>ref-NC_012698.2 Cassava brown streak virus, complete genome-table6-Potyviridae-HMM1833-2285_15.0-ORF97
+seq77	>ref-NC_013261.1 Canna Yellow Streak Virus, complete genome-table6-Potyviridae-HMM2287-2750_14.0-ORF104
+seq78	>ref-NC_014038.1 Sunflower chlorotic mottle virus, complete genome-table4-Potyviridae-HMM2447-2913_14.0-ORF102
+seq79	>ref-NC_014037.1 Sugarcane streak mosaic virus, complete genome-table4-Potyviridae-HMM2414-2865_14.0-ORF94
+seq80	>ref-NC_014252.1 Panax virus Y, complete genome-table6-Potyviridae-HMM2328-2793_14.0-ORF98
+seq81	>ref-NC_014898.1 Lupine mosaic virus, complete genome-table6-Potyviridae-HMM2508-2973_13.0-ORF103
+seq82	>ref-NC_014742.1 Sweet potato virus C, complete genome-table6-Potyviridae-HMM2696-3162_13.0-ORF105
+seq83	>ref-NC_014791.1 Ugandan cassava brown streak virus, complete genome-table6-Potyviridae-HMM1853-2305_15.0-ORF99
+seq84	>ref-NC_014325.1 Bidens mottle virus, complete genome-table6-Potyviridae-HMM2327-2793_14.0-ORF101
+seq85	>ref-NC_014536.1 Brugmansia suaveolens mottle virus, complete genome-table4-Potyviridae-HMM2359-2825_14.0-ORF108
+seq86	>ref-NC_014790.2 Passion fruit woodiness virus, complete genome-table6-Potyviridae-HMM2346-2812_14.0-ORF109
+seq87	>ref-NC_014064.1 Freesia mosaic virus, complete genome-table6-Potyviridae-HMM2064-2527_14.0-ORF92
+seq88	>ref-NC_014327.1 Pepper yellow mosaic virus RNA, complete genome, strain: DF-table6-Potyviridae-HMM2357-2823_14.0-ORF107
+seq89	>ref-NC_015394.2 Hardenbergia mosaic virus, complete genome-table4-Potyviridae-HMM2349-2815_14.0-ORF109
+seq90	>ref-NC_014905.1 Apium virus Y, complete genome-table6-Potyviridae-HMM2433-2898_14.0-ORF102
+seq91	>ref-NC_015393.1 Celery mosaic virus, complete genome-table6-Potyviridae-HMM2446-2911_14.0-ORF103
+seq92	>ref-NC_016441.1 Yam bean mosaic virus, complete genome-table6-Potyviridae-HMM2336-2799_14.0-ORF112
+seq93	>ref-NC_017967.1 Hippeastrum mosaic virus, complete genome-table6-Potyviridae-HMM2417-2884_14.0-ORF110
+seq94	>ref-NC_016159.1 Keunjorong mosaic virus isolate Cheongwon, complete genome-table6-Potyviridae-HMM2287-2752_14.0-ORF103
+seq95	>ref-NC_017970.1 Sweet potato virus 2, complete genome-table4-Potyviridae-HMM2651-3117_13.0-ORF106
+seq96	>ref-NC_016044.1 Chilli ringspot virus, complete genome-table6-Potyviridae-HMM2344-2809_14.0-ORF106
+seq97	>ref-NC_018176.1 Arracacha mottle virus, complete genome-table6-Potyviridae-HMM2338-2803_14.0-ORF111
+seq98	>ref-NC_018455.1 Chinese yam necrotic mosaic virus, complete genome-table6-Potyviridae-HMM1850-2308_16.0-ORF102
+seq99	>ref-NC_018572.1 Caladenia virus A, complete genome-table6-Potyviridae-HMM2424-2882_14.0-ORF97
+seq100	>ref-NC_018833.1 Iranian johnsongrass mosaic virus, complete genome-table6-Potyviridae-HMM2279-2742_14.0-ORF102
+seq101	>ref-NC_018872.2 Pokeweed mosaic virus isolate PkMV-PA, complete genome-table6-Potyviridae-HMM2307-2768_14.0-ORF99
+seq102	>ref-NC_017824.1 Tomato necrotic stunt virus, complete genome-table6-Potyviridae-HMM2393-2859_14.0-ORF119
+seq103	>ref-NC_017977.1 Vallota speciosa virus, complete genome-table4-Potyviridae-HMM2480-2944_14.0-ORF114
+seq104	>ref-NC_018093.1 Sweet potato virus G isolate Jesus Maria, complete genome-table6-Potyviridae-HMM2613-3079_13.0-ORF114
+seq105	>ref-NC_019031.1 Rose yellow mosaic virus, complete genome-table6-Potyviridae-HMM2327-2784_14.0-ORF114
+seq106	>ref-NC_019409.1 Ornithogalum mosaic virus, complete genome-table6-Potyviridae-HMM2285-2752_15.0-ORF115
+seq107	>ref-NC_019412.1 Yam mild mosaic virus from Brazil, complete genome-table6-Potyviridae-HMM2349-2811_14.0-ORF109
+seq108	>ref-NC_019415.1 Blue squill virus A, complete genome-table6-Potyviridae-HMM2380-2846_14.0-ORF117
+seq109	>ref-NC_020072.1 Colombian datura virus, complete genome-table6-Potyviridae-HMM2338-2800_14.0-ORF104
+seq110	>ref-NC_021065.1 Sunflower mild mosaic virus isolate Entre Rios, complete genome-table6-Potyviridae-HMM2390-2852_14.0-ORF109
+seq111	>ref-NC_020896.1 Sweet potato latent virus, complete genome-table6-Potyviridae-HMM2483-2948_13.0-ORF115
+seq112	>ref-NC_020105.1 Brugmansia mosaic virus strain SK, complete genome-table6-Potyviridae-HMM2357-2823_14.0-ORF110
+seq113	>ref-NC_021196.1 Calla lily latent virus strain m19 polyprotein gene, complete cds-table6-Potyviridae-HMM2359-2825_14.0-ORF109
+seq114	>ref-NC_021197.1 Donkey orchid virus A isolate SW3.1 polyprotein gene, complete cds-table4-Potyviridae-HMM2442-2903_14.0-ORF111
+seq115	>ref-NC_021786.1 Habenaria mosaic virus genomic RNA, complete genome, isolate: Ha-1-table6-Potyviridae-HMM2270-2733_14.0-ORF94
+seq116	>ref-NC_022745.1 Tall oatgrass mosaic virus isolate Benesov, complete genome-table6-Potyviridae-HMM2218-2670_14.0-ORF109
+seq117	>ref-NC_023014.1 Bidens mosaic virus isolate SP01, complete genome-table4-Potyviridae-HMM2279-2745_15.0-ORF109
+seq118	>ref-NC_023175.1 Zucchini tigre mosaic virus isolate Re01-25, complete genome-table4-Potyviridae-HMM2554-3018_13.0-ORF116
+seq119	>ref-NC_023628.1 Narcissus late season yellows virus isolate Marijiniup8, complete genome-table6-Potyviridae-HMM2340-2805_14.0-ORF106
+seq120	>ref-NC_024471.1 Yellow oat-grass mosaic virus isolate YOgMV-Sb, complete genome-table6-Potyviridae-HMM2193-2651_14.0-ORF111
+seq121	>ref-NC_025254.1 Carrot thin leaf virus isolate CTLV-Cs, complete genome-table6-Potyviridae-HMM2291-2756_14.0-ORF110
+seq122	>ref-NC_025250.1 Vanilla distortion mosaic virus isolate VDMV-Cor, complete genome-table6-Potyviridae-HMM2320-2786_14.0-ORF91
+seq123	>ref-NC_025821.1 Asparagus virus 1 isolate DSMZ PV-0954, complete genome-table6-Potyviridae-HMM2350-2816_14.0-ORF110
+seq124	>ref-NC_026615.1 Tamarillo leaf malformation virus isolate A, complete genome-table6-Potyviridae-HMM2346-2808_14.0-ORF117
+seq125	>ref-NC_026759.1 Artichoke latent virus isolate FR37, complete genome-table6-Potyviridae-HMM1851-2305_16.0-ORF90
+seq126	>ref-NC_027210.1 Catharanthus mosaic virus isolate Mandevilla-US, complete genome-table6-Potyviridae-HMM2287-2752_14.0-ORF104
+seq127	>ref-NC_027706.1 Lettuce italian necrotic virus, complete genome-table6-Potyviridae-HMM2429-2893_14.0-ORF118
+seq128	>ref-NC_028144.1 Rice necrosis mosaic virus RNA 1, complete sequence-table6-Potyviridae-HMM1582-2035_18.0-ORF83
+seq129	>ref-NC_029051.1 Jasmine ringspot virus, complete genome-table6-Potyviridae-HMM2322-2788_14.0-ORF107
+seq130	>ref-NC_029076.1 Iris severe mosaic virus isolate BJ, complete genome-table6-Potyviridae-HMM2593-3055_13.0-ORF117
+seq131	>ref-NC_030118.1 Tobacco mosqueado virus isolate RS-01, complete genome-table6-Potyviridae-HMM2338-2804_14.0-ORF116
+seq132	>ref-NC_030236.1 Impatiens flower break potyvirus isolate Asan, complete genome-table6-Potyviridae-HMM2324-2790_14.0-ORF107
+seq133	>ref-NC_030293.1 Pecan mosaic-associated virus isolate LA, complete genome-table6-Potyviridae-HMM2227-2692_14.0-ORF91
+seq134	>ref-NC_030391.1 Wild onion symptomless virus gene for polyprotein, complete cds, isolate: TUR256-1-table6-Potyviridae-HMM2258-2723_14.0-ORF104
+seq135	>ref-NC_030794.1 Callistephus mottle virus isolate DJ, complete genome-table6-Potyviridae-HMM2379-2844_14.0-ORF101
+seq136	>ref-NC_030847.1 Brazilian weed virus Y isolate KLL097, complete genome-table6-Potyviridae-HMM2336-2802_14.0-ORF103
+seq137	>ref-NC_030840.1 Coccinia mottle virus isolate Su12-25, complete genome-table6-Potyviridae-HMM2332-2784_13.0-ORF112
+seq138	>ref-NC_031339.1 Euphorbia ringspot virus isolate PV-0902, complete genome-table6-Potyviridae-HMM2357-2820_13.0-ORF115
+seq139	>ref-NC_032912.1 Hubei Poty-like virus 1 strain SCM51506 polyprotein gene, complete cds-table6-Potyviridae-HMM2242-2706_15.0-ORF87
+seq140	>ref-NC_032925.1 Hubei leech virus 1 strain SZmix32467 putative protease, RNA-dependent RNA polymerase, and putative capsid protein genes, complete cds-table4-Potyviridae-HMM160-396_44.0-ORF24
+seq141	>ref-NC_033708.1 Wuhan poty-like virus 1 strain WHWN51517 polyprotein gene, complete cds-table6-Potyviridae-HMM1857-2312_16.0-ORF95
+seq142	>ref-NC_034208.1 Sunflower ring blotch virus isolate Chaco, complete genome-table6-Potyviridae-HMM2313-2779_15.0-ORF105
+seq143	>ref-NC_034273.1 Endive necrotic mosaic virus strain ENMV-FR, complete genome-table6-Potyviridae-HMM2490-2956_14.0-ORF116
+seq144	>ref-NC_034835.1 Longan witches broom-associated virus isolate Han1, complete sequence-table4-Potyviridae-HMM2300-2748_14.0-ORF122
+seq145	>ref-NC_035134.1 Cucurbit vein banding virus isolate 3.1, complete genome-table6-Potyviridae-HMM2377-2841_14.0-ORF110
+seq146	>ref-NC_035458.1 Wild melon vein banding virus isolate Su03-07, complete genome-table6-Potyviridae-HMM2522-2987_14.0-ORF110
+seq147	>ref-NC_035459.1 Sudan watermelon mosaic virus isolate Su94-54, complete genome-table6-Potyviridae-HMM2555-3019_13.0-ORF114
+seq148	>ref-NC_035461.1 Reed chlorotic stripe virus strain Tianshui polyprotein gene, complete cds-table6-Potyviridae-HMM2307-2768_14.0-ORF85
+seq149	>nrnt-MG755240 Yam chlorotic necrosis virus isolate YCNV-YJish, complete genome.-table6-Potyviridae-HMM1866-2321_16.0-ORF86
+seq150	>nrnt-LC379162 East Asian passiflora distortion virus gene for polyprotein, complete cds.-table6-Potyviridae-HMM2463-2929_14.0-ORF107
+seq151	>nrnt-LC381969 Carnation vein mottle virus CVMoV-DC gene for polyprotein, partial cds.-table4-Potyviridae-HMM1-389_51.0-ORF27
+seq152	>nrnt-MF543013 Lily yellow mosaic virus, complete genome.-table4-Potyviridae-HMM2415-2877_14.0-ORF107
+seq153	>nrnt-MF953305 Mediterranean ruda virus isolate ParP17, complete genome.-table4-Potyviridae-HMM2328-2792_14.0-ORF109
+seq154	>ref-NC_036802 Saffron latent virus isolate Ir-Kh1, complete genome.-table6-Potyviridae-HMM2311-2776_14.0-ORF118
+seq155	>nrnt-LC310753 Broad bean necrotic mosaic virus gene for polyprotein, partial cds, isolate: Chiba2011.-table6-Potyviridae-HMM1-158_30.0-ORF16
+seq156	>nrnt-MF509898 Paris mosaic necrosis virus isolate PMNV-cn, complete genome.-table6-Potyviridae-HMM2347-2812_14.0-ORF109
+seq157	>nrnt-MF997470 African eggplant mosaic virus isolate 2013-281, complete genome.-table6-Potyviridae-HMM2327-2791_14.0-ORF99
+seq158	>nrnt-MF622947 Cardamom mosaic virus isolate KS, complete genome.-table4-Potyviridae-HMM1844-2300_16.0-ORF88
+seq159	>nrnt-KY221840 Plum pox virus isolate GC27 polyprotein gene, complete cds.-table6-Potyviridae-HMM2340-2806_14.0-ORF105
+seq160	>nrnt-KY385304 Kalanchoe mosaic virus strain R2 isolate GP, partial genome.-table6-Potyviridae-HMM2271-2737_15.0-ORF105
+seq161	>nrnt-KY310573 Chinese yam necrotic mosaic virus isolate China, complete genome.-table6-Potyviridae-HMM1853-2311_17.0-ORF95
+seq162	>nrnt-KY491536 Bellflower veinal mottle virus isolate SW, complete genome.-table6-Potyviridae-HMM1813-2268_17.0-ORF74
+seq163	>nrnt-KX911718 Crinum mosaic virus polyprotein gene, partial cds.-table6-Potyviridae-HMM1-149_30.0-ORF18
+seq164	>nrnt-KX505964 Vanilla mosaic virus isolate CI, complete genome.-table6-Potyviridae-HMM2381-2846_14.0-ORF101
+seq165	>nrnt-FJ159386 Spiranthes mosaic virus 3 isolate BW2 polyprotein gene, partial cds.-table4-Potyviridae-HMM1-149_30.0-ORF16
+seq166	>nrnt-FJ159372 Ornithogalum mosaic virus isolate LachX polyprotein gene, partial cds.-table4-Potyviridae-HMM1-153_29.0-ORF16
+seq167	>nrnt-EU927399 Snowdrop virus Y polyprotein gene, partial cds.-table4-Potyviridae-HMM1-152_31.0-ORF15
+seq168	>nrnt-EU684971 Veltheimia virus Y polyprotein gene, partial cds.-table4-Potyviridae-HMM1-149_30.0-ORF13
+seq169	>nrnt-EU684747 Ranunculus mild mosaic virus isolate Yunnan polyprotein gene, partial cds.-table6-Potyviridae-HMM1-158_32.0-ORF16
+seq170	>nrnt-AF491352 Spartina mottle virus from Italy polyprotein gene, partial cds.-table6-Potyviridae-HMM1-143_27.0-ORF15
+seq171	>nrnt-AF491351 Spartina mottle virus from Germany polyprotein gene, partial cds.-table6-Potyviridae-HMM1-144_28.0-ORF15
+seq172	>nrnt-AF465545 Sunflower mosaic virus polyprotein gene, partial cds.-table6-Potyviridae-HMM42-503_55.0-ORF34
+seq173	>nrnt-EU021069 Sweet potato feathery mottle virus isolate M2-44 polyprotein gene, partial cds.-table6-Potyviridae-HMM1-152_25.0-ORF21
+seq174	>nrnt-EU042750 Ornamental onion stripe mosaic virus polyprotein gene, partial cds.-table4-Potyviridae-HMM1-159_29.0-ORF20
+seq175	>nrnt-DQ436919 Iris mild mosaic virus isolate DC4b polyprotein gene, partial cds.-table6-Potyviridae-HMM2-157_28.0-ORF15
+seq176	>nrnt-DQ174243 Carrot virus Y polyprotein gene, partial cds.-table1-Potyviridae-HMM96-462_79.0-ORF14
+seq177	>nrnt-DQ152192 Ranunculus mosaic virus polyprotein gene, partial cds.-table6-Potyviridae-HMM1-116_23.0-ORF15
+seq178	>nrnt-DQ152190 Ranunculus leaf distortion virus polyprotein gene, partial cds.-table6-Potyviridae-HMM1-117_24.0-ORF16
+seq179	>nrnt-DQ098904 Eustrephus virus Y polyprotein gene, partial cds.-table1-Potyviridae-HMM1-159_32.0-ORF13
+seq180	>nrnt-DQ098901 Siratro 2 virus Y polyprotein gene, partial cds.-table6-Potyviridae-HMM1-159_27.0-ORF23
+seq181	>nrnt-DQ098900 Siratro 1 virus Y polyprotein gene, partial cds.-table6-Potyviridae-HMM1-159_27.0-ORF21
+seq182	>nrnt-AY954248 Twisted-stalk chlorotic streak virus Denali 2001 polyprotein gene, partial cds and 3' UTR.-table4-Potyviridae-HMM1-149_30.0-ORF18
+seq183	>nrnt-AY994104 Dasheen mosaic virus from taro polyprotein gene, partial cds.-table6-Potyviridae-HMM1-158_26.0-ORF18
+seq184	>nrnt-AY974328 Omphalodes virus Y polyprotein gene, partial cds.-table6-Potyviridae-HMM1-152_30.0-ORF13
+seq185	>nrnt-AY825284 Verbena canadensis potyvirus MA-2005 polyprotein gene, partial cds.-table6-Potyviridae-HMM1-152_27.0-ORF13
+seq186	>nrnt-AY864850 Tricyrtis potyvirus polyprotein gene, partial cds.-table6-Potyviridae-HMM1-152_26.0-ORF18
+seq187	>nrnt-AY685218 Spiranthes mosaic virus 3 polyprotein gene, partial cds.-table4-Potyviridae-HMM1-152_30.0-ORF17
+seq188	>nrnt-AY485276 Pfaffia mosaic virus polyprotein mRNA, partial cds.-table6-Potyviridae-HMM1-158_30.0-ORF18
+seq189	>nrnt-AY388995 Meadow saffron breaking virus polyprotein gene, partial cds.-table6-Potyviridae-HMM1-158_29.0-ORF18
+seq190	>nrnt-AF062926 Tuberose mild mosaic potyvirus polyprotein precursor gene, partial cds.-table6-Potyviridae-HMM5-264_40.0-ORF18
+seq191	>nrnt-AF203527 Diuris virus Y polyprotein gene, partial cds.-table6-Potyviridae-HMM1-159_29.0-ORF19
+seq192	>nrnt-AF185958 Pleione virus Y polyprotein gene, partial cds.-table6-Potyviridae-HMM1-155_31.0-ORF15
+seq193	>nrnt-AF185957 Sarcochilus virus Y polyprotein gene, partial cds.-table6-Potyviridae-HMM1-159_28.0-ORF23
+seq194	>nrnt-AF185956 Rhopalanthe virus Y polyprotein gene, partial cds.-table6-Potyviridae-HMM1-158_29.0-ORF14
+seq195	>nrnt-AF185955 Cypripedium virus Y isolate CF polyprotein gene, partial cds.-table4-Potyviridae-HMM1-159_32.0-ORF18
+seq196	>nrnt-KU355553 Zucchini shoestring virus polyprotein gene, complete cds; and PIPO gene, partial cds.-table4-Potyviridae-HMM2556-3020_13.0-ORF122
+seq197	>nrnt-HM008711 Bermuda grass mosaic virus isolate Shiraz polyprotein gene, partial cds.-table6-Potyviridae-HMM1-155_27.0-ORF18
+seq198	>nrnt-GU552269 Bermuda grass mosaic virus isolate Kj polyprotein gene, partial cds.-table6-Potyviridae-HMM1-155_28.0-ORF16
+seq199	>nrnt-GU270649 Triteleia mosaic virus polyprotein gene, partial cds; and 3' UTR.-table4-Potyviridae-HMM1-156_31.0-ORF16
+seq200	>nrnt-GQ847531 Tradescantia mild mosaic virus - yellow streak polyprotein gene, partial cds.-table6-Potyviridae-HMM1-91_20.0-ORF14
+seq201	>nrnt-FJ648825 Trillium crinkled leaf virus polyprotein gene, partial cds.-table6-Potyviridae-HMM1-150_29.0-ORF14
+seq202	>nrnt-FJ618540 Vallota mosaic virus polyprotein gene, partial cds.-table4-Potyviridae-HMM1-154_31.0-ORF17
+seq203	>nrnt-FJ539085 Begonia flower breaking virus isolate F10 Begonia polyprotein gene, partial cds.-table4-Potyviridae-HMM1-86_20.0-ORF13
+seq204	>nrnt-FJ561293 Malva vein clearing virus polyprotein gene, partial cds.-table4-Potyviridae-HMM11-241_38.0-ORF21
+seq205	>nrnt-AF499025 Alpinia mosaic virus polyprotein gene, partial cds.-table1-Potyviridae-HMM1-159_30.0-ORF19
+seq206	>nrnt-AF399672 Lycoris mild mottle virus polyprotein gene, partial cds.-table6-Potyviridae-HMM8-265_38.0-ORF22
+seq207	>nrnt-AF022442 Ceratobium mosaic potyvirus strain CerMV-13 polyprotein (NIb/CP) gene, partial cds.-table6-Potyviridae-HMM1-159_31.0-ORF15
+seq208	>nrnt-EF488741 Angelica virus Y isolate AnVY-g polyprotein gene, partial cds.-table6-Potyviridae-HMM1-152_29.0-ORF14
+seq209	>nrnt-MMU58771 Maclura mosaic virus polyprotein mRNA, partial NIb and complete coat protein region, partial cds.-table6-Potyviridae-HMM2-366_47.0-ORF26
+seq210	>nrnt-EF442668 Alternanthera mild mosaic virus polyprotein gene, partial cds.-table6-Potyviridae-HMM1-149_30.0-ORF16
+seq211	>nrnt-EF199550 Dasheen mosaic virus isolate YN80 polyprotein gene, partial cds.-table4-Potyviridae-HMM1-158_28.0-ORF21
+seq212	>nrnt-EF203688 Freesia mosaic virus isolate Golden Yellow polyprotein gene, partial cds.-table1-Potyviridae-HMM1-150_43.0-ORF11
+seq213	>nrnt-EF203686 Veltheimia mosaic virus isolate Lemone Flame polyprotein gene, partial cds.-table6-Potyviridae-HMM1-151_29.0-ORF20
+seq214	>nrnt-DQ407934 Zantedeschia mild mosaic virus polyprotein gene, partial cds.-table1-Potyviridae-HMM1-157_30.0-ORF18
+seq215	>nrnt-DQ925466 Dasheen mosaic virus isolate DsMV-VN/Tt1 polyprotein gene, partial cds.-table6-Potyviridae-HMM1-148_28.0-ORF17
+seq216	>nrnt-DQ925464 Dasheen mosaic virus isolate DsMV-VN/Ce1 polyprotein gene, partial cds.-table6-Potyviridae-HMM1-148_26.0-ORF15
+seq217	>nrnt-DQ973169 Maize dwarf mosaic virus from Argentina polyprotein gene, partial cds.-table4-Potyviridae-HMM4-466_55.0-ORF22
+seq218	>nrnt-DQ641510 Zucchini yellow fleck virus isolate It polyprotein gene, partial cds.-table4-Potyviridae-HMM1-158_29.0-ORF19
+seq219	>nrnt-DQ530434 Sorghum mosaic virus isolate Yunnan polyprotein gene, partial cds.-table4-Potyviridae-HMM1-159_30.0-ORF16
+seq220	>nrnt-AF228516 Hibbertia virus Y polyprotein gene, partial cds.-table6-Potyviridae-HMM1-159_27.0-ORF16
+seq221	>nrnt-AF228515 Clitoria virus Y polyprotein gene, partial cds.-table6-Potyviridae-HMM1-158_29.0-ORF17
+seq222	>nrnt-KU981083 Ornithogalum mosaic virus isolate Taean, complete genome.-table4-Potyviridae-HMM2247-2714_15.0-ORF94
+seq223	>nrnt-KU556609 Daphne virus Y isolate SK, complete genome.-table6-Potyviridae-HMM2312-2776_14.0-ORF99
+seq224	>nrnt-KT729506 Zantedeschia mild mosaic virus isolate Australia, complete genome.-table6-Potyviridae-HMM2352-2818_14.0-ORF99
+seq225	>nrnt-KT896752 Pepper severe mottle virus isolate CAPIM2 polyprotein gene, partial cds.-table6-Potyviridae-HMM1-243_40.0-ORF21
+seq226	>nrnt-LC037232 Soybean mosaic virus gene for polyprotein, complete cds, strain: Uraria.-table6-Potyviridae-HMM2340-2806_14.0-ORF102
+seq227	>nrnt-AF203539 Carrot virus Y country Australia polyprotein gene, partial cds.-table6-Potyviridae-HMM1-159_28.0-ORF16
+seq228	>nrnt-AF016366 Sweet potato feathery mottle virus isolate Zimbabwe polyprotein mRNA, partial cds.-table6-Potyviridae-HMM1-222_34.0-ORF18
+seq229	>nrnt-AF028004 Watermelon leaf mottle virus polyprotein gene, partial cds.-table6-Potyviridae-HMM1-344_49.0-ORF21
+seq230	>nrnt-KM066970 Nerine yellow stripe virus isolate Noida 2 polyprotein gene, partial cds.-table4-Potyviridae-HMM1-157_32.0-ORF20
+seq231	>nrnt-KM655833 Cowpea aphid-borne mosaic virus isolate RR4 polyprotein gene, complete cds.-table4-Potyviridae-HMM2284-2751_15.0-ORF59
+seq232	>nrnt-KJ789141 Japanese yam mosaic virus isolate FX1, complete genome.-table4-Potyviridae-HMM2357-2822_14.0-ORF110
+seq233	>nrnt-KJ789135 Chinese yam necrotic mosaic virus isolate FX1, complete genome.-table6-Potyviridae-HMM1861-2315_16.0-ORF96
+seq234	>nrnt-EF427894 Gloriosa stripe mosaic virus isolate CB polyprotein gene, complete cds.-table4-Potyviridae-HMM2307-2771_14.0-ORF103
+seq235	>nrnt-JN572103 Cotyledon virus Y polyprotein gene, partial cds.-table1-Potyviridae-HMM1-159_30.0-ORF19
+seq236	>nrnt-KM401435 Wild tomato mosaic virus isolate XC-1, complete genome.-table4-Potyviridae-HMM2300-2765_15.0-ORF114
+seq237	>nrnt-KJ701427 Japanese yam mosaic virus strain Chinese polyprotein gene, complete cds.-table6-Potyviridae-HMM2356-2821_14.0-ORF110
+seq238	>nrnt-FR694185 Passiflora chlorosis virus partial gene for polyprotein, CP gene region, isolate DSMZ PV-0598.-table6-Potyviridae-HMM5-165_28.0-ORF16
+seq239	>nrnt-JQ395042 Narcissus yellow stripe virus isolate Marijiniup 3, complete genome.-table6-Potyviridae-HMM2352-2817_14.0-ORF115
+seq240	>nrnt-KJ619376 Shamrock chlorotic ringspot virus isolate WI polyprotein gene, partial cds.-table6-Potyviridae-HMM1-159_32.0-ORF17
+seq241	>nrnt-KJ152154 Hardenbergia mosaic virus isolate MD4-A, complete genome.-table6-Potyviridae-HMM2311-2777_14.0-ORF105
+seq242	>nrnt-JQ911735 Narcissus degeneration virus polyprotein gene, partial cds.-table4-Potyviridae-HMM673-1138_31.0-ORF50
+seq243	>nrnt-JQ911732 Narcissus yellow stripe virus isolate ZZ-2, complete genome.-table6-Potyviridae-HMM2332-2797_14.0-ORF109
+seq244	>nrnt-KF826466 Tulip breaking virus isolate Texas Flame polyprotein gene, partial cds.-table1-Potyviridae-HMM816-1138_28.0-ORF35
+seq245	>nrnt-AB872308 Bean common mosaic virus gene, putative polyprotein, isolate: HB1.-table6-Potyviridae-HMM1-290_45.0-ORF18
+seq246	>nrnt-KF632714 Onion yellow dwarf virus isolate OYDV-SW9-Arg2 polyprotein gene, partial cds.-table4-Potyviridae-HMM2596-3062_13.0-ORF128
+seq247	>nrnt-KF360240 Pleione flower breaking virus isolate 052013 polyprotein gene, partial cds.-table6-Potyviridae-HMM2-75_16.0-ORF14
+seq248	>nrnt-KF442403 Tulip breaking virus coat protein gene, partial cds.-table6-Potyviridae-HMM2-143_30.0-ORF15
+seq249	>nrnt-JX865782 Nerine yellow stripe virus isolate US polyprotein gene, partial cds.-table4-Potyviridae-HMM4-164_32.0-ORF19
+seq250	>nrnt-JX433019 Onion yellow dwarf virus isolate OYDV-Se, complete genome.-table4-Potyviridae-HMM2641-3108_13.0-ORF114
+seq251	>nrnt-JN257715 Large cardamom chirke virus isolate ChK-1 polyprotein gene, partial cds.-table6-Potyviridae-HMM1-158_26.0-ORF17
+seq252	>nrnt-FR694182 Passion fruit woodiness virus partial gene for polyprotein, CP gene region, strain Ugandan, isolate 69c.-table6-Potyviridae-HMM5-165_29.0-ORF16
+seq253	>nrnt-AB701693 Turnip mosaic virus genomic RNA, nearly complete genome, isolate: OS.-table4-Potyviridae-HMM2389-2855_14.0-ORF110
+seq254	>nrnt-JN936424 Potato virus Y isolate NN300_76 polyprotein-like gene, partial sequence.-table1-Potyviridae-HMM1-73_18.0-ORF58
+seq255	>nrnt-JN127335 Lily virus A isolate Bate1 polyprotein gene, partial cds.-table6-Potyviridae-HMM1778-2242_18.0-ORF81
+seq256	>nrnt-HQ225836 Commelina mild mosaic virus isolate Rosedale polyprotein gene, partial cds.-table6-Potyviridae-HMM4-163_30.0-ORF19
+seq257	>nrnt-AB679294 Passiflora virus Y gene for polyprotein, partial cds.-table6-Potyviridae-HMM1-240_37.0-ORF21
+seq258	>nrnt-JQ794501 Plum pox virus strain PPV-Rec isolate BOR-3, complete genome.-table4-Potyviridae-HMM1387-1853_20.0-ORF93
+seq259	>nrnt-FJ349327 Delphinium vein-clearing virus polyprotein gene, partial cds.-table4-Potyviridae-HMM1-159_31.0-ORF18
+seq260	>nrnt-EF710625 Araujia mosaic virus isolate ARG1973 polyprotein gene, partial cds.-table6-Potyviridae-HMM1-159_27.0-ORF21
+seq261	>nrnt-YMU53440 Yam mosaic virus BF60 polyprotein (NIb protein and coat protein) gene, partial cds.-table1-Potyviridae-HMM2-256_56.0-ORF14
+seq262	>nrnt-SMU57354 Sugarcane mosaic virus strain A polyprotein mRNA, partial cds.-table6-Potyviridae-HMM1-221_33.0-ORF16
+seq263	>nrnt-PTWPARD Shallot potyvirus (probably onion yellow dwarf virus) protease gene, partial cds, RNA-dependent RNA polymerase gene, partial cds.-table1-Potyviridae-HMM377-840_55.0-ORF32
+seq264	>nrnt-JF320812 Iris mild mosaic virus isolate WA-1 polyprotein gene, partial cds.-table6-Potyviridae-HMM1999-2465_16.0-ORF94
+seq265	>nrnt-JN250997 Basella rugose mosaic virus isolate MJ polyprotein gene, partial cds.-table6-Potyviridae-HMM1-158_28.0-ORF17
+seq266	>nrnt-JN692502 Amaranthus mosaic potyvirus isolate Amaranthus polyprotein gene, partial cds.-table1-Potyviridae-HMM2-68_19.0-ORF9
+seq267	>nrnt-AB194623 Leek yellow stripe virus gene for polyprotein (P1 protein, HC-Pro protein, P3 protien, 6K1 protein, CI protein, 6K2 protein, NIa-VPg protein, NIa-Pro protein, NIb protein, coat protein regions), partial cds, isolate: 1A3l.-table6-Potyviridae-HMM2453-2917_14.0-ORF116
+seq268	>nrnt-AJ345002 Cardamom mosaic virus partial nib gene for nuclear inclusion body b, genomic RNA.-table1-Potyviridae-HMM63-508_76.0-ORF21
+seq269	>nrnt-FN179153 Plum pox virus partial gene for polyprotein and 3'UTR, genomic RNA, strain Rec, isolate PPV-Godollo2.-table6-Potyviridae-HMM1-152_28.0-ORF18
+seq270	>nrnt-AB560671 Soybean leaf rugose mosaic virus gene for polyprotein, partial cds.-table4-Potyviridae-HMM1-152_33.0-ORF12
+seq271	>nrnt-AB361564 Ammi majus latent virus gene for polyprotein, partial cds.-table6-Potyviridae-HMM2-166_32.0-ORF15
+seq272	>nrnt-FM997911 Yam chlorotic necrotic mosaic virus partial polyprotein gene, genomic RNA, isolate 2.-table6-Potyviridae-HMM1-159_27.0-ORF22
+seq273	>nrnt-AM184114 Plum pox virus partial gene for polyprotein, genomic RNA, isolate B1298.-table6-Potyviridae-HMM1-152_30.0-ORF16
+seq274	>nrnt-AM774001 Butterfly flower mosaic virus partial gene for polyprotein, Hangzhou isolate, genomic RNA.-table6-Potyviridae-HMM1-155_31.0-ORF17
+seq275	>nrnt-AB373203 Bean yellow mosaic virus genomic RNA, complete genome, strain: CS.-table6-Potyviridae-HMM2329-2793_14.0-ORF105
+seq276	>nrnt-AJ580095 Amaranthus leaf mottle virus partial gene for polyprotein, genomic RNA, isolate I.-table4-Potyviridae-HMM1-152_30.0-ORF16
+seq277	>nrnt-X73883 Wheat spindle streak mosaic virus RNA.-table6-Potyviridae-HMM689-1141_29.0-ORF54
+seq278	>nrnt-AJ616719 Vanilla mosaic virus partial mRNA for polyprotein (NIb-CP gene), isolate FP (WP013).-table4-Potyviridae-HMM3-127_20.0-ORF23
+seq279	>nrnt-AM184113 Henbane mosaic virus partial gene for polyprotein, genomic RNA, isolate PHYS/H.-table6-Potyviridae-HMM1-152_27.0-ORF16
+seq280	>nrnt-AJ628756 Dasheen mosaic virus partial polyprotein gene for NIb and coat proteins, genomic RNA, isolate SY1.-table6-Potyviridae-HMM1-159_28.0-ORF18
+seq281	>nrnt-AB011404 Calanthe mild mosaic potyvirus RNA for polyprotein (NIb/CP region), partial cds.-table4-Potyviridae-HMM1-56_13.0-ORF14
+seq282	>nrnt-AB158522 Alstroemeria mosaic virus NIb/CP gene for nuclear inclusion protein b/coat protein, partial cds.-table6-Potyviridae-HMM4-163_32.0-ORF18
+seq283	>nrnt-AJ581528 Tuberose mild mottle virus partial ORF1 for polyprotein, genomic RNA.-table6-Potyviridae-HMM681-1146_30.0-ORF53
+seq284	>nrnt-AB099711 Chinese artichoke mosaic virus gene for polyprotein, partial cds.-table4-Potyviridae-HMM1-152_28.0-ORF20
+seq285	>nrnt-AB079660 Ornithogalum virus 3 gene for polyprotein, partial cds, clone:C14.-table6-Potyviridae-HMM4-163_31.0-ORF14
+seq286	>nrnt-AB079654 Ornithogalum virus 2 gene for polyprotein, partial cds, clone:C15.-table6-Potyviridae-HMM4-164_30.0-ORF13
+seq287	>nrnt-X75939 Iris severe mosaic potyvirus gene for coat protein.-table6-Potyviridae-HMM2-419_49.0-ORF29
+seq288	>tsa-GAHU01012125.1 TSA: Agave tequilana Locus5454v1rpkm53.89 transcribed RNA sequence-table6-Potyviridae-HMM1798-2259_17.0-ORF94
+seq289	>tsa-GAHU01012126.1 TSA: Agave tequilana Locus5454v2rpkm23.35 transcribed RNA sequence-table1-Potyviridae-HMM1605-2066_19.0-ORF75
+seq290	>tsa-GAHU01012127.1 TSA: Agave tequilana Locus5454v3rpkm13.15 transcribed RNA sequence-table1-Potyviridae-HMM499-766_34.0-ORF27
+seq291	>tsa-GAHU01036573.1 TSA: Agave tequilana Locus17070v1rpkm16.09 transcribed RNA sequence-table1-Potyviridae-HMM1-422_99.0-ORF12
+seq292	>tsa-GAHU01042757.1 TSA: Agave tequilana Locus20183v1rpkm12.70 transcribed RNA sequence-table6-Potyviridae-HMM2200-2663_15.0-ORF105
+seq293	>tsa-GFAR01022815.1 (REVERSE SENSE) TSA: Allium ampeloprasum c114470_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-79_97.0-ORF7
+seq294	>tsa-GFAR01025486.1 TSA: Allium ampeloprasum c113792_g2 transcribed RNA sequence-table1-Potyviridae-HMM2111-2574_16.0-ORF79
+seq295	>tsa-GFAR01033951.1 TSA: Allium ampeloprasum c165178_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-88_98.0-ORF3
+seq296	>tsa-GFAR01034053.1 (REVERSE SENSE) TSA: Allium ampeloprasum c77832_g1 transcribed RNA sequence-table1-Potyviridae-HMM202-492_58.0-ORF38
+seq297	>tsa-GFAR01034084.1 (REVERSE SENSE) TSA: Allium ampeloprasum c76765_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-81_22.0-ORF32
+seq298	>tsa-GFAR01076045.1 TSA: Allium ampeloprasum c83222_g3 transcribed RNA sequence-table1-Potyviridae-HMM2-115_97.0-ORF5
+seq299	>tsa-GFAR01092002.1 TSA: Allium ampeloprasum c44660_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-70_98.0-ORF2
+seq300	>tsa-GFAR01130718.1 (REVERSE SENSE) TSA: Allium ampeloprasum c83222_g2 transcribed RNA sequence-table1-Potyviridae-HMM14-95_84.0-ORF11
+seq301	>tsa-GFAR01151536.1 TSA: Allium ampeloprasum c113279_g1 transcribed RNA sequence-table4-Potyviridae-HMM2453-2916_14.0-ORF119
+seq302	>tsa-GFAR01155919.1 (REVERSE SENSE) TSA: Allium ampeloprasum c104341_g1 transcribed RNA sequence-table4-Potyviridae-HMM1-174_33.0-ORF46
+seq303	>tsa-GFAR01163804.1 TSA: Allium ampeloprasum c56623_g1 transcribed RNA sequence-table1-Potyviridae-HMM5-98_94.0-ORF4
+seq304	>tsa-GFAR01185610.1 (REVERSE SENSE) TSA: Allium ampeloprasum c83222_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-155_98.0-ORF15
+seq305	>tsa-GFAR01186133.1 (REVERSE SENSE) TSA: Allium ampeloprasum c33378_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-93_97.0-ORF8
+seq306	>tsa-GFAJ01003684.1 TSA: Allium ascalonicum c70534_g2 transcribed RNA sequence-table1-Potyviridae-HMM1-90_98.0-ORF3
+seq307	>tsa-GFAJ01008670.1 TSA: Allium ascalonicum c70534_g3 transcribed RNA sequence-table1-Potyviridae-HMM1-47_63.0-ORF3
+seq308	>tsa-GFAJ01015597.1 (REVERSE SENSE) TSA: Allium ascalonicum c35778_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-47_38.0-ORF13
+seq309	>tsa-GFAJ01017481.1 TSA: Allium ascalonicum c72132_g1 transcribed RNA sequence-table6-Potyviridae-HMM2632-3097_13.0-ORF115
+seq310	>tsa-GFAJ01020180.1 TSA: Allium ascalonicum c70823_g1 transcribed RNA sequence-table1-Potyviridae-HMM435-560_22.0-ORF16
+seq311	>tsa-GFAJ01023249.1 TSA: Allium ascalonicum c70534_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-348_55.0-ORF21
+seq312	>tsa-GFAJ01034264.1 (REVERSE SENSE) TSA: Allium ascalonicum c1593_g1 transcribed RNA sequence-table1-Potyviridae-HMM3-77_96.0-ORF5
+seq313	>tsa-GFAJ01077215.1 (REVERSE SENSE) TSA: Allium ascalonicum c71208_g1 transcribed RNA sequence-table6-Potyviridae-HMM431-896_36.0-ORF170
+seq314	>tsa-GFAJ01082995.1 (REVERSE SENSE) TSA: Allium ascalonicum c50677_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-85_98.0-ORF8
+seq315	>tsa-GFAJ01088245.1 (REVERSE SENSE) TSA: Allium ascalonicum c27571_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-71_98.0-ORF5
+seq316	>tsa-GEOY01010412.1 TSA: Allium cepa c26724_g1 transcribed RNA sequence-table4-Potyviridae-HMM44-509_54.0-ORF28
+seq317	>tsa-GFAK01057527.1 TSA: Allium cepa var. aggregatum c46396_g1 transcribed RNA sequence-table4-Potyviridae-HMM2635-3102_13.0-ORF116
+seq318	>tsa-GFAK01079097.1 (REVERSE SENSE) TSA: Allium cepa var. aggregatum c46087_g1 transcribed RNA sequence-table4-Potyviridae-HMM935-1402_26.0-ORF153
+seq319	>tsa-GFAM01033387.1 (REVERSE SENSE) TSA: Allium fistulosum c76872_g2 transcribed RNA sequence-table6-Potyviridae-HMM660-1125_30.0-ORF107
+seq320	>tsa-GFAM01055977.1 TSA: Allium fistulosum c43296_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-344_99.0-ORF11
+seq321	>tsa-GFAM01112676.1 TSA: Allium fistulosum c33699_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-58_81.0-ORF3
+seq322	>tsa-GFAM01123746.1 TSA: Allium fistulosum c76883_g1 transcribed RNA sequence-table6-Potyviridae-HMM2630-3095_13.0-ORF120
+seq323	>tsa-GFAO01080516.1 (REVERSE SENSE) TSA: Allium macrostemon c109465_g1 transcribed RNA sequence-table4-Potyviridae-HMM1375-1840_21.0-ORF180
+seq324	>tsa-GFAO01108641.1 TSA: Allium macrostemon c74775_g1 transcribed RNA sequence-table4-Potyviridae-HMM2221-2686_15.0-ORF108
+seq325	>tsa-GFAP01019212.1 TSA: Allium sativum c8001_g1 transcribed RNA sequence-table1-Potyviridae-HMM280-359_21.0-ORF11
+seq326	>tsa-GFAP01020105.1 TSA: Allium sativum c82272_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-276_55.0-ORF15
+seq327	>tsa-GFAP01025056.1 (REVERSE SENSE) TSA: Allium sativum c49734_g1 transcribed RNA sequence-table1-Potyviridae-HMM2-146_98.0-ORF13
+seq328	>tsa-GFAP01030060.1 TSA: Allium sativum c119605_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-69_97.0-ORF4
+seq329	>tsa-GFAP01034530.1 TSA: Allium sativum c86212_g1 transcribed RNA sequence-table6-Potyviridae-HMM2661-3127_13.0-ORF108
+seq330	>tsa-GFAP01036244.1 TSA: Allium sativum c11859_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-112_99.0-ORF5
+seq331	>tsa-GFAP01036271.1 TSA: Allium sativum c86257_g1 transcribed RNA sequence-table4-Potyviridae-HMM534-997_34.0-ORF44
+seq332	>tsa-GFAP01040024.1 TSA: Allium sativum c134787_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-89_98.0-ORF3
+seq333	>tsa-GFAP01041359.1 (REVERSE SENSE) TSA: Allium sativum c51648_g2 transcribed RNA sequence-table1-Potyviridae-HMM1-114_99.0-ORF9
+seq334	>tsa-GFAP01045949.1 TSA: Allium sativum c103943_g1 transcribed RNA sequence-table1-Potyviridae-HMM39-104_62.0-ORF3
+seq335	>tsa-GFAP01050695.1 TSA: Allium sativum c51991_g1 transcribed RNA sequence-table1-Potyviridae-HMM2-123_98.0-ORF5
+seq336	>tsa-GFAP01054730.1 TSA: Allium sativum c20193_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-69_98.0-ORF2
+seq337	>tsa-GFAP01065518.1 TSA: Allium sativum c82960_g1 transcribed RNA sequence-table1-Potyviridae-HMM721-915_21.0-ORF26
+seq338	>tsa-GFAP01073437.1 TSA: Allium sativum c49382_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-82_98.0-ORF1
+seq339	>tsa-GFAP01102516.1 TSA: Allium sativum c137159_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-81_98.0-ORF3
+seq340	>tsa-GFAP01107114.1 TSA: Allium sativum c90529_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-115_99.0-ORF4
+seq341	>tsa-GFAP01107279.1 (REVERSE SENSE) TSA: Allium sativum c52411_g1 transcribed RNA sequence-table1-Potyviridae-HMM2-223_99.0-ORF19
+seq342	>tsa-GFAP01113871.1 TSA: Allium sativum c106983_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-180_99.0-ORF6
+seq343	>tsa-GFAP01116790.1 (REVERSE SENSE) TSA: Allium sativum c50141_g1 transcribed RNA sequence-table1-Potyviridae-HMM3-70_95.0-ORF7
+seq344	>tsa-GFAP01118728.1 TSA: Allium sativum c124307_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-61_81.0-ORF4
+seq345	>tsa-GFAP01128228.1 (REVERSE SENSE) TSA: Allium sativum c51648_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-83_98.0-ORF6
+seq346	>tsa-GFAN01020773.1 TSA: Allium tuberosum c49071_g1 transcribed RNA sequence-table1-Potyviridae-HMM18-91_80.0-ORF5
+seq347	>tsa-GFAN01033467.1 TSA: Allium tuberosum c110194_g1 transcribed RNA sequence-table1-Potyviridae-HMM2-83_97.0-ORF3
+seq348	>tsa-GFAN01038344.1 TSA: Allium tuberosum c108782_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-78_96.0-ORF4
+seq349	>tsa-GFAN01048399.1 TSA: Allium tuberosum c108779_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-98_98.0-ORF1
+seq350	>tsa-GFAN01081141.1 TSA: Allium tuberosum c127553_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-78_98.0-ORF2
+seq351	>tsa-GFAN01129669.1 TSA: Allium tuberosum c51057_g1 transcribed RNA sequence-table1-Potyviridae-HMM1-117_99.0-ORF3
+seq352	>tsa-GAER01039244.1 (REVERSE SENSE) TSA: Arachis hypogaea Unigene39271 mRNA sequence-table6-Potyviridae-HMM136-600_48.0-ORF76
+seq353	>tsa-GAIG01050090.1 (REVERSE SENSE) TSA: Arachis hypogaea Unigene72527 transcribed RNA sequence-table6-Potyviridae-HMM479-944_34.0-ORF106
+seq354	>tsa-GBIY01028820.1 TSA: Arachis hypogaea var. vulgaris Contig28906 transcribed RNA sequence-table1-Potyviridae-HMM1-90_63.0-ORF5
+seq355	>tsa-GBJI01005852.1 TSA: Arachis hypogaea var. vulgaris Contig5913 transcribed RNA sequence-table1-Potyviridae-HMM1-90_63.0-ORF5
+seq356	>tsa-GFKB01009270.1 TSA: Bdelloura candida comp61256_c0_seq4 transcribed RNA sequence-table4-Potyviridae-HMM10-245_58.0-ORF14
+seq357	>tsa-GDFQ01019347.1 TSA: Brassica napus comp34793_c0_seq1 transcribed RNA sequence-table4-Potyviridae-HMM1-208_34.0-ORF20
+seq358	>tsa-GDFQ01104865.1 (REVERSE SENSE) TSA: Brassica napus comp76803_c0_seq1 transcribed RNA sequence-table1-Potyviridae-HMM1-263_99.0-ORF24
+seq359	>tsa-GDFQ01107569.1 TSA: Brassica napus comp81499_c0_seq1 transcribed RNA sequence-table1-Potyviridae-HMM81-295_72.0-ORF11
+seq360	>tsa-GEUE01013434.1 TSA: Callosobruchus maculatus c35154_g1_i1 transcribed RNA sequence-table1-Potyviridae-HMM1-75_98.0-ORF5
+seq361	>tsa-GEUE01046935.1 TSA: Callosobruchus maculatus c2254_g1_i1 transcribed RNA sequence-table1-Potyviridae-HMM1-88_98.0-ORF4
+seq362	>tsa-GEUE01055620.1 TSA: Callosobruchus maculatus c54988_g1_i1 transcribed RNA sequence-table1-Potyviridae-HMM1-39_53.0-ORF2
+seq363	>tsa-GEUE01065096.1 TSA: Callosobruchus maculatus c51524_g1_i1 transcribed RNA sequence-table1-Potyviridae-HMM47-162_70.0-ORF3
+seq364	>tsa-GFMU01081275.1 (REVERSE SENSE) TSA: Camellia sinensis c178535.graph_c0 transcribed RNA sequence-table1-Potyviridae-HMM1-115_98.0-ORF10
+seq365	>tsa-GFMU01149858.1 TSA: Camellia sinensis c46434.graph_c0 transcribed RNA sequence-table1-Potyviridae-HMM1-198_99.0-ORF8
+seq366	>tsa-GFMU01156877.1 TSA: Camellia sinensis c56688.graph_c0 transcribed RNA sequence-table4-Potyviridae-HMM2-129_27.0-ORF15
+seq367	>tsa-GFMV01088386.1 (REVERSE SENSE) TSA: Camellia sinensis c187943.graph_c0 transcribed RNA sequence-table1-Potyviridae-HMM1-89_97.0-ORF7
+seq368	>tsa-GBKQ01026927.1 (REVERSE SENSE) TSA: Camellia sinensis var. sinensis Unigene10497_ZC302_N2 transcribed RNA sequence-table1-Potyviridae-HMM17-125_83.0-ORF14
+seq369	>tsa-GBHN01002005.1 (REVERSE SENSE) TSA: Colaphellus bowringi Contig2216_AA transcribed RNA sequence-table4-Potyviridae-HMM2280-2746_14.0-ORF237
+seq370	>tsa-GEYH01054812.1 TSA: Cucurbita pepo CP454855 transcribed RNA sequence-table1-Potyviridae-HMM26-313_91.0-ORF10
+seq371	>tsa-GESW01013424.1 (REVERSE SENSE) TSA: Cymbidium tortisepalum var. longibracteatum c2803.graph_c0 transcribed RNA sequence-table1-Potyviridae-HMM1-75_97.0-ORF5
+seq372	>tsa-GESW01013425.1 (REVERSE SENSE) TSA: Cymbidium tortisepalum var. longibracteatum c2803.graph_c1 transcribed RNA sequence-table1-Potyviridae-HMM1-78_98.0-ORF9
+seq373	>tsa-GFOY01081456.1 (REVERSE SENSE) TSA: Daiswa yunnanensis Unigene48845_All transcribed RNA sequence-table1-Potyviridae-HMM1-54_30.0-ORF19
+seq374	>tsa-GFPJ01093987.1 TSA: Daiswa yunnanensis Unigene3124_All transcribed RNA sequence-table1-Potyviridae-HMM2-182_98.0-ORF7
+seq375	>tsa-GFPJ01109155.1 (REVERSE SENSE) TSA: Daiswa yunnanensis Unigene48845_All transcribed RNA sequence-table1-Potyviridae-HMM1-54_30.0-ORF19
+seq376	>tsa-GFPJ01117529.1 (REVERSE SENSE) TSA: Daiswa yunnanensis Unigene66650_All transcribed RNA sequence-table1-Potyviridae-HMM1-128_99.0-ORF11
+seq377	>tsa-GBSB01013656.1 (REVERSE SENSE) TSA: Diabrotica virgifera virgifera isotig13361 transcribed RNA sequence-table6-Potyviridae-HMM1-237_38.0-ORF40
+seq378	>tsa-GBCR01002767.1 TSA: Dioscorea zingiberensis comp11620_c0_seq1 transcribed RNA sequence-table1-Potyviridae-HMM38-322_88.0-ORF13
+seq379	>tsa-GBCR01027113.1 TSA: Dioscorea zingiberensis comp28391_c0_seq1 transcribed RNA sequence-table1-Potyviridae-HMM2-454_75.0-ORF22
+seq380	>tsa-GBCR01027114.1 TSA: Dioscorea zingiberensis comp28391_c0_seq2 transcribed RNA sequence-table1-Potyviridae-HMM2-441_98.0-ORF18
+seq381	>tsa-GBCR01027115.1 TSA: Dioscorea zingiberensis comp28391_c0_seq3 transcribed RNA sequence-table1-Potyviridae-HMM1-252_62.0-ORF12
+seq382	>tsa-GBCR01032356.1 TSA: Dioscorea zingiberensis comp28799_c0_seq1 transcribed RNA sequence-table6-Potyviridae-HMM1853-2311_17.0-ORF95
+seq383	>tsa-GBCR01033065.1 (REVERSE SENSE) TSA: Dioscorea zingiberensis comp29979_c0_seq1 transcribed RNA sequence-table1-Potyviridae-HMM1-123_99.0-ORF13
+seq384	>tsa-GBCR01064924.1 TSA: Dioscorea zingiberensis comp4118_c0_seq1 transcribed RNA sequence-table1-Potyviridae-HMM23-125_79.0-ORF6
+seq385	>tsa-GBCR01064942.1 TSA: Dioscorea zingiberensis comp4173_c0_seq1 transcribed RNA sequence-table1-Potyviridae-HMM1-100_98.0-ORF3
+seq386	>tsa-GBCR01064958.1 (REVERSE SENSE) TSA: Dioscorea zingiberensis comp4213_c0_seq1 transcribed RNA sequence-table1-Potyviridae-HMM2-106_98.0-ORF12
+seq387	>tsa-GBCR01065164.1 TSA: Dioscorea zingiberensis comp4613_c0_seq1 transcribed RNA sequence-table1-Potyviridae-HMM1-187_98.0-ORF8
+seq388	>tsa-GBCR01077508.1 TSA: Dioscorea zingiberensis comp20423_c0_seq1 transcribed RNA sequence-table1-Potyviridae-HMM2-104_96.0-ORF6
+seq389	>tsa-GBCR01079836.1 TSA: Dioscorea zingiberensis comp21662_c0_seq1 transcribed RNA sequence-table1-Potyviridae-HMM99-205_50.0-ORF6
+seq390	>tsa-GBCR01079837.1 TSA: Dioscorea zingiberensis comp21662_c0_seq2 transcribed RNA sequence-table1-Potyviridae-HMM99-170_40.0-ORF6
+seq391	>tsa-GBTA01038909.1 TSA: Helicoverpa assulta m.54486 transcribed RNA sequence-table4-Potyviridae-HMM75-265_49.0-ORF14
+seq392	>tsa-GBTA01038912.1 TSA: Helicoverpa assulta m.54490 transcribed RNA sequence-table6-Potyviridae-HMM75-265_63.0-ORF9
+seq393	>tsa-GBTA01038914.1 TSA: Helicoverpa assulta m.54493 transcribed RNA sequence-table4-Potyviridae-HMM75-265_49.0-ORF14
+seq394	>tsa-GBTA01038917.1 TSA: Helicoverpa assulta m.54497 transcribed RNA sequence-table4-Potyviridae-HMM75-265_49.0-ORF14
+seq395	>tsa-GBZH01008670.1 TSA: Ipomoea batatas contig_36 transcribed RNA sequence-table4-Potyviridae-HMM302-416_26.0-ORF127
+seq396	>tsa-GBZH01011883.1 TSA: Ipomoea batatas contig_381 transcribed RNA sequence-table6-Potyviridae-HMM312-618_27.0-ORF41
+seq397	>tsa-GBZH01013275.1 TSA: Ipomoea batatas contig_466 transcribed RNA sequence-table6-Potyviridae-HMM195-661_53.0-ORF36
+seq398	>tsa-GBZH01014929.1 TSA: Ipomoea batatas contig_275 transcribed RNA sequence-table4-Potyviridae-HMM35-378_48.0-ORF48
+seq399	>tsa-GBZH01015910.1 TSA: Ipomoea batatas contig_930 transcribed RNA sequence-table4-Potyviridae-HMM195-661_48.0-ORF34
+seq400	>tsa-GBZH01019352.1 TSA: Ipomoea batatas contig_20 transcribed RNA sequence-table6-Potyviridae-HMM4-76_19.0-ORF126
+seq401	>tsa-GBZH01019965.1 TSA: Ipomoea batatas contig_1330 transcribed RNA sequence-table1-Potyviridae-HMM305-771_44.0-ORF31
+seq402	>tsa-GBZH01024087.1 TSA: Ipomoea batatas contig_431 transcribed RNA sequence-table4-Potyviridae-HMM35-378_47.0-ORF43
+seq403	>tsa-GBZH01028988.1 TSA: Ipomoea batatas contig_17 transcribed RNA sequence-table6-Potyviridae-HMM311-424_25.0-ORF113
+seq404	>tsa-GBZH01034098.1 TSA: Ipomoea batatas contig_131 transcribed RNA sequence-table6-Potyviridae-HMM174-337_33.0-ORF46
+seq405	>tsa-GBZH01036456.1 TSA: Ipomoea batatas contig_449 transcribed RNA sequence-table4-Potyviridae-HMM35-378_41.0-ORF45
+seq406	>tsa-GBZH01051544.1 TSA: Ipomoea batatas contig_9 transcribed RNA sequence-table4-Potyviridae-HMM302-461_30.0-ORF130
+seq407	>tsa-GBZH01058877.1 (REVERSE SENSE) TSA: Ipomoea batatas contig_136 transcribed RNA sequence-table6-Potyviridae-HMM174-337_33.0-ORF122
+seq408	>tsa-GBZH01060984.1 TSA: Ipomoea batatas contig_340 transcribed RNA sequence-table4-Potyviridae-HMM39-301_71.0-ORF36
+seq409	>tsa-GBZH01066531.1 (REVERSE SENSE) TSA: Ipomoea batatas contig_130 transcribed RNA sequence-table6-Potyviridae-HMM174-337_33.0-ORF124
+seq410	>tsa-GBZH01066945.1 TSA: Ipomoea batatas contig_329 transcribed RNA sequence-table4-Potyviridae-HMM39-301_71.0-ORF36
+seq411	>tsa-GBZH01068866.1 (REVERSE SENSE) TSA: Ipomoea batatas contig_358 transcribed RNA sequence-table4-Potyviridae-HMM39-301_71.0-ORF98
+seq412	>tsa-GBZH01075401.1 TSA: Ipomoea batatas contig_22 transcribed RNA sequence-table6-Potyviridae-HMM4-76_19.0-ORF126
+seq413	>tsa-GABG01038600.1 TSA: Ipomoea purpurea final_18481 mRNA sequence-table1-Potyviridae-HMM19-484_56.0-ORF27
+seq414	>tsa-GALY01034576.1 (REVERSE SENSE) TSA: Ipomoea purpurea ABCDEF_9274 transcribed RNA sequence-table1-Potyviridae-HMM2-100_98.0-ORF10
+seq415	>tsa-GALY01074851.1 (REVERSE SENSE) TSA: Ipomoea purpurea ABCDEF_19518 transcribed RNA sequence-table1-Potyviridae-HMM1-63_15.0-ORF33
+seq416	>tsa-GALY01078651.1 (REVERSE SENSE) TSA: Ipomoea purpurea ABCDEF_63547 transcribed RNA sequence-table1-Potyviridae-HMM3-103_97.0-ORF8
+seq417	>tsa-GALY01081654.1 TSA: Ipomoea purpurea ABCDEF_23088 transcribed RNA sequence-table1-Potyviridae-HMM1-223_99.0-ORF9
+seq418	>tsa-GANI01003263.1 TSA: Karelinia caspia comp5711_c0_seq1 transcribed RNA sequence-table1-Potyviridae-HMM1-99_26.0-ORF15
+seq419	>tsa-GANI01052669.1 (REVERSE SENSE) TSA: Karelinia caspia comp242146_c0_seq1 transcribed RNA sequence-table1-Potyviridae-HMM1-313_99.0-ORF31
+seq420	>tsa-GAYX01054000.1 TSA: Lolium perenne comp30728_c0_seq1 transcribed RNA sequence-table6-Potyviridae-HMM2271-2737_14.0-ORF106
+seq421	>tsa-GAYX01056216.1 (REVERSE SENSE) TSA: Lolium perenne comp31172_c0_seq1 transcribed RNA sequence-table6-Potyviridae-HMM1783-2249_17.0-ORF198
+seq422	>tsa-GDAT01043069.1 (REVERSE SENSE) TSA: Lolium perenne Contig43084 transcribed RNA sequence-table1-Potyviridae-HMM63-229_72.0-ORF23
+seq423	>tsa-GDAT01043109.1 TSA: Lolium perenne Contig43124 transcribed RNA sequence-table1-Potyviridae-HMM1-129_99.0-ORF5
+seq424	>tsa-GDAT01043884.1 (REVERSE SENSE) TSA: Lolium perenne Contig43899 transcribed RNA sequence-table1-Potyviridae-HMM1-146_99.0-ORF13
+seq425	>tsa-GDAT01051750.1 TSA: Lolium perenne Contig51773 transcribed RNA sequence-table1-Potyviridae-HMM33-212_84.0-ORF10
+seq426	>tsa-GAJY01001028.1 (REVERSE SENSE) TSA: Megalurothrips sjostedti Megal_trimmed_contig_1043 transcribed RNA sequence-table4-Potyviridae-HMM1-156_53.0-ORF33
+seq427	>tsa-GAJY01003196.1 TSA: Megalurothrips sjostedti Megal_trimmed_contig_3228 transcribed RNA sequence-table1-Potyviridae-HMM2-130_69.0-ORF5
+seq428	>tsa-GAJY01003237.1 TSA: Megalurothrips sjostedti Megal_trimmed_contig_3269 transcribed RNA sequence-table1-Potyviridae-HMM232-300_22.0-ORF11
+seq429	>tsa-GAJY01003379.1 TSA: Megalurothrips sjostedti Megal_trimmed_contig_3411 transcribed RNA sequence-table1-Potyviridae-HMM3-216_98.0-ORF11
+seq430	>tsa-GEMH01019557.1 TSA: Narenga porphyrocoma CL15543.Contig2_All transcribed RNA sequence-table6-Potyviridae-HMM556-1021_33.0-ORF46
+seq431	>tsa-GEMH01082646.1 TSA: Narenga porphyrocoma CL15543.Contig1_All transcribed RNA sequence-table1-Potyviridae-HMM2-327_99.0-ORF11
+seq432	>tsa-GFCB01042099.1 TSA: Nicotiana tabacum c50971.graph_c0 transcribed RNA sequence-table6-Potyviridae-HMM2361-2826_14.0-ORF111
+seq433	>tsa-GDQW01003676.1 TSA: Panax ginseng c19092_g1_i1 transcribed RNA sequence-table1-Potyviridae-HMM17-191_82.0-ORF7
+seq434	>tsa-GDQW01006644.1 (REVERSE SENSE) TSA: Panax ginseng c26406_g2_i1 transcribed RNA sequence-table6-Potyviridae-HMM664-1130_31.0-ORF111
+seq435	>tsa-GDQW01185594.1 TSA: Panax ginseng c62631_g1_i1 transcribed RNA sequence-table6-Potyviridae-HMM2457-2923_14.0-ORF109
+seq436	>tsa-GEXJ01008246.1 TSA: Phragmites australis Phco-d_13714 transcribed RNA sequence-table1-Potyviridae-HMM1-140_99.0-ORF6
+seq437	>tsa-GEXJ01008452.1 TSA: Phragmites australis Phco-d_13817 transcribed RNA sequence-table1-Potyviridae-HMM2-95_23.0-ORF13
+seq438	>tsa-GEXJ01009058.1 TSA: Phragmites australis Phco-d_14110 transcribed RNA sequence-table1-Potyviridae-HMM42-108_61.0-ORF5
+seq439	>tsa-GEXJ01042905.1 TSA: Phragmites australis Phco-d_62309 transcribed RNA sequence-table1-Potyviridae-HMM1-159_98.0-ORF6
+seq440	>tsa-GEXJ01109570.1 TSA: Phragmites australis Phco-s_30069 transcribed RNA sequence-table1-Potyviridae-HMM1-274_99.0-ORF9
+seq441	>tsa-GEXJ01137067.1 (REVERSE SENSE) TSA: Phragmites australis Phco-s_37950 transcribed RNA sequence-table1-Potyviridae-HMM21-143_85.0-ORF14
+seq442	>tsa-GFOW01019048.1 TSA: Prosopis cineraria CDS_19048 transcribed RNA sequence-table4-Potyviridae-HMM2547-3011_13.0-ORF124
+seq443	>tsa-GEMG01004043.1 TSA: Raphanus sativus CL1370.Contig2_NAU-LB transcribed RNA sequence-table1-Potyviridae-HMM1-290_56.0-ORF17
+seq444	>tsa-GEMG01009092.1 TSA: Raphanus sativus CL3398.Contig1_NAU-LB transcribed RNA sequence-table1-Potyviridae-HMM392-661_40.0-ORF27
+seq445	>tsa-GEMG01009093.1 TSA: Raphanus sativus CL3398.Contig2_NAU-LB transcribed RNA sequence-table1-Potyviridae-HMM46-127_63.0-ORF4
+seq446	>tsa-GEMG01009095.1 TSA: Raphanus sativus CL3398.Contig4_NAU-LB transcribed RNA sequence-table1-Potyviridae-HMM2-99_97.0-ORF3
+seq447	>tsa-GEMG01033199.1 TSA: Raphanus sativus Unigene13277_NAU-LB transcribed RNA sequence-table1-Potyviridae-HMM1-190_99.0-ORF9
+seq448	>tsa-GEMG01033200.1 TSA: Raphanus sativus Unigene13279_NAU-LB transcribed RNA sequence-table1-Potyviridae-HMM1-53_55.0-ORF3
+seq449	>tsa-GEZY01014894.1 (REVERSE SENSE) TSA: Sitophilus oryzae c50655.graph_c0 transcribed RNA sequence-table1-Potyviridae-HMM1-75_97.0-ORF7
+seq450	>tsa-GEZY01036949.1 TSA: Sitophilus oryzae c55061.graph_c0 transcribed RNA sequence-table1-Potyviridae-HMM1-67_98.0-ORF3
+seq451	>tsa-GESX01027578.1 TSA: Swertia japonica Unigene36185 transcribed RNA sequence-table4-Potyviridae-HMM2-257_95.0-ORF4
+seq452	>tsa-GDIG01046262.1 (REVERSE SENSE) TSA: Trichosanthes kirilowii Unigene0046267 transcribed RNA sequence-table4-Potyviridae-HMM2-62_40.0-ORF13
+seq453	>tsa-GDIG01046264.1 (REVERSE SENSE) TSA: Trichosanthes kirilowii Unigene0046269 transcribed RNA sequence-table4-Potyviridae-HMM2-62_12.0-ORF40
+seq454	>tsa-GDIG01046270.1 TSA: Trichosanthes kirilowii Unigene0046275 transcribed RNA sequence-table4-Potyviridae-HMM1422-1857_23.0-ORF65
+seq455	>tsa-GDIG01046271.1 TSA: Trichosanthes kirilowii Unigene0046276 transcribed RNA sequence-table4-Potyviridae-HMM563-974_42.0-ORF34
+seq456	>tsa-GEST01010998.1 TSA: Trifolium repens SSHrefA3_contig_53 transcribed RNA sequence-table4-Potyviridae-HMM1-279_47.0-ORF20
+seq457	>tsa-GEST01011024.1 TSA: Trifolium repens SSHrefA3_contig_93 transcribed RNA sequence-table4-Potyviridae-HMM529-706_25.0-ORF24
+seq458	>tsa-GACI01000554.1 TSA: Uromyces appendiculatus Ua_contig06136 mRNA sequence-table6-Potyviridae-HMM1716-2123_16.0-ORF69
+seq459	>tsa-GBXO01006302.1 (REVERSE SENSE) TSA: Vigna radiata Vr38043_c0 transcribed RNA sequence-table6-Potyviridae-HMM2461-2925_14.0-ORF253
+seq460	>tsa-GDKT01057292.1 (REVERSE SENSE) TSA: Vigna unguiculata subsp. sesquipedalis c69340.graph_c0 transcribed RNA sequence-table6-Potyviridae-HMM1-119_99.0-ORF12
+seq461	>tsa-GAKH01101029.1 (REVERSE SENSE) TSA: Vitis vinifera Skin_3_1_12296_Transcript_1__1_Confidence_1.000_Length_6918 transcribed RNA sequence-table6-Potyviridae-HMM1040-1506_25.0-ORF174
+seq462	>tsa-GAOT01072741.1 TSA: Zantedeschia aethiopica comp837834_c0_seq1 transcribed RNA sequence-table6-Potyviridae-HMM1-82_98.0-ORF3
+seq463	>tsa-HACV01000584.1 TSA: Zostera noltei, contig Zn_584, transcribed RNA sequence-table6-Potyviridae-HMM655-1120_32.0-ORF47

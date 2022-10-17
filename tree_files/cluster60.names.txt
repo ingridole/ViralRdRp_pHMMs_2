@@ -1,0 +1,20 @@
+seq1	>ref-NC_015668.1 Cavally virus, complete genome-table6-Mesoniviridae-HMM527-1038_14.0-ORF174
+seq2	>ref-NC_015874.1 Nam Dinh virus, complete genome-table6-Mesoniviridae-HMM527-1038_13.0-ORF183
+seq3	>ref-NC_020899.1 Hana virus strain A4/CI/2004, complete genome-table6-Mesoniviridae-HMM528-1039_18.0-ORF146
+seq4	>ref-NC_020901.1 Nse virus strain F24/CI/2004, complete genome-table6-Mesoniviridae-HMM521-1033_18.0-ORF151
+seq5	>ref-NC_020900.1 Meno virus strain E9/CI/2004, complete genome-table6-Mesoniviridae-HMM529-1041_17.0-ORF149
+seq6	>ref-NC_023986.1 Casuarina virus isolate 0071, complete genome-table6-Mesoniviridae-HMM535-1046_17.0-ORF158
+seq7	>ref-NC_032496.1 Beihai Nido-like virus 1 strain BZL87871 hypothetical protein and putative structural polyprotein genes, complete cds-table4-Mesoniviridae-HMM2975-3435_8.0-ORF56
+seq8	>ref-NC_036586.1 Dianke virus strain SEN235030, complete genome-table6-Mesoniviridae-HMM527-1038_14.0-ORF172
+seq9	>nrnt-KT966495 Kadiweu virus strain BrMS-MQ10 putative ORF1ab (orf1), putative ORF1a (orf1), putative nucleocapsid, and putative membrane protein genes, complete cds.-table6-Mesoniviridae-HMM528-1037_19.0-ORF164
+seq10	>nrnt-KT966491 Ofaie virus strain BrMS-MQ10 putative ORF1ab and putative ORF1a genes, complete cds.-table6-Mesoniviridae-HMM538-1045_17.0-ORF162
+seq11	>nrnt-KY369959 Yichang virus isolate HB-MLV, complete genome.-table6-Mesoniviridae-HMM530-1031_18.0-ORF143
+seq12	>nrnt-KC807172 Kamphang Phet virus strain KP84-0156, complete genome.-table6-Mesoniviridae-HMM527-1038_19.0-ORF159
+seq13	>nrnt-KC807171 Karang Sari virus strain JKT10701, complete genome.-table4-Mesoniviridae-HMM606-1117_19.0-ORF190
+seq14	>tsa-GAJX01004797.1 (REVERSE SENSE) TSA: Clavigralla tomentosicollis Clavig_trimmed_contig_4862 transcribed RNA sequence-table6-Mesoniviridae-HMM5-450_67.0-ORF44
+seq15	>tsa-GEWS01068043.1 TSA: Helianthus niveus Sampletranscript24861 transcribed RNA sequence-table1-Mesoniviridae-HMM3-203_97.0-ORF8
+seq16	>ref-NC_010306.1 Gill-associated virus, complete genome-table4-Roniviridae-HMM515-1037_19.0-ORF170
+seq17	>nrnt-KX947267 Yellow head virus isolate 20120706, complete genome.-table6-Roniviridae-HMM470-992_18.0-ORF169
+seq18	>nrnt-FJ848673 Yellow head virus strain YHV1992, complete genome.-table6-Roniviridae-HMM470-992_19.0-ORF178
+seq19	>tsa-HAAX01017075.1 (REVERSE SENSE) TSA: Eriocheir sinensis, contig Unigene17158_A0A, transcribed RNA sequence-table1-Roniviridae-HMM5-112_30.0-ORF22
+seq20	>tsa-HAAX01041269.1 TSA: Eriocheir sinensis, contig Unigene41532_A0A, transcribed RNA sequence-table1-Roniviridae-HMM16-138_86.0-ORF5

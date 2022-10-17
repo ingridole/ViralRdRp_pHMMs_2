@@ -1,0 +1,500 @@
+seq1	>ref-NC_001874.1 Rhopalosiphum padi virus, complete genome-table6-Dicistroviridae-HMM1600-2142_23.0-ORF78
+seq2	>ref-NC_003005.1 Taura syndrome virus, complete genome-table6-Dicistroviridae-HMM1717-2178_19.0-ORF72
+seq3	>ref-NC_001834.1 Drosophila C virus strain EB, complete genome-table6-Dicistroviridae-HMM1261-1789_28.0-ORF70
+seq4	>ref-NC_003782.1 Himetobi P virus genomic RNA, complete sequence-table6-Dicistroviridae-HMM1410-1918_26.0-ORF65
+seq5	>ref-NC_003779.1 Plautia stali intestine virus RNA for nonstructural polyprotein, capsid protein precursor, complete cds-table4-Dicistroviridae-HMM1296-1809_19.0-ORF102
+seq6	>ref-NC_003784.1 Black queen cell virus nonstructural polyprotein (orf1) and structural polyprotein (orf2) genes, complete cds-table4-Dicistroviridae-HMM1170-1687_30.0-ORF69
+seq7	>ref-NC_003783.1 Triatoma virus nonstructural protein precursor and capsid protein precursor, genes, partial cds-table4-Dicistroviridae-HMM1266-1761_26.0-ORF77
+seq8	>ref-NC_003924.1 Cricket paralysis virus nonstructural polyprotein and structural polyprotein genes, complete cds-table6-Dicistroviridae-HMM1310-1840_28.0-ORF77
+seq9	>ref-NC_004365.1 Aphid lethal paralysis virus, complete genome-table6-Dicistroviridae-HMM1496-2042_26.0-ORF74
+seq10	>ref-NC_004807.1 Kashmir bee virus, complete genome-table6-Dicistroviridae-HMM1501-2002_24.0-ORF78
+seq11	>ref-NC_006559.1 Solenopsis invicta virus 1, complete genome-table6-Dicistroviridae-HMM894-1404_35.0-ORF42
+seq12	>ref-NC_002548.1 Acute bee paralysis virus, complete genome-table6-Dicistroviridae-HMM1445-1951_25.0-ORF66
+seq13	>ref-NC_008029.1 Homalodisca coagulata virus-1, complete genome-table6-Dicistroviridae-HMM1273-1782_28.0-ORF59
+seq14	>ref-NC_009025.1 Israel acute paralysis virus of bees-table6-Dicistroviridae-HMM1395-1896_25.0-ORF76
+seq15	>ref-NC_003780.1 Acyrthosiphon pisum virus protein P1 gene, complete cds; and protein P2 gene, partial cds-table6-Dicistroviridae-HMM1645-2104_16.0-ORF83
+seq16	>ref-NC_014793.1 Mud crab dicistrovirus, complete genome-table6-Dicistroviridae-HMM1711-2175_20.0-ORF66
+seq17	>ref-NC_018570.2 Macrobrachium rosenbergii Taihu virus strain cn-taihu100401, complete genome-table6-Dicistroviridae-HMM1690-2152_20.0-ORF60
+seq18	>ref-NC_023021.1 Formica exsecta virus 1 isolate Fex1, complete genome-table6-Dicistroviridae-HMM1462-1963_24.0-ORF71
+seq19	>ref-NC_025219.1 Cripavirus NB-1/2011/HUN, complete genome-table6-Dicistroviridae-HMM1327-1809_16.0-ORF85
+seq20	>ref-NC_029052.1 Goose dicistrovirus isolate UW1, complete genome-table6-Dicistroviridae-HMM1309-1839_28.0-ORF68
+seq21	>ref-NC_030115.1 Anopheles C virus non-structural polyprotein and structural polyprotein genes, complete cds-table6-Dicistroviridae-HMM1295-1813_18.0-ORF95
+seq22	>ref-NC_030232.1 Antarctic picorna-like virus 1 nonstructural protein and structural protein genes, complete cds-table6-Dicistroviridae-HMM1074-1576_20.0-ORF70
+seq23	>ref-NC_031687.1 Centovirus AC, complete genome-table4-Dicistroviridae-HMM1391-1903_18.0-ORF89
+seq24	>ref-NC_031688.1 Mosquito dicistrovirus strain FH1, complete genome-table4-Dicistroviridae-HMM1401-1912_17.0-ORF102
+seq25	>ref-NC_032112.1 Bivalve RNA virus G1, partial genome-table6-Dicistroviridae-HMM1390-1879_24.0-ORF73
+seq26	>ref-NC_032115.1 Bivalve RNA virus G5, partial genome-table6-Dicistroviridae-HMM1029-1511_31.0-ORF40
+seq27	>ref-NC_032113.1 Bivalve RNA virus G2, partial genome-table4-Dicistroviridae-HMM1157-1647_28.0-ORF58
+seq28	>ref-NC_032198.1 Changjiang crawfish virus 4 strain CLX8819 hypothetical protein gene, complete cds-table6-Dicistroviridae-HMM1855-2327_15.0-ORF98
+seq29	>ref-NC_032186.1 Hubei picorna-like virus 24 strain WGML142000 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1214-1713_28.0-ORF57
+seq30	>ref-NC_032249.1 Beihai picorna-like virus 70 strain BHJJX25952 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1400-1891_25.0-ORF75
+seq31	>ref-NC_032205.1 Beihai picorna-like virus 73 strain BHTH16077 hypothetical protein gene, complete cds-table6-Dicistroviridae-HMM1174-1655_17.0-ORF97
+seq32	>ref-NC_032403.1 Sanxia picorna-like virus 12 strain SXXX24153 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1170-1672_29.0-ORF69
+seq33	>ref-NC_032464.1 Beihai mantis shrimp virus 4 strain BHXG23944 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Dicistroviridae-HMM1514-1985_22.0-ORF72
+seq34	>ref-NC_032441.1 Beihai mantis shrimp virus 3 strain BHXG26678 hypothetical protein gene, complete cds-table4-Dicistroviridae-HMM1315-1771_15.0-ORF102
+seq35	>ref-NC_032420.1 Wenzhou shrimp virus 7 strain beimix73547 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Dicistroviridae-HMM1573-2036_14.0-ORF99
+seq36	>ref-NC_032436.1 Shahe picorna-like virus 8 strain SHWC12398 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Dicistroviridae-HMM1297-1768_25.0-ORF67
+seq37	>ref-NC_032429.1 Wenling picorna-like virus 2 strain WLJQ104117 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Dicistroviridae-HMM1524-2001_23.0-ORF78
+seq38	>ref-NC_032434.1 Beihai mantis shrimp virus 5 strain BHXG25299 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1660-2123_20.0-ORF68
+seq39	>ref-NC_032588.1 Beihai picorna-like virus 93 strain BHBJDX18546 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Dicistroviridae-HMM1568-2062_23.0-ORF71
+seq40	>ref-NC_032644.1 Beihai picorna-like virus 87 strain BHJJX25970 hypothetical protein gene, complete cds-table6-Dicistroviridae-HMM1483-1950_12.0-ORF134
+seq41	>ref-NC_032642.1 Beihai picorna-like virus 82 strain YYSZX17728 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1273-1760_27.0-ORF60
+seq42	>ref-NC_032600.1 Beihai picorna-like virus 79 strain BHBJDX18844 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1067-1566_17.0-ORF95
+seq43	>ref-NC_032608.1 Beihai picorna-like virus 72 strain BHHK126587 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1489-1951_15.0-ORF105
+seq44	>ref-NC_032595.1 Beihai picorna-like virus 90 strain BHWZXX14572 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1581-2067_22.0-ORF53
+seq45	>ref-NC_032580.1 Beihai picorna-like virus 84 strain BHTH16053 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1227-1694_17.0-ORF99
+seq46	>ref-NC_032582.1 Beihai picorna-like virus 80 strain BHZC36213 hypothetical protein 2 genes, complete cds-table4-Dicistroviridae-HMM1242-1691_26.0-ORF62
+seq47	>ref-NC_032529.1 Beihai picorna-like virus 75 strain BHJP52955 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1486-1980_15.0-ORF104
+seq48	>ref-NC_032638.1 Beihai picorna-like virus 91 strain BHJJX25930 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Dicistroviridae-HMM1377-1870_26.0-ORF76
+seq49	>ref-NC_032610.1 Beihai picorna-like virus 85 strain BHHK129719 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1371-1838_24.0-ORF53
+seq50	>ref-NC_032584.1 Beihai picorna-like virus 81 strain HOU149705 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1023-1499_30.0-ORF51
+seq51	>ref-NC_032551.1 Beihai picorna-like virus 77 strain BHBei75652 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1398-1882_23.0-ORF62
+seq52	>ref-NC_032562.1 Beihai picorna-like virus 71 strain BHXG26494 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1431-1923_23.0-ORF73
+seq53	>ref-NC_032598.1 Beihai picorna-like virus 83 strain BHWZXX15514 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Dicistroviridae-HMM1509-1976_22.0-ORF74
+seq54	>ref-NC_032614.1 Beihai picorna-like virus 74 strain BHHK130969 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1170-1662_29.0-ORF66
+seq55	>ref-NC_032579.1 Beihai shrimp virus 1 strain BHBJDX17672 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1785-2270_18.0-ORF94
+seq56	>ref-NC_032563.1 Beihai picorna-like virus 54 strain BHNXC41489 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1240-1644_22.0-ORF67
+seq57	>ref-NC_032557.1 Beihai picorna-like virus 52 strain BHNXC41485 hypothetical protein gene, complete cds-table6-Dicistroviridae-HMM1382-1807_14.0-ORF114
+seq58	>ref-NC_032539.1 Beihai picorna-like virus 100 strain BHNXC41148 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1586-2081_17.0-ORF90
+seq59	>ref-NC_032989.1 Wenzhou shrimp virus 4 strain WZRBX43306 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Dicistroviridae-HMM1199-1689_19.0-ORF84
+seq60	>ref-NC_033000.1 Hubei picorna-like virus 20 strain WGML146806 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Dicistroviridae-HMM1147-1643_30.0-ORF70
+seq61	>ref-NC_032837.1 Wenzhou picorna-like virus 27 strain shrimp14502 hypothetical protein gene, complete cds-table6-Dicistroviridae-HMM1186-1654_17.0-ORF84
+seq62	>ref-NC_032969.1 Wenzhou picorna-like virus 35 strain WZRBX39547 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1570-2067_23.0-ORF91
+seq63	>ref-NC_032908.1 Wenzhou picorna-like virus 29 strain BHBei77092 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1308-1789_16.0-ORF95
+seq64	>ref-NC_032791.1 Wenling picorna-like virus 3 strain WLJQ100015 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1499-1968_23.0-ORF67
+seq65	>ref-NC_032928.1 Shahe picorna-like virus 11 strain SHWC13613 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1259-1733_26.0-ORF65
+seq66	>ref-NC_032959.1 Wenzhou picorna-like virus 31 strain WZFSL72092 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1259-1774_28.0-ORF63
+seq67	>ref-NC_033205.1 Wenzhou picorna-like virus 26 strain WZSLuoII93478 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1394-1885_24.0-ORF75
+seq68	>ref-NC_032877.1 Wenzhou channeled applesnail virus 2 strain WZFSL85846 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1620-2120_22.0-ORF74
+seq69	>ref-NC_032939.1 Wenzhou picorna-like virus 33 strain WZFSL76563 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1148-1638_28.0-ORF65
+seq70	>ref-NC_032975.1 Wenzhou picorna-like virus 28 strain WZRBX42853 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1429-1926_25.0-ORF61
+seq71	>ref-NC_032858.1 Wenling crustacean virus 3 strain WLJQ142924 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Dicistroviridae-HMM1535-2026_24.0-ORF74
+seq72	>ref-NC_032898.1 Shahe picorna-like virus 10 strain SHWC13586 hypothetical protein gene, complete cds-table6-Dicistroviridae-HMM1161-1667_18.0-ORF83
+seq73	>ref-NC_032830.1 Wenling crustacean virus 2 strain WLJQ102135 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1245-1729_27.0-ORF63
+seq74	>ref-NC_032863.1 Shahe picorna-like virus 9 strain SHWC0209c12638 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1182-1684_28.0-ORF74
+seq75	>ref-NC_033262.1 Sanxia picorna-like virus 5 strain SXXX34146 hypothetical protein and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1328-1711_22.0-ORF54
+seq76	>ref-NC_033266.1 Sanxia picorna-like virus 13 strain SXXX34014 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1199-1682_25.0-ORF64
+seq77	>ref-NC_032833.1 Changjiang picorna-like virus 11 strain CJLX30672 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1219-1707_27.0-ORF54
+seq78	>ref-NC_032801.1 Changjiang crawfish virus 6 strain CJLX30496 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1561-2022_17.0-ORF80
+seq79	>ref-NC_033228.1 Sanxia atyid shrimp virus 3 strain SXXX37589 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Dicistroviridae-HMM1291-1776_26.0-ORF61
+seq80	>ref-NC_032779.1 Changjiang picorna-like virus 12 strain CJLX29956 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1260-1745_26.0-ORF65
+seq81	>ref-NC_032850.1 Changjiang crawfish virus 2 strain CJLX30764 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1152-1664_20.0-ORF88
+seq82	>ref-NC_032749.1 Changjiang picorna-like virus 9 strain CJLX26226 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1148-1643_29.0-ORF63
+seq83	>ref-NC_033221.1 Sanxia picorna-like virus 11 strain SXXX37695 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1162-1679_30.0-ORF62
+seq84	>ref-NC_032823.1 Changjiang picorna-like virus 10 strain CJLX30646 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1249-1749_27.0-ORF55
+seq85	>ref-NC_032879.1 Changjiang picorna-like virus 13 strain CJLX40994 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1165-1646_18.0-ORF102
+seq86	>ref-NC_032868.1 Changjiang crawfish virus 3 strain CJLX30786 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1225-1738_28.0-ORF65
+seq87	>ref-NC_032794.1 Changjiang picorna-like virus 6 strain CJLX30470 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1170-1684_29.0-ORF61
+seq88	>ref-NC_032855.1 Changjiang picorna-like virus 8 strain CJLX30776 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1199-1710_19.0-ORF87
+seq89	>ref-NC_032774.1 Hubei diptera virus 1 strain SCM51289 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1364-1892_27.0-ORF63
+seq90	>ref-NC_033112.1 Hubei picorna-like virus 14 strain QTM26191 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1511-2021_24.0-ORF66
+seq91	>ref-NC_032766.1 Hubei orthoptera virus 1 strain ZCM21319 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1468-1971_23.0-ORF71
+seq92	>ref-NC_033227.1 Hubei picorna-like virus 22 strain WHSF7472 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Dicistroviridae-HMM1186-1674_28.0-ORF45
+seq93	>ref-NC_032860.1 Changjiang picorna-like virus 7 strain CJLX30780 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Dicistroviridae-HMM1131-1653_29.0-ORF67
+seq94	>ref-NC_032780.1 Hubei picorna-like virus 16 strain SCM51353 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1302-1826_28.0-ORF56
+seq95	>ref-NC_032757.1 Hubei picorna-like virus 15 strain arthropodmix13755 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1534-2076_25.0-ORF71
+seq96	>ref-NC_033190.1 Hubei picorna-like virus 25 strain QTM27237 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1238-1717_26.0-ORF66
+seq97	>ref-NC_033119.1 Hubei picorna-like virus 18 strain QTM26408 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1376-1859_23.0-ORF65
+seq98	>ref-NC_033093.1 Hubei picorna-like virus 55 strain spider134013 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1622-2088_17.0-ORF80
+seq99	>ref-NC_032804.1 Biomphalaria virus 1 isolate Brazil, complete genome-table6-Dicistroviridae-HMM1735-2078_15.0-ORF62
+seq100	>ref-NC_032825.1 Wenzhou shrimp virus 5 strain shrimp14323 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Dicistroviridae-HMM1255-1743_18.0-ORF99
+seq101	>ref-NC_033080.1 Hubei picorna-like virus 2 strain WHBL73152 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1233-1634_23.0-ORF70
+seq102	>ref-NC_032996.1 Wenzhou shrimp virus 6 strain WZRBX43423 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Dicistroviridae-HMM1782-2252_14.0-ORF119
+seq103	>ref-NC_033069.1 Hubei picorna-like virus 21 strain WHBL73090 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1372-1845_25.0-ORF68
+seq104	>ref-NC_033437.1 Wuhan arthropod virus 2 strain WHSF0 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1291-1781_24.0-ORF65
+seq105	>ref-NC_033460.1 Wuhan insect virus 11 strain CJLX30623 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1419-1915_25.0-ORF63
+seq106	>ref-NC_033733.1 Wuhan millipede virus 3 strain WHWG56524 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Dicistroviridae-HMM1604-2112_22.0-ORF84
+seq107	>ref-NC_033722.1 Wuhan insect virus 33 strain WHCCII11871 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Dicistroviridae-HMM1481-2013_26.0-ORF87
+seq108	>ref-NC_033827.1 Beihai picorna-like virus 57 strain BHHQ57630 hypothetical protein gene, complete cds-table6-Dicistroviridae-HMM1518-1929_14.0-ORF90
+seq109	>ref-NC_034973.1 Aphis glycines virus 3 isolate S6-IA, partial genome-table4-Dicistroviridae-HMM1481-2013_26.0-ORF88
+seq110	>ref-NC_035115.1 Apis dicistrovirus isolate AWD-1151 nonstructural polyprotein and structural polyprotein genes, complete cds-table4-Dicistroviridae-HMM1385-1880_25.0-ORF64
+seq111	>ref-NC_035184.1 Big Sioux River virus strain Kenya P9 non-structural polyprotein and structural protein precursor, genes, complete cds-table6-Dicistroviridae-HMM1667-2207_24.0-ORF72
+seq112	>nrnt-KX884495 Beihai picorna-like virus 38 strain BHZC37430 hypothetical protein 1 gene, complete cds; and hypothetical protein 2 gene, partial cds.-table6-Dicistroviridae-HMM1251-1595_16.0-ORF85
+seq113	>nrnt-KX884487 Beihai picorna-like virus 97 strain BHZC37303 hypothetical protein gene, partial cds.-table1-Dicistroviridae-HMM1088-1545_19.0-ORF71
+seq114	>nrnt-KX884335 Wenzhou picorna-like virus 34 strain WZFSL80163 hypothetical protein 1 gene, complete cds; and hypothetical protein 2 gene, partial cds.-table6-Dicistroviridae-HMM1299-1795_27.0-ORF62
+seq115	>nrnt-KX883903 Beihai picorna-like virus 76 strain HOU156700 hypothetical protein gene, partial cds.-table6-Dicistroviridae-HMM1238-1717_27.0-ORF65
+seq116	>nrnt-KX883724 Hubei picorna-like virus 19 strain SZmix17531 hypothetical protein 1 gene, complete cds; and hypothetical protein 2 gene, partial cds.-table4-Dicistroviridae-HMM1129-1649_31.0-ORF53
+seq117	>nrnt-KX883692 Hubei picorna-like virus 23 strain spider70066 hypothetical protein 1 gene, complete cds; and hypothetical protein 2 gene, partial cds.-table6-Dicistroviridae-HMM1379-1894_25.0-ORF62
+seq118	>nrnt-KX883322 Beihai picorna-like virus 88 strain BHBJDX16027 hypothetical protein gene, partial cds.-table1-Dicistroviridae-HMM1746-2231_19.0-ORF74
+seq119	>nrnt-KX883307 Beihai picorna-like virus 78 strain BHBei73249 hypothetical protein 1 gene, complete cds; and hypothetical protein 2 gene, partial cds.-table6-Dicistroviridae-HMM1108-1594_28.0-ORF59
+seq120	>nrnt-KY607723 Macrobrachium rosenbergii dicistrovirus 2 isolate MY13, complete genome.-table6-Dicistroviridae-HMM1334-1838_26.0-ORF71
+seq121	>nrnt-MF593921 Solenopsis invicta virus 5 isolate formosa, complete genome.-table6-Dicistroviridae-HMM1425-1940_26.0-ORF65
+seq122	>nrnt-KY503023 Dicistroviridae sp. isolate 1840 nonstructural protein gene, complete cds; and capsid protein gene, partial cds.-table6-Dicistroviridae-HMM103-604_37.0-ORF45
+seq123	>nrnt-MG662717 Blackbird arilivirus, complete genome.-table6-Dicistroviridae-HMM1726-2220_16.0-ORF108
+seq124	>nrnt-MG775312 HVAC-associated RNA virus 1 putative polyprotein genes, complete cds.-table6-Dicistroviridae-HMM1616-1935_14.0-ORF59
+seq125	>nrnt-MF190024 Barns Ness breadcrumb sponge dicistro-like virus 1 isolate W21, partial genome.-table4-Dicistroviridae-HMM1062-1553_30.0-ORF49
+seq126	>nrnt-MF189974 Caledonia beadlet anemone dicistro-like virus 3 isolate O96, partial genome.-table6-Dicistroviridae-HMM1110-1582_28.0-ORF43
+seq127	>nrnt-MF189973 Caledonia beadlet anemone dicistro-like virus 2 isolate I38, partial genome.-table6-Dicistroviridae-HMM1283-1789_28.0-ORF53
+seq128	>nrnt-MF189972 Millport beadlet anemone dicistro-like virus 1 isolate V52, partial genome.-table4-Dicistroviridae-HMM346-854_59.0-ORF75
+seq129	>nrnt-MF189971 Caledonia beadlet anemone dicistro-like virus 1 isolate H52, partial genome.-table6-Dicistroviridae-HMM1470-1932_23.0-ORF73
+seq130	>nrnt-KY286106 Picornavirales Q_sR_OV_011 putative non-structural protein (Q_sR_OV_011_gene1) and putative structural protein (Q_sR_OV_011_gene2) genes, complete cds.-table6-Dicistroviridae-HMM1259-1744_17.0-ORF86
+seq131	>nrnt-KY286103 Picornavirales Q_sR_OV_023 putative non-structural protein (Q_sR_OV_023_gene1) and putative structural protein (Q_sR_OV_023_gene2) genes, complete cds.-table6-Dicistroviridae-HMM1462-1945_24.0-ORF58
+seq132	>nrnt-KY286102 Picornavirales Q_sR_OV_036 putative non-structural protein (Q_sR_OV_036_gene1) and putative structural protein (Q_sR_OV_036_gene2) genes, complete cds.-table6-Dicistroviridae-HMM1423-1904_24.0-ORF66
+seq133	>nrnt-KY286099 Picornavirales Q_sR_OV_042 putative non-structural protein (Q_sR_OV_042_gene1) and putative structural protein (Q_sR_OV_042_gene2) genes, complete cds.-table6-Dicistroviridae-HMM1567-2061_23.0-ORF68
+seq134	>nrnt-KY130493 Picornavirales N_OV_008 putative non-structural protein (N_OV_008_gene1) gene, partial cds; and putative structural protein (N_OV_008_gene2) gene, complete cds.-table6-Dicistroviridae-HMM1104-1592_30.0-ORF52
+seq135	>nrnt-KX644942 Bat cripavirus clone Bat/CAM/CriV-P17/2013 non-structural polyprotein gene, partial cds; and structural polyprotein gene, complete cds.-table4-Dicistroviridae-HMM455-949_50.0-ORF32
+seq136	>nrnt-KX580886 Griffin dicistrovirus nonstructural protein gene, complete cds; and structural polyprotein gene, partial cds.-table6-Dicistroviridae-HMM1282-1763_26.0-ORF52
+seq137	>nrnt-DQ286292 Rosy apple aphid virus, complete genome.-table6-Dicistroviridae-HMM1657-2087_14.0-ORF78
+seq138	>nrnt-KJ938718 Ancient Northwest Territories cripavirus isolate AnNCV NS and CP genes, partial cds.-table6-Dicistroviridae-HMM7-367_95.0-ORF13
+seq139	>nrnt-KJ420969 Arivirus 1 isolate A0197177/6176/2010 non-structural polyprotein and putative capsid genes, complete cds.-table6-Dicistroviridae-HMM1811-2309_21.0-ORF72
+seq140	>nrnt-KJ738331 UNVERIFIED: Black queen cell virus non-structural polyprotein-like gene, complete sequence; and structural polyprotein gene, complete cds.-table4-Dicistroviridae-HMM1116-1558_26.0-ORF62
+seq141	>nrnt-JQ898341 Nedicistrovirus TFN-2012 isolate NediV nonstructral polyprotein gene, partial cds; and capsid gene, complete cds.-table6-Dicistroviridae-HMM16-435_83.0-ORF17
+seq142	>tsa-GEVE01045061.1 TSA: Actinia tenebrosa comp54790_c0_seq1 transcribed RNA sequence-table1-Dicistroviridae-HMM1-100_91.0-ORF5
+seq143	>tsa-GEVE01045063.1 TSA: Actinia tenebrosa comp54790_c1_seq1 transcribed RNA sequence-table1-Dicistroviridae-HMM1-182_99.0-ORF7
+seq144	>tsa-GEVE01045064.1 TSA: Actinia tenebrosa comp54790_c2_seq1 transcribed RNA sequence-table1-Dicistroviridae-HMM630-807_21.0-ORF27
+seq145	>tsa-GAHU01086141.1 TSA: Agave tequilana Locus44004v1rpkm2.15 transcribed RNA sequence-table6-Dicistroviridae-HMM1228-1760_29.0-ORF57
+seq146	>tsa-GBUA01012452.1 TSA: Alysson spinosus C153378_a_14_0_l_3155 transcribed RNA sequence-table1-Dicistroviridae-HMM742-1051_29.0-ORF28
+seq147	>tsa-GBUA01012649.1 (REVERSE SENSE) TSA: Alysson spinosus C154488_a_35_0_l_3588 transcribed RNA sequence-table4-Dicistroviridae-HMM1-166_14.0-ORF100
+seq148	>tsa-GEZL01186914.1 TSA: Ambrosia artemisiifolia TR75557_c0_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM1-105_98.0-ORF6
+seq149	>tsa-GFUZ01006378.1 TSA: Amphizoa insolens c14251_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM13-100_86.0-ORF3
+seq150	>tsa-GAJW01000027.1 TSA: Aphis craccivora Aphis_trimmed_contig_29 transcribed RNA sequence-table6-Dicistroviridae-HMM1-295_84.0-ORF13
+seq151	>tsa-GAJW01000028.1 TSA: Aphis craccivora Aphis_trimmed_contig_30 transcribed RNA sequence-table6-Dicistroviridae-HMM1-295_84.0-ORF12
+seq152	>tsa-GAJW01000050.1 TSA: Aphis craccivora Aphis_trimmed_contig_52 transcribed RNA sequence-table6-Dicistroviridae-HMM1060-1308_18.0-ORF61
+seq153	>tsa-GAZV01037943.1 TSA: Apis mellifera comp13466_c0_seq1 transcribed RNA sequence-table6-Dicistroviridae-HMM832-1347_22.0-ORF73
+seq154	>tsa-GAZV01037944.1 TSA: Apis mellifera comp13466_c0_seq2 transcribed RNA sequence-table1-Dicistroviridae-HMM219-477_53.0-ORF17
+seq155	>tsa-GAZV01045194.1 TSA: Apis mellifera comp20813_c0_seq1 transcribed RNA sequence-table1-Dicistroviridae-HMM18-85_78.0-ORF2
+seq156	>tsa-GAZV01048855.1 TSA: Apis mellifera comp24541_c0_seq1 transcribed RNA sequence-table1-Dicistroviridae-HMM1-91_97.0-ORF2
+seq157	>tsa-GBAQ01012358.1 (REVERSE SENSE) TSA: Aplysia californica comp81079_c0_seq1 transcribed RNA sequence-table1-Dicistroviridae-HMM2-69_97.0-ORF5
+seq158	>tsa-GEDF01023733.1 TSA: Astacus astacus TR33694_c0_g2_i1 transcribed RNA sequence-table4-Dicistroviridae-HMM1101-1528_27.0-ORF64
+seq159	>tsa-GAFS01001458.1 TSA: Pontastacus leptodactylus Pastle_hypoyo_c1481 transcribed RNA sequence-table6-Dicistroviridae-HMM1276-1758_25.0-ORF74
+seq160	>tsa-GAFY01022769.1 TSA: Pontastacus leptodactylus Pastle_hepa_c23018 transcribed RNA sequence-table1-Dicistroviridae-HMM2-103_93.0-ORF3
+seq161	>tsa-GBEI01029468.1 TSA: Pontastacus leptodactylus Pl_CLC_29548 transcribed RNA sequence-table6-Dicistroviridae-HMM34-512_90.0-ORF18
+seq162	>tsa-GBEI01070830.1 TSA: Pontastacus leptodactylus Pl_CLC_72284 transcribed RNA sequence-table1-Dicistroviridae-HMM1-167_89.0-ORF8
+seq163	>tsa-GBEI01077700.1 TSA: Pontastacus leptodactylus Pl_CLC_79335 transcribed RNA sequence-table6-Dicistroviridae-HMM1297-1779_25.0-ORF75
+seq164	>tsa-GFOA01015101.1 TSA: Bactrocera bryoniae TR9634_c0_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM744-1273_41.0-ORF42
+seq165	>tsa-GFOA01031486.1 (REVERSE SENSE) TSA: Bactrocera bryoniae TR15583_c6_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM1477-2006_26.0-ORF188
+seq166	>tsa-GAKP01000047.1 TSA: Bactrocera dorsalis comp111779_c0_seq1 transcribed RNA sequence-table1-Dicistroviridae-HMM2-93_84.0-ORF4
+seq167	>tsa-GAKP01021200.1 TSA: Bactrocera dorsalis comp30244_c0_seq1.1 transcribed RNA sequence-table6-Dicistroviridae-HMM340-869_60.0-ORF30
+seq168	>tsa-GAKP01021201.1 TSA: Bactrocera dorsalis comp30244_c0_seq1.2 transcribed RNA sequence-table6-Dicistroviridae-HMM340-869_60.0-ORF30
+seq169	>tsa-GAKP01022830.1 TSA: Bactrocera dorsalis comp35035_c0_seq1 transcribed RNA sequence-table6-Dicistroviridae-HMM335-747_55.0-ORF27
+seq170	>tsa-GDRP01000304.1 (REVERSE SENSE) TSA: Bactrocera dorsalis CL1143.Contig1 transcribed RNA sequence-table6-Dicistroviridae-HMM2-153_93.0-ORF20
+seq171	>tsa-GDRP01003293.1 TSA: Bactrocera dorsalis CL558.Contig1 transcribed RNA sequence-table1-Dicistroviridae-HMM975-1332_26.0-ORF37
+seq172	>tsa-GEEA01027225.1 TSA: Bactrocera dorsalis comp65636_c0_seq1 transcribed RNA sequence-table6-Dicistroviridae-HMM1499-2028_25.0-ORF68
+seq173	>tsa-GEYS01000516.1 (REVERSE SENSE) TSA: Bactrocera dorsalis CL154.Contig1_All transcribed RNA sequence-table6-Dicistroviridae-HMM1409-1938_27.0-ORF154
+seq174	>tsa-GFNX01006573.1 TSA: Bactrocera frauenfeldi TR4667_c0_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM5-84_92.0-ORF4
+seq175	>tsa-GFNX01006574.1 TSA: Bactrocera frauenfeldi TR4667_c1_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM1-89_80.0-ORF5
+seq176	>tsa-GFNX01007415.1 TSA: Bactrocera frauenfeldi TR5192_c0_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM4-78_93.0-ORF2
+seq177	>tsa-GFNX01012327.1 (REVERSE SENSE) TSA: Bactrocera frauenfeldi TR8031_c0_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM114-643_81.0-ORF49
+seq178	>tsa-GFNX01012328.1 (REVERSE SENSE) TSA: Bactrocera frauenfeldi TR8031_c0_g2_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM4-138_91.0-ORF16
+seq179	>tsa-GFNX01017835.1 TSA: Bactrocera frauenfeldi TR10897_c22_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM1420-1949_27.0-ORF69
+seq180	>tsa-GFNY01040637.1 (REVERSE SENSE) TSA: Bactrocera jarvisi TR18801_c1_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM21-550_94.0-ORF76
+seq181	>tsa-GFNY01040639.1 (REVERSE SENSE) TSA: Bactrocera jarvisi TR18801_c1_g1_i3 transcribed RNA sequence-table6-Dicistroviridae-HMM27-556_93.0-ORF85
+seq182	>tsa-GFNY01040640.1 (REVERSE SENSE) TSA: Bactrocera jarvisi TR18801_c1_g1_i4 transcribed RNA sequence-table6-Dicistroviridae-HMM21-550_94.0-ORF79
+seq183	>tsa-GFNY01040641.1 (REVERSE SENSE) TSA: Bactrocera jarvisi TR18801_c1_g1_i5 transcribed RNA sequence-table6-Dicistroviridae-HMM27-556_93.0-ORF82
+seq184	>tsa-GFNT01008162.1 (REVERSE SENSE) TSA: Bactrocera kraussi TR5524_c0_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM114-368_68.0-ORF34
+seq185	>tsa-GFNT01023413.1 TSA: Bactrocera kraussi TR12948_c7_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM1420-1949_27.0-ORF70
+seq186	>tsa-GFNT01068132.1 TSA: Bactrocera kraussi TR28789_c0_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM5-100_95.0-ORF2
+seq187	>tsa-GFNT01077441.1 TSA: Bactrocera kraussi TR37883_c0_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM1-301_96.0-ORF11
+seq188	>tsa-GDHF01000396.1 TSA: Bactrocera latifrons TR47584-c0_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM1445-1974_26.0-ORF69
+seq189	>tsa-GFOR01018732.1 TSA: Bactrocera latifrons TR12105_c0_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM1445-1974_26.0-ORF69
+seq190	>tsa-GFNZ01028390.1 (REVERSE SENSE) TSA: Bactrocera musae TR15166_c5_g2_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM103-632_82.0-ORF87
+seq191	>tsa-GFNZ01028391.1 (REVERSE SENSE) TSA: Bactrocera musae TR15166_c5_g2_i2 transcribed RNA sequence-table6-Dicistroviridae-HMM994-1523_34.0-ORF148
+seq192	>tsa-GFNZ01028392.1 (REVERSE SENSE) TSA: Bactrocera musae TR15166_c5_g2_i3 transcribed RNA sequence-table6-Dicistroviridae-HMM103-632_82.0-ORF85
+seq193	>tsa-GAKB01000004.1 (REVERSE SENSE) TSA: Bactrocera oleae contig00002 transcribed RNA sequence-table6-Dicistroviridae-HMM335-603_44.0-ORF100
+seq194	>tsa-GBQR01012677.1 TSA: Bembix rostrata C61919_a_4_0_l_341 transcribed RNA sequence-table1-Dicistroviridae-HMM2-113_98.0-ORF4
+seq195	>tsa-GEPD01000876.1 (REVERSE SENSE) TSA: Brachyuropus grewingkii c1344_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM17-138_87.0-ORF12
+seq196	>tsa-GEPD01001063.1 (REVERSE SENSE) TSA: Brachyuropus grewingkii c1686_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM2-80_96.0-ORF7
+seq197	>tsa-HAEM01046211.1 (REVERSE SENSE) TSA: Bragasellus molinai, contig comp61748_c0_seq1, transcribed RNA sequence-table6-Dicistroviridae-HMM13-194_68.0-ORF24
+seq198	>tsa-HAEM01054557.1 TSA: Bragasellus molinai, contig comp67450_c0_seq1, transcribed RNA sequence-table6-Dicistroviridae-HMM1-250_81.0-ORF12
+seq199	>tsa-HAEM01085576.1 (REVERSE SENSE) TSA: Bragasellus molinai, contig comp79474_c2_seq2, transcribed RNA sequence-table6-Dicistroviridae-HMM1503-2005_24.0-ORF151
+seq200	>tsa-HAEN01028846.1 TSA: Bragasellus peltatus, contig comp35485_c0_seq2, transcribed RNA sequence-table6-Dicistroviridae-HMM2-223_92.0-ORF8
+seq201	>tsa-HAEN01106872.1 (REVERSE SENSE) TSA: Bragasellus peltatus, contig comp1272115_c0_seq1, transcribed RNA sequence-table1-Dicistroviridae-HMM1-83_98.0-ORF5
+seq202	>tsa-GAXK01113835.1 TSA: Calanus finmarchicus comp1218751_c0_seq1 transcribed RNA sequence-table6-Dicistroviridae-HMM1560-2009_14.0-ORF104
+seq203	>tsa-GFSL01072243.1 (REVERSE SENSE) TSA: Camellia sasanqua CSATR028388 transcribed RNA sequence-table6-Dicistroviridae-HMM1497-2043_26.0-ORF183
+seq204	>tsa-GACF01095403.1 TSA: Camptotheca acuminata caa41164_iso1 mRNA sequence-table4-Dicistroviridae-HMM1465-1970_25.0-ORF40
+seq205	>tsa-GACF01095404.1 TSA: Camptotheca acuminata caa41164_iso2 mRNA sequence-table4-Dicistroviridae-HMM1463-1968_25.0-ORF40
+seq206	>tsa-GBXE01028006.1 (REVERSE SENSE) TSA: Carcinus maenas comp41371_c1_seq1 transcribed RNA sequence-table6-Dicistroviridae-HMM1179-1661_27.0-ORF177
+seq207	>tsa-GBXE01040792.1 TSA: Carcinus maenas comp54733_c0_seq1 transcribed RNA sequence-table1-Dicistroviridae-HMM258-447_42.0-ORF9
+seq208	>tsa-GBXE01040794.1 TSA: Carcinus maenas comp54733_c1_seq2 transcribed RNA sequence-table6-Dicistroviridae-HMM1-310_80.0-ORF13
+seq209	>tsa-GEUY01010950.1 (REVERSE SENSE) TSA: Cenchrus americanus pm_c13537 transcribed RNA sequence-table6-Dicistroviridae-HMM1-117_68.0-ORF15
+seq210	>tsa-GAMC01000524.1 TSA: Ceratitis capitata comp47797_c0_seq1 mRNA sequence-table1-Dicistroviridae-HMM364-509_28.0-ORF14
+seq211	>tsa-GAMC01006902.1 TSA: Ceratitis capitata comp60436_c0_seq1 mRNA sequence-table6-Dicistroviridae-HMM1386-1915_27.0-ORF64
+seq212	>tsa-GAMC01016612.1 TSA: Ceratitis capitata comp64652_c1_seq3.1 mRNA sequence-table6-Dicistroviridae-HMM1-511_98.0-ORF21
+seq213	>tsa-GAMC01016613.1 TSA: Ceratitis capitata comp64652_c1_seq3.2 mRNA sequence-table6-Dicistroviridae-HMM1-511_98.0-ORF21
+seq214	>tsa-GAMC01016614.1 TSA: Ceratitis capitata comp64652_c1_seq5.1 mRNA sequence-table6-Dicistroviridae-HMM173-701_74.0-ORF27
+seq215	>tsa-GAMC01016615.1 TSA: Ceratitis capitata comp64652_c1_seq5.2 mRNA sequence-table6-Dicistroviridae-HMM173-701_74.0-ORF27
+seq216	>tsa-HACB02079847.1 TSA: Cherax quadricarinatus, contig c52615_g1_i2, transcribed RNA sequence-table6-Dicistroviridae-HMM1535-1904_11.0-ORF88
+seq217	>tsa-HACK01007022.1 TSA: Cherax quadricarinatus, contig transcript-80_7021, transcribed RNA sequence-table6-Dicistroviridae-HMM1571-1940_11.0-ORF91
+seq218	>tsa-GBFA01002570.1 TSA: Chinavia ubica Locus_1151_Transcript_10/10_Confidence_0.173_Length_1897 transcribed RNA sequence-table4-Dicistroviridae-HMM1-142_81.0-ORF6
+seq219	>tsa-GBFA01002571.1 TSA: Chinavia ubica Locus_1151_Transcript_1/10_Confidence_0.133_Length_1527 transcribed RNA sequence-table4-Dicistroviridae-HMM1-142_81.0-ORF6
+seq220	>tsa-GBFA01002573.1 TSA: Chinavia ubica Locus_1151_Transcript_3/10_Confidence_0.133_Length_1032 transcribed RNA sequence-table4-Dicistroviridae-HMM201-281_23.0-ORF13
+seq221	>tsa-GBFA01002574.1 TSA: Chinavia ubica Locus_1151_Transcript_4/10_Confidence_0.184_Length_1918 transcribed RNA sequence-table6-Dicistroviridae-HMM201-515_60.0-ORF15
+seq222	>tsa-GBFA01002575.1 TSA: Chinavia ubica Locus_1151_Transcript_5/10_Confidence_0.153_Length_1641 transcribed RNA sequence-table4-Dicistroviridae-HMM201-338_38.0-ORF13
+seq223	>tsa-GBFA01002577.1 (REVERSE SENSE) TSA: Chinavia ubica Locus_1151_Transcript_7/10_Confidence_0.173_Length_1897 transcribed RNA sequence-table4-Dicistroviridae-HMM1-142_87.0-ORF37
+seq224	>tsa-GBFA01002578.1 TSA: Chinavia ubica Locus_1151_Transcript_8/10_Confidence_0.143_Length_1790 transcribed RNA sequence-table4-Dicistroviridae-HMM1-142_81.0-ORF6
+seq225	>tsa-GBFA01002579.1 TSA: Chinavia ubica Locus_1151_Transcript_9/10_Confidence_0.102_Length_1978 transcribed RNA sequence-table4-Dicistroviridae-HMM1-142_81.0-ORF6
+seq226	>tsa-GACH01034232.1 TSA: Chromolaena odorata Unigene36944_AA mRNA sequence-table6-Dicistroviridae-HMM159-652_70.0-ORF21
+seq227	>tsa-GACH01052291.1 TSA: Chromolaena odorata Unigene59247_AA mRNA sequence-table6-Dicistroviridae-HMM4-243_77.0-ORF9
+seq228	>tsa-GACH01061638.1 TSA: Chromolaena odorata Unigene71661_AA mRNA sequence-table1-Dicistroviridae-HMM1-69_98.0-ORF5
+seq229	>tsa-GACH01071940.1 (REVERSE SENSE) TSA: Chromolaena odorata Unigene87697_AA mRNA sequence-table1-Dicistroviridae-HMM3-88_96.0-ORF6
+seq230	>tsa-GACH01075017.1 TSA: Chromolaena odorata Unigene92012_AA mRNA sequence-table1-Dicistroviridae-HMM5-137_96.0-ORF5
+seq231	>tsa-GACH01085532.1 (REVERSE SENSE) TSA: Chromolaena odorata Unigene106273_AA mRNA sequence-table1-Dicistroviridae-HMM15-114_86.0-ORF10
+seq232	>tsa-GACH01093840.1 (REVERSE SENSE) TSA: Chromolaena odorata Unigene117462_AA mRNA sequence-table4-Dicistroviridae-HMM1-138_87.0-ORF17
+seq233	>tsa-GCEL01073115.1 TSA: Cipangopaludina cathayensis CCAH01073473 transcribed RNA sequence-table1-Dicistroviridae-HMM1-117_99.0-ORF4
+seq234	>tsa-GCEL01073116.1 (REVERSE SENSE) TSA: Cipangopaludina cathayensis CCAH01073474 transcribed RNA sequence-table1-Dicistroviridae-HMM2-101_98.0-ORF10
+seq235	>tsa-GCEL01073117.1 (REVERSE SENSE) TSA: Cipangopaludina cathayensis CCAH01073475 transcribed RNA sequence-table1-Dicistroviridae-HMM1-87_98.0-ORF8
+seq236	>tsa-GCEL01150465.1 (REVERSE SENSE) TSA: Cipangopaludina cathayensis CCAH01150987 transcribed RNA sequence-table6-Dicistroviridae-HMM3-81_91.0-ORF41
+seq237	>tsa-GCIB01046538.1 (REVERSE SENSE) TSA: Colobanthus quitensis Colobanthus_quitensis_contig_45910_1 transcribed RNA sequence-table1-Dicistroviridae-HMM595-873_31.0-ORF69
+seq238	>tsa-GCIB01076644.1 TSA: Colobanthus quitensis Colobanthus_quitensis_contig_75808_1 transcribed RNA sequence-table6-Dicistroviridae-HMM1473-1974_24.0-ORF68
+seq239	>tsa-GCIB01151100.1 TSA: Colobanthus quitensis Colobanthus_quitensis_contig_150505_1 transcribed RNA sequence-table1-Dicistroviridae-HMM11-180_92.0-ORF6
+seq240	>tsa-GCIB01162224.1 (REVERSE SENSE) TSA: Colobanthus quitensis Colobanthus_quitensis_contig_161918_1 transcribed RNA sequence-table6-Dicistroviridae-HMM1231-1707_17.0-ORF204
+seq241	>tsa-GAYH02013035.1 (REVERSE SENSE) TSA: Conwentzia psociformis C233701_a_17_0_l_4139 transcribed RNA sequence-table4-Dicistroviridae-HMM798-1287_37.0-ORF67
+seq242	>tsa-GAYH02015994.1 TSA: Conwentzia psociformis s12663_L_10807_0_a_54_7_l_5450 transcribed RNA sequence-table6-Dicistroviridae-HMM912-1399_34.0-ORF45
+seq243	>tsa-GAYO02023713.1 TSA: Cordulegaster boltonii C99279_a_24_0_l_2504 transcribed RNA sequence-table1-Dicistroviridae-HMM425-834_49.0-ORF25
+seq244	>tsa-GELM01010359.1 (REVERSE SENSE) TSA: Corynactis australis comp121329_c0_seq1 transcribed RNA sequence-table1-Dicistroviridae-HMM2-239_98.0-ORF21
+seq245	>tsa-GELM01018403.1 TSA: Corynactis australis comp150578_c0_seq1 transcribed RNA sequence-table1-Dicistroviridae-HMM2-101_98.0-ORF3
+seq246	>tsa-GEZQ01027976.1 TSA: Cosmos bipinnatus c38749.graph_c0 transcribed RNA sequence-table6-Dicistroviridae-HMM348-838_57.0-ORF33
+seq247	>tsa-IABS01000125.1 TSA: Crematogaster osakensis mRNA, contig: comp10342434_c0_seq1.m.558206, transcribed RNA sequence-table1-Dicistroviridae-HMM2-74_97.0-ORF4
+seq248	>tsa-IABS01035039.1 TSA: Crematogaster osakensis mRNA, contig: comp7011579_c0_seq1.m.547049, transcribed RNA sequence-table1-Dicistroviridae-HMM1-68_98.0-ORF3
+seq249	>tsa-GFHX01012301.1 (REVERSE SENSE) TSA: Dactylorhiza fuchsii fB1855_comp127326_c0_seq1 transcribed RNA sequence-table1-Dicistroviridae-HMM2-138_98.0-ORF10
+seq250	>tsa-GFHX01012303.1 (REVERSE SENSE) TSA: Dactylorhiza fuchsii fB1855_comp127326_c2_seq1 transcribed RNA sequence-table1-Dicistroviridae-HMM10-140_92.0-ORF13
+seq251	>tsa-GFHX01046573.1 (REVERSE SENSE) TSA: Dactylorhiza fuchsii fB1855_comp177757_c0_seq1 transcribed RNA sequence-table1-Dicistroviridae-HMM5-67_87.0-ORF6
+seq252	>tsa-GAIF01020100.1 (REVERSE SENSE) TSA: Dermanyssus gallinae isotig15585 transcribed RNA sequence-table4-Dicistroviridae-HMM12-391_71.0-ORF63
+seq253	>tsa-GAIF01023949.1 TSA: Dermanyssus gallinae isotig15584 transcribed RNA sequence-table4-Dicistroviridae-HMM80-570_64.0-ORF28
+seq254	>tsa-HACR01008550.1 TSA: Draba hispanica, contig comp27467_c0_seq, transcribed RNA sequence-table1-Dicistroviridae-HMM20-200_90.0-ORF5
+seq255	>tsa-GADP01000168.1 (REVERSE SENSE) TSA: Drosophila ercepeae 5:9089 mRNA sequence-table1-Dicistroviridae-HMM60-472_87.0-ORF35
+seq256	>tsa-GARO01030473.1 TSA: Echinogammarus veneris Echinogammarus_veneris_contig_28896_2 transcribed RNA sequence-table1-Dicistroviridae-HMM3-69_95.0-ORF3
+seq257	>tsa-GBRW01072866.1 TSA: Elysia cornigera Eco000297_seq1 transcribed RNA sequence-table6-Dicistroviridae-HMM1755-2250_21.0-ORF77
+seq258	>tsa-GBRW01128951.1 (REVERSE SENSE) TSA: Elysia cornigera Eco001011_seq2 transcribed RNA sequence-table6-Dicistroviridae-HMM1563-2055_23.0-ORF150
+seq259	>tsa-GBRM01110919.1 (REVERSE SENSE) TSA: Elysia timida Eti045671_seq1 transcribed RNA sequence-table6-Dicistroviridae-HMM3-395_93.0-ORF31
+seq260	>tsa-GDCY01025956.1 TSA: Endophyte metagenome, transcribed RNA sequence-table6-Dicistroviridae-HMM1076-1546_29.0-ORF46
+seq261	>tsa-GEND01036789.1 (REVERSE SENSE) TSA: Entomophthora muscae c21751_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM35-196_82.0-ORF20
+seq262	>tsa-GAVW02014758.1 (REVERSE SENSE) TSA: Epiophlebia superstes C72459_a_6_0_l_595 transcribed RNA sequence-table6-Dicistroviridae-HMM16-159_84.0-ORF12
+seq263	>tsa-GDQF01009417.1 TSA: Erigeron breviscapus c12835_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM2-186_97.0-ORF9
+seq264	>tsa-GDQF01009418.1 TSA: Erigeron breviscapus c12835_g2_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM9-159_75.0-ORF8
+seq265	>tsa-GEFT01000091.1 TSA: Eriocheir sinensis CL35.Contig1_B4_Live transcribed RNA sequence-table6-Dicistroviridae-HMM50-546_81.0-ORF18
+seq266	>tsa-GEFT01018031.1 TSA: Eriocheir sinensis Unigene14605_B4_Live transcribed RNA sequence-table6-Dicistroviridae-HMM3-498_95.0-ORF17
+seq267	>tsa-GFBK01014252.1 TSA: Eriocheir sinensis TRINITY_DN40589_c0_g2_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM1155-1559_25.0-ORF60
+seq268	>tsa-GFBK01024301.1 TSA: Eriocheir sinensis TRINITY_DN34409_c0_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM4-132_92.0-ORF6
+seq269	>tsa-GFBL01110964.1 (REVERSE SENSE) TSA: Eriocheir sinensis TR96881-c0_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM968-1457_32.0-ORF103
+seq270	>tsa-HAAX01017507.1 TSA: Eriocheir sinensis, contig Unigene17590_A0A, transcribed RNA sequence-table1-Dicistroviridae-HMM1-84_96.0-ORF2
+seq271	>tsa-HAAX01041312.1 TSA: Eriocheir sinensis, contig Unigene41575_A0A, transcribed RNA sequence-table1-Dicistroviridae-HMM1-78_93.0-ORF2
+seq272	>tsa-HAAX01055508.1 TSA: Eriocheir sinensis, contig Unigene55847_A0A, transcribed RNA sequence-table1-Dicistroviridae-HMM14-187_92.0-ORF3
+seq273	>tsa-GEFR01063173.1 TSA: Euglena gracilis EG_transcript_63142 transcribed RNA sequence-table1-Dicistroviridae-HMM6-109_94.0-ORF4
+seq274	>tsa-GAXW02021755.1 TSA: Euroleon nostras C165788_a_40_0_l_7737 transcribed RNA sequence-table4-Dicistroviridae-HMM993-1471_32.0-ORF52
+seq275	>tsa-GAXW02021756.1 (REVERSE SENSE) TSA: Euroleon nostras C165790_a_59_0_l_8932 transcribed RNA sequence-table4-Dicistroviridae-HMM1232-1726_28.0-ORF202
+seq276	>tsa-GFJG01102058.1 TSA: Eurypanopeus depressus TR46472-c0_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM2-161_98.0-ORF5
+seq277	>tsa-GEUA01010370.1 TSA: Farfantepenaeus aztecus comp47287_c0_seq1 transcribed RNA sequence-table6-Dicistroviridae-HMM1392-1883_25.0-ORF69
+seq278	>tsa-GBYB01002971.1 TSA: Fopius arisanus c20837_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM1342-1870_28.0-ORF64
+seq279	>tsa-GBYB01008381.1 TSA: Fopius arisanus c20283_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM1252-1744_26.0-ORF67
+seq280	>tsa-GAAX01020048.1 TSA: Forficula auricularia DMPC17716074 mRNA sequence-table6-Dicistroviridae-HMM2-184_93.0-ORF6
+seq281	>tsa-GAWN02036639.1 TSA: Galloisiana yuasai C216694_a_16_0_l_7829 transcribed RNA sequence-table6-Dicistroviridae-HMM1186-1683_29.0-ORF58
+seq282	>tsa-GFCV01109479.1 TSA: Gammarus chevreuxi TRINITY_DN72372_c0_g1_i2 transcribed RNA sequence-table6-Dicistroviridae-HMM1744-2225_20.0-ORF75
+seq283	>tsa-HAGG01166649.1 (REVERSE SENSE) TSA: Geranium pyrenaicum, contig Gpyr_comp135282_c0_seq1, transcribed RNA sequence-table1-Dicistroviridae-HMM3-84_90.0-ORF4
+seq284	>tsa-GEAC01064995.1 TSA: Gevuina avellana Gavel_contig_65069 transcribed RNA sequence-table6-Dicistroviridae-HMM15-201_23.0-ORF22
+seq285	>tsa-GFWH01010640.1 (REVERSE SENSE) TSA: Gloiopeltis furcata scaffold-SBLT-2014632-Gloeopeltis_furcata transcribed RNA sequence-table1-Dicistroviridae-HMM1-108_97.0-ORF10
+seq286	>tsa-GFWH01012120.1 (REVERSE SENSE) TSA: Gloiopeltis furcata scaffold-SBLT-2015834-Gloeopeltis_furcata transcribed RNA sequence-table1-Dicistroviridae-HMM8-163_95.0-ORF11
+seq287	>tsa-GAWP02034638.1 (REVERSE SENSE) TSA: Grylloblatta bifratrilecta C209707_a_36_0_l_7192 transcribed RNA sequence-table4-Dicistroviridae-HMM421-924_21.0-ORF199
+seq288	>tsa-GFAV01015016.1 TSA: Haliclona tubifera c67980_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM1-125_96.0-ORF4
+seq289	>tsa-HAHA01037289.1 TSA: Haliclystus auricula, contig TRINITY_DN35477_c0_g1_i1, transcribed RNA sequence-table1-Dicistroviridae-HMM6-96_83.0-ORF4
+seq290	>tsa-GDAS01047045.1 TSA: Haliotis discus hannai Abalone_Unigene_BMK.20407 transcribed RNA sequence-table4-Dicistroviridae-HMM1218-1449_8.0-ORF48
+seq291	>tsa-GEDJ01018914.1 TSA: Haliotis discus hannai Hal_contig_18971 transcribed RNA sequence-table1-Dicistroviridae-HMM2-244_97.0-ORF5
+seq292	>tsa-GEDJ01018915.1 (REVERSE SENSE) TSA: Haliotis discus hannai Hal_contig_18972 transcribed RNA sequence-table1-Dicistroviridae-HMM2-125_97.0-ORF6
+seq293	>tsa-GEDJ01055235.1 (REVERSE SENSE) TSA: Haliotis discus hannai Hal_contig_55351 transcribed RNA sequence-table1-Dicistroviridae-HMM1-102_99.0-ORF11
+seq294	>tsa-GEQI01043111.1 TSA: Hyalellopsis setosa c81298_g4_i1 transcribed RNA sequence-table4-Dicistroviridae-HMM31-454_91.0-ORF13
+seq295	>tsa-GEQI01065593.1 (REVERSE SENSE) TSA: Hyalellopsis setosa c92945_g2_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM1262-1751_27.0-ORF117
+seq296	>tsa-GAZH02010877.1 TSA: Inocellia crassicornis C132501_a_3_0_l_1517 transcribed RNA sequence-table1-Dicistroviridae-HMM100-504_80.0-ORF14
+seq297	>tsa-GAZH02021030.1 (REVERSE SENSE) TSA: Inocellia crassicornis C80424_a_3_0_l_296 transcribed RNA sequence-table1-Dicistroviridae-HMM1-93_93.0-ORF6
+seq298	>tsa-GCRV01011233.1 TSA: insect metagenome CL4191.Contig1_All transcribed RNA sequence-table1-Dicistroviridae-HMM1-77_98.0-ORF4
+seq299	>tsa-GCRV01011234.1 TSA: insect metagenome CL4191.Contig2_All transcribed RNA sequence-table1-Dicistroviridae-HMM2-75_97.0-ORF2
+seq300	>tsa-GANI01051653.1 TSA: Karelinia caspia comp234697_c0_seq1 transcribed RNA sequence-table1-Dicistroviridae-HMM40-264_82.0-ORF10
+seq301	>tsa-GANL01009334.1 TSA: Latrodectus tredecimguttatus cDNA_915 transcribed RNA sequence-table1-Dicistroviridae-HMM1-196_97.0-ORF5
+seq302	>tsa-GBTQ01004396.1 (REVERSE SENSE) TSA: Lestica clypeata C34399_a_4_0_l_435 transcribed RNA sequence-table1-Dicistroviridae-HMM3-144_97.0-ORF12
+seq303	>tsa-GBTQ01004518.1 (REVERSE SENSE) TSA: Lestica clypeata C34864_a_5_0_l_447 transcribed RNA sequence-table1-Dicistroviridae-HMM6-144_92.0-ORF13
+seq304	>tsa-GDRM01030897.1 (REVERSE SENSE) TSA: Limacina antarctica TR45313_c0_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM1-114_99.0-ORF9
+seq305	>tsa-GDRM01032905.1 (REVERSE SENSE) TSA: Limacina antarctica TR86877_c1_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM1-109_99.0-ORF9
+seq306	>tsa-GDRM01034029.1 (REVERSE SENSE) TSA: Limacina antarctica TR86877_c1_g3_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM2-194_98.0-ORF19
+seq307	>tsa-GDRM01034030.1 (REVERSE SENSE) TSA: Limacina antarctica TR86877_c1_g2_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM2-194_98.0-ORF18
+seq308	>tsa-GDRM01034521.1 (REVERSE SENSE) TSA: Limacina antarctica TR21146_c0_g2_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM11-82_85.0-ORF7
+seq309	>tsa-GDRM01035467.1 (REVERSE SENSE) TSA: Limacina antarctica TR127370_c0_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM1-113_98.0-ORF7
+seq310	>tsa-GDRM01035697.1 (REVERSE SENSE) TSA: Limacina antarctica TR58095_c0_g2_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM3-167_96.0-ORF17
+seq311	>tsa-GDRM01035698.1 (REVERSE SENSE) TSA: Limacina antarctica TR58095_c0_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM3-167_96.0-ORF18
+seq312	>tsa-GDRM01039689.1 (REVERSE SENSE) TSA: Limacina antarctica TR106275_c0_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM2-103_98.0-ORF10
+seq313	>tsa-GDRM01042086.1 (REVERSE SENSE) TSA: Limacina antarctica TR30520_c0_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM1-303_94.0-ORF33
+seq314	>tsa-GDRM01046004.1 (REVERSE SENSE) TSA: Limacina antarctica TR21146_c0_g3_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM11-131_90.0-ORF7
+seq315	>tsa-GDRM01046598.1 (REVERSE SENSE) TSA: Limacina antarctica TR21146_c0_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM12-163_31.0-ORF35
+seq316	>tsa-GDRM01049288.1 (REVERSE SENSE) TSA: Limacina antarctica TR40832_c1_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM14-104_85.0-ORF8
+seq317	>tsa-GDRM01060271.1 (REVERSE SENSE) TSA: Limacina antarctica TR93827_c0_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM1-282_85.0-ORF34
+seq318	>tsa-GDRM01065080.1 (REVERSE SENSE) TSA: Limacina antarctica TR57238_c0_g2_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM60-267_77.0-ORF22
+seq319	>tsa-GDRM01065081.1 (REVERSE SENSE) TSA: Limacina antarctica TR57238_c0_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM60-267_77.0-ORF22
+seq320	>tsa-GDRM01066453.1 (REVERSE SENSE) TSA: Limacina antarctica TR45313_c0_g1_i2 transcribed RNA sequence-table1-Dicistroviridae-HMM147-481_68.0-ORF38
+seq321	>tsa-GDRM01066770.1 (REVERSE SENSE) TSA: Limacina antarctica TR50594_c0_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM35-156_77.0-ORF16
+seq322	>tsa-GDRM01074357.1 (REVERSE SENSE) TSA: Limacina antarctica TR67826_c0_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM3-124_25.0-ORF29
+seq323	>tsa-GDRM01080810.1 (REVERSE SENSE) TSA: Limacina antarctica TR86877_c4_g2_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM10-204_85.0-ORF61
+seq324	>tsa-GDRM01081009.1 (REVERSE SENSE) TSA: Limacina antarctica TR86877_c3_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM366-468_21.0-ORF34
+seq325	>tsa-GAYX01145454.1 (REVERSE SENSE) TSA: Lolium perenne comp160378_c0_seq1 transcribed RNA sequence-table6-Dicistroviridae-HMM1-77_83.0-ORF18
+seq326	>tsa-GAYX01151109.1 (REVERSE SENSE) TSA: Lolium perenne comp174042_c0_seq1 transcribed RNA sequence-table1-Dicistroviridae-HMM2-79_95.0-ORF5
+seq327	>tsa-GFBB01056881.1 (REVERSE SENSE) TSA: Lomandra longifolia Contig_64104 transcribed RNA sequence-table1-Dicistroviridae-HMM9-157_91.0-ORF12
+seq328	>tsa-GFMM01214278.1 TSA: Maccullochella peelii c126555_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM2-94_96.0-ORF3
+seq329	>tsa-GFMM01221015.1 TSA: Maccullochella peelii c133424_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM3-216_98.0-ORF8
+seq330	>tsa-GCVG01031551.1 (REVERSE SENSE) TSA: Macrobrachium nipponense c118323_g1 transcribed RNA sequence-table4-Dicistroviridae-HMM1465-1955_21.0-ORF195
+seq331	>tsa-GEFO01002540.1 TSA: Marchantia polymorpha Transcript_14815 transcribed RNA sequence-table6-Dicistroviridae-HMM1138-1599_27.0-ORF62
+seq332	>tsa-GAFF01020061.1 TSA: Medicago sativa comp42474_c0_seq1 mRNA sequence-table6-Dicistroviridae-HMM1496-2042_26.0-ORF74
+seq333	>tsa-GAWR02017624.1 (REVERSE SENSE) TSA: Menopon gallinae C87693_a_18_0_l_4038 transcribed RNA sequence-table4-Dicistroviridae-HMM669-1159_36.0-ORF109
+seq334	>tsa-GATB02052453.1 (REVERSE SENSE) TSA: Metallyticus splendidus s10023_L_69233_0_a_33_6_l_5283 transcribed RNA sequence-table4-Dicistroviridae-HMM262-757_29.0-ORF85
+seq335	>tsa-GFAS01239249.1 (REVERSE SENSE) TSA: Millepora alcicornis TRINITY_DN131928_c0_g1_i1 transcribed RNA sequence-table4-Dicistroviridae-HMM1110-1560_16.0-ORF203
+seq336	>tsa-GFAT01105288.1 TSA: Mnemiopsis leidyi c360509_g1_i2 transcribed RNA sequence-table6-Dicistroviridae-HMM1960-2438_19.0-ORF94
+seq337	>tsa-GENV01002336.1 TSA: Mucuna pruriens MP02357 transcribed RNA sequence-table1-Dicistroviridae-HMM2-84_97.0-ORF2
+seq338	>tsa-GECQ01337132.1 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.337132 transcribed RNA sequence-table1-Dicistroviridae-HMM1-167_98.0-ORF4
+seq339	>tsa-GAEM01000143.1 TSA: Mytilus galloprovincialis NORM_MGC_c144 mRNA sequence-table6-Dicistroviridae-HMM164-299_45.0-ORF16
+seq340	>tsa-GEMC01004807.1 TSA: Nasturtium officinale c11228_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM1-191_99.0-ORF9
+seq341	>tsa-GEMC01005324.1 TSA: Nasturtium officinale c12563_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM3-86_95.0-ORF4
+seq342	>tsa-GEMC01005644.1 TSA: Nasturtium officinale c13273_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM2-65_94.0-ORF4
+seq343	>tsa-GEMC01015593.1 TSA: Nasturtium officinale c25036_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM3-116_97.0-ORF6
+seq344	>tsa-GEMC01015595.1 TSA: Nasturtium officinale c25036_g3_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM11-116_35.0-ORF8
+seq345	>tsa-GEMC01015598.1 TSA: Nasturtium officinale c25036_g6_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM4-172_94.0-ORF5
+seq346	>tsa-GEMC01035137.1 TSA: Nasturtium officinale c33483_g4_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM273-722_62.0-ORF23
+seq347	>tsa-GEMC01069144.1 TSA: Nasturtium officinale c40597_g1_i1 transcribed RNA sequence-table4-Dicistroviridae-HMM1417-1827_22.0-ORF46
+seq348	>tsa-GEMC01069145.1 TSA: Nasturtium officinale c40597_g1_i2 transcribed RNA sequence-table6-Dicistroviridae-HMM99-511_65.0-ORF16
+seq349	>tsa-GAYF02025269.1 TSA: Nilaparvata lugens C184753_a_63_0_l_8875 transcribed RNA sequence-table6-Dicistroviridae-HMM1254-1796_28.0-ORF68
+seq350	>tsa-GFBT01053780.1 TSA: Nymphoides peltata conTR58637c0g1i1 transcribed RNA sequence-table1-Dicistroviridae-HMM9-109_90.0-ORF3
+seq351	>tsa-GFDF01007778.1 TSA: Nyssomyia neivai Nn-14591_FR6_1-956 transcribed RNA sequence-table6-Dicistroviridae-HMM452-947_51.0-ORF31
+seq352	>tsa-GBKW01092835.1 TSA: Olea europaea OlePic_t_370447 transcribed RNA sequence-table1-Dicistroviridae-HMM459-682_32.0-ORF22
+seq353	>tsa-GBLU01022064.1 TSA: Oxybelus bipunctatus s8625_L_22424_0_a_58_6_l_9347 transcribed RNA sequence-table6-Dicistroviridae-HMM1436-1945_24.0-ORF75
+seq354	>tsa-GEQX01016691.1 TSA: Pallasea cancelloides c22367_g2_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM2-315_24.0-ORF39
+seq355	>tsa-GEQX01016692.1 (REVERSE SENSE) TSA: Pallasea cancelloides c22367_g3_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM12-166_92.0-ORF15
+seq356	>tsa-GERF01023383.1 (REVERSE SENSE) TSA: Pallasea cancelloides c25994_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM4-125_41.0-ORF25
+seq357	>tsa-GERF01034277.1 (REVERSE SENSE) TSA: Pallasea cancelloides c33058_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM2-90_97.0-ORF7
+seq358	>tsa-GFRX01028094.1 (REVERSE SENSE) TSA: Panax notoginseng TR101465_c0_g1_i2 transcribed RNA sequence-table4-Dicistroviridae-HMM20-161_13.0-ORF75
+seq359	>tsa-GFTR01008770.1 TSA: Panstrongylus lignarius Ph-58816 transcribed RNA sequence-table4-Dicistroviridae-HMM817-1312_36.0-ORF49
+seq360	>tsa-IAAA01131244.1 TSA: Parasteatoda tepidariorum mRNA, contig: comp110359_seq0, transcribed RNA sequence-table1-Dicistroviridae-HMM1-89_97.0-ORF4
+seq361	>tsa-GCVO01003114.1 (REVERSE SENSE) TSA: Pardosa pseudoannulata comp11049_c0_seq2 transcribed RNA sequence-table4-Dicistroviridae-HMM20-102_78.0-ORF9
+seq362	>tsa-GCVT01003114.1 (REVERSE SENSE) TSA: Pardosa pseudoannulata comp11049_c0_seq2 transcribed RNA sequence-table4-Dicistroviridae-HMM20-102_78.0-ORF9
+seq363	>tsa-GEEP01008077.1 (REVERSE SENSE) TSA: Penaeus monodon Control_26911 transcribed RNA sequence-table1-Dicistroviridae-HMM1-147_99.0-ORF16
+seq364	>tsa-GEME01031299.1 (REVERSE SENSE) TSA: Penaeus monodon Ctrl_Locus_3783_Tr_1/1_Len_445 transcribed RNA sequence-table1-Dicistroviridae-HMM1-147_99.0-ORF16
+seq365	>tsa-GEIF01047047.1 (REVERSE SENSE) TSA: Periplaneta americana Unigene38693_All transcribed RNA sequence-table1-Dicistroviridae-HMM1-91_98.0-ORF9
+seq366	>tsa-GEIF01050378.1 (REVERSE SENSE) TSA: Periplaneta americana Unigene41692_All transcribed RNA sequence-table1-Dicistroviridae-HMM3-74_95.0-ORF7
+seq367	>tsa-GAMK01054259.1 TSA: Phaseolus vulgaris Ref_259_comp8866_c0_seq1 transcribed RNA sequence-table6-Dicistroviridae-HMM1324-1807_16.0-ORF83
+seq368	>tsa-GFFN01130616.1 TSA: Phlox cuspidata Cusp@c95389_g1_i2 transcribed RNA sequence-table6-Dicistroviridae-HMM2-178_16.0-ORF34
+seq369	>tsa-GFFP01004559.1 TSA: Phlox drummondii DruR@c23581_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM2-154_98.0-ORF6
+seq370	>tsa-GFFP01011276.1 (REVERSE SENSE) TSA: Phlox drummondii DruR@c42238_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM2-133_94.0-ORF11
+seq371	>tsa-GFFP01018497.1 TSA: Phlox drummondii DruR@c53430_g2_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM7-141_94.0-ORF4
+seq372	>tsa-GFSC01036409.1 TSA: Phoronis australis TRINITY_DN340220_c0_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM1-93_97.0-ORF3
+seq373	>tsa-GEOW01072248.1 TSA: Photinus pyralis TR38402_c0_g2_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM1008-1508_30.0-ORF53
+seq374	>tsa-GEZM01100988.1 TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN47121_c0_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM2-111_98.0-ORF4
+seq375	>tsa-GBPM01013342.1 TSA: Pimpla flavicoxis C83110_a_3_0_l_254 transcribed RNA sequence-table1-Dicistroviridae-HMM2-84_97.0-ORF2
+seq376	>tsa-GFHB01078091.1 TSA: Pinus massoniana c73283_g1 transcribed RNA sequence-table6-Dicistroviridae-HMM298-786_60.0-ORF35
+seq377	>tsa-GEBH01248550.1 TSA: Poa pratensis IXRNA007_contig_262015 transcribed RNA sequence-table6-Dicistroviridae-HMM45-162_71.0-ORF6
+seq378	>tsa-GEBH01298623.1 TSA: Poa pratensis IXRNA007_contig_317344 transcribed RNA sequence-table4-Dicistroviridae-HMM13-77_71.0-ORF6
+seq379	>tsa-GFFJ01060840.1 TSA: Portunus trituberculatus comp101321_c1 transcribed RNA sequence-table1-Dicistroviridae-HMM66-487_85.0-ORF15
+seq380	>tsa-GFFJ01089769.1 (REVERSE SENSE) TSA: Portunus trituberculatus comp834726_c0 transcribed RNA sequence-table1-Dicistroviridae-HMM8-116_89.0-ORF7
+seq381	>tsa-GFFJ01095426.1 (REVERSE SENSE) TSA: Portunus trituberculatus comp938402_c0 transcribed RNA sequence-table1-Dicistroviridae-HMM2-72_95.0-ORF6
+seq382	>tsa-GFFJ01101093.1 TSA: Portunus trituberculatus comp1053485_c0 transcribed RNA sequence-table1-Dicistroviridae-HMM1-79_98.0-ORF2
+seq383	>tsa-GFFJ01101230.1 TSA: Portunus trituberculatus comp1055764_c0 transcribed RNA sequence-table1-Dicistroviridae-HMM1-109_99.0-ORF3
+seq384	>tsa-HAEQ01015715.1 TSA: Proasellus arthrodilus, contig comp36811_c0_seq1, transcribed RNA sequence-table6-Dicistroviridae-HMM6-341_83.0-ORF13
+seq385	>tsa-HAEQ01109283.1 (REVERSE SENSE) TSA: Proasellus arthrodilus, contig comp1038772_c0_seq1, transcribed RNA sequence-table1-Dicistroviridae-HMM1-186_95.0-ORF15
+seq386	>tsa-HAFA01034871.1 TSA: Proasellus ibericus, contig comp58297_c0_seq2, transcribed RNA sequence-table6-Dicistroviridae-HMM1-272_94.0-ORF10
+seq387	>tsa-HAFA01133698.1 (REVERSE SENSE) TSA: Proasellus ibericus, contig comp888567_c0_seq1, transcribed RNA sequence-table1-Dicistroviridae-HMM3-159_98.0-ORF12
+seq388	>tsa-HAFC01051708.1 TSA: Proasellus karamani, contig comp68785_c1_seq1, transcribed RNA sequence-table1-Dicistroviridae-HMM44-140_68.0-ORF4
+seq389	>tsa-HAFC01081090.1 TSA: Proasellus karamani, contig comp80201_c0_seq1, transcribed RNA sequence-table1-Dicistroviridae-HMM1-109_84.0-ORF5
+seq390	>tsa-HAFC01161270.1 TSA: Proasellus karamani, contig comp1310399_c0_seq1, transcribed RNA sequence-table1-Dicistroviridae-HMM1-71_95.0-ORF3
+seq391	>tsa-HAFE01153239.1 (REVERSE SENSE) TSA: Proasellus meridianus, contig comp1942225_c0_seq1, transcribed RNA sequence-table1-Dicistroviridae-HMM1-80_98.0-ORF7
+seq392	>tsa-HAFF01052901.1 (REVERSE SENSE) TSA: Proasellus ortizi, contig c43057_g1_i1, transcribed RNA sequence-table1-Dicistroviridae-HMM3-78_93.0-ORF7
+seq393	>tsa-HAFG01215459.1 (REVERSE SENSE) TSA: Proasellus parvulus, contig comp2347480_c0_seq1, transcribed RNA sequence-table1-Dicistroviridae-HMM6-80_91.0-ORF8
+seq394	>tsa-HAFH01118184.1 TSA: Proasellus racovitzai, contig comp920842_c0_seq1, transcribed RNA sequence-table1-Dicistroviridae-HMM3-98_96.0-ORF4
+seq395	>tsa-HAFH01120589.1 TSA: Proasellus racovitzai, contig comp986316_c0_seq1, transcribed RNA sequence-table1-Dicistroviridae-HMM2-67_91.0-ORF2
+seq396	>tsa-HAFJ01007348.1 TSA: Proasellus solanasi, contig comp15221_c0_seq1, transcribed RNA sequence-table1-Dicistroviridae-HMM13-101_87.0-ORF4
+seq397	>tsa-HAFJ01050538.1 TSA: Proasellus solanasi, contig comp59217_c0_seq1, transcribed RNA sequence-table6-Dicistroviridae-HMM2-321_84.0-ORF15
+seq398	>tsa-HAFJ01051789.1 TSA: Proasellus solanasi, contig comp59531_c0_seq1, transcribed RNA sequence-table4-Dicistroviridae-HMM1130-1633_30.0-ORF35
+seq399	>tsa-HAFJ01109517.1 (REVERSE SENSE) TSA: Proasellus solanasi, contig comp1148932_c0_seq1, transcribed RNA sequence-table1-Dicistroviridae-HMM1-84_97.0-ORF8
+seq400	>tsa-HAFK01011955.1 TSA: Proasellus spelaeus, contig comp17994_c0_seq1, transcribed RNA sequence-table6-Dicistroviridae-HMM136-621_75.0-ORF24
+seq401	>tsa-GBEV01185500.1 (REVERSE SENSE) TSA: Procambarus clarkii Pc_185626 transcribed RNA sequence-table4-Dicistroviridae-HMM3-398_82.0-ORF40
+seq402	>tsa-GAKZ01035072.1 (REVERSE SENSE) TSA: Procotyla fluviatilis contig104589 transcribed RNA sequence-table1-Dicistroviridae-HMM148-397_62.0-ORF29
+seq403	>tsa-GAKZ01048307.1 (REVERSE SENSE) TSA: Procotyla fluviatilis contig53494 transcribed RNA sequence-table6-Dicistroviridae-HMM1312-1792_16.0-ORF232
+seq404	>tsa-GEAB01118707.1 TSA: Psammomys obesus comp46255_c0_seq1_1085 transcribed RNA sequence-table1-Dicistroviridae-HMM158-360_55.0-ORF10
+seq405	>tsa-GEAB01121308.1 (REVERSE SENSE) TSA: Psammomys obesus comp47155_c0_seq1_1662 transcribed RNA sequence-table6-Dicistroviridae-HMM2-302_89.0-ORF32
+seq406	>tsa-HACD01060215.1 TSA: Pseudodiploria strigosa, contig dist206617_c1_seq1, transcribed RNA sequence-table1-Dicistroviridae-HMM4-116_96.0-ORF5
+seq407	>tsa-HACD01107420.1 (REVERSE SENSE) TSA: Pseudodiploria strigosa, contig dist234943_c1_seq1, transcribed RNA sequence-table1-Dicistroviridae-HMM2-298_98.0-ORF27
+seq408	>tsa-HACD01107421.1 (REVERSE SENSE) TSA: Pseudodiploria strigosa, contig dist234943_c1_seq2, transcribed RNA sequence-table1-Dicistroviridae-HMM2-211_99.0-ORF17
+seq409	>tsa-HACD01154635.1 (REVERSE SENSE) TSA: Pseudodiploria strigosa, contig dist245996_c2_seq2, transcribed RNA sequence-table1-Dicistroviridae-HMM43-192_72.0-ORF18
+seq410	>tsa-HACD01154637.1 (REVERSE SENSE) TSA: Pseudodiploria strigosa, contig dist245996_c2_seq4, transcribed RNA sequence-table1-Dicistroviridae-HMM2-109_87.0-ORF8
+seq411	>tsa-HACD01215532.1 TSA: Pseudodiploria strigosa, contig dist251961_c0_seq1, transcribed RNA sequence-table6-Dicistroviridae-HMM4-334_87.0-ORF11
+seq412	>tsa-HACD01215533.1 TSA: Pseudodiploria strigosa, contig dist251961_c0_seq2, transcribed RNA sequence-table6-Dicistroviridae-HMM4-334_87.0-ORF11
+seq413	>tsa-HACD01215534.1 TSA: Pseudodiploria strigosa, contig dist251961_c0_seq3, transcribed RNA sequence-table6-Dicistroviridae-HMM4-334_87.0-ORF11
+seq414	>tsa-HACD01215535.1 TSA: Pseudodiploria strigosa, contig dist251961_c0_seq4, transcribed RNA sequence-table6-Dicistroviridae-HMM4-334_87.0-ORF11
+seq415	>tsa-HACD01215538.1 TSA: Pseudodiploria strigosa, contig dist251961_c0_seq7, transcribed RNA sequence-table1-Dicistroviridae-HMM4-302_98.0-ORF10
+seq416	>tsa-HACD01215539.1 TSA: Pseudodiploria strigosa, contig dist251961_c1_seq1, transcribed RNA sequence-table1-Dicistroviridae-HMM2-102_91.0-ORF4
+seq417	>tsa-HACD01215540.1 TSA: Pseudodiploria strigosa, contig dist251961_c1_seq2, transcribed RNA sequence-table1-Dicistroviridae-HMM2-98_90.0-ORF4
+seq418	>tsa-GECT01003331.1 (REVERSE SENSE) TSA: Pteromalus puparum comp25057_c0 transcribed RNA sequence-table1-Dicistroviridae-HMM3-101_97.0-ORF3
+seq419	>tsa-GECT01016007.1 TSA: Pteromalus puparum comp28542_c0 transcribed RNA sequence-table6-Dicistroviridae-HMM1317-1824_18.0-ORF79
+seq420	>tsa-GENS01004451.1 (REVERSE SENSE) TSA: Ptyssoptera sp. AB-2015 k52_109935 transcribed RNA sequence-table1-Dicistroviridae-HMM2-152_97.0-ORF16
+seq421	>tsa-GENS01018004.1 TSA: Ptyssoptera sp. AB-2015 k52_442130 transcribed RNA sequence-table1-Dicistroviridae-HMM2-213_99.0-ORF7
+seq422	>tsa-GERG01077902.1 TSA: Ptyssoptera sp. AB-2015 c101484_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM122-488_75.0-ORF18
+seq423	>tsa-GERG01077903.1 TSA: Ptyssoptera sp. AB-2015 c101484_g2_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM1-119_90.0-ORF4
+seq424	>tsa-GAYZ02004529.1 (REVERSE SENSE) TSA: Ranatra linearis C40905_a_3_0_l_241 transcribed RNA sequence-table1-Dicistroviridae-HMM8-73_81.0-ORF8
+seq425	>tsa-GECK01029261.1 TSA: Rhodnius prolixus Rpro_Trinity_comp_209700_c0_seq1 transcribed RNA sequence-table1-Dicistroviridae-HMM184-531_64.0-ORF15
+seq426	>tsa-GEMS01019160.1 TSA: Rhopilema esculentum c25461_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM1-243_98.0-ORF10
+seq427	>tsa-GEMS01126437.1 (REVERSE SENSE) TSA: Rhopilema esculentum c104126_g1_i1 transcribed RNA sequence-table1-Dicistroviridae-HMM11-115_89.0-ORF11
+seq428	>tsa-GDRE01036073.1 (REVERSE SENSE) TSA: Rotaria magnacalcarata RMAGT0036180 transcribed RNA sequence-table1-Dicistroviridae-HMM1-98_97.0-ORF5
+seq429	>tsa-GCZX01049581.1 TSA: Saccharum hybrid cultivar SP803280_c116610_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM951-1439_28.0-ORF49
+seq430	>tsa-GCZX01088471.1 TSA: Saccharum hybrid cultivar SP803280_c105738_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM662-1161_39.0-ORF34
+seq431	>tsa-GFHJ01004832.1 TSA: Saccharum hybrid cultivar SUGIT-0004833 transcribed RNA sequence-table6-Dicistroviridae-HMM384-921_55.0-ORF26
+seq432	>tsa-GFHZ01024608.1 TSA: Saccharum SUG_denovo_0614634 transcribed RNA sequence-table1-Dicistroviridae-HMM4-105_95.0-ORF4
+seq433	>tsa-GFHZ01032107.1 TSA: Saccharum SUG_denovo_0783636 transcribed RNA sequence-table4-Dicistroviridae-HMM6-86_61.0-ORF4
+seq434	>tsa-GFHZ01049610.1 (REVERSE SENSE) TSA: Saccharum SUG_denovo_0169352 transcribed RNA sequence-table6-Dicistroviridae-HMM1539-1771_13.0-ORF113
+seq435	>tsa-GFHZ01054391.1 (REVERSE SENSE) TSA: Saccharum SUG_denovo_0315386 transcribed RNA sequence-table6-Dicistroviridae-HMM1498-2035_25.0-ORF153
+seq436	>tsa-GFHZ01113750.1 TSA: Saccharum SUG_denovo_0287610 transcribed RNA sequence-table6-Dicistroviridae-HMM3-465_91.0-ORF13
+seq437	>tsa-GFLP01169532.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0169352 transcribed RNA sequence-table6-Dicistroviridae-HMM1539-1771_13.0-ORF113
+seq438	>tsa-GFLP01287196.1 TSA: Saccharum hybrid cultivar SUGdenovo-0287610 transcribed RNA sequence-table6-Dicistroviridae-HMM3-465_91.0-ORF13
+seq439	>tsa-GFLP01312585.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0315386 transcribed RNA sequence-table6-Dicistroviridae-HMM1498-2035_25.0-ORF153
+seq440	>tsa-GAMH01094522.1 TSA: Salicornia europaea Unigene117220_Se200R transcribed RNA sequence-table1-Dicistroviridae-HMM2-136_97.0-ORF4
+seq441	>tsa-GFKM01000913.1 (REVERSE SENSE) TSA: Sargassum horneri scaffold-RWXW-2062851-Sargassum_horneri transcribed RNA sequence-table1-Dicistroviridae-HMM1-95_97.0-ORF8
+seq442	>tsa-GFKG01021859.1 (REVERSE SENSE) TSA: Sargassum vachellianum scaffold-HFIK-2062074-Sargassum_vachellianum transcribed RNA sequence-table1-Dicistroviridae-HMM2-139_97.0-ORF10
+seq443	>tsa-GAKN01006735.1 TSA: Schmidtea mediterranea smed019098 transcribed RNA sequence-table6-Dicistroviridae-HMM47-136_64.0-ORF62
+seq444	>tsa-GBQJ01007164.1 (REVERSE SENSE) TSA: Scolia hirta C52213_a_8_0_l_369 transcribed RNA sequence-table1-Dicistroviridae-HMM2-122_98.0-ORF15
+seq445	>tsa-GBQJ01019150.1 (REVERSE SENSE) TSA: Scolia hirta C95495_a_19_0_l_3156 transcribed RNA sequence-table6-Dicistroviridae-HMM1-75_85.0-ORF40
+seq446	>tsa-GEIE01054385.1 (REVERSE SENSE) TSA: Sepia pharaonis Unigene40375_All transcribed RNA sequence-table6-Dicistroviridae-HMM283-774_24.0-ORF144
+seq447	>tsa-GAPL01010793.1 (REVERSE SENSE) TSA: Sitobion avenae aphid_c26914 transcribed RNA sequence-table6-Dicistroviridae-HMM45-149_67.0-ORF17
+seq448	>tsa-GAPL01011951.1 TSA: Sitobion avenae aphid_c28745 transcribed RNA sequence-table6-Dicistroviridae-HMM8-129_84.0-ORF5
+seq449	>tsa-GAPL01023644.1 (REVERSE SENSE) TSA: Sitobion avenae aphid_rep_c21614 transcribed RNA sequence-table4-Dicistroviridae-HMM69-492_81.0-ORF77
+seq450	>tsa-GAPL01023749.1 (REVERSE SENSE) TSA: Sitobion avenae aphid_rep_c21836 transcribed RNA sequence-table6-Dicistroviridae-HMM11-299_96.0-ORF47
+seq451	>tsa-GAPL01023793.1 TSA: Sitobion avenae aphid_rep_c21936 transcribed RNA sequence-table6-Dicistroviridae-HMM165-587_71.0-ORF21
+seq452	>tsa-GAPL01026381.1 TSA: Sitobion avenae aphid_rep_c48658 transcribed RNA sequence-table1-Dicistroviridae-HMM4-163_96.0-ORF3
+seq453	>tsa-GAPL01026569.1 (REVERSE SENSE) TSA: Sitobion avenae aphid_rep_c57263 transcribed RNA sequence-table1-Dicistroviridae-HMM2-105_97.0-ORF14
+seq454	>tsa-GAPL01027265.1 TSA: Sitobion avenae aphid_s57226 transcribed RNA sequence-table6-Dicistroviridae-HMM10-124_80.0-ORF4
+seq455	>tsa-GAPL01027887.1 TSA: Sitobion avenae contig00342 transcribed RNA sequence-table1-Dicistroviridae-HMM14-255_94.0-ORF5
+seq456	>tsa-GFNZ01010254.1 TSA: Bactrocera musae TR7011_c0_g1_i1 transcribed RNA sequence-table4-Dicistroviridae-HMM3-78_96.0-ORF3
+seq457	>tsa-GFNZ01010256.1 TSA: Bactrocera musae TR7011_c0_g2_i1 transcribed RNA sequence-table4-Dicistroviridae-HMM3-78_96.0-ORF3
+seq458	>tsa-GAYS01081850.1 (REVERSE SENSE) TSA: Solanum incanum Sincanum302405seq1_len234 transcribed RNA sequence-table4-Dicistroviridae-HMM2-76_96.0-ORF4
+seq459	>tsa-GAYS01089545.1 (REVERSE SENSE) TSA: Solanum incanum Sincanum397334seq1_len221 transcribed RNA sequence-table4-Dicistroviridae-HMM3-68_89.0-ORF9
+seq460	>tsa-GAYR01082063.1 (REVERSE SENSE) TSA: Solanum melongena Smelongena_ramnagar256987seq1_len223 transcribed RNA sequence-table4-Dicistroviridae-HMM1-72_97.0-ORF7
+seq461	>tsa-GEZT01154408.1 TSA: Solanum prinophyllum c41696_g1_i1 transcribed RNA sequence-table4-Dicistroviridae-HMM1-83_97.0-ORF2
+seq462	>tsa-GEYQ01000526.1 TSA: Steganacarus magnus TR286_c0_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM958-1398_18.0-ORF81
+seq463	>tsa-GBWV01016376.1 TSA: Stelis punctulatissima C94949_a_3_0_l_572 transcribed RNA sequence-table4-Dicistroviridae-HMM2-187_97.0-ORF9
+seq464	>tsa-GBMU01002718.1 (REVERSE SENSE) TSA: Stephanus serrator C107263_a_3_0_l_590 transcribed RNA sequence-table4-Dicistroviridae-HMM68-191_62.0-ORF10
+seq465	>tsa-GAXR01000220.1 TSA: Stigmatomma oregonense comp190_c1_seq1 transcribed RNA sequence-table4-Dicistroviridae-HMM2-103_98.0-ORF4
+seq466	>tsa-GAXR01008332.1 TSA: Stigmatomma oregonense comp7331_c0_seq1 transcribed RNA sequence-table4-Dicistroviridae-HMM3-142_96.0-ORF7
+seq467	>tsa-GAXR01027179.1 (REVERSE SENSE) TSA: Stigmatomma oregonense comp11745_c0_seq1 transcribed RNA sequence-table6-Dicistroviridae-HMM489-984_47.0-ORF102
+seq468	>tsa-GAXR01027180.1 (REVERSE SENSE) TSA: Stigmatomma oregonense comp11745_c0_seq2 transcribed RNA sequence-table6-Dicistroviridae-HMM489-984_47.0-ORF100
+seq469	>tsa-GAXR01027181.1 (REVERSE SENSE) TSA: Stigmatomma oregonense comp11745_c0_seq3 transcribed RNA sequence-table4-Dicistroviridae-HMM489-807_39.0-ORF50
+seq470	>tsa-GAXR01033522.1 (REVERSE SENSE) TSA: Stigmatomma oregonense comp46259_c0_seq1 transcribed RNA sequence-table4-Dicistroviridae-HMM15-148_69.0-ORF17
+seq471	>tsa-GAXR01041552.1 (REVERSE SENSE) TSA: Stigmatomma oregonense comp89358_c0_seq1 transcribed RNA sequence-table4-Dicistroviridae-HMM2-89_95.0-ORF10
+seq472	>tsa-GESX01025599.1 TSA: Swertia japonica Unigene34392 transcribed RNA sequence-table4-Dicistroviridae-HMM4-76_93.0-ORF4
+seq473	>tsa-GFRZ01122902.1 TSA: Symsagittifera roscoffensis TRINITY_DN106540_c4_g1_i1 transcribed RNA sequence-table4-Dicistroviridae-HMM5-425_96.0-ORF15
+seq474	>tsa-GFRZ01144052.1 (REVERSE SENSE) TSA: Symsagittifera roscoffensis TRINITY_DN114262_c0_g1_i2 transcribed RNA sequence-table4-Dicistroviridae-HMM4-277_96.0-ORF18
+seq475	>tsa-GFRZ01314637.1 TSA: Symsagittifera roscoffensis TRINITY_DN169758_c0_g1_i1 transcribed RNA sequence-table4-Dicistroviridae-HMM20-97_73.0-ORF3
+seq476	>tsa-GBBP01093735.1 TSA: Teleopsis dalmanni Td_comp160920_c0_seq1 transcribed RNA sequence-table6-Dicistroviridae-HMM942-1472_35.0-ORF74
+seq477	>tsa-GCHA01008657.1 TSA: Tigriopus japonicus TJ_CDS_08658 transcribed RNA sequence-table4-Dicistroviridae-HMM465-980_52.0-ORF23
+seq478	>tsa-GCHA01013018.1 TSA: Tigriopus japonicus TJ_CDS_13019 transcribed RNA sequence-table4-Dicistroviridae-HMM299-814_62.0-ORF20
+seq479	>tsa-GCHA01013019.1 TSA: Tigriopus japonicus TJ_CDS_13020 transcribed RNA sequence-table4-Dicistroviridae-HMM2-304_96.0-ORF6
+seq480	>tsa-GACZ01000156.1 (REVERSE SENSE) TSA: Tipula maxima contig00156 mRNA sequence-table4-Dicistroviridae-HMM311-559_44.0-ORF44
+seq481	>tsa-GEZE01034691.1 (REVERSE SENSE) TSA: Trapa bispinosa c26170_g1_i1 transcribed RNA sequence-table4-Dicistroviridae-HMM1124-1609_29.0-ORF161
+seq482	>tsa-GBBI01000476.1 TSA: Triatoma infestans Ti-121828 mRNA sequence-table4-Dicistroviridae-HMM1266-1761_27.0-ORF67
+seq483	>tsa-GFMC01000030.1 TSA: Triatoma infestans TINF_contig00086 transcribed RNA sequence-table4-Dicistroviridae-HMM111-292_61.0-ORF10
+seq484	>tsa-GFOA01003513.1 TSA: Bactrocera bryoniae TR2547_c1_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM13-75_82.0-ORF3
+seq485	>tsa-GAPL01024116.1 (REVERSE SENSE) TSA: Sitobion avenae aphid_rep_c23045 transcribed RNA sequence-table6-Dicistroviridae-HMM35-268_80.0-ORF23
+seq486	>tsa-GAPL01027122.1 TSA: Sitobion avenae aphid_s54501 transcribed RNA sequence-table6-Dicistroviridae-HMM4-165_96.0-ORF6
+seq487	>tsa-GFBA01002745.1 (REVERSE SENSE) TSA: Tupiocoris notatus TR1218_c0_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM9-180_65.0-ORF15
+seq488	>tsa-GFTX01023452.1 (REVERSE SENSE) TSA: Ulva lactuca c24560_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM2-71_95.0-ORF8
+seq489	>tsa-GFTX01083511.1 (REVERSE SENSE) TSA: Ulva lactuca c35660_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM1-347_99.0-ORF19
+seq490	>tsa-GFTX01104968.1 (REVERSE SENSE) TSA: Ulva lactuca c58393_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM3-153_52.0-ORF16
+seq491	>tsa-GFUR01023410.1 (REVERSE SENSE) TSA: Ulva lactuca c21581_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM2-71_95.0-ORF8
+seq492	>tsa-GFUR01060948.1 (REVERSE SENSE) TSA: Ulva lactuca c28199_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM1252-1750_27.0-ORF161
+seq493	>tsa-GFUR01069611.1 TSA: Ulva lactuca c37157_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM1-232_99.0-ORF6
+seq494	>tsa-GFUR01079680.1 (REVERSE SENSE) TSA: Ulva lactuca c47619_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM1-117_99.0-ORF10
+seq495	>tsa-GAUO02004830.1 (REVERSE SENSE) TSA: Velia caprai C55284_a_3_0_l_267 transcribed RNA sequence-table6-Dicistroviridae-HMM2-88_97.0-ORF8
+seq496	>tsa-GBQS01018898.1 (REVERSE SENSE) TSA: Vespa crabro C169268_a_36_0_l_8456 transcribed RNA sequence-table6-Dicistroviridae-HMM1115-1632_30.0-ORF162
+seq497	>tsa-GBXI01004087.1 TSA: Bactrocera cucurbitae c21934_g1_i1 transcribed RNA sequence-table6-Dicistroviridae-HMM496-1024_51.0-ORF37
+seq498	>tsa-GAYA02046770.1 (REVERSE SENSE) TSA: Zorotypus caudelli s3162_L_3735_0_a_76_4_l_5163 transcribed RNA sequence-table6-Dicistroviridae-HMM211-709_63.0-ORF78
+seq499	>tsa-GAYA02046773.1 (REVERSE SENSE) TSA: Zorotypus caudelli s3165_L_3735_3_a_83_8_l_4436 transcribed RNA sequence-table6-Dicistroviridae-HMM1-466_85.0-ORF63
+seq500	>tsa-GAYA02046774.1 (REVERSE SENSE) TSA: Zorotypus caudelli s3166_L_3735_4_a_96_0_l_3534 transcribed RNA sequence-table6-Dicistroviridae-HMM11-166_64.0-ORF47

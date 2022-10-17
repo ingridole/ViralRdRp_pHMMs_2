@@ -1,0 +1,132 @@
+seq1	>ref-NC_001925.1 Bunyamwera virus L segment, complete sequence-table4-Peribunyaviridae-HMM905-1354_19.0-ORF64
+seq2	>ref-NC_004108.1 La Crosse virus segment L, complete genome-table6-Peribunyaviridae-HMM910-1381_20.0-ORF71
+seq3	>ref-NC_005776.1 Oropouche virus segment L, complete genome-table6-Peribunyaviridae-HMM898-1360_20.0-ORF81
+seq4	>ref-NC_009894.1 Akabane virus segment L, complete sequence-table6-Peribunyaviridae-HMM896-1355_20.0-ORF77
+seq5	>ref-NC_018476.1 Simbu virus RdRp gene for RNA-dependent RNA polymerase, segment L, genomic RNA, isolate SA Ar 53-table6-Peribunyaviridae-HMM893-1352_20.0-ORF78
+seq6	>ref-NC_018465.1 Aino virus RdRp gene for RNA-dependent RNA polymerase, segment L, genomic RNA, isolate 38K-table6-Peribunyaviridae-HMM895-1353_20.0-ORF75
+seq7	>ref-NC_018461.1 Sathuperi virus RdRp gene for RNA-dependent RNA polymerase, segment L, genomic RNA-table4-Peribunyaviridae-HMM892-1351_20.0-ORF83
+seq8	>ref-NC_018463.1 Shamonda virus RdRp gene for RNA-dependent RNA polymerase, segment L, genomic RNA, isolate Ib An 5550-table6-Peribunyaviridae-HMM892-1351_20.0-ORF76
+seq9	>ref-NC_022039.1 Brazoran virus segment L, complete sequence-table6-Peribunyaviridae-HMM907-1355_19.0-ORF79
+seq10	>ref-NC_022595.1 Murrumbidgee virus isolate 934 segment L, complete sequence-table6-Peribunyaviridae-HMM900-1356_19.0-ORF72
+seq11	>ref-NC_024076.1 Cat Que Virus strain VN04-2108 polymerase gene, complete cds-table6-Peribunyaviridae-HMM904-1372_20.0-ORF65
+seq12	>ref-NC_026281.1 Maprik virus isolate MK7532 segment L, complete sequence-table6-Peribunyaviridae-HMM901-1358_20.0-ORF75
+seq13	>ref-NC_031221.1 Shuangao Insect Virus 1 strain QSA02 RNA-dependent RNA polymerase (L) gene, complete cds-table6-Peribunyaviridae-HMM1129-1484_14.0-ORF86
+seq14	>ref-NC_034212.1 Tucunduba virus strain BeAR643361 RNA-dependent RNA polymerase gene, complete cds-table6-Peribunyaviridae-HMM899-1347_19.0-ORF80
+seq15	>ref-NC_034497.1 Madrid virus strain BT4075 RNA-dependent RNA polymerase gene, complete cds-table6-Peribunyaviridae-HMM896-1349_19.0-ORF78
+seq16	>ref-NC_034482.1 Capim virus strain BeAn 8582 segment L RNA-dependent RNA polymerase gene, complete cds-table6-Peribunyaviridae-HMM905-1359_19.0-ORF78
+seq17	>ref-NC_034475.1 Oriboca virus strain BeAn17 RNA-dependent RNA polymerase gene, complete cds-table6-Peribunyaviridae-HMM891-1345_19.0-ORF77
+seq18	>ref-NC_034489.1 Caraparu virus strain BeAn3994 RNA-dependent RNA polymerase gene, complete cds-table6-Peribunyaviridae-HMM906-1359_19.0-ORF74
+seq19	>ref-NC_034472.1 Bahig virus strain EgB 90 RNA-dependent RNA polymerase gene, complete cds-table4-Peribunyaviridae-HMM895-1357_20.0-ORF81
+seq20	>ref-NC_034495.1 Marituba virus strain BeAn15 RNA-dependent RNA polymerase gene, complete cds-table4-Peribunyaviridae-HMM900-1354_20.0-ORF75
+seq21	>ref-NC_034492.1 Nyando virus strain MP401 segment L polymerase gene, complete cds-table4-Peribunyaviridae-HMM893-1365_20.0-ORF79
+seq22	>ref-NC_034487.1 Guaroa virus strain BeH22063 segment L, complete sequence-table6-Peribunyaviridae-HMM903-1347_19.0-ORF83
+seq23	>ref-NC_034499.1 Kaeng Khoi virus strain PSC-19 segment L polymerase gene, complete cds-table6-Peribunyaviridae-HMM897-1353_19.0-ORF80
+seq24	>ref-NC_034479.1 Bwamba virus strain M459 segment L polymerase gene, complete cds-table6-Peribunyaviridae-HMM906-1376_20.0-ORF76
+seq25	>ref-NC_034459.1 Tai virus strain F47/CI/2004 segment L RNA-dependent RNA polymerase (RdRp) gene, complete cds-table4-Peribunyaviridae-HMM1085-1543_18.0-ORF75
+seq26	>ref-NC_034460.1 Kibale virus strain P05/UG/2008 segment L RNA-dependent RNA polymerase (RdRp) gene, complete cds-table4-Peribunyaviridae-HMM1085-1542_18.0-ORF86
+seq27	>ref-NC_034633.1 Wolkberg virus isolate 2562_SA3 segment L RNA-dependent RNA polymerase gene, complete cds-table6-Peribunyaviridae-HMM903-1361_20.0-ORF84
+seq28	>nrnt-MG544835 Northway virus isolate 0234 segment L, complete sequence.-table6-Peribunyaviridae-HMM906-1353_19.0-ORF75
+seq29	>nrnt-MG652604 Main Drain orthobunyavirus isolate BFS5015 segment L, complete sequence.-table6-Peribunyaviridae-HMM906-1354_19.0-ORF85
+seq30	>nrnt-MG599955 Hainan bunya-like virus strain LPXYC225923 L protein gene, complete cds.-table6-Peribunyaviridae-HMM1351-1774_15.0-ORF80
+seq31	>nrnt-MF497779 Tacaiuma orthobunyavirus strain BeAr617554 RNA-dependent RNA polymerase gene, complete cds.-table4-Peribunyaviridae-HMM894-1343_19.0-ORF79
+seq32	>nrnt-MF497778 Tacaiuma orthobunyavirus strain BeAn73 RNA-dependent RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM893-1342_19.0-ORF78
+seq33	>nrnt-MF066368 Potosi virus strain IL94-1899 segment L, complete sequence.-table6-Peribunyaviridae-HMM908-1355_19.0-ORF75
+seq34	>nrnt-KY910429 Maguari virus strain BeAr 7272 segment L, complete sequence.-table6-Peribunyaviridae-HMM906-1354_19.0-ORF74
+seq35	>nrnt-KY793537 Anopheles A virus isolate original segment L, complete sequence.-table6-Peribunyaviridae-HMM899-1349_19.0-ORF75
+seq36	>nrnt-KY569262 Infirmatus virus segment L polyprotein gene, complete cds.-table6-Peribunyaviridae-HMM907-1378_20.0-ORF78
+seq37	>nrnt-KY555802 Tataguine virus segment L polyprotein gene, complete cds.-table6-Peribunyaviridae-HMM910-1362_19.0-ORF78
+seq38	>nrnt-MF074141 Mburo virus RNA-dependent RNA polymerase mRNA, complete cds.-table6-Peribunyaviridae-HMM891-1351_20.0-ORF85
+seq39	>nrnt-MF141062 Bronnoya virus isolate NOR/A2/Bronnoya/2014 RNA-dependent RNA-polymerase gene, complete cds.-table4-Peribunyaviridae-HMM1294-1700_13.0-ORF81
+seq40	>nrnt-KX100132 Fort Sherman virus strain 86MSP18 segment L, complete sequence.-table6-Peribunyaviridae-HMM892-1339_19.0-ORF84
+seq41	>nrnt-KU746871 Batai virus segment L, complete sequence.-table6-Peribunyaviridae-HMM906-1355_19.0-ORF83
+seq42	>nrnt-KY013487 Mirim virus strain BEAN7722 RNA-dependent RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM907-1360_19.0-ORF80
+seq43	>nrnt-KY013484 Ananindeua virus strain BEAN109303 RNA-dependent RNA polymerase gene, complete cds.-table4-Peribunyaviridae-HMM896-1350_19.0-ORF84
+seq44	>nrnt-KX817312 California encephalitis virus strain BFS 283 segment L, complete sequence.-table6-Peribunyaviridae-HMM896-1367_20.0-ORF78
+seq45	>nrnt-KX817324 Lumbo virus strain SAAr 1881 segment L, complete sequence.-table6-Peribunyaviridae-HMM910-1381_20.0-ORF74
+seq46	>nrnt-KX817327 Melao virus strain TRVL 9375 segment L, complete sequence.-table1-Peribunyaviridae-HMM892-1363_20.0-ORF53
+seq47	>nrnt-KX817330 San Angelo virus strain 20230 segment L, complete sequence.-table6-Peribunyaviridae-HMM910-1381_20.0-ORF76
+seq48	>nrnt-KX817333 Serra do Navio virus strain BeAr 103645 segment L, complete sequence.-table6-Peribunyaviridae-HMM909-1380_20.0-ORF74
+seq49	>nrnt-KX817336 South River virus strain NJO-94F segment L, complete sequence.-table6-Peribunyaviridae-HMM909-1380_20.0-ORF87
+seq50	>nrnt-KX698606 Gan Gan virus isolate K42904 segment L polyprotein gene, complete cds.-table6-Peribunyaviridae-HMM895-1352_20.0-ORF71
+seq51	>nrnt-KM817663 Wuhan Louse Fly Virus 1 strain BFJSC-10 RNA-dependent RNA polymerase (L) gene, complete cds.-table6-Peribunyaviridae-HMM895-1349_20.0-ORF69
+seq52	>nrnt-KX161718 Bellavista virus isolate PRD0552 segment L RNA-dependent RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM906-1359_19.0-ORF79
+seq53	>nrnt-KR260738 Kairi virus strain BeAr8226 segment L, complete sequence.-table6-Peribunyaviridae-HMM906-1354_19.0-ORF85
+seq54	>nrnt-KU178983 Enseada virus strain 76V-25880 segment L RNA-dependent RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM891-1345_20.0-ORF71
+seq55	>nrnt-KT820208 Yacaaba virus RNA-dependent RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM906-1367_20.0-ORF79
+seq56	>nrnt-KT820202 Kowanyama virus RNA-dependent RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM906-1367_19.0-ORF70
+seq57	>nrnt-KT334540 El Huayo virus strain IQT110 RNA-dependent RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM891-1346_20.0-ORF66
+seq58	>nrnt-KR013232 Gan Gan virus segment L, complete sequence.-table6-Peribunyaviridae-HMM902-1358_20.0-ORF70
+seq59	>nrnt-KP835520 Mahogany hammock virus strain FE4-2s segment L RNA-dependent RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM911-1366_19.0-ORF69
+seq60	>nrnt-KP792690 Witwatersrand virus strain SAAr 1062 RNA-dependent RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM903-1373_20.0-ORF79
+seq61	>nrnt-KP792687 Umbre virus strain IG1424 RNA-dependent RNA polymerase gene, complete cds.-table1-Peribunyaviridae-HMM907-1377_20.0-ORF62
+seq62	>nrnt-KP792675 Moju virus strain BeAr 12590 RNA-dependent RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM895-1349_19.0-ORF64
+seq63	>nrnt-KP792672 Lukuni virus strain TRVL 10076 RNA-dependent RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM893-1343_19.0-ORF65
+seq64	>nrnt-KP792669 Koongol virus strain MRM31 RNA-dependent RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM901-1370_20.0-ORF77
+seq65	>nrnt-KP792663 Guajara virus strain BeAn 10615 RNA-dependent RNA polymerase gene, complete cds.-table4-Peribunyaviridae-HMM898-1352_19.0-ORF84
+seq66	>nrnt-KT630288 Keystone virus strain KEYV/Ochlerotatus atlanticus/USA/KEYVLK01/2005 segment L, complete sequence.-table6-Peribunyaviridae-HMM909-1380_20.0-ORF76
+seq67	>nrnt-KR149249 Trivittatus virus strain Eklund segment L, complete sequence.-table6-Peribunyaviridae-HMM910-1381_20.0-ORF82
+seq68	>nrnt-KM280933 Nepuyo virus isolate TRVL 18462 RNA-dependent RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM906-1360_19.0-ORF78
+seq69	>nrnt-KM280930 Gumbo Limbo virus isolate Fe371H2 RNA-dependent RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM908-1361_19.0-ORF65
+seq70	>nrnt-KM280929 Bruconha virus isolate 77V74814 RNA-dependent RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM908-1361_19.0-ORF79
+seq71	>nrnt-KJ481923 Mapputta virus isolate MRM186 segment L, complete sequence.-table6-Peribunyaviridae-HMM900-1357_20.0-ORF82
+seq72	>nrnt-KM496335 Anadyr virus strain LEIV-13128Kam segment L, complete sequence.-table6-Peribunyaviridae-HMM911-1359_19.0-ORF87
+seq73	>nrnt-KM972719 Tete virus strain SaAn 3518 RNA-dependent RNA-polymerase gene, complete cds.-table6-Peribunyaviridae-HMM889-1351_19.0-ORF82
+seq74	>nrnt-KM225260 Tapirape virus strain BEAN767592 segment L RNA-dependent RNA polymerase gene, complete cds.-table4-Peribunyaviridae-HMM888-1353_20.0-ORF79
+seq75	>nrnt-KM225257 Rio Preto da Eva virus strain BEAR540870 segment L RNA-dependent RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM891-1342_19.0-ORF79
+seq76	>nrnt-KM225254 Pacui virus strain BEAN27326 segment L RNA-dependent RNA polymerase gene, complete cds.-table4-Peribunyaviridae-HMM889-1342_19.0-ORF78
+seq77	>nrnt-KM272183 Calchaqui virus strain AG 83-1347 segment L, complete sequence.-table6-Peribunyaviridae-HMM905-1376_20.0-ORF68
+seq78	>nrnt-KJ867202 Mojui dos Campos virus strain BeAn276121 segment L polymerase gene, complete cds.-table6-Peribunyaviridae-HMM900-1371_20.0-ORF78
+seq79	>nrnt-KJ867196 Nyando virus strain ERET147 segment L polymerase gene, complete cds.-table6-Peribunyaviridae-HMM900-1370_20.0-ORF86
+seq80	>nrnt-KJ867181 Pongola virus - SAAr1 strain 191B-07 segment L polymerase gene, complete cds.-table6-Peribunyaviridae-HMM905-1377_20.0-ORF78
+seq81	>nrnt-KC978769 Sedlec virus isolate AV 172 segment L RNA-dependent RNA polymerase (RdRp) gene, partial cds.-table1-Peribunyaviridae-HMM146-598_75.0-ORF15
+seq82	>nrnt-KJ710425 Abbey lake orthobunyavirus isolate Cu20-XJ segment L, complete sequence.-table4-Peribunyaviridae-HMM898-1346_19.0-ORF80
+seq83	>nrnt-KF697160 Buttonwillow virus isolate BFS 5002 RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM901-1369_20.0-ORF69
+seq84	>nrnt-KF697157 Utive virus isolate Pan An 48878 RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM898-1362_20.0-ORF71
+seq85	>nrnt-KF697153 Mermet virus isolate AV 782 RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM906-1374_20.0-ORF77
+seq86	>nrnt-KF697139 Ingwavuma virus isolate SA An 4165 RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM904-1372_20.0-ORF76
+seq87	>nrnt-KF697150 Manzanilla virus isolate TRVL 3586 RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM905-1373_20.0-ORF80
+seq88	>nrnt-KF697138 Facey's Paddock virus isolate Aus Ch 16129 RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM903-1371_20.0-ORF77
+seq89	>nrnt-JQ675603 Jatobal virus RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM899-1362_20.0-ORF80
+seq90	>nrnt-KF981636 Khurdun virus strain LEIV-Ast01-6 segment L, complete sequence.-table6-Peribunyaviridae-HMM881-1321_20.0-ORF71
+seq91	>nrnt-HE795096 Sabo virus RdRp gene for RNA-dependent RNA polymerase, segment L, genomic RNA, isolate IB AN 9398.-table6-Peribunyaviridae-HMM894-1353_20.0-ORF84
+seq92	>nrnt-JQ659256 Herbert virus strain F23/CI/2004 segment L, complete sequence.-table6-Peribunyaviridae-HMM1085-1543_18.0-ORF81
+seq93	>nrnt-JX846606 Batai virus strain MS50 segment L, complete sequence.-table6-Peribunyaviridae-HMM906-1355_19.0-ORF74
+seq94	>nrnt-HM639780 Oyo virus segment L RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM895-1347_19.0-ORF66
+seq95	>nrnt-HM627179 I612045 virus segment L RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM909-1370_19.0-ORF78
+seq96	>nrnt-JN572071 Sororoca virus strain BeAr32149 RNA-dependent RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM897-1344_19.0-ORF77
+seq97	>nrnt-JN572068 Macaua virus strain BeAr306329 RNA-dependent RNA polymerase gene, complete cds.-table1-Peribunyaviridae-HMM895-1343_20.0-ORF46
+seq98	>nrnt-JN572065 Iaco virus strain BeAn314206 RNA-dependent RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM897-1345_19.0-ORF68
+seq99	>nrnt-JN572062 Anhembi virus strain SPAr2984 RNA-dependent RNA polymerase gene, complete cds.-table6-Peribunyaviridae-HMM897-1345_19.0-ORF78
+seq100	>nrnt-HM627178 Leanyer virus isolate AusN16701 segment L, complete sequence.-table6-Peribunyaviridae-HMM899-1365_20.0-ORF82
+seq101	>nrnt-FJ943510 Tensaw virus strain TSV-FE3-66FB segment L, complete sequence.-table6-Peribunyaviridae-HMM907-1354_19.0-ORF73
+seq102	>tsa-GAJS01027600.1 (REVERSE SENSE) TSA: Chilo suppressalis Unigene27656_All transcribed RNA sequence-table1-Peribunyaviridae-HMM1-73_97.0-ORF7
+seq103	>tsa-GAJS01055335.1 (REVERSE SENSE) TSA: Chilo suppressalis Unigene57178_All transcribed RNA sequence-table1-Peribunyaviridae-HMM1-184_99.0-ORF11
+seq104	>tsa-GAUA01005371.1 TSA: Hemiaulus sinensis hemi79124_c0_seq1 transcribed RNA sequence-table1-Peribunyaviridae-HMM4-199_97.0-ORF10
+seq105	>tsa-GCVG01018400.1 TSA: Macrobrachium nipponense c45189_g1 transcribed RNA sequence-table1-Peribunyaviridae-HMM1-215_70.0-ORF11
+seq106	>tsa-GBYW01039067.1 TSA: Pacifastacus leniusculus comp37640_c0_seq8 transcribed RNA sequence-table1-Peribunyaviridae-HMM16-225_67.0-ORF9
+seq107	>tsa-GBYW01039071.1 (REVERSE SENSE) TSA: Pacifastacus leniusculus comp37640_c0_seq12 transcribed RNA sequence-table1-Peribunyaviridae-HMM46-276_63.0-ORF31
+seq108	>tsa-GBYW01039073.1 (REVERSE SENSE) TSA: Pacifastacus leniusculus comp37640_c0_seq14 transcribed RNA sequence-table1-Peribunyaviridae-HMM11-150_59.0-ORF17
+seq109	>tsa-GBYW01039075.1 (REVERSE SENSE) TSA: Pacifastacus leniusculus comp37640_c0_seq16 transcribed RNA sequence-table1-Peribunyaviridae-HMM46-276_63.0-ORF30
+seq110	>tsa-GBYW01039076.1 (REVERSE SENSE) TSA: Pacifastacus leniusculus comp37640_c0_seq17 transcribed RNA sequence-table6-Peribunyaviridae-HMM17-225_67.0-ORF22
+seq111	>tsa-GBYW01039079.1 TSA: Pacifastacus leniusculus comp37640_c0_seq20 transcribed RNA sequence-table1-Peribunyaviridae-HMM20-225_66.0-ORF9
+seq112	>tsa-GBYW01039083.1 (REVERSE SENSE) TSA: Pacifastacus leniusculus comp37640_c0_seq24 transcribed RNA sequence-table4-Peribunyaviridae-HMM38-304_68.0-ORF43
+seq113	>tsa-GBYW01039084.1 (REVERSE SENSE) TSA: Pacifastacus leniusculus comp37640_c0_seq25 transcribed RNA sequence-table1-Peribunyaviridae-HMM10-277_73.0-ORF32
+seq114	>tsa-GATV02011325.1 TSA: Perla marginata C132602_a_28_0_l_8150 transcribed RNA sequence-table6-Peribunyaviridae-HMM1217-1537_11.0-ORF100
+seq115	>tsa-GEYV01047804.1 (REVERSE SENSE) TSA: Silene grisebachii c33708_g1_i2 transcribed RNA sequence-table6-Peribunyaviridae-HMM879-1320_20.0-ORF193
+seq116	>tsa-GEYV01077865.1 TSA: Silene grisebachii c37855_g1_i1 transcribed RNA sequence-table6-Peribunyaviridae-HMM495-936_24.0-ORF66
+seq117	>tsa-GEYV01077866.1 TSA: Silene grisebachii c37855_g1_i2 transcribed RNA sequence-table6-Peribunyaviridae-HMM642-1083_22.0-ORF85
+seq118	>tsa-GEYV01077867.1 TSA: Silene grisebachii c37855_g1_i3 transcribed RNA sequence-table6-Peribunyaviridae-HMM642-1083_30.0-ORF68
+seq119	>ref-NC_032143.1 Wenling crustacean virus 9 strain WLJQ100911 RNA-dependent RNA polymerase gene, complete cds-table6-Cruliviridae-HMM603-1346_33.0-ORF87
+seq120	>tsa-HAAX01019000.1 (REVERSE SENSE) TSA: Eriocheir sinensis, contig Unigene19093_A0A, transcribed RNA sequence-table4-Cruliviridae-HMM600-1343_33.0-ORF190
+seq121	>ref-NC_013105.1 European mountain ash ringspot-associated virus RNA 1, complete genome-table6-Fimoviridae-HMM1010-1480_20.0-ORF78
+seq122	>ref-NC_015298.1 (REVERSE SENSE) Rose rosette virus RNA1, complete genome-table6-Fimoviridae-HMM1007-1481_20.0-ORF172
+seq123	>ref-NC_029567.1 (REVERSE SENSE) Raspberry leaf blotch virus segment RNA1, complete genome-table6-Fimoviridae-HMM1005-1480_20.0-ORF162
+seq124	>ref-NC_029562.1 Fig mosaic virus mRNA for RNA-dependent RNA polymerase (RdRp gene)-table4-Fimoviridae-HMM1014-1483_20.0-ORF75
+seq125	>ref-NC_029575.1 Pigeonpea sterility mosaic emaravirus 1, segment RNA1, RdRp gene for RNA dependent RNA polymerase, genomic RNA-table6-Fimoviridae-HMM1009-1482_20.0-ORF82
+seq126	>ref-NC_030660.1 Pigeonpea sterility mosaic virus 2 segment RNA1, complete genome, isolate PLant-table6-Fimoviridae-HMM1012-1482_20.0-ORF77
+seq127	>ref-NC_029570.1 (REVERSE SENSE) High Plains wheat mosaic virus isolate Nebraska segment RNA 1, complete sequence-table6-Fimoviridae-HMM1002-1475_20.0-ORF176
+seq128	>nrnt-MF540775 (REVERSE SENSE) Ti ringspot-associated emaravirus isolate Ti1 RNA-dependent RNA polymerase (RdRp) gene, partial cds.-table1-Fimoviridae-HMM376-852_36.0-ORF80
+seq129	>nrnt-KY056657 (REVERSE SENSE) Blackberry leaf mottle associated virus isolate Arkansas RNA-dependent RNA polymerase (P1) gene, complete cds.-table6-Fimoviridae-HMM1005-1479_20.0-ORF192
+seq130	>nrnt-JF795479 (REVERSE SENSE) Redbud yellow ringspot virus RNA-dependent RNA-polymerase gene, complete cds.-table6-Fimoviridae-HMM1004-1474_20.0-ORF190
+seq131	>nrnt-KT861481 (REVERSE SENSE) Actinidia chlorotic ringspot associated virus isolate HN-6 segment RNA1 RNA-dependent RNA polymerase gene, complete cds.-table6-Fimoviridae-HMM1013-1484_20.0-ORF184
+seq132	>tsa-GCVG01012883.1 TSA: Macrobrachium nipponense c576_g1 transcribed RNA sequence-table1-Fimoviridae-HMM117-251_50.0-ORF6

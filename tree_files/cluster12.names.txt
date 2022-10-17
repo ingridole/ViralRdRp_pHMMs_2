@@ -1,0 +1,315 @@
+seq1	>ref-NC_014397.1 Rift Valley fever virus segment L, complete genome-table6-Phenuiviridae-HMM918-1440_24.0-ORF75
+seq2	>ref-NC_002323.1 (REVERSE SENSE) Rice grassy stunt virus RNA 1, complete sequence-table6-Phenuiviridae-HMM1509-2032_17.0-ORF224
+seq3	>ref-NC_003755.1 Rice stripe virus RNA 1, complete sequence-table4-Phenuiviridae-HMM1420-1945_17.0-ORF105
+seq4	>ref-NC_005214.1 Uukuniemi virus segment L, complete sequence-table4-Phenuiviridae-HMM920-1437_24.0-ORF54
+seq5	>ref-NC_006319.1 Toscana virus segment L, complete sequence-table6-Phenuiviridae-HMM919-1436_24.0-ORF73
+seq6	>ref-NC_015451.1 Aguacate virus segment L, complete genome-table4-Phenuiviridae-HMM913-1433_24.0-ORF77
+seq7	>ref-NC_015374.1 Candiru virus segment L, complete genome-table6-Phenuiviridae-HMM920-1438_24.0-ORF72
+seq8	>ref-NC_015412.1 Sandfly Sicilian Turkey virus segment L, complete genome-table6-Phenuiviridae-HMM918-1436_24.0-ORF76
+seq9	>ref-NC_018136.1 SFTS virus HB29 segment L, complete genome-table6-Phenuiviridae-HMM911-1427_24.0-ORF70
+seq10	>ref-NC_021242.1 Lone Star virus isolate TMA 1381 segment L, complete sequence-table6-Phenuiviridae-HMM925-1431_24.0-ORF67
+seq11	>ref-NC_022630.1 Razdan virus strain LEIV-Arm2741 segment L, complete sequence-table4-Phenuiviridae-HMM918-1424_24.0-ORF76
+seq12	>ref-NC_023635.1 Arumowot virus segment L, complete sequence-table6-Phenuiviridae-HMM916-1435_24.0-ORF72
+seq13	>ref-NC_024495.1 Heartland virus isolate Patient1 segment L, complete sequence-table6-Phenuiviridae-HMM911-1427_24.0-ORF68
+seq14	>ref-NC_027140.1 Bhanja virus strain ibAr2709 segment L, complete sequence-table4-Phenuiviridae-HMM922-1428_23.0-ORF73
+seq15	>ref-NC_027203.1 Punta Toro virus strain PAN472868 L protein gene, complete cds-table6-Phenuiviridae-HMM920-1436_24.0-ORF64
+seq16	>ref-NC_027717.1 Hunter Island virus isolate CSIRO1568 segment L, complete sequence-table6-Phenuiviridae-HMM909-1425_24.0-ORF74
+seq17	>ref-NC_029082.1 Arrabida virus strain PoSFPhlebV/126/2008 segment L, complete sequence-table6-Phenuiviridae-HMM916-1433_24.0-ORF71
+seq18	>ref-NC_029127.1 Adana virus strain 195 segment L, complete sequence-table4-Phenuiviridae-HMM919-1439_24.0-ORF73
+seq19	>ref-NC_029903.1 Toros virus strain 213 segment L, complete sequence-table6-Phenuiviridae-HMM918-1436_24.0-ORF78
+seq20	>ref-NC_029901.1 Zerdali virus strain 37 segment L, complete sequence-table6-Phenuiviridae-HMM919-1436_24.0-ORF70
+seq21	>ref-NC_030872.1 Fusarium poae negative-stranded virus 2 genomic RNA, complete genome-table6-Phenuiviridae-HMM880-1368_22.0-ORF76
+seq22	>ref-NC_031138.1 Huangpi Tick Virus 2 strain H114-17 RNA-dependent RNA polymerase (L) gene, complete cds-table6-Phenuiviridae-HMM926-1446_24.0-ORF81
+seq23	>ref-NC_031298.1 Wuhan Fly Virus 1 strain SYY1-9 RNA-dependent RNA polymerase (L) gene, complete cds-table6-Phenuiviridae-HMM1013-1525_22.0-ORF80
+seq24	>ref-NC_031313.1 Wuhan horsefly Virus strain JJ2-1 RNA-dependent RNA polymerase (L) gene, complete cds-table6-Phenuiviridae-HMM1663-2179_16.0-ORF107
+seq25	>ref-NC_031320.1 Yichang Insect virus strain YCYC01 RNA-dependent RNA polymerase (L) gene, complete cds-table6-Phenuiviridae-HMM941-1446_23.0-ORF76
+seq26	>ref-NC_031287.1 Whenzhou Shrimp Virus 1 strain BJDX-5 RNA-dependent RNA polymerase (L) gene, complete cds-table6-Phenuiviridae-HMM917-1424_24.0-ORF65
+seq27	>ref-NC_031317.1 Wutai Mosquito Virus strain QN3-5 RNA-dependent RNA polymerase (L) gene, complete cds-table6-Phenuiviridae-HMM990-1516_23.0-ORF75
+seq28	>ref-NC_032140.1 Shahe heteroptera virus 3 strain SHWC01c3680 RNA-dependent RNA polymerase gene, complete cds-table6-Phenuiviridae-HMM999-1505_22.0-ORF74
+seq29	>ref-NC_032158.1 Hubei diptera virus 3 strain SCM17647 RNA-dependent RNA polymerase gene, complete cds-table6-Phenuiviridae-HMM975-1491_22.0-ORF79
+seq30	>ref-NC_032282.1 Hubei lepidoptera virus 1 strain LCM141331 RNA-dependent RNA polymerase gene, complete cds-table6-Phenuiviridae-HMM1125-1668_22.0-ORF85
+seq31	>ref-NC_032280.1 Hubei diptera virus 4 strain SCM94992 RNA-dependent RNA polymerase gene, complete cds-table6-Phenuiviridae-HMM1025-1546_22.0-ORF83
+seq32	>ref-NC_032276.1 Hubei diptera virus 5 strain SCM245062 RNA-dependent RNA polymerase gene, complete cds-table6-Phenuiviridae-HMM1026-1551_22.0-ORF77
+seq33	>ref-NC_033844.1 Ambe virus strain BeAr407981 segment L, complete sequence-table6-Phenuiviridae-HMM915-1433_24.0-ORF65
+seq34	>ref-NC_033836.1 Anhanga virus strain BeAn46852 segment L, complete sequence-table6-Phenuiviridae-HMM917-1438_24.0-ORF71
+seq35	>ref-NC_033830.1 (REVERSE SENSE) Munguba virus segment L, complete sequence-table6-Phenuiviridae-HMM920-1436_23.0-ORF159
+seq36	>ref-NC_033841.1 Urucuri virus strain BeAn100049 segment L, complete sequence-table4-Phenuiviridae-HMM919-1331_19.0-ORF88
+seq37	>ref-NC_033848.1 Tapara virus strain BeAr413570 segment L, complete sequence-table6-Phenuiviridae-HMM918-1436_24.0-ORF75
+seq38	>ref-NC_033849.1 Uriurana virus strain BeAr479776 segment L, complete sequence-table6-Phenuiviridae-HMM918-1438_24.0-ORF68
+seq39	>ref-NC_035759.1 (REVERSE SENSE) Citrus concave gum-associated virus isolate CGW2 segment RNA1, complete sequence-table4-Phenuiviridae-HMM878-1382_22.0-ORF180
+seq40	>ref-NC_036604.1 Kabuto mountain virus RdRp gene for RNA-dependent RNA polymerase, complete cds, strain: T32-table4-Phenuiviridae-HMM920-1440_24.0-ORF77
+seq41	>ref-NC_036597.1 Rice hoja blanca tenuivirus segment RNA1, complete sequence-table6-Phenuiviridae-HMM1436-1959_17.0-ORF101
+seq42	>nrnt-MF062136 Apple rubbery wood virus 1 isolate 4342-5 segment L RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table4-Phenuiviridae-HMM846-1337_20.0-ORF93
+seq43	>nrnt-MF062133 Apple rubbery wood virus 2 isolate 355-1 segment L RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table6-Phenuiviridae-HMM830-1325_20.0-ORF76
+seq44	>nrnt-KY781187 (REVERSE SENSE) Watermelon crinkle leaf-associated virus 2 isolate KF-15 segment RNA1 RdRp gene, complete cds.-table6-Phenuiviridae-HMM881-1385_22.0-ORF165
+seq45	>nrnt-KY781184 (REVERSE SENSE) Watermelon crinkle leaf-associated virus 1 isolate KF-1 segment RNA1 RdRp gene, complete cds.-table6-Phenuiviridae-HMM881-1385_22.0-ORF173
+seq46	>nrnt-KX884869 Xinzhou bunya-like virus 2 strain XZSJSC64965 RNA-dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM778-1285_24.0-ORF68
+seq47	>nrnt-KX884868 Xinzhou bunya-like virus 1 strain XZSJSC18544 RNA-dependent RNA polymerase gene, complete cds.-table4-Phenuiviridae-HMM969-1477_22.0-ORF83
+seq48	>nrnt-KX884859 Wenling crustacean virus 7 strain WLJQ104070 RNA-dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM937-1459_24.0-ORF66
+seq49	>nrnt-KX884854 Wuhan insect virus 16 strain WHZM9931 RNA-dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM923-1432_23.0-ORF66
+seq50	>nrnt-KX884846 Hubei bunya-like virus 4 strain WGML135976 RNA-dependent RNA polymerase gene, complete cds.-table4-Phenuiviridae-HMM869-1077_9.0-ORF63
+seq51	>nrnt-KX884837 Hubei bunya-like virus 6 strain SZmix21338 RNA-dependent RNA polymerase gene, partial cds.-table1-Phenuiviridae-HMM841-1355_27.0-ORF45
+seq52	>nrnt-KX884835 Shayang bunya-like virus 1 strain SYJFC48558 RNA-dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM974-1483_22.0-ORF75
+seq53	>nrnt-KX884804 Hubei bunya-like virus 1 strain SCM51446 RNA-dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM1031-1550_22.0-ORF75
+seq54	>nrnt-KX884792 Hubei blood fluke virus 1 strain RBXXC303595 RNA-dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM859-1378_25.0-ORF63
+seq55	>nrnt-KX884790 Hubei blood fluke virus 2 strain RBXXC137009 RNA-dependent RNA polymerase gene, complete cds.-table4-Phenuiviridae-HMM858-1376_25.0-ORF70
+seq56	>nrnt-KX884784 Hubei bunya-like virus 13 strain QTM27285 RNA-dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM1465-2009_19.0-ORF89
+seq57	>nrnt-KX884780 Hubei bunya-like virus 2 strain QTM26385 RNA-dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM935-1446_20.0-ORF96
+seq58	>nrnt-KX884778 Hubei bunya-like virus 3 strain QTM25853 RNA-dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM924-1436_20.0-ORF77
+seq59	>nrnt-KX884767 Jingmen ascaridia virus 1 strain JMYJCC72107 RNA-dependent RNA polymerase gene, complete cds.-table4-Phenuiviridae-HMM974-1481_22.0-ORF83
+seq60	>nrnt-KX884756 Beihai bunya-like virus 3 strain BWBFG40849 RNA-dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM2071-2357_8.0-ORF113
+seq61	>nrnt-KX884754 Beihai bunya-like virus 2 strain BHZC35426 RNA-dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM867-1384_25.0-ORF75
+seq62	>nrnt-KX884749 Beihai bunya-like virus 1 strain BHTSS17606 RNA-dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM911-1418_24.0-ORF69
+seq63	>nrnt-KX884735 Hubei insect virus 1 strain arthropodmix14045 RNA-dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM1021-1469_19.0-ORF84
+seq64	>nrnt-KX373293 Crithidia ZM virus strain OSUC1 RNA-dependent RNA polymerase gene, complete cds.-table4-Phenuiviridae-HMM863-1390_26.0-ORF65
+seq65	>nrnt-KX373292 Crithidia otongatchiensis virus strain OSUB1 RNA-dependent RNA polymerase gene, complete cds.-table4-Phenuiviridae-HMM845-1385_25.0-ORF73
+seq66	>nrnt-KX373291 Crithidia G15 virus strain OSUA1 RNA-dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM864-1394_26.0-ORF60
+seq67	>nrnt-MG256513 Ixodes scapularis associated virus-5 isolate RTS65-3 polymerase gene, partial cds.-table4-Phenuiviridae-HMM879-1362_22.0-ORF79
+seq68	>nrnt-KY609505 (REVERSE SENSE) Sugar beet cyst nematode virus 2 isolate TN RNA-dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM924-1429_23.0-ORF163
+seq69	>nrnt-KX924627 Salarivirus Mos8CM0 segment L RNA-dependent RNA polymerase gene, partial cds.-table6-Phenuiviridae-HMM1014-1528_19.0-ORF93
+seq70	>nrnt-KR094115 Ramu stunt virus strain PNG segment RNA1, complete sequence.-table6-Phenuiviridae-HMM1487-2014_17.0-ORF105
+seq71	>nrnt-JF939843 Naples virus strain Sabin polymerase gene, complete cds.-table6-Phenuiviridae-HMM919-1436_24.0-ORF72
+seq72	>nrnt-JF920139 Naples virus strain Yu 8/76 polymerase gene, complete cds.-table6-Phenuiviridae-HMM919-1436_24.0-ORF72
+seq73	>nrnt-JF920136 Saint Floris virus strain Dak ANB 512 polymerase gene, complete cds.-table6-Phenuiviridae-HMM922-1439_24.0-ORF67
+seq74	>nrnt-KF298274 Uncultured virus isolate acc_9.4 RNA-dependent RNA polymerase-like protein gene, complete cds.-table6-Phenuiviridae-HMM962-1474_20.0-ORF91
+seq75	>nrnt-MF893260 Barming virus isolate UK1, partial genome.-table4-Phenuiviridae-HMM882-1368_22.0-ORF75
+seq76	>nrnt-KU933936 Pacific coast tick phlebovirus isolate Docc2011cons segment L, complete sequence.-table6-Phenuiviridae-HMM920-1445_24.0-ORF75
+seq77	>nrnt-MG599863 (REVERSE SENSE) Wenling frogfish arenavirus 1 strain XYHYG11303 segment L, complete sequence.-table6-Phenuiviridae-HMM1052-1336_13.0-ORF166
+seq78	>nrnt-MF375882 Entoleuca bunyavirus 1 replicase gene, complete cds.-table6-Phenuiviridae-HMM962-1468_21.0-ORF86
+seq79	>nrnt-KY322667 Phytomonas sp. TCC231 leishbunyavirus 1 segment L, complete sequence.-table6-Phenuiviridae-HMM824-1346_26.0-ORF63
+seq80	>nrnt-MF141060 Norway phlebovirus 1 isolate NOR/S10V/Hille/2011 RNA-dependent RNA-polymerase gene, complete cds.-table6-Phenuiviridae-HMM962-1491_23.0-ORF81
+seq81	>nrnt-KY979166 Tick phlebovirus isolate MG31 segment L RNA-dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM932-1458_24.0-ORF75
+seq82	>nrnt-KC154063 Rhinolophus pearsoni bunyavirus isolate Bat Rp-BunyaV/Shaanxi2011 RNA-dependent RNA polymerase gene, partial cds.-table1-Phenuiviridae-HMM450-537_16.0-ORF10
+seq83	>nrnt-KY354236 Apis bunyavirus 1 isolate RI-A segment 1 RNA-dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM869-1397_26.0-ORF65
+seq84	>nrnt-KY094605 Duke bunyavirus strain UWV1 segment L RNA-dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM878-1101_10.0-ORF66
+seq85	>nrnt-KX611391 Joa virus strain BeAr371637 segment L, complete sequence.-table6-Phenuiviridae-HMM913-1429_24.0-ORF74
+seq86	>nrnt-KX611388 Bujaru virus strain BeAn47693 segment L, complete sequence.-table6-Phenuiviridae-HMM922-1438_24.0-ORF71
+seq87	>nrnt-KX064237 Bat bunyavirus JTM RNA-dependent RNA polymerase gene, partial cds.-table1-Phenuiviridae-HMM393-490_19.0-ORF13
+seq88	>nrnt-KX452150 Lesvos virus strain Lesvos99-Greece-2015 polymerase gene, partial cds.-table1-Phenuiviridae-HMM222-392_43.0-ORF16
+seq89	>nrnt-KX852391 Pidgey bunyavirus strain M6 RNA-dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM1038-1565_22.0-ORF80
+seq90	>nrnt-KX886759 Bunyavirus sp. strain Bat/VNM/16715_13 RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table6-Phenuiviridae-HMM966-1428_20.0-ORF73
+seq91	>nrnt-KX272883 Mothra bunyavirus strain JG1 RNA-dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM1015-1532_22.0-ORF80
+seq92	>nrnt-KM817705 Zhee Mosquito virus strain XC1-8 RNA-dependent RNA polymerase (L) gene, complete cds.-table6-Phenuiviridae-HMM995-1506_20.0-ORF91
+seq93	>nrnt-KM817704 Yongjia Tick Virus 1 strain YJ1-1 RNA-dependent RNA polymerase (L) gene, complete cds.-table4-Phenuiviridae-HMM929-1452_24.0-ORF42
+seq94	>nrnt-KM817701 Xinzhou Mosquito Virus strain XC3-5 RNA-dependent RNA polymerase (L) gene, complete cds.-table6-Phenuiviridae-HMM566-1078_24.0-ORF71
+seq95	>nrnt-KM817699 Wuhan Spider Virus strain SYZZ-2 RNA-dependent RNA polymerase (L) gene, complete cds.-table6-Phenuiviridae-HMM924-1437_22.0-ORF68
+seq96	>nrnt-KM817695 Wuhan Millipede Virus 1 strain WHWG04 RNA-dependent RNA polymerase (L) gene, complete cds.-table6-Phenuiviridae-HMM517-1020_26.0-ORF65
+seq97	>nrnt-KM817694 Wuhan Louse Fly Virus 2 strain BFJSC-11 RNA-dependent RNA polymerase (L) gene, partial cds.-table4-Phenuiviridae-HMM1157-1690_22.0-ORF90
+seq98	>nrnt-KM817691 Wuhan Insect virus 1 strain WHYC03 RNA-dependent RNA polymerase (L) gene, complete cds.-table6-Phenuiviridae-HMM924-1426_23.0-ORF68
+seq99	>nrnt-KM817684 Tacheng Tick Virus 2 strain TC252 RNA-dependent RNA polymerase (L) gene, complete cds.-table6-Phenuiviridae-HMM931-1457_23.0-ORF72
+seq100	>nrnt-KM817673 Qingnian Mosquito Virus strain QN3-7 RNA-dependent RNA polymerase (L) gene, complete cds.-table6-Phenuiviridae-HMM946-1151_8.0-ORF76
+seq101	>nrnt-KM817672 Lihan Tick Virus strain LH-1 RNA-dependent RNA polymerase (L) gene, complete cds.-table6-Phenuiviridae-HMM929-1456_24.0-ORF79
+seq102	>nrnt-KM817669 Huangshi Humpbacked Fly Virus strain HSCC01-1 RNA-dependent RNA polymerase (L) gene, complete cds.-table4-Phenuiviridae-HMM848-1384_26.0-ORF56
+seq103	>nrnt-KM817666 Dabieshan Tick Virus strain D3 RNA-dependent RNA polymerase (L) gene, complete cds.-table4-Phenuiviridae-HMM929-1452_23.0-ORF61
+seq104	>nrnt-KM817665 Changping Tick Virus 1 strain CP1-2 RNA-dependent RNA polymerase (L) gene, complete cds.-table6-Phenuiviridae-HMM926-1452_23.0-ORF80
+seq105	>nrnt-HM849041 Soybean cyst nematode associated rice stripe virus RNA dependent RNA polymerase gene, partial cds.-table4-Phenuiviridae-HMM997-1526_23.0-ORF55
+seq106	>nrnt-HM849040 Soybean cyst nematode associated Uukuniemi virus RNA dependent RNA polymerase gene, partial cds.-table6-Phenuiviridae-HMM980-1501_23.0-ORF77
+seq107	>nrnt-KX280015 Leptomonas moramango leishbunyavirus isolate LepmorLBV1b-L putative RNA dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM865-1391_26.0-ORF69
+seq108	>nrnt-KX280012 Leptomonas moramango leishbunyavirus isolate LepmorLBV1a-L putative RNA dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM864-1393_26.0-ORF58
+seq109	>nrnt-KP900923 (REVERSE SENSE) Rhizoctonia solani negative-stranded virus 4 isolate Rs1018b RNA-dependent RNA polymerase gene, complete cds.-table4-Phenuiviridae-HMM936-1254_13.0-ORF195
+seq110	>nrnt-KU230449 Blacklegged tick phlebovirus 3 isolate A1 L gene, complete cds.-table6-Phenuiviridae-HMM978-1504_23.0-ORF80
+seq111	>nrnt-KT693187 Badu virus isolate TS6347 segment L, complete sequence.-table6-Phenuiviridae-HMM1038-1563_22.0-ORF69
+seq112	>nrnt-KU255114 Medjerda Valley virus strain T131 segment L, complete sequence.-table4-Phenuiviridae-HMM919-1439_24.0-ORF75
+seq113	>nrnt-KT328593 Guertu virus strain DXM segment L, complete sequence.-table4-Phenuiviridae-HMM911-1427_24.0-ORF73
+seq114	>nrnt-KR363190 Alcube virus strain S20 segment L, complete sequence.-table6-Phenuiviridae-HMM919-1439_24.0-ORF76
+seq115	>nrnt-KM580531 Caenorhabditis brenneri bunyavirus isolate JU1396 RNA-dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM1010-1530_19.0-ORF91
+seq116	>nrnt-KR003786 (REVERSE SENSE) Phasi Charoen-like virus isolate Rio segment L RNA-dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM1040-1564_23.0-ORF170
+seq117	>nrnt-KP272043 Capira virus strain VP-366G L protein gene, complete cds.-table6-Phenuiviridae-HMM918-1434_24.0-ORF73
+seq118	>nrnt-KP272040 Campana virus strain VP-334K L protein gene, complete cds.-table4-Phenuiviridae-HMM916-1432_24.0-ORF85
+seq119	>nrnt-KP642115 Bunyaviridae environmental sample clone sfra.cpip_contig84 RNA-dependent RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM991-1503_20.0-ORF87
+seq120	>nrnt-KM507328 Toscana virus isolate TOSV/Mantova.ITA/2013 polymerase gene, partial cds.-table6-Phenuiviridae-HMM911-1428_24.0-ORF62
+seq121	>nrnt-KM048315 Blacklegged tick phlebovirus-2 isolate H5 segment L, complete sequence.-table4-Phenuiviridae-HMM964-1493_23.0-ORF56
+seq122	>nrnt-KM048311 American dog tick phlebovirus isolate FI6 segment L, complete sequence.-table6-Phenuiviridae-HMM929-1454_24.0-ORF80
+seq123	>nrnt-KM114249 Uukuniemi virus isolate SCOT FT 254 segment L, complete sequence.-table6-Phenuiviridae-HMM920-1438_24.0-ORF80
+seq124	>nrnt-KM114252 Kismayo virus isolate LEIV3641A segment L, complete sequence.-table4-Phenuiviridae-HMM924-1429_23.0-ORF76
+seq125	>nrnt-KM114257 Silverwater virus isolate Can131 segment L, complete sequence.-table6-Phenuiviridae-HMM926-1446_24.0-ORF74
+seq126	>nrnt-KF892052 Rukutama virus strain LEIV-6269C segment L, complete sequence.-table6-Phenuiviridae-HMM914-1430_23.0-ORF62
+seq127	>nrnt-KF892040 Zaliv Terpenia virus strain LEIV-21C segment L, complete sequence.-table6-Phenuiviridae-HMM919-1437_24.0-ORF72
+seq128	>nrnt-KF297912 Karimabad virus isolate I-58 segment L, complete sequence.-table6-Phenuiviridae-HMM925-1447_24.0-ORF72
+seq129	>nrnt-KF297903 Gabek Forest virus isolate Sud AN 754-61 segment L, complete sequence.-table6-Phenuiviridae-HMM925-1447_24.0-ORF78
+seq130	>nrnt-KF297900 Gordil virus isolate Dak ANBr 496d segment L, complete sequence.-table6-Phenuiviridae-HMM919-1436_24.0-ORF78
+seq131	>nrnt-KC601996 (REVERSE SENSE) Sclerotinia sclerotiorum phlebo-like virus 1 isolate Bz8 L gene, complete cds.-table6-Phenuiviridae-HMM1291-1802_19.0-ORF212
+seq132	>nrnt-KF543244 Cumuto virus strain TR7904 segment L, complete sequence.-table6-Phenuiviridae-HMM929-1434_23.0-ORF74
+seq133	>nrnt-KF186497 Malsoor virus strain NIV1050650 RNA polymerase gene, partial cds.-table6-Phenuiviridae-HMM909-1426_24.0-ORF62
+seq134	>nrnt-KC669549 Salanga virus strain AnB 904a polymerase gene, complete cds.-table6-Phenuiviridae-HMM916-1332_19.0-ORF73
+seq135	>nrnt-JF920133 Punique virus strain PI-B4-2008 polymerase gene, complete cds.-table6-Phenuiviridae-HMM919-1436_24.0-ORF68
+seq136	>nrnt-JX472403 Salehabad virus strain I-81 polymerase gene, complete cds.-table6-Phenuiviridae-HMM919-1439_24.0-ORF83
+seq137	>nrnt-JQ924565 Manawa virus strain PakT 462 polymerase gene, partial cds.-table1-Phenuiviridae-HMM919-1435_25.0-ORF59
+seq138	>nrnt-JF838333 RML-105355 virus strain RML-105355 segment L RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM920-1438_24.0-ORF73
+seq139	>nrnt-JF838327 Grand Arbaud virus strain Argas 27 segment L RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM920-1438_23.0-ORF70
+seq140	>nrnt-JF838324 Chize virus strain Brest Ar/T2913 segment L RNA polymerase gene, complete cds.-table6-Phenuiviridae-HMM920-1438_24.0-ORF77
+seq141	>nrnt-JN661158 Basiki virus clone BSK1 RNA-dependent RNA polymerase gene, partial cds.-table1-Phenuiviridae-HMM1-438_99.0-ORF16
+seq142	>nrnt-HM566185 Phlebovirus GGP-2011a segment L, complete sequence.-table6-Phenuiviridae-HMM919-1440_24.0-ORF82
+seq143	>nrnt-HM566181 Precarious point virus segment L, complete sequence.-table4-Phenuiviridae-HMM920-1438_24.0-ORF62
+seq144	>nrnt-HM566176 Sand fever Naples-like virus strain Poona segment L, complete sequence.-table6-Phenuiviridae-HMM919-1436_24.0-ORF67
+seq145	>nrnt-HM566174 Odrenisrou virus segment L, complete sequence.-table6-Phenuiviridae-HMM918-1437_24.0-ORF77
+seq146	>nrnt-HM566167 Sandfly fever Naples virus strain Namru segment L, complete sequence.-table6-Phenuiviridae-HMM919-1435_24.0-ORF72
+seq147	>nrnt-HM566150 Phlebovirus CoAr 170255 segment L, complete sequence.-table6-Phenuiviridae-HMM919-1435_23.0-ORF78
+seq148	>nrnt-HM566147 Chagres virus segment L, complete sequence.-table4-Phenuiviridae-HMM919-1439_24.0-ORF80
+seq149	>nrnt-HM627185 Salobo virus segment L polymerase gene, complete cds.-table4-Phenuiviridae-HMM914-1430_24.0-ORF76
+seq150	>nrnt-HQ541738 Gouleako virus strain A5/CI/2004 segment L, complete sequence.-table6-Phenuiviridae-HMM907-1412_24.0-ORF76
+seq151	>nrnt-HM566155 Durania virus strain Co Ar 171162 segment L, complete sequence.-table4-Phenuiviridae-HMM913-1433_24.0-ORF82
+seq152	>nrnt-HM119410 Echarte virus segment L, complete sequence.-table6-Phenuiviridae-HMM919-1437_24.0-ORF70
+seq153	>nrnt-HM119434 Oriximina virus segment L, complete sequence.-table6-Phenuiviridae-HMM918-1436_24.0-ORF77
+seq154	>nrnt-HM119431 Turuna virus segment L, complete sequence.-table6-Phenuiviridae-HMM918-1436_24.0-ORF76
+seq155	>nrnt-HM119425 Nique virus segment L, complete sequence.-table6-Phenuiviridae-HMM918-1436_24.0-ORF70
+seq156	>nrnt-HM119401 Alenquer virus segment L, complete sequence.-table4-Phenuiviridae-HMM919-1437_24.0-ORF83
+seq157	>nrnt-FV537372 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Phenuiviridae-HMM918-1442_23.0-ORF115
+seq158	>nrnt-Z30318 (REVERSE SENSE) Rift Valley fever virus (RVFV MP12) genomic RNA for molecular markers.-table6-Phenuiviridae-HMM918-1440_24.0-ORF251
+seq159	>nrnt-MF190051 Barns Ness serrated wrack bunya/phlebo-like virus 1 isolate C71 segment L, partial sequence.-table6-Phenuiviridae-HMM1052-1452_17.0-ORF38
+seq160	>tsa-GAYY02042814.1 TSA: Acanthocasuarina muellerianae s9942_L_37267_0_a_3_6_l_1482 transcribed RNA sequence-table1-Phenuiviridae-HMM12-327_63.0-ORF20
+seq161	>tsa-GENP01079856.1 (REVERSE SENSE) TSA: Acanthopteroctetes unifascia TR86063-c0_g1_i1 transcribed RNA sequence-table4-Phenuiviridae-HMM11-92_77.0-ORF8
+seq162	>tsa-GENP01098264.1 (REVERSE SENSE) TSA: Acanthopteroctetes unifascia TR101653-c0_g1_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM3-90_73.0-ORF10
+seq163	>tsa-GBVE01004268.1 TSA: Aphidius colemani C39381_a_3_0_l_223 transcribed RNA sequence-table1-Phenuiviridae-HMM11-74_85.0-ORF2
+seq164	>tsa-GBVE01014080.1 (REVERSE SENSE) TSA: Aphidius colemani C67563_a_3_0_l_380 transcribed RNA sequence-table1-Phenuiviridae-HMM3-95_73.0-ORF12
+seq165	>tsa-GBVE01017690.1 (REVERSE SENSE) TSA: Aphidius colemani C78228_a_3_0_l_489 transcribed RNA sequence-table1-Phenuiviridae-HMM104-162_35.0-ORF16
+seq166	>tsa-GFLW01010773.1 (REVERSE SENSE) TSA: Aphidius ervi TR4146-c0_g1_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM2-164_51.0-ORF18
+seq167	>tsa-GFLW01010774.1 (REVERSE SENSE) TSA: Aphidius ervi TR4146-c0_g1_i2 transcribed RNA sequence-table1-Phenuiviridae-HMM2-164_47.0-ORF22
+seq168	>tsa-GFLW01075747.1 (REVERSE SENSE) TSA: Aphidius ervi TR31676-c1_g1_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM1-91_98.0-ORF6
+seq169	>tsa-GFLW01075751.1 (REVERSE SENSE) TSA: Aphidius ervi TR31676-c4_g1_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM1-119_93.0-ORF9
+seq170	>tsa-GFLW01075753.1 TSA: Aphidius ervi TR31676-c5_g2_i1 transcribed RNA sequence-table6-Phenuiviridae-HMM769-844_8.0-ORF23
+seq171	>tsa-GFLW01075754.1 TSA: Aphidius ervi TR31676-c5_g3_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM111-156_28.0-ORF4
+seq172	>tsa-GFLW01075755.1 TSA: Aphidius ervi TR31676-c5_g4_i1 transcribed RNA sequence-table6-Phenuiviridae-HMM216-735_36.0-ORF40
+seq173	>tsa-GFLW01075756.1 TSA: Aphidius ervi TR31676-c5_g4_i2 transcribed RNA sequence-table1-Phenuiviridae-HMM105-306_65.0-ORF8
+seq174	>tsa-GABB01000138.1 TSA: Archaeopsylla erinacei contig00140 mRNA sequence-table6-Phenuiviridae-HMM393-463_14.0-ORF18
+seq175	>tsa-GABB01000600.1 TSA: Archaeopsylla erinacei contig00604 mRNA sequence-table1-Phenuiviridae-HMM1-174_29.0-ORF11
+seq176	>tsa-GATJ02026808.1 TSA: Bibio marci s5168_L_22329_0_a_26_1_l_6590 transcribed RNA sequence-table6-Phenuiviridae-HMM974-1480_23.0-ORF70
+seq177	>tsa-GBID01001595.1 (REVERSE SENSE) TSA: Blattella germanica Contig1609 transcribed RNA sequence-table6-Phenuiviridae-HMM849-1353_36.0-ORF150
+seq178	>tsa-HADR01033077.1 TSA: Bombina variegata variegata, contig c31104_g1_i1, transcribed RNA sequence-table6-Phenuiviridae-HMM897-1411_24.0-ORF69
+seq179	>tsa-HADR01046713.1 (REVERSE SENSE) TSA: Bombina variegata variegata, contig c40877_g1_i1, transcribed RNA sequence-table1-Phenuiviridae-HMM2-75_97.0-ORF7
+seq180	>tsa-HAEN01054030.1 TSA: Bragasellus peltatus, contig comp44024_c0_seq1, transcribed RNA sequence-table6-Phenuiviridae-HMM837-1339_24.0-ORF70
+seq181	>tsa-HAEN01094038.1 TSA: Bragasellus peltatus, contig comp688137_c0_seq1, transcribed RNA sequence-table1-Phenuiviridae-HMM1-115_98.0-ORF5
+seq182	>tsa-GEPJ01055399.1 (REVERSE SENSE) TSA: Brandtia latissima c58226_g1_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM1-85_98.0-ORF10
+seq183	>tsa-GBVI01016690.1 (REVERSE SENSE) TSA: Cephus spinipes C75652_a_6_0_l_6229 transcribed RNA sequence-table6-Phenuiviridae-HMM864-1369_24.0-ORF152
+seq184	>tsa-GBVD01027121.1 (REVERSE SENSE) TSA: Ceraphron sp. AD-2014 s15471_L_50223_0_a_9_5_l_5012 transcribed RNA sequence-table6-Phenuiviridae-HMM453-964_30.0-ORF132
+seq185	>tsa-GFPK01042245.1 TSA: Chiloglottis trapeziformis DN143215_c0_g1_i1 transcribed RNA sequence-table6-Phenuiviridae-HMM894-1204_13.0-ORF75
+seq186	>tsa-GFPK01042246.1 TSA: Chiloglottis trapeziformis DN143215_c0_g1_i2 transcribed RNA sequence-table6-Phenuiviridae-HMM319-629_18.0-ORF53
+seq187	>tsa-GBLV01021665.1 (REVERSE SENSE) TSA: Chyphotes sp. AD-2014 C231562_a_4_0_l_2291 transcribed RNA sequence-table1-Phenuiviridae-HMM722-763_5.0-ORF50
+seq188	>tsa-GBLV01021697.1 TSA: Chyphotes sp. AD-2014 C231818_a_4_0_l_2418 transcribed RNA sequence-table6-Phenuiviridae-HMM1-428_53.0-ORF28
+seq189	>tsa-GBUJ01001559.1 (REVERSE SENSE) TSA: Colletes cunicularius C106067_a_4_0_l_1107 transcribed RNA sequence-table1-Phenuiviridae-HMM16-277_70.0-ORF27
+seq190	>tsa-GBUJ01001711.1 (REVERSE SENSE) TSA: Colletes cunicularius C106663_a_6_0_l_1143 transcribed RNA sequence-table1-Phenuiviridae-HMM233-367_35.0-ORF24
+seq191	>tsa-GAQF01011697.1 TSA: Cotesia vestalis Unigene11697_Cotesia_vestalis_venom_glands transcribed RNA sequence-table6-Phenuiviridae-HMM167-394_57.0-ORF17
+seq192	>tsa-GAQF01011698.1 TSA: Cotesia vestalis Unigene11698_Cotesia_vestalis_venom_glands transcribed RNA sequence-table1-Phenuiviridae-HMM8-114_82.0-ORF3
+seq193	>tsa-GFAF01010601.1 (REVERSE SENSE) TSA: Cotesia vestalis Unigene13_All transcribed RNA sequence-table4-Phenuiviridae-HMM957-1465_25.0-ORF155
+seq194	>tsa-GFWJ01382648.1 (REVERSE SENSE) TSA: Crepidula atrasolea TRINITY_DN351012_c0_g1_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM3-122_96.0-ORF14
+seq195	>tsa-GFHX01044001.1 (REVERSE SENSE) TSA: Dactylorhiza fuchsii fB1855_comp175029_c0_seq1 transcribed RNA sequence-table1-Phenuiviridae-HMM69-288_76.0-ORF24
+seq196	>tsa-GFOY01032485.1 (REVERSE SENSE) TSA: Daiswa yunnanensis CL3224.Contig1_All transcribed RNA sequence-table6-Phenuiviridae-HMM1006-1325_13.0-ORF180
+seq197	>tsa-GFOY01032486.1 TSA: Daiswa yunnanensis CL3224.Contig2_All transcribed RNA sequence-table1-Phenuiviridae-HMM498-816_17.0-ORF47
+seq198	>tsa-GBWM01004866.1 TSA: Diaeretus essigellae C112147_a_11_0_l_258 transcribed RNA sequence-table1-Phenuiviridae-HMM2-86_97.0-ORF2
+seq199	>tsa-GBSJ01138668.1 (REVERSE SENSE) TSA: Diospyros lotus Contig143576DeNovoAssembly transcribed RNA sequence-table1-Phenuiviridae-HMM7-187_90.0-ORF20
+seq200	>tsa-GBSJ01185490.1 (REVERSE SENSE) TSA: Diospyros lotus Contig191569DeNovoAssembly transcribed RNA sequence-table4-Phenuiviridae-HMM306-505_38.0-ORF48
+seq201	>tsa-GBNO01002955.1 (REVERSE SENSE) TSA: Dolichurus corniculus C37021_a_3_0_l_277 transcribed RNA sequence-table1-Phenuiviridae-HMM53-91_41.0-ORF6
+seq202	>tsa-GBTY01009535.1 (REVERSE SENSE) TSA: Dufourea dentiventris C49061_a_4_0_l_228 transcribed RNA sequence-table1-Phenuiviridae-HMM1-74_97.0-ORF6
+seq203	>tsa-GBTY01015789.1 (REVERSE SENSE) TSA: Dufourea dentiventris C63925_a_5_0_l_267 transcribed RNA sequence-table1-Phenuiviridae-HMM8-89_91.0-ORF8
+seq204	>tsa-GAXG02071864.1 TSA: Gynaikothrips ficorum C289984_a_3_0_l_567 transcribed RNA sequence-table1-Phenuiviridae-HMM1-179_94.0-ORF8
+seq205	>tsa-GEYB01040469.1 TSA: Hermannia gibba TR9496_c0_g1_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM19-109_81.0-ORF3
+seq206	>tsa-GEYB01114025.1 TSA: Hermannia gibba TR39615_c0_g1_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM7-71_53.0-ORF4
+seq207	>tsa-GECU01027726.1 TSA: Homalodisca liturata TR26406_c0_g1_i1 transcribed RNA sequence-table6-Phenuiviridae-HMM974-1423_26.0-ORF60
+seq208	>tsa-GEQG01045626.1 (REVERSE SENSE) TSA: Hyalellopsis costata c80679_g1_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM1-144_97.0-ORF14
+seq209	>tsa-GEQG01045627.1 (REVERSE SENSE) TSA: Hyalellopsis costata c80679_g3_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM9-77_81.0-ORF9
+seq210	>tsa-GEQH01008368.1 (REVERSE SENSE) TSA: Hyalellopsis grisea c20465_g1_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM1-81_98.0-ORF6
+seq211	>tsa-GEQJ01053822.1 TSA: Hyalellopsis stebbingi c156706_g1_i1 transcribed RNA sequence-table6-Phenuiviridae-HMM931-1429_23.0-ORF69
+seq212	>tsa-GCRV01017035.1 (REVERSE SENSE) TSA: insect metagenome Unigene4423_All transcribed RNA sequence-table1-Phenuiviridae-HMM1-293_80.0-ORF29
+seq213	>tsa-GCRV01018857.1 TSA: insect metagenome Unigene6245_All transcribed RNA sequence-table1-Phenuiviridae-HMM63-332_24.0-ORF23
+seq214	>tsa-GCRV01020280.1 TSA: insect metagenome Unigene7668_All transcribed RNA sequence-table1-Phenuiviridae-HMM211-390_45.0-ORF12
+seq215	>tsa-GBSN01050620.1 TSA: Lathyrus sativus a409312_7 transcribed RNA sequence-table6-Phenuiviridae-HMM4-117_92.0-ORF4
+seq216	>tsa-GBSN01056592.1 (REVERSE SENSE) TSA: Lathyrus sativus a488780_7 transcribed RNA sequence-table1-Phenuiviridae-HMM2-88_83.0-ORF8
+seq217	>tsa-GBRK01029027.1 TSA: Limonium bicolor LB124654_1 transcribed RNA sequence-table4-Phenuiviridae-HMM778-1296_26.0-ORF66
+seq218	>tsa-GBHO01036009.1 TSA: Lygus hesperus comp35086_c0_seq1 transcribed RNA sequence-table4-Phenuiviridae-HMM923-1426_23.0-ORF82
+seq219	>tsa-GBRD01015845.1 TSA: Lygus hesperus comp24046_c0_seq1 transcribed RNA sequence-table4-Phenuiviridae-HMM923-1426_23.0-ORF83
+seq220	>tsa-GDHC01005110.1 TSA: Lygus hesperus c87250_g1_i2 transcribed RNA sequence-table4-Phenuiviridae-HMM108-611_39.0-ORF51
+seq221	>tsa-GDHC01008869.1 TSA: Lygus hesperus c87250_g1_i3 transcribed RNA sequence-table1-Phenuiviridae-HMM108-611_47.0-ORF28
+seq222	>tsa-GDAW01000599.1 (REVERSE SENSE) TSA: Lygus lineolaris c683_g1_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM3-374_70.0-ORF29
+seq223	>tsa-GDAW01016136.1 (REVERSE SENSE) TSA: Lygus lineolaris c18778_g1_i1 transcribed RNA sequence-table6-Phenuiviridae-HMM1504-1621_7.0-ORF127
+seq224	>tsa-GDAW01031756.1 TSA: Lygus lineolaris c28062_g1_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM13-123_88.0-ORF2
+seq225	>tsa-GDAW01047205.1 TSA: Lygus lineolaris c44430_g1_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM229-319_27.0-ORF11
+seq226	>tsa-GDAW01058052.1 (REVERSE SENSE) TSA: Lygus lineolaris c55857_g1_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM1-80_96.0-ORF8
+seq227	>tsa-GBWD01009562.1 (REVERSE SENSE) TSA: Macrocentrus marginator C48126_a_3_0_l_996 transcribed RNA sequence-table1-Phenuiviridae-HMM249-330_24.0-ORF32
+seq228	>tsa-GBWD01012687.1 (REVERSE SENSE) TSA: Macrocentrus marginator C57936_a_5_0_l_2063 transcribed RNA sequence-table6-Phenuiviridae-HMM1-307_93.0-ORF39
+seq229	>tsa-GBWD01012857.1 (REVERSE SENSE) TSA: Macrocentrus marginator C58448_a_3_0_l_2165 transcribed RNA sequence-table1-Phenuiviridae-HMM241-721_66.0-ORF62
+seq230	>tsa-GASW02025661.1 (REVERSE SENSE) TSA: Mantis religiosa C172054_a_9_0_l_5070 transcribed RNA sequence-table1-Phenuiviridae-HMM1000-1538_31.0-ORF136
+seq231	>tsa-GFME01046487.1 TSA: Megaphragma amalphitanum transcript46841 transcribed RNA sequence-table1-Phenuiviridae-HMM924-1428_34.0-ORF32
+seq232	>tsa-GCPB01083102.1 (REVERSE SENSE) TSA: Megastigmus spermotrophus contig187357 transcribed RNA sequence-table1-Phenuiviridae-HMM363-454_19.0-ORF26
+seq233	>tsa-GCPB01084026.1 (REVERSE SENSE) TSA: Megastigmus spermotrophus contig188491 transcribed RNA sequence-table1-Phenuiviridae-HMM81-270_69.0-ORF14
+seq234	>tsa-GCPB01085246.1 (REVERSE SENSE) TSA: Megastigmus spermotrophus contig189907 transcribed RNA sequence-table4-Phenuiviridae-HMM44-553_64.0-ORF73
+seq235	>tsa-GACP01015780.1 TSA: Micropterix calthella contig15802 mRNA sequence-table1-Phenuiviridae-HMM8-249_95.0-ORF11
+seq236	>tsa-GACP01056379.1 TSA: Micropterix calthella contig56448 mRNA sequence-table1-Phenuiviridae-HMM2-111_78.0-ORF7
+seq237	>tsa-GFAT01007784.1 (REVERSE SENSE) TSA: Mnemiopsis leidyi c305720_g1_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM203-256_20.0-ORF19
+seq238	>tsa-GFAT01017202.1 TSA: Mnemiopsis leidyi c303626_g1_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM2-110_93.0-ORF4
+seq239	>tsa-GFAT01031184.1 TSA: Mnemiopsis leidyi c318832_g2_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM1-79_69.0-ORF5
+seq240	>tsa-GANM01005769.1 TSA: Nilaparvata lugens Unigene9946_All transcribed RNA sequence-table1-Phenuiviridae-HMM347-411_15.0-ORF19
+seq241	>tsa-GANM01006878.1 TSA: Nilaparvata lugens Unigene12203_All transcribed RNA sequence-table1-Phenuiviridae-HMM1-76_90.0-ORF6
+seq242	>tsa-GANM01008844.1 TSA: Nilaparvata lugens Unigene15648_All transcribed RNA sequence-table1-Phenuiviridae-HMM1-160_53.0-ORF11
+seq243	>tsa-GAWQ02041414.1 TSA: Okanagana villosa s13539_L_47657_0_a_20_5_l_7018 transcribed RNA sequence-table4-Phenuiviridae-HMM979-1219_10.0-ORF84
+seq244	>tsa-GEQR01010072.1 (REVERSE SENSE) TSA: Ommatogammarus albinus c14011_g1_i1 transcribed RNA sequence-table6-Phenuiviridae-HMM11-135_89.0-ORF14
+seq245	>tsa-GEQR01010073.1 TSA: Ommatogammarus albinus c14011_g2_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM3-160_88.0-ORF8
+seq246	>tsa-GEQR01035568.1 TSA: Ommatogammarus albinus c39531_g2_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM7-158_94.0-ORF8
+seq247	>tsa-GEQR01035570.1 TSA: Ommatogammarus albinus c39531_g4_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM2-124_73.0-ORF7
+seq248	>tsa-GEQR01076865.1 (REVERSE SENSE) TSA: Ommatogammarus albinus c61398_g1_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM150-261_42.0-ORF22
+seq249	>tsa-GAQJ01008681.1 (REVERSE SENSE) TSA: Ostrinia furnacalis CL3203.Contig1_All transcribed RNA sequence-table6-Phenuiviridae-HMM1007-1454_19.0-ORF189
+seq250	>tsa-GAHP01003720.1 (REVERSE SENSE) TSA: Ostrinia nubilalis isotig03546 transcribed RNA sequence-table4-Phenuiviridae-HMM44-494_37.0-ORF96
+seq251	>tsa-GERF01001218.1 TSA: Pallasea cancelloides c2171_g1_i2 transcribed RNA sequence-table1-Phenuiviridae-HMM1-231_81.0-ORF12
+seq252	>tsa-GERF01033815.1 (REVERSE SENSE) TSA: Pallasea cancelloides c32489_g1_i1 transcribed RNA sequence-table1-Phenuiviridae-HMM127-398_67.0-ORF42
+seq253	>tsa-GAIX01000059.1 TSA: Pararge aegeria PaContig76 transcribed RNA sequence-table4-Phenuiviridae-HMM21-559_41.0-ORF45
+seq254	>tsa-GEMI01025317.1 TSA: Pedicia vetusta c14242.graph_c0_seq1 transcribed RNA sequence-table6-Phenuiviridae-HMM328-847_33.0-ORF57
+seq255	>tsa-GEIF01048070.1 TSA: Periplaneta americana Unigene39614_All transcribed RNA sequence-table1-Phenuiviridae-HMM1-117_96.0-ORF3
+seq256	>tsa-GATV02011323.1 TSA: Perla marginata C132590_a_63_0_l_7068 transcribed RNA sequence-table6-Phenuiviridae-HMM1005-1544_23.0-ORF72
+seq257	>tsa-GAWJ02022114.1 (REVERSE SENSE) TSA: Peruphasma schultei C163308_a_4_0_l_686 transcribed RNA sequence-table1-Phenuiviridae-HMM1-174_75.0-ORF16
+seq258	>tsa-GAWJ02024447.1 TSA: Peruphasma schultei C170500_a_3_0_l_853 transcribed RNA sequence-table1-Phenuiviridae-HMM243-281_13.0-ORF8
+seq259	>tsa-GEOW01022384.1 (REVERSE SENSE) TSA: Photinus pyralis TR11291_c0_g1_i1 transcribed RNA sequence-table4-Phenuiviridae-HMM987-1529_23.0-ORF187
+seq260	>tsa-GEOW01139174.1 TSA: Photinus pyralis TR73370_c0_g1_i1 transcribed RNA sequence-table4-Phenuiviridae-HMM985-1527_23.0-ORF80
+seq261	>tsa-GEZM01023032.1 TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN2689_c0_g1_i1 transcribed RNA sequence-table4-Phenuiviridae-HMM981-1523_24.0-ORF77
+seq262	>tsa-GAFR01022979.1 (REVERSE SENSE) TSA: Polistes canadensis Pcan_isotig22562_isogroup05112 mRNA sequence-table6-Phenuiviridae-HMM25-277_24.0-ORF89
+seq263	>tsa-GAFR01027453.1 TSA: Polistes canadensis Pcan_isotig27043_isogroup08546 mRNA sequence-table1-Phenuiviridae-HMM350-397_11.0-ORF11
+seq264	>tsa-GDRW01009163.1 TSA: Priapulus caudatus m.16025 transcribed RNA sequence-table6-Phenuiviridae-HMM1-133_94.0-ORF5
+seq265	>tsa-HAES01058711.1 TSA: Proasellus cavaticus, contig comp61091_c0_seq1, transcribed RNA sequence-table1-Phenuiviridae-HMM83-588_65.0-ORF16
+seq266	>tsa-HAEU01041500.1 TSA: Proasellus coiffaiti, contig comp56314_c0_seq1, transcribed RNA sequence-table1-Phenuiviridae-HMM13-222_91.0-ORF9
+seq267	>tsa-HAEU01041501.1 TSA: Proasellus coiffaiti, contig comp56314_c0_seq2, transcribed RNA sequence-table4-Phenuiviridae-HMM13-202_83.0-ORF9
+seq268	>tsa-HAEU01041502.1 (REVERSE SENSE) TSA: Proasellus coiffaiti, contig comp56314_c0_seq3, transcribed RNA sequence-table1-Phenuiviridae-HMM4-295_51.0-ORF38
+seq269	>tsa-HAEU01041503.1 TSA: Proasellus coiffaiti, contig comp56314_c0_seq4, transcribed RNA sequence-table1-Phenuiviridae-HMM4-205_94.0-ORF9
+seq270	>tsa-HAEU01041504.1 TSA: Proasellus coiffaiti, contig comp56314_c0_seq5, transcribed RNA sequence-table4-Phenuiviridae-HMM4-185_86.0-ORF9
+seq271	>tsa-HAET01052131.1 (REVERSE SENSE) TSA: Proasellus coxalis, contig comp42748_c0_seq2, transcribed RNA sequence-table4-Phenuiviridae-HMM897-1402_23.0-ORF192
+seq272	>tsa-HAEW01089689.1 (REVERSE SENSE) TSA: Proasellus ebrensis, contig c69654_g1_i1, transcribed RNA sequence-table4-Phenuiviridae-HMM6-96_91.0-ORF11
+seq273	>tsa-HAEV01085313.1 (REVERSE SENSE) TSA: Proasellus escolai, contig comp110510_c0_seq4, transcribed RNA sequence-table1-Phenuiviridae-HMM82-359_76.0-ORF26
+seq274	>tsa-HAEV01085314.1 (REVERSE SENSE) TSA: Proasellus escolai, contig comp110510_c0_seq5, transcribed RNA sequence-table1-Phenuiviridae-HMM82-307_71.0-ORF23
+seq275	>tsa-HAFA01091133.1 TSA: Proasellus ibericus, contig comp312258_c0_seq1, transcribed RNA sequence-table1-Phenuiviridae-HMM250-288_13.0-ORF9
+seq276	>tsa-HAFA01144429.1 (REVERSE SENSE) TSA: Proasellus ibericus, contig comp1263344_c0_seq1, transcribed RNA sequence-table1-Phenuiviridae-HMM2-73_95.0-ORF9
+seq277	>tsa-HAFA01150083.1 (REVERSE SENSE) TSA: Proasellus ibericus, contig comp1814354_c0_seq1, transcribed RNA sequence-table1-Phenuiviridae-HMM5-78_91.0-ORF6
+seq278	>tsa-HAFD01029253.1 (REVERSE SENSE) TSA: Proasellus margalefi, contig comp44409_c0_seq1, transcribed RNA sequence-table1-Phenuiviridae-HMM4-431_97.0-ORF30
+seq279	>tsa-HAFI01108135.1 TSA: Proasellus rectus, contig comp909601_c0_seq1, transcribed RNA sequence-table1-Phenuiviridae-HMM4-80_93.0-ORF3
+seq280	>tsa-HAFI01117337.1 TSA: Proasellus rectus, contig comp1137456_c0_seq1, transcribed RNA sequence-table1-Phenuiviridae-HMM3-101_96.0-ORF5
+seq281	>tsa-HAFJ01000477.1 TSA: Proasellus solanasi, contig comp602_c0_seq1, transcribed RNA sequence-table1-Phenuiviridae-HMM3-176_98.0-ORF4
+seq282	>tsa-HAFJ01001032.1 (REVERSE SENSE) TSA: Proasellus solanasi, contig comp1286_c0_seq1, transcribed RNA sequence-table1-Phenuiviridae-HMM2-122_80.0-ORF14
+seq283	>tsa-HAFJ01022842.1 (REVERSE SENSE) TSA: Proasellus solanasi, contig comp42661_c0_seq1, transcribed RNA sequence-table1-Phenuiviridae-HMM1-95_17.0-ORF39
+seq284	>tsa-HAFJ01078812.1 (REVERSE SENSE) TSA: Proasellus solanasi, contig comp382027_c0_seq1, transcribed RNA sequence-table1-Phenuiviridae-HMM49-466_87.0-ORF32
+seq285	>tsa-HAFJ01082042.1 (REVERSE SENSE) TSA: Proasellus solanasi, contig comp450059_c0_seq1, transcribed RNA sequence-table1-Phenuiviridae-HMM5-152_54.0-ORF23
+seq286	>tsa-HAFJ01098884.1 TSA: Proasellus solanasi, contig comp838695_c0_seq1, transcribed RNA sequence-table1-Phenuiviridae-HMM42-146_70.0-ORF4
+seq287	>tsa-GAKZ01048260.1 TSA: Procotyla fluviatilis contig127356 transcribed RNA sequence-table6-Phenuiviridae-HMM459-965_31.0-ORF74
+seq288	>tsa-GCEQ01000695.1 (REVERSE SENSE) TSA: Psyttalia lounsburyi Pl_000735 transcribed RNA sequence-table6-Phenuiviridae-HMM20-320_28.0-ORF177
+seq289	>tsa-GDUK01010546.1 TSA: Rhizopus oryzae KNUBEL_RO_010568 transcribed RNA sequence-table6-Phenuiviridae-HMM838-1044_8.0-ORF78
+seq290	>tsa-GFHZ01078199.1 TSA: Saccharum SUG_denovo_0005223 transcribed RNA sequence-table1-Phenuiviridae-HMM14-172_79.0-ORF2
+seq291	>tsa-GFLP01006781.1 TSA: Saccharum hybrid cultivar SUGdenovo-0005223 transcribed RNA sequence-table1-Phenuiviridae-HMM14-172_79.0-ORF2
+seq292	>tsa-GBZN01006195.1 (REVERSE SENSE) TSA: Schmidtea polychroa Spol_v1_tr_06195 transcribed RNA sequence-table6-Phenuiviridae-HMM223-451_48.0-ORF42
+seq293	>tsa-GFKA01029844.1 TSA: Schmidtea polychroa comp24025_c0_seq3 transcribed RNA sequence-table1-Phenuiviridae-HMM293-520_40.0-ORF14
+seq294	>tsa-GFKA01034281.1 TSA: Schmidtea polychroa comp24025_c0_seq1 transcribed RNA sequence-table6-Phenuiviridae-HMM293-797_61.0-ORF27
+seq295	>tsa-GFKA01058557.1 TSA: Schmidtea polychroa comp24025_c0_seq2 transcribed RNA sequence-table6-Phenuiviridae-HMM293-797_62.0-ORF26
+seq296	>tsa-GEZY01041331.1 (REVERSE SENSE) TSA: Sitophilus oryzae c40566.graph_c0 transcribed RNA sequence-table1-Phenuiviridae-HMM153-215_28.0-ORF20
+seq297	>tsa-GFPD01028097.1 TSA: Schmidtea mediterranea c47425_g1_i1 transcribed RNA sequence-table4-Phenuiviridae-HMM15-237_93.0-ORF28
+seq298	>tsa-GFPN01151571.1 (REVERSE SENSE) TSA: Schmidtea mediterranea comp146070_c0_seq1 transcribed RNA sequence-table4-Phenuiviridae-HMM2-112_98.0-ORF13
+seq299	>tsa-GFKA01037238.1 (REVERSE SENSE) TSA: Schmidtea polychroa comp22293_c0_seq1 transcribed RNA sequence-table4-Phenuiviridae-HMM153-401_57.0-ORF65
+seq300	>tsa-GBWA01013372.1 (REVERSE SENSE) TSA: Synergus umbraculus C145209_a_8_0_l_538 transcribed RNA sequence-table4-Phenuiviridae-HMM22-177_86.0-ORF16
+seq301	>tsa-GBWA01014580.1 TSA: Synergus umbraculus C149923_a_5_0_l_616 transcribed RNA sequence-table4-Phenuiviridae-HMM20-124_50.0-ORF7
+seq302	>tsa-GBWA01020506.1 TSA: Synergus umbraculus C175991_a_4_0_l_2996 transcribed RNA sequence-table4-Phenuiviridae-HMM911-998_8.0-ORF38
+seq303	>tsa-GBWA01029264.1 (REVERSE SENSE) TSA: Synergus umbraculus s1691_L_1471_0_a_40_4_l_4572 transcribed RNA sequence-table4-Phenuiviridae-HMM46-557_33.0-ORF132
+seq304	>tsa-GBWA01029265.1 (REVERSE SENSE) TSA: Synergus umbraculus s1692_L_1471_1_a_42_3_l_3273 transcribed RNA sequence-table4-Phenuiviridae-HMM46-557_46.0-ORF92
+seq305	>tsa-GENM01018413.1 (REVERSE SENSE) TSA: Thyridopteryx ephemeraeformis k52_541796 transcribed RNA sequence-table6-Phenuiviridae-HMM290-737_27.0-ORF132
+seq306	>tsa-GENM01023627.1 (REVERSE SENSE) TSA: Thyridopteryx ephemeraeformis k52_554516 transcribed RNA sequence-table6-Phenuiviridae-HMM8-455_32.0-ORF133
+seq307	>tsa-GENM01068229.1 TSA: Thyridopteryx ephemeraeformis k78_754046 transcribed RNA sequence-table6-Phenuiviridae-HMM2-330_26.0-ORF43
+seq308	>tsa-GEOQ01007707.1 (REVERSE SENSE) TSA: Thyridopteryx ephemeraeformis comp9228_c0_seq1 transcribed RNA sequence-table6-Phenuiviridae-HMM1005-1545_22.0-ORF191
+seq309	>tsa-GDKR01011304.1 (REVERSE SENSE) TSA: Trichobilharzia regenti Treg_003343 transcribed RNA sequence-table6-Phenuiviridae-HMM874-1389_23.0-ORF178
+seq310	>tsa-GDKR01012021.1 (REVERSE SENSE) TSA: Trichobilharzia regenti Treg_002119 transcribed RNA sequence-table4-Phenuiviridae-HMM875-1390_25.0-ORF175
+seq311	>tsa-GAXZ02029537.1 TSA: Trichocera saltator C280748_a_38_0_l_7357 transcribed RNA sequence-table6-Phenuiviridae-HMM995-1513_21.0-ORF85
+seq312	>tsa-GBUQ01005525.1 (REVERSE SENSE) TSA: Trichopria drosophilae C33257_a_3_0_l_431 transcribed RNA sequence-table4-Phenuiviridae-HMM2-143_98.0-ORF14
+seq313	>tsa-GBUQ01009241.1 (REVERSE SENSE) TSA: Trichopria drosophilae C44359_a_5_0_l_839 transcribed RNA sequence-table4-Phenuiviridae-HMM1-250_89.0-ORF25
+seq314	>tsa-GAVB02022451.1 (REVERSE SENSE) TSA: Triodia sylvina C175110_a_6_0_l_963 transcribed RNA sequence-table4-Phenuiviridae-HMM2-221_68.0-ORF29
+seq315	>tsa-GAVB02027087.1 (REVERSE SENSE) TSA: Triodia sylvina C191620_a_9_0_l_3888 transcribed RNA sequence-table4-Phenuiviridae-HMM1004-1294_22.0-ORF105

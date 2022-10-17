@@ -1,0 +1,75 @@
+seq1	>ref-NC_001786.1 Barmah Forest virus, complete genome-table4-Togaviridae-HMM1954-2428_19.0-ORF86
+seq2	>ref-NC_003908.1 Western equine encephalomyelitis virus, complete genome-table4-Togaviridae-HMM2001-2475_19.0-ORF85
+seq3	>ref-NC_003900.1 Aura virus, complete genome-table4-Togaviridae-HMM2027-2501_18.0-ORF92
+seq4	>ref-NC_004162.2 Chikungunya virus, complete genome-table6-Togaviridae-HMM2022-2496_18.0-ORF77
+seq5	>ref-NC_006558.1 Getah virus, complete genome-table4-Togaviridae-HMM2016-2490_19.0-ORF83
+seq6	>ref-NC_003930.1 Salmon pancreas disease virus, complete genome-table6-Togaviridae-HMM2134-2610_17.0-ORF84
+seq7	>ref-NC_003215.1 Semliki forest virus, complete genome-table6-Togaviridae-HMM1979-2453_19.0-ORF78
+seq8	>ref-NC_001547.1 Sindbis virus, complete genome-table4-Togaviridae-HMM2055-2529_18.0-ORF86
+seq9	>ref-NC_001449.1 Venezuelan equine encephalitis virus, complete genome-table4-Togaviridae-HMM2033-2507_18.0-ORF82
+seq10	>ref-NC_003433.1 Sleeping disease virus, complete genome-table6-Togaviridae-HMM2126-2602_17.0-ORF77
+seq11	>ref-NC_003899.1 Eastern equine encephalitis virus, complete genome-table4-Togaviridae-HMM2029-2503_18.0-ORF87
+seq12	>ref-NC_001512.1 O'nyong-nyong virus, complete genome-table6-Togaviridae-HMM2063-2537_12.0-ORF116
+seq13	>ref-NC_003417.1 Mayaro virus, complete genome-table4-Togaviridae-HMM1972-2446_19.0-ORF79
+seq14	>ref-NC_012561.1 Highlands J virus, complete genome-table4-Togaviridae-HMM1991-2465_19.0-ORF82
+seq15	>ref-NC_013528.1 Fort Morgan virus, complete genome-table4-Togaviridae-HMM1993-2467_19.0-ORF76
+seq16	>ref-NC_016962.1 Bebaru virus, complete genome-table4-Togaviridae-HMM2005-2479_19.0-ORF74
+seq17	>ref-NC_016960.1 Southern elephant seal virus, complete genome-table4-Togaviridae-HMM1965-2439_19.0-ORF88
+seq18	>ref-NC_016959.1 Ndumu virus, complete genome-table4-Togaviridae-HMM1971-2445_19.0-ORF84
+seq19	>ref-NC_016961.1 Whataroa virus, complete genome-table4-Togaviridae-HMM2005-2479_19.0-ORF89
+seq20	>ref-NC_018615.1 Eilat virus isolate EO329, complete genome-table4-Togaviridae-HMM1949-2422_19.0-ORF75
+seq21	>ref-NC_023812.1 Madariaga virus strain MADV/Cebus apella/BRA/BEAN5122/1956, complete genome-table4-Togaviridae-HMM2014-2488_19.0-ORF85
+seq22	>ref-NC_024887.1 Middelburg virus isolate ArB-8422, complete genome-table4-Togaviridae-HMM1951-2425_19.0-ORF84
+seq23	>ref-NC_032681.1 Tai Forest alphavirus strain C21-CI-2004, complete genome-table4-Togaviridae-HMM1944-2418_19.0-ORF65
+seq24	>nrnt-LF951240 JP 2016210792-A/3: CATIONIC OIL-IN-WATER EMULSIONS.-table4-Togaviridae-HMM1286-1760_26.0-ORF59
+seq25	>nrnt-LF951238 JP 2016210792-A/1: CATIONIC OIL-IN-WATER EMULSIONS.-table4-Togaviridae-HMM2033-2507_18.0-ORF83
+seq26	>nrnt-LP837644 Sequence 9 from Patent WO2017109229.-table6-Togaviridae-HMM1968-2442_18.0-ORF73
+seq27	>nrnt-LC361437 Mwinilunga alphavirus Zmq16mw21 genomic RNA, complete genome.-table4-Togaviridae-HMM1986-2459_19.0-ORF81
+seq28	>nrnt-EF151503 Madariaga virus strain BeAr436087, complete genome.-table4-Togaviridae-HMM2021-2495_18.0-ORF92
+seq29	>nrnt-AF075259 Cabassou virus strain CaAr 508, complete genome.-table4-Togaviridae-HMM1986-2460_19.0-ORF86
+seq30	>nrnt-MG600127 Wenling fish alphavirus strain XDXMC21476 nonstructural protein and structural polyprotein genes, complete cds.-table4-Togaviridae-HMM2130-2604_18.0-ORF76
+seq31	>nrnt-AF075258 Rio Negro virus strain AG80-663, complete genome.-table4-Togaviridae-HMM2014-2488_19.0-ORF80
+seq32	>nrnt-AF075256 Pixuna virus strain Pixuna BeAr 35645, complete genome.-table4-Togaviridae-HMM2007-2481_19.0-ORF86
+seq33	>nrnt-AF075254 Tonate virus strain Tonate CaAn 410d, complete genome.-table4-Togaviridae-HMM2041-2515_18.0-ORF79
+seq34	>nrnt-AF075253 Mucambo virus strain Mucambo BeAn 8, complete genome.-table4-Togaviridae-HMM1988-2462_19.0-ORF85
+seq35	>nrnt-AF075257 Mosso das Pedras virus, complete sequence.-table4-Togaviridae-HMM2041-2515_18.0-ORF87
+seq36	>nrnt-AF075251 Everglades virus, complete sequence.-table4-Togaviridae-HMM2007-2481_19.0-ORF83
+seq37	>nrnt-KY618135 Mayaro virus strain BeH505465, complete genome.-table4-Togaviridae-HMM1972-2446_19.0-ORF78
+seq38	>nrnt-KY703964 UNVERIFIED: Chikungunya virus strain CHIKV/Homo sapiens/NIC/12238-15/2015 genomic sequence.-table1-Togaviridae-HMM140-614_76.0-ORF72
+seq39	>nrnt-AF492770 Sindbis virus strain MRE16 5'UTR, nonstructural polyprotein 123 and nonstructural polyprotein 1234 genes, complete cds.-table4-Togaviridae-HMM2042-2516_18.0-ORF91
+seq40	>nrnt-KX168429 Chikungunya virus isolate MUM001-2009-Selangor, complete genome.-table4-Togaviridae-HMM2068-2542_18.0-ORF96
+seq41	>nrnt-KX000175 Eastern equine encephalitis virus strain EEEV/Culiseta melanura/USA/ARB06MS370127/2006, complete genome.-table4-Togaviridae-HMM2005-2479_19.0-ORF82
+seq42	>nrnt-KX000085 Eastern equine encephalitis virus strain EEEV/Culiseta melanura/USA/ARB06MS260119/2006, complete genome.-table4-Togaviridae-HMM1927-2401_19.0-ORF79
+seq43	>nrnt-LP010435 Sequence 2 from Patent EP2977457.-table4-Togaviridae-HMM2094-2568_18.0-ORF92
+seq44	>nrnt-KC149887 Synthetic recombinant Chikungunya virus strain LS3-GFP, complete genome.-table4-Togaviridae-HMM1999-2473_19.0-ORF89
+seq45	>nrnt-KJ469589 Madariaga virus strain MADV/Mesocricetus/GTM/68U230/1968, complete genome.-table4-Togaviridae-HMM2005-2479_19.0-ORF89
+seq46	>nrnt-HW249780 JP 2013126414-A/6: NOVEL ISOLATED AND PURIFIED STRAINS OF CHIKUNGUNYA VIRUS AND POLYNUCLEOTIDES AND POLYPEPTIDES SEQUENCES, DIAGNOSTIC AND IMMUNOGENICAL USES THEREOF.-table6-Togaviridae-HMM189-663_64.0-ORF69
+seq47	>nrnt-JB138056 Sequence 14 from Patent WO2012159638.-table6-Togaviridae-HMM2341-2815_14.0-ORF92
+seq48	>nrnt-KC344448 Venezuelan equine encephalitis virus strain VEEV/Mesocricetus auratus/MEX/69U315/1969/IE, complete genome.-table4-Togaviridae-HMM2019-2493_19.0-ORF84
+seq49	>nrnt-KC344440 Venezuelan equine encephalitis virus strain VEEV/Mesocricetus auratus/MEX/66U11/1966/IE, complete genome.-table4-Togaviridae-HMM1982-2456_19.0-ORF82
+seq50	>nrnt-JQ799139 Salmonid alphavirus subtype 3 isolate H10, complete genome.-table6-Togaviridae-HMM2120-2596_17.0-ORF85
+seq51	>nrnt-HM147992 Una virus non structural polyprotein gene, partial cds; and structural polyprotein gene, complete cds.-table4-Togaviridae-HMM2057-2531_18.0-ORF79
+seq52	>nrnt-HM147991 Trocara virus non structural polyprotein gene, partial cds; and structural polyprotein gene, complete cds.-table4-Togaviridae-HMM2073-2546_18.0-ORF98
+seq53	>nrnt-HM045806 Chikungunya virus strain ALSA-1, complete genome.-table4-Togaviridae-HMM1966-2440_19.0-ORF85
+seq54	>nrnt-AF103728 Sindbis virus strain XJ-160, complete genome.-table4-Togaviridae-HMM2029-2503_18.0-ORF88
+seq55	>nrnt-FV537408 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Togaviridae-HMM2001-2474_12.0-ORF167
+seq56	>nrnt-FV537406 Modified Microbial Nucleic Acid.-table6-Togaviridae-HMM1-341_99.0-ORF88
+seq57	>nrnt-FV537404 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Togaviridae-HMM2033-2506_12.0-ORF179
+seq58	>nrnt-FV537402 Modified Microbial Nucleic Acid.-table6-Togaviridae-HMM37-459_91.0-ORF108
+seq59	>nrnt-FV537273 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Togaviridae-HMM2034-2507_12.0-ORF156
+seq60	>nrnt-FV537271 Modified Microbial Nucleic Acid.-table6-Togaviridae-HMM1-187_99.0-ORF106
+seq61	>nrnt-FV537085 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table1-Togaviridae-HMM1-244_98.0-ORF259
+seq62	>nrnt-FV537083 Modified Microbial Nucleic Acid.-table6-Togaviridae-HMM142-526_73.0-ORF91
+seq63	>nrnt-FV536853 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table1-Togaviridae-HMM139-238_40.0-ORF242
+seq64	>nrnt-FV536851 Modified Microbial Nucleic Acid.-table6-Togaviridae-HMM39-348_88.0-ORF86
+seq65	>nrnt-AF075255 Venezuelan equine encephalitis virus strain 71D-1252, complete genome.-table4-Togaviridae-HMM1987-2461_19.0-ORF81
+seq66	>nrnt-AF075252 Venezuelan equine encephalitis virus strain Mena II, complete genome.-table4-Togaviridae-HMM2039-2513_18.0-ORF85
+seq67	>nrnt-GQ433354 Ross River virus strain QML 1, complete genome.-table4-Togaviridae-HMM2042-2516_18.0-ORF75
+seq68	>nrnt-GQ433359 Ross River virus strain T48, complete genome.-table4-Togaviridae-HMM2030-2504_18.0-ORF75
+seq69	>nrnt-AF429428 Sindbis virus isolate SW6562, complete genome.-table4-Togaviridae-HMM2014-2488_19.0-ORF92
+seq70	>nrnt-ACU38305 Sindbis-like virus isolate S.A.AR86, complete genome.-table6-Togaviridae-HMM2034-2508_12.0-ORF106
+seq71	>nrnt-GN091998 Sequence 1 from Patent WO2009033490.-table6-Togaviridae-HMM1982-2456_19.0-ORF87
+seq72	>nrnt-DM057454 DEFECTIVE SINDBIS VIRAL VECTORS.-table6-Togaviridae-HMM7-91_6.0-ORF49
+seq73	>nrnt-CS424128 Sequence 1 from Patent EP1707633.-table6-Togaviridae-HMM2041-2515_18.0-ORF105
+seq74	>nrnt-Z48163 Semliki forest virus genomic RNA for non-structural polyprotein and structural polyprotein, strain A7.-table4-Togaviridae-HMM1948-2422_19.0-ORF76
+seq75	>ref-NC_001545.2 Rubella virus, complete genome-table6-Rubellavirus-HMM1670-2108_13.0-ORF67

@@ -1,0 +1,270 @@
+seq1	>ref-NC_007027.1 Human picobirnavirus RNA segment 2, complete sequence-table4-Picobirnaviridae-HMM12-545_95.0-ORF19
+seq2	>ref-NC_029802.1 Porcine picobirnavirus strain 221/04-16/ITA/2004 segment S, complete sequence-table4-Picobirnaviridae-HMM11-545_95.0-ORF23
+seq3	>ref-NC_032499.1 Beihai picobirna-like virus 8 strain BHNXC71065 segment Seg 1 RdRp gene, complete cds-table6-Picobirnaviridae-HMM33-468_85.0-ORF17
+seq4	>ref-NC_034452.1 Picobirnavirus green monkey/KNA/2015 strain PBV/Simian/KNA/08984/2015 RNA-dependent RNA polymerase gene, complete cds-table6-Picobirnaviridae-HMM6-543_96.0-ORF21
+seq5	>ref-NC_035206.1 Picobirnavirus dog/KNA/2015 strain PBV/Dog/KNA/RVC7/2015 RNA-dependent RNA polymerase gene, complete cds-table6-Picobirnaviridae-HMM6-537_96.0-ORF21
+seq6	>ref-NC_034161.1 Otarine picobirnavirus isolate HKG-PF080915 segment 2, complete sequence-table6-Picobirnaviridae-HMM6-537_96.0-ORF22
+seq7	>nrnt-MF416391 Murine picobirnavirus 3 isolate MPV3/NYC/Manhattan/poolP30, partial genome.-table6-Picobirnaviridae-HMM3-531_98.0-ORF23
+seq8	>nrnt-MF416390 Murine picobirnavirus 2 isolate MPV2/NYC/Bronx/poolP6, partial genome.-table1-Picobirnaviridae-HMM16-485_91.0-ORF19
+seq9	>nrnt-MF416389 Murine picobirnavirus 1 isolate MPV1/NYC/Bronx/poolP8-10, partial genome.-table1-Picobirnaviridae-HMM2-329_97.0-ORF9
+seq10	>nrnt-KY928738 Marmot picobirnavirus clone c365376_g1_i1_libraryB_1585 RNA-dependent RNA polymerase gene, partial cds.-table4-Picobirnaviridae-HMM16-528_96.0-ORF22
+seq11	>nrnt-KY928735 Marmot picobirnavirus clone c422146_g2_i1_libraryB_1640 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM18-489_86.0-ORF13
+seq12	>nrnt-KY928734 Marmot picobirnavirus clone c424165_g11_i1_libraryB_1634 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM12-538_96.0-ORF21
+seq13	>nrnt-KY928731 Marmot picobirnavirus clone c333303_g1_i2_libraryA_1660 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM35-485_81.0-ORF21
+seq14	>nrnt-KY928729 Marmot picobirnavirus clone c424142_g4_i1_libraryB_1615 RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM24-490_86.0-ORF17
+seq15	>nrnt-KY928728 Marmot picobirnavirus clone c662289_g1_i1_libraryA_1653 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM25-488_84.0-ORF16
+seq16	>nrnt-KY928727 Marmot picobirnavirus clone c393404_g1_i1_libraryB_1612 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM22-483_85.0-ORF16
+seq17	>nrnt-KY928725 Marmot picobirnavirus clone c207286_g1_i1_libraryC_1542 RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM29-489_89.0-ORF17
+seq18	>nrnt-KY928723 Marmot picobirnavirus clone c188922_g1_i1_libraryC_1968 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM32-548_93.0-ORF24
+seq19	>nrnt-KY928722 Marmot picobirnavirus clone c182565_g1_i1_libraryC_1619 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM16-533_96.0-ORF21
+seq20	>nrnt-KY928721 Marmot picobirnavirus clone c333433_g1_i2_libraryA_1671 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM11-543_95.0-ORF21
+seq21	>nrnt-KY928719 Marmot picobirnavirus clone c985610_g1_i1_libraryA_1656 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM25-539_93.0-ORF16
+seq22	>nrnt-KY928718 Marmot picobirnavirus clone c205328_g4_i2_libraryC_1680 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM24-555_94.0-ORF16
+seq23	>nrnt-KY928717 Marmot picobirnavirus clone c299351_g1_i1_libraryD_1718 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM42-560_91.0-ORF16
+seq24	>nrnt-KY928716 Marmot picobirnavirus clone c206099_g2_i1_libraryC_1765 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM35-331_50.0-ORF16
+seq25	>nrnt-KY928715 Marmot picobirnavirus clone c1341619_g1_i1_libraryA_1752 RNA-dependent RNA polymerase gene, complete cds.-table4-Picobirnaviridae-HMM45-578_92.0-ORF22
+seq26	>nrnt-KY928714 Marmot picobirnavirus clone c205487_g4_i1_libraryC_1670 RNA-dependent RNA polymerase gene, complete cds.-table4-Picobirnaviridae-HMM13-550_97.0-ORF17
+seq27	>nrnt-KY928713 Marmot picobirnavirus clone c299374_g3_i1_libraryD_1695 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM19-550_94.0-ORF13
+seq28	>nrnt-KY928712 Marmot picobirnavirus clone c325415_g4_i1_libraryA_1682 RNA-dependent RNA polymerase gene, complete cds.-table4-Picobirnaviridae-HMM14-547_95.0-ORF22
+seq29	>nrnt-KY928711 Marmot picobirnavirus clone c205648_g4_i1_libraryC_1667 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM12-545_96.0-ORF18
+seq30	>nrnt-KY928710 Marmot picobirnavirus clone c333098_g2_i2_libraryA_1518 RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM1-505_99.0-ORF19
+seq31	>nrnt-KY928709 Marmot picobirnavirus clone c332542_g1_i3_libraryA_1589 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM15-474_86.0-ORF13
+seq32	>nrnt-KY928708 Marmot picobirnavirus clone c332280_g5_i1_libraryA_1668 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM13-541_96.0-ORF19
+seq33	>nrnt-KY928707 Marmot picobirnavirus clone c332189_g8_i1_libraryA_1530 RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM46-510_90.0-ORF11
+seq34	>nrnt-KY928706 Marmot picobirnavirus clone c330624_g6_i1_libraryA_1709 RNA-dependent RNA polymerase gene, complete cds.-table4-Picobirnaviridae-HMM426-516_15.0-ORF17
+seq35	>nrnt-KY928705 Marmot picobirnavirus clone c330532_g2_i1_libraryA_1596 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM8-525_97.0-ORF16
+seq36	>nrnt-KY928703 Marmot picobirnavirus clone c328812_g1_i1_libraryA_1613 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM21-481_85.0-ORF17
+seq37	>nrnt-KY928702 Marmot picobirnavirus clone c328467_g2_i1_libraryA_1600 RNA-dependent RNA polymerase gene, partial cds.-table4-Picobirnaviridae-HMM12-533_97.0-ORF16
+seq38	>nrnt-KY928701 Marmot picobirnavirus clone c327441_g2_i1_libraryA_1639 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM26-491_85.0-ORF16
+seq39	>nrnt-KY928700 Marmot picobirnavirus clone c327427_g6_i1_libraryA_1747 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM34-576_93.0-ORF19
+seq40	>nrnt-KY928698 Marmot picobirnavirus clone c326076_g1_i1_libraryA_1634 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM27-513_90.0-ORF16
+seq41	>nrnt-KY928696 Marmot picobirnavirus clone c320838_g1_i1_libraryA_1668 RNA-dependent RNA polymerase gene, partial cds.-table6-Picobirnaviridae-HMM80-556_85.0-ORF16
+seq42	>nrnt-KY928695 Marmot picobirnavirus clone c319005_g1_i1_libraryA_1518 RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM30-477_88.0-ORF16
+seq43	>nrnt-KY928694 Marmot picobirnavirus clone c318760_g2_i1_libraryA_1625 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM9-529_97.0-ORF19
+seq44	>nrnt-KY928693 Marmot picobirnavirus clone c311331_g1_i1_libraryA_1529 RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM205-509_59.0-ORF19
+seq45	>nrnt-KY928692 Marmot picobirnavirus clone c309192_g1_i1_libraryA_1676 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM21-537_92.0-ORF15
+seq46	>nrnt-KY928691 Marmot picobirnavirus clone c291814_g1_i2_libraryA_1555 RNA-dependent RNA polymerase gene, partial cds.-table4-Picobirnaviridae-HMM6-481_98.0-ORF23
+seq47	>nrnt-KY928690 Marmot picobirnavirus clone c270222_g1_i1_libraryA_1671 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM35-488_81.0-ORF12
+seq48	>nrnt-KY928689 Marmot picobirnavirus clone c268130_g2_i1_libraryA_1759 RNA-dependent RNA polymerase gene, partial cds.-table6-Picobirnaviridae-HMM112-586_80.0-ORF20
+seq49	>nrnt-KY928684 Marmot picobirnavirus clone c159756_g1_i2_libraryA_1638 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM13-539_96.0-ORF20
+seq50	>nrnt-KY928683 Marmot picobirnavirus clone c108209_g1_i1_libraryA_1665 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM12-544_96.0-ORF18
+seq51	>nrnt-KY855431 Marmot picobirnavirus strain HT4, complete genome.-table4-Picobirnaviridae-HMM36-554_93.0-ORF51
+seq52	>nrnt-KY855430 Marmot picobirnavirus strain HT3, complete genome.-table6-Picobirnaviridae-HMM13-532_94.0-ORF47
+seq53	>nrnt-KY855428 Marmot picobirnavirus strain HT1, complete genome.-table4-Picobirnaviridae-HMM39-552_92.0-ORF60
+seq54	>nrnt-MG600064 Guangdong chinese water skink picobirnavirus strain ZGLXR71534 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM52-584_89.0-ORF17
+seq55	>nrnt-MG600063 Beihai goldsaddle goatfish picobirnavirus strain LXMC178474 hypothetical protein, capsid protein, and RNA-dependent RNA polymerase genes, complete cds.-table6-Picobirnaviridae-HMM658-1169_42.0-ORF37
+seq56	>nrnt-KY502876 Picobirnavirus sp. RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM15-485_88.0-ORF21
+seq57	>nrnt-KY502875 Picobirnavirus sp. RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM22-500_89.0-ORF15
+seq58	>nrnt-KY502873 Picobirnavirus sp. RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM37-536_93.0-ORF18
+seq59	>nrnt-KY502872 Picobirnavirus sp. RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM16-517_96.0-ORF12
+seq60	>nrnt-KY502870 Picobirnavirus sp. RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM2-485_99.0-ORF17
+seq61	>nrnt-KY502864 Picobirnavirus sp. RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM42-569_89.0-ORF22
+seq62	>nrnt-KY502863 Picobirnavirus sp. RNA-dependent RNA polymerase gene, partial cds.-table6-Picobirnaviridae-HMM178-493_58.0-ORF19
+seq63	>nrnt-KY502862 Picobirnavirus sp. RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM62-620_87.0-ORF23
+seq64	>nrnt-KY503020 Picobirnavirus sp. RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM1-472_98.0-ORF13
+seq65	>nrnt-KY502999 Picobirnavirus sp. RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM35-490_83.0-ORF18
+seq66	>nrnt-KY502994 Picobirnavirus sp. RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM15-480_88.0-ORF18
+seq67	>nrnt-KY502992 Picobirnavirus sp. RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM7-535_98.0-ORF19
+seq68	>nrnt-KY502987 Picobirnavirus sp. RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM49-513_81.0-ORF21
+seq69	>nrnt-KY502855 Picobirnavirus sp. RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM6-538_95.0-ORF21
+seq70	>nrnt-KY502853 Picobirnavirus sp. RNA-dependent RNA polymerase gene, complete cds.-table4-Picobirnaviridae-HMM10-534_96.0-ORF22
+seq71	>nrnt-KY502852 Picobirnavirus sp. RNA-dependent RNA polymerase gene, complete cds.-table4-Picobirnaviridae-HMM43-562_91.0-ORF32
+seq72	>nrnt-KY502851 Picobirnavirus sp. RNA-dependent RNA polymerase gene, complete cds.-table4-Picobirnaviridae-HMM117-654_82.0-ORF29
+seq73	>nrnt-KY502850 Picobirnavirus sp. RNA-dependent RNA polymerase gene, complete cds.-table4-Picobirnaviridae-HMM59-574_89.0-ORF31
+seq74	>nrnt-MG010920 Macaque picobirnavirus 35 RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM8-420_98.0-ORF14
+seq75	>nrnt-MG010919 Macaque picobirnavirus 34 RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM11-454_97.0-ORF15
+seq76	>nrnt-MG010918 Macaque picobirnavirus 33 RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM8-456_98.0-ORF11
+seq77	>nrnt-MG010916 Macaque picobirnavirus 31 RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM1-461_99.0-ORF17
+seq78	>nrnt-MG010915 Macaque picobirnavirus 30 RNA-dependent RNA polymerase gene, partial cds.-table4-Picobirnaviridae-HMM9-463_96.0-ORF13
+seq79	>nrnt-MG010914 UNVERIFIED: Macaque picobirnavirus 29 RNA-dependent RNA polymerase-like gene, partial sequence.-table6-Picobirnaviridae-HMM14-491_97.0-ORF14
+seq80	>nrnt-MG010913 Macaque picobirnavirus 28 RNA-dependent RNA polymerase gene, partial cds.-table6-Picobirnaviridae-HMM29-531_94.0-ORF17
+seq81	>nrnt-MG010912 Macaque picobirnavirus 27 RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM18-445_87.0-ORF13
+seq82	>nrnt-MG010910 Macaque picobirnavirus 25 RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM22-522_95.0-ORF17
+seq83	>nrnt-MG010909 Macaque picobirnavirus 24 RNA-dependent RNA polymerase gene, partial cds.-table4-Picobirnaviridae-HMM26-528_94.0-ORF22
+seq84	>nrnt-MG010907 Macaque picobirnavirus 22 RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM6-516_97.0-ORF15
+seq85	>nrnt-MG010906 Macaque picobirnavirus 21 RNA-dependent RNA polymerase gene, partial cds.-table6-Picobirnaviridae-HMM9-534_95.0-ORF18
+seq86	>nrnt-MG010905 Macaque picobirnavirus 20 RNA-dependent RNA polymerase gene, complete cds.-table4-Picobirnaviridae-HMM7-534_96.0-ORF19
+seq87	>nrnt-MG010903 UNVERIFIED: Macaque picobirnavirus 18 RNA-dependent RNA polymerase-like gene, partial sequence.-table6-Picobirnaviridae-HMM137-667_79.0-ORF24
+seq88	>nrnt-MG821233 Caprine picobirnavirus strain PBV/India/CAP-137/2016 RNA-dependent RNA polymerase (RdRp) gene, partial cds.-table1-Picobirnaviridae-HMM1-400_99.0-ORF9
+seq89	>nrnt-MG190029 Picobirnavirus sp. strain PBV/roe_deer/SLO/D38-14/2014 segment 2, complete sequence.-table6-Picobirnaviridae-HMM6-540_94.0-ORF19
+seq90	>nrnt-KY214432 Porcine picobirnavirus isolate BEL/15V010/5682 RdRp gene, complete cds.-table4-Picobirnaviridae-HMM1-528_97.0-ORF18
+seq91	>nrnt-KY214431 Porcine picobirnavirus isolate BEL/15V010/4815 RdRp gene, complete cds.-table6-Picobirnaviridae-HMM58-587_89.0-ORF21
+seq92	>nrnt-KY214430 Porcine picobirnavirus isolate BEL/15V010/4445 RdRp gene, complete cds.-table6-Picobirnaviridae-HMM46-574_89.0-ORF21
+seq93	>nrnt-MF071281 Feline picobirnavirus strain PBV/Cat/KNA/K40/2014 segment 2, complete sequence.-table6-Picobirnaviridae-HMM10-544_95.0-ORF24
+seq94	>nrnt-KP941111 Fox fecal picobirnavirus isolate 55590 RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table6-Picobirnaviridae-HMM18-548_96.0-ORF18
+seq95	>nrnt-KX374478 Porcine picobirnavirus strain PBV/Po-wt/India/UP-Por30/2013 RNA-dependent RNA polymerase (RdRp) gene, partial cds.-table1-Picobirnaviridae-HMM1-401_99.0-ORF12
+seq96	>nrnt-KX374476 Bovine picobirnavirus strain PBV/Bo-wt/India/UP-Bov168/2015 RNA-dependent RNA polymerase (RdRp) gene, partial cds.-table1-Picobirnaviridae-HMM1-398_99.0-ORF12
+seq97	>nrnt-LC110353 Picobirnavirus 504 genomic RNA, segment 2, complete sequence.-table6-Picobirnaviridae-HMM1-455_96.0-ORF14
+seq98	>nrnt-KU729769 Otarine picobirnavirus isolate PF100408 segment 2-2, complete sequence.-table6-Picobirnaviridae-HMM61-585_87.0-ORF20
+seq99	>nrnt-KU729768 Otarine picobirnavirus isolate PF100408 segment 2-1, complete sequence.-table6-Picobirnaviridae-HMM81-606_84.0-ORF21
+seq100	>nrnt-KU729765 Otarine picobirnavirus isolate PF090303 segment 2-2, complete sequence.-table6-Picobirnaviridae-HMM42-571_90.0-ORF25
+seq101	>nrnt-KU729763 Otarine picobirnavirus isolate PF090302 segment 2, complete sequence.-table6-Picobirnaviridae-HMM62-587_86.0-ORF21
+seq102	>nrnt-KU729762 Otarine picobirnavirus isolate PF090206 segment 2, complete sequence.-table6-Picobirnaviridae-HMM43-572_89.0-ORF22
+seq103	>nrnt-KU729760 Otarine picobirnavirus isolate PF080915 segment 2-2, complete sequence.-table4-Picobirnaviridae-HMM46-570_91.0-ORF21
+seq104	>nrnt-KU892530 Picobirnavirus sp. isolate human/BEL/HPBV1352/2010 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM11-538_92.0-ORF21
+seq105	>nrnt-KU892528 Picobirnavirus sp. isolate human/BEL/HPBV1385/2010 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM4-532_94.0-ORF17
+seq106	>nrnt-GQ915026 Human picobirnavirus strain 2004001995MN RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM1-428_99.0-ORF15
+seq107	>nrnt-KT934308 Picobirnavirus wolf/PRT/1109/2015 strain PBV/wolf/PRT/1109/2015 RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table6-Picobirnaviridae-HMM30-559_93.0-ORF21
+seq108	>nrnt-KT934307 Picobirnavirus wolf/PRT/416/2015 strain PBV/wolf/PRT/416/2015 RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table6-Picobirnaviridae-HMM16-541_94.0-ORF20
+seq109	>nrnt-KR827416 Human picobirnavirus isolate ChXz-5 RNA-dependent RNA polymerase gene, complete cds.-table4-Picobirnaviridae-HMM109-385_56.0-ORF18
+seq110	>nrnt-KR827415 Human picobirnavirus isolate ChXz-4 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM8-468_87.0-ORF18
+seq111	>nrnt-KR827413 Human picobirnavirus isolate ChXz-2 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM39-563_88.0-ORF16
+seq112	>nrnt-AP014891 Diatom colony associated dsRNA virus 1 genomic RNA, segment: 2, complete sequence.-table6-Picobirnaviridae-HMM33-468_83.0-ORF15
+seq113	>nrnt-AF246940 Human picobirnavirus strain 4-GA-91 segment 2 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM43-495_81.0-ORF24
+seq114	>nrnt-AF246939 Human picobirnavirus strain 1-CHN-97 segment 2 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM16-545_94.0-ORF17
+seq115	>nrnt-KM285234 Human picobirnavirus isolate KS02-CSP-203-RDRP-PBV-CAMBODIA RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM33-560_92.0-ORF18
+seq116	>nrnt-KM254164 Picobirnavirus HK-2014 isolate Q45A/13 RNA-dependent RNA polymerase (RdRpb) gene, partial cds.-table1-Picobirnaviridae-HMM9-533_95.0-ORF18
+seq117	>nrnt-KR902507 Picobirnavirus Equ3 segment 2, complete sequence.-table6-Picobirnaviridae-HMM37-503_82.0-ORF17
+seq118	>nrnt-KR902505 Picobirnavirus Equ2 segment 2, complete sequence.-table6-Picobirnaviridae-HMM24-565_93.0-ORF19
+seq119	>nrnt-KR902503 Picobirnavirus Equ1 segment 2, complete sequence.-table4-Picobirnaviridae-HMM41-506_81.0-ORF23
+seq120	>nrnt-KR902502 Picobirnavirus Equ4, complete genome.-table6-Picobirnaviridae-HMM39-521_86.0-ORF38
+seq121	>nrnt-KP264973 Picobirnavirus TFFN-2015 isolate BSRI2 nonfunctional RdRP gene, partial sequence.-table1-Picobirnaviridae-HMM2-97_83.0-ORF17
+seq122	>nrnt-KJ495690 Picobirnavirus GI/PBV/turkey/USA/MN-1/2011 segment 2 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM26-547_92.0-ORF21
+seq123	>nrnt-KJ650570 Porcine picobirnavirus strain PBV/India/2013/NER/14P nonfunctional RNA-dependent RNA polymerase (RdRp) gene, partial sequence.-table6-Picobirnaviridae-HMM117-247_41.0-ORF10
+seq124	>nrnt-KM573808 Dromedary picobirnavirus isolate c5337 putative RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table4-Picobirnaviridae-HMM16-473_91.0-ORF13
+seq125	>nrnt-KM573807 Dromedary picobirnavirus isolate c5128 putative RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table6-Picobirnaviridae-HMM125-480_73.0-ORF22
+seq126	>nrnt-KM573806 Dromedary picobirnavirus isolate c4816 putative RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table6-Picobirnaviridae-HMM1-367_96.0-ORF15
+seq127	>nrnt-KM573805 Dromedary picobirnavirus isolate c4782 putative RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table6-Picobirnaviridae-HMM2-440_99.0-ORF14
+seq128	>nrnt-KM573804 Dromedary picobirnavirus isolate c4702 putative RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table6-Picobirnaviridae-HMM2-478_97.0-ORF18
+seq129	>nrnt-KM573803 Dromedary picobirnavirus isolate c4688 putative RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table6-Picobirnaviridae-HMM2-453_98.0-ORF11
+seq130	>nrnt-KM573802 Dromedary picobirnavirus isolate c4566 putative RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table6-Picobirnaviridae-HMM1-540_99.0-ORF17
+seq131	>nrnt-KM573801 Dromedary picobirnavirus isolate c4180 putative RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table4-Picobirnaviridae-HMM200-544_63.0-ORF20
+seq132	>nrnt-KM573800 Dromedary picobirnavirus isolate c3884 putative RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table6-Picobirnaviridae-HMM11-544_97.0-ORF17
+seq133	>nrnt-KM573798 Dromedary picobirnavirus isolate c2597 putative RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table6-Picobirnaviridae-HMM1-491_96.0-ORF19
+seq134	>nrnt-KJ206569 Human picobirnavirus VS6600008 RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM6-446_90.0-ORF17
+seq135	>nrnt-KF823811 Fox fecal picobirnavirus isolate S40-2 RNA-dependent RNA polymerase (RdRp) gene, partial cds.-table6-Picobirnaviridae-HMM2-550_98.0-ORF21
+seq136	>nrnt-KF823810 Fox fecal picobirnavirus isolate S40-1 RNA-dependent RNA polymerase (RdRp) gene, partial cds.-table6-Picobirnaviridae-HMM10-517_97.0-ORF20
+seq137	>nrnt-KJ663816 Human picobirnavirus isolate CDC16 segment 2 RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table6-Picobirnaviridae-HMM12-554_94.0-ORF21
+seq138	>nrnt-KJ663814 Human picobirnavirus isolate CDC23 segment 2 RNA-dependent RNA polymerase (RDRP) gene, partial cds.-table6-Picobirnaviridae-HMM20-487_85.0-ORF13
+seq139	>nrnt-JX680467 UNVERIFIED: Picobirnavirus turkey/USA-1507/2010 RNA-dependent RNA polymerase-like gene, partial sequence.-table6-Picobirnaviridae-HMM5-341_98.0-ORF11
+seq140	>nrnt-KC692366 Fox picobirnavirus isolate Fox 5 RNA-dependent RNA polymerase gene, partial cds.-table6-Picobirnaviridae-HMM8-544_97.0-ORF18
+seq141	>nrnt-JF755420 Microtus picobirnavirus V-111/USA/2008 RNA-dependent RNA polymerase gene, partial cds.-table1-Picobirnaviridae-HMM1-414_99.0-ORF14
+seq142	>nrnt-AB517738 Human picobirnavirus RdRp gene for RNA dependent RNA polymerase, partial cds, isolate: GPBV6G2.-table1-Picobirnaviridae-HMM16-473_87.0-ORF16
+seq143	>nrnt-AB517736 Human picobirnavirus RdRp gene for RNA dependent RNA polymerase, partial cds, isolate: GPBV10.-table1-Picobirnaviridae-HMM6-547_98.0-ORF15
+seq144	>nrnt-AB517735 Human picobirnavirus RdRp gene for RNA dependent RNA polymerase, partial cds, isolate: GPBV9.-table1-Picobirnaviridae-HMM6-537_98.0-ORF19
+seq145	>nrnt-AB517734 Human picobirnavirus RdRp gene for RNA dependent RNA polymerase, partial cds, isolate: GPBV6C4.-table1-Picobirnaviridae-HMM16-558_96.0-ORF13
+seq146	>nrnt-AB517733 Human picobirnavirus RdRp gene for RNA dependent RNA polymerase, partial cds, isolate: GPBV6C3.-table1-Picobirnaviridae-HMM6-539_98.0-ORF14
+seq147	>nrnt-AB517731 Human picobirnavirus RdRp gene for RNA dependent RNA polymerase, partial cds, isolate: GPBV6C1.-table6-Picobirnaviridae-HMM31-553_92.0-ORF19
+seq148	>nrnt-GQ221268 Picobirnavirus bovine/RUBV-P/IND/2005 RNA-dependent RNA polymerase gene, complete cds.-table6-Picobirnaviridae-HMM35-559_91.0-ORF21
+seq149	>nrnt-KX884190 Hubei picobirna-like virus 2 strain WHBL68697 RdRp gene, complete cds.-table6-Picobirnaviridae-HMM99-530_74.0-ORF20
+seq150	>nrnt-KX884189 Hubei picobirna-like virus 4 strain WHBL66087 RdRp gene, complete cds.-table6-Picobirnaviridae-HMM49-544_89.0-ORF19
+seq151	>nrnt-KX884154 Shahe picobirna-like virus 2 strain SHWC01c3537 hypothetical protein and RdRp genes, complete cds.-table6-Picobirnaviridae-HMM63-505_81.0-ORF33
+seq152	>nrnt-KX884101 Jingmen picobirna-like virus 1 strain JMYJCC46554 RdRp gene, partial cds.-table4-Picobirnaviridae-HMM10-542_97.0-ORF16
+seq153	>nrnt-KX884085 Beihai picobirna-like virus 11 strain BWBFG40030 RdRp gene, complete cds.-table6-Picobirnaviridae-HMM43-472_80.0-ORF15
+seq154	>nrnt-KX884081 Beihai picobirna-like virus 13 strain BHZY58752 hypothetical protein gene, complete cds; and RdRp gene, partial cds.-table4-Picobirnaviridae-HMM47-474_81.0-ORF44
+seq155	>nrnt-KX884079 Beihai picobirna-like virus 10 strain BHZC36972 RdRp gene, complete cds.-table1-Picobirnaviridae-HMM35-470_85.0-ORF20
+seq156	>nrnt-KX884077 Beihai picobirna-like virus 9 strain BHZC32520 RdRp gene, partial cds.-table1-Picobirnaviridae-HMM92-519_74.0-ORF19
+seq157	>nrnt-KX884187 Hubei picobirna-like virus 3 strain WGML128211 RdRp gene, complete cds.-table4-Picobirnaviridae-HMM15-480_87.0-ORF19
+seq158	>tsa-GBRW01013607.1 (REVERSE SENSE) TSA: Elysia cornigera Eco150248_seq1 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-73_97.0-ORF7
+seq159	>tsa-GBRW01101679.1 TSA: Elysia cornigera Eco032746_seq1 transcribed RNA sequence-table6-Picobirnaviridae-HMM41-490_85.0-ORF36
+seq160	>tsa-GBRW01101680.1 TSA: Elysia cornigera Eco032746_seq2 transcribed RNA sequence-table6-Picobirnaviridae-HMM41-234_79.0-ORF29
+seq161	>tsa-GBRW01101681.1 TSA: Elysia cornigera Eco032746_seq3 transcribed RNA sequence-table1-Picobirnaviridae-HMM34-226_84.0-ORF31
+seq162	>tsa-GBRW01101682.1 TSA: Elysia cornigera Eco032746_seq4 transcribed RNA sequence-table6-Picobirnaviridae-HMM498-689_27.0-ORF27
+seq163	>tsa-GBRW01165727.1 (REVERSE SENSE) TSA: Elysia cornigera Eco016612_seq1 transcribed RNA sequence-table6-Picobirnaviridae-HMM490-931_45.0-ORF73
+seq164	>tsa-GBRW01175241.1 TSA: Elysia cornigera Eco047871_seq1 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-83_65.0-ORF5
+seq165	>tsa-GALQ01000145.1 (REVERSE SENSE) TSA: gut metagenome Locus147831v1rpkm5.38 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-127_99.0-ORF12
+seq166	>tsa-GALQ01000993.1 (REVERSE SENSE) TSA: gut metagenome Locus34760v1rpkm21.00 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-106_99.0-ORF12
+seq167	>tsa-GALQ01003767.1 TSA: gut metagenome Locus180212v1rpkm3.29 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-77_98.0-ORF3
+seq168	>tsa-GALQ01005349.1 (REVERSE SENSE) TSA: gut metagenome Locus96198v1rpkm9.23 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-139_98.0-ORF14
+seq169	>tsa-GALQ01006109.1 (REVERSE SENSE) TSA: gut metagenome Locus164748v1rpkm4.30 transcribed RNA sequence-table1-Picobirnaviridae-HMM2-98_96.0-ORF13
+seq170	>tsa-GALQ01007771.1 (REVERSE SENSE) TSA: gut metagenome Locus136283v1rpkm6.14 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-87_98.0-ORF7
+seq171	>tsa-GALQ01009142.1 (REVERSE SENSE) TSA: gut metagenome Locus95347v1rpkm9.32 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-164_98.0-ORF14
+seq172	>tsa-GALQ01014059.1 TSA: gut metagenome Locus27032v1rpkm25.21 transcribed RNA sequence-table4-Picobirnaviridae-HMM50-147_65.0-ORF6
+seq173	>tsa-GALQ01015492.1 TSA: gut metagenome Locus75317v1rpkm11.48 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-72_98.0-ORF4
+seq174	>tsa-GALQ01015824.1 TSA: gut metagenome Locus157887v1rpkm4.72 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-123_99.0-ORF4
+seq175	>tsa-GALQ01016661.1 (REVERSE SENSE) TSA: gut metagenome Locus181072v1rpkm3.22 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-81_98.0-ORF6
+seq176	>tsa-GALQ01017000.1 (REVERSE SENSE) TSA: gut metagenome Locus141199v1rpkm5.81 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-90_98.0-ORF4
+seq177	>tsa-GALQ01020240.1 (REVERSE SENSE) TSA: gut metagenome Locus161434v1rpkm4.51 transcribed RNA sequence-table1-Picobirnaviridae-HMM24-85_71.0-ORF10
+seq178	>tsa-GALQ01020827.1 TSA: gut metagenome Locus52920v1rpkm15.29 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-94_98.0-ORF3
+seq179	>tsa-GALQ01021527.1 TSA: gut metagenome Locus88106v1rpkm10.04 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-179_99.0-ORF6
+seq180	>tsa-GALQ01024853.1 (REVERSE SENSE) TSA: gut metagenome Locus111363v1rpkm7.94 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-68_98.0-ORF6
+seq181	>tsa-GALQ01027498.1 TSA: gut metagenome Locus62079v1rpkm13.49 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-288_99.0-ORF11
+seq182	>tsa-GALQ01027870.1 TSA: gut metagenome Locus20152v1rpkm31.36 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-70_98.0-ORF3
+seq183	>tsa-GALQ01029456.1 TSA: gut metagenome Locus145229v1rpkm5.55 transcribed RNA sequence-table1-Picobirnaviridae-HMM2-63_67.0-ORF4
+seq184	>tsa-GALQ01031813.1 TSA: gut metagenome Locus146387v1rpkm5.47 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-184_99.0-ORF7
+seq185	>tsa-GALQ01032333.1 (REVERSE SENSE) TSA: gut metagenome Locus55573v1rpkm14.72 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-187_99.0-ORF20
+seq186	>tsa-GALQ01034844.1 (REVERSE SENSE) TSA: gut metagenome Locus68963v1rpkm12.39 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-188_99.0-ORF15
+seq187	>tsa-GALQ01035119.1 (REVERSE SENSE) TSA: gut metagenome Locus37578v1rpkm19.81 transcribed RNA sequence-table4-Picobirnaviridae-HMM10-141_92.0-ORF12
+seq188	>tsa-GALQ01037883.1 (REVERSE SENSE) TSA: gut metagenome Locus6464v1rpkm71.59 transcribed RNA sequence-table6-Picobirnaviridae-HMM12-542_95.0-ORF43
+seq189	>tsa-GALQ01039086.1 TSA: gut metagenome Locus117084v1rpkm7.50 transcribed RNA sequence-table1-Picobirnaviridae-HMM2-169_98.0-ORF5
+seq190	>tsa-GALQ01039491.1 TSA: gut metagenome Locus26841v1rpkm25.35 transcribed RNA sequence-table1-Picobirnaviridae-HMM2-375_99.0-ORF11
+seq191	>tsa-GALQ01039706.1 (REVERSE SENSE) TSA: gut metagenome Locus128846v1rpkm6.65 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-88_98.0-ORF9
+seq192	>tsa-GALQ01040802.1 (REVERSE SENSE) TSA: gut metagenome Locus60853v1rpkm13.70 transcribed RNA sequence-table1-Picobirnaviridae-HMM11-71_84.0-ORF7
+seq193	>tsa-GALQ01042192.1 (REVERSE SENSE) TSA: gut metagenome Locus823v1rpkm281.40 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-314_99.0-ORF27
+seq194	>tsa-GALQ01042273.1 (REVERSE SENSE) TSA: gut metagenome Locus27586v1rpkm24.87 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-315_98.0-ORF23
+seq195	>tsa-GALQ01043776.1 (REVERSE SENSE) TSA: gut metagenome Locus213259v1rpkm0.83 transcribed RNA sequence-table6-Picobirnaviridae-HMM6-75_92.0-ORF6
+seq196	>tsa-GALQ01044721.1 (REVERSE SENSE) TSA: gut metagenome Locus185908v1rpkm2.89 transcribed RNA sequence-table6-Picobirnaviridae-HMM6-69_91.0-ORF5
+seq197	>tsa-GALQ01044874.1 (REVERSE SENSE) TSA: gut metagenome Locus61963v1rpkm13.52 transcribed RNA sequence-table6-Picobirnaviridae-HMM1-179_95.0-ORF14
+seq198	>tsa-GALQ01055501.1 (REVERSE SENSE) TSA: gut metagenome Locus88720v1rpkm9.97 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-198_94.0-ORF18
+seq199	>tsa-GALQ01060694.1 (REVERSE SENSE) TSA: gut metagenome Locus123480v1rpkm7.02 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-77_98.0-ORF6
+seq200	>tsa-GALQ01060716.1 TSA: gut metagenome Locus26858v1rpkm25.34 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-73_98.0-ORF2
+seq201	>tsa-GALQ01062813.1 TSA: gut metagenome Locus54608v1rpkm14.94 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-69_98.0-ORF2
+seq202	>tsa-GALQ01063089.1 (REVERSE SENSE) TSA: gut metagenome Locus116501v1rpkm7.54 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-118_97.0-ORF10
+seq203	>tsa-GALQ01066535.1 (REVERSE SENSE) TSA: gut metagenome Locus40959v1rpkm18.58 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-91_98.0-ORF8
+seq204	>tsa-GALQ01068511.1 (REVERSE SENSE) TSA: gut metagenome Locus8396v1rpkm59.51 transcribed RNA sequence-table6-Picobirnaviridae-HMM37-567_91.0-ORF47
+seq205	>tsa-GALQ01068662.1 (REVERSE SENSE) TSA: gut metagenome Locus14577v1rpkm39.66 transcribed RNA sequence-table6-Picobirnaviridae-HMM23-480_85.0-ORF36
+seq206	>tsa-GALQ01070152.1 TSA: gut metagenome Locus1343v1rpkm203.08 transcribed RNA sequence-table6-Picobirnaviridae-HMM20-560_94.0-ORF21
+seq207	>tsa-GALQ01071233.1 (REVERSE SENSE) TSA: gut metagenome Locus137974v1rpkm6.03 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-74_98.0-ORF7
+seq208	>tsa-GALQ01072109.1 (REVERSE SENSE) TSA: gut metagenome Locus86364v1rpkm10.22 transcribed RNA sequence-table1-Picobirnaviridae-HMM25-116_73.0-ORF14
+seq209	>tsa-GALQ01072151.1 (REVERSE SENSE) TSA: gut metagenome Locus50819v1rpkm15.77 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-194_99.0-ORF22
+seq210	>tsa-GALQ01072576.1 TSA: gut metagenome Locus140836v1rpkm5.84 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-78_98.0-ORF3
+seq211	>tsa-GALQ01075555.1 TSA: gut metagenome Locus35536v1rpkm20.65 transcribed RNA sequence-table1-Picobirnaviridae-HMM2-212_86.0-ORF8
+seq212	>tsa-GALQ01078002.1 (REVERSE SENSE) TSA: gut metagenome Locus104938v1rpkm8.46 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-60_67.0-ORF4
+seq213	>tsa-GALQ01079137.1 (REVERSE SENSE) TSA: gut metagenome Locus84070v1rpkm10.46 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-68_98.0-ORF6
+seq214	>tsa-GALQ01080652.1 TSA: gut metagenome Locus13565v1rpkm41.86 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-181_99.0-ORF6
+seq215	>tsa-GALQ01080863.1 TSA: gut metagenome Locus189849v1rpkm2.61 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-75_98.0-ORF3
+seq216	>tsa-GALQ01080865.1 TSA: gut metagenome Locus52392v1rpkm15.41 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-83_98.0-ORF3
+seq217	>tsa-GALQ01081704.1 (REVERSE SENSE) TSA: gut metagenome Locus164417v1rpkm4.32 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-95_98.0-ORF6
+seq218	>tsa-GALQ01082398.1 TSA: gut metagenome Locus57844v1rpkm14.25 transcribed RNA sequence-table1-Picobirnaviridae-HMM2-64_88.0-ORF2
+seq219	>tsa-GALQ01083817.1 TSA: gut metagenome Locus20701v1rpkm30.68 transcribed RNA sequence-table4-Picobirnaviridae-HMM47-499_82.0-ORF25
+seq220	>tsa-GALQ01086919.1 (REVERSE SENSE) TSA: gut metagenome Locus12035v1rpkm45.71 transcribed RNA sequence-table6-Picobirnaviridae-HMM1-110_93.0-ORF12
+seq221	>tsa-GALQ01087275.1 (REVERSE SENSE) TSA: gut metagenome Locus43610v1rpkm17.73 transcribed RNA sequence-table4-Picobirnaviridae-HMM49-142_65.0-ORF16
+seq222	>tsa-GALQ01087445.1 TSA: gut metagenome Locus9253v1rpkm55.60 transcribed RNA sequence-table1-Picobirnaviridae-HMM22-282_91.0-ORF9
+seq223	>tsa-GALQ01087544.1 TSA: gut metagenome Locus173448v1rpkm3.73 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-70_98.0-ORF3
+seq224	>tsa-GALQ01089277.1 TSA: gut metagenome Locus125500v1rpkm6.88 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-100_99.0-ORF5
+seq225	>tsa-GALQ01090184.1 TSA: gut metagenome Locus40822v1rpkm18.64 transcribed RNA sequence-table4-Picobirnaviridae-HMM1-209_93.0-ORF10
+seq226	>tsa-GALQ01091380.1 (REVERSE SENSE) TSA: gut metagenome Locus41647v1rpkm18.36 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-239_99.0-ORF21
+seq227	>tsa-GALQ01093122.1 TSA: gut metagenome Locus36418v1rpkm20.29 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-80_98.0-ORF1
+seq228	>tsa-GALQ01095107.1 TSA: gut metagenome Locus105989v1rpkm8.35 transcribed RNA sequence-table1-Picobirnaviridae-HMM3-94_96.0-ORF1
+seq229	>tsa-GALQ01095389.1 TSA: gut metagenome Locus142835v1rpkm5.70 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-75_98.0-ORF2
+seq230	>tsa-GALQ01095505.1 (REVERSE SENSE) TSA: gut metagenome Locus963v1rpkm255.02 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-92_97.0-ORF10
+seq231	>tsa-GALQ01098123.1 (REVERSE SENSE) TSA: gut metagenome Locus24421v1rpkm27.15 transcribed RNA sequence-table6-Picobirnaviridae-HMM2-438_97.0-ORF32
+seq232	>tsa-GALQ01098456.1 (REVERSE SENSE) TSA: gut metagenome Locus15492v1rpkm37.99 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-197_99.0-ORF16
+seq233	>tsa-GALQ01098989.1 (REVERSE SENSE) TSA: gut metagenome Locus3449v1rpkm110.87 transcribed RNA sequence-table4-Picobirnaviridae-HMM37-561_90.0-ORF46
+seq234	>tsa-GALQ01099685.1 (REVERSE SENSE) TSA: gut metagenome Locus1112v1rpkm230.55 transcribed RNA sequence-table6-Picobirnaviridae-HMM1-64_81.0-ORF7
+seq235	>tsa-GALQ01099823.1 (REVERSE SENSE) TSA: gut metagenome Locus161436v1rpkm4.51 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-129_99.0-ORF11
+seq236	>tsa-GALQ01100329.1 TSA: gut metagenome Locus83391v1rpkm10.54 transcribed RNA sequence-table6-Picobirnaviridae-HMM1-66_82.0-ORF4
+seq237	>tsa-GALQ01100413.1 (REVERSE SENSE) TSA: gut metagenome Locus134870v1rpkm6.25 transcribed RNA sequence-table4-Picobirnaviridae-HMM3-69_95.0-ORF6
+seq238	>tsa-GALT01002390.1 (REVERSE SENSE) TSA: gut metagenome Locus17359v1rpkm28.73 transcribed RNA sequence-table1-Picobirnaviridae-HMM20-493_95.0-ORF39
+seq239	>tsa-GALT01006623.1 (REVERSE SENSE) TSA: gut metagenome Locus6742v1rpkm58.06 transcribed RNA sequence-table1-Picobirnaviridae-HMM2-114_98.0-ORF11
+seq240	>tsa-GALT01008398.1 TSA: gut metagenome Locus135832v1rpkm4.95 transcribed RNA sequence-table1-Picobirnaviridae-HMM2-90_97.0-ORF4
+seq241	>tsa-GALT01010387.1 (REVERSE SENSE) TSA: gut metagenome Locus102454v1rpkm7.06 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-94_98.0-ORF8
+seq242	>tsa-GALT01013818.1 (REVERSE SENSE) TSA: gut metagenome Locus42041v1rpkm14.70 transcribed RNA sequence-table1-Picobirnaviridae-HMM2-271_98.0-ORF24
+seq243	>tsa-GALT01021237.1 TSA: gut metagenome Locus151263v1rpkm4.06 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-107_99.0-ORF4
+seq244	>tsa-GALT01028802.1 TSA: gut metagenome Locus83327v1rpkm8.60 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-153_99.0-ORF5
+seq245	>tsa-GALT01030096.1 (REVERSE SENSE) TSA: gut metagenome Locus72502v1rpkm9.67 transcribed RNA sequence-table1-Picobirnaviridae-HMM2-165_98.0-ORF14
+seq246	>tsa-GALT01031127.1 TSA: gut metagenome Locus146490v1rpkm4.33 transcribed RNA sequence-table1-Picobirnaviridae-HMM3-80_96.0-ORF2
+seq247	>tsa-GALT01035818.1 (REVERSE SENSE) TSA: gut metagenome Locus132881v1rpkm5.12 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-116_98.0-ORF13
+seq248	>tsa-GALT01039145.1 TSA: gut metagenome Locus70475v1rpkm9.91 transcribed RNA sequence-table1-Picobirnaviridae-HMM3-170_95.0-ORF7
+seq249	>tsa-GALT01040106.1 (REVERSE SENSE) TSA: gut metagenome Locus81349v1rpkm8.79 transcribed RNA sequence-table6-Picobirnaviridae-HMM1-63_88.0-ORF7
+seq250	>tsa-GALT01042440.1 TSA: gut metagenome Locus139626v1rpkm4.74 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-100_99.0-ORF4
+seq251	>tsa-GALT01043334.1 TSA: gut metagenome Locus70052v1rpkm9.95 transcribed RNA sequence-table6-Picobirnaviridae-HMM2-116_98.0-ORF3
+seq252	>tsa-GALT01043937.1 TSA: gut metagenome Locus46085v1rpkm13.74 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-339_99.0-ORF14
+seq253	>tsa-GALT01045051.1 (REVERSE SENSE) TSA: gut metagenome Locus22682v1rpkm23.47 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-107_99.0-ORF9
+seq254	>tsa-GALT01045140.1 TSA: gut metagenome Locus62065v1rpkm10.95 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-64_78.0-ORF4
+seq255	>tsa-GALT01046031.1 (REVERSE SENSE) TSA: gut metagenome Locus40851v1rpkm15.02 transcribed RNA sequence-table1-Picobirnaviridae-HMM2-433_99.0-ORF36
+seq256	>tsa-GALT01051671.1 (REVERSE SENSE) TSA: gut metagenome Locus40006v1rpkm15.26 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-115_99.0-ORF7
+seq257	>tsa-GALT01055959.1 TSA: gut metagenome Locus60017v1rpkm11.26 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-93_97.0-ORF3
+seq258	>tsa-GALT01057112.1 (REVERSE SENSE) TSA: gut metagenome Locus184300v1rpkm2.02 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-85_98.0-ORF6
+seq259	>tsa-GALT01058152.1 TSA: gut metagenome Locus6366v1rpkm60.69 transcribed RNA sequence-table1-Picobirnaviridae-HMM10-162_93.0-ORF4
+seq260	>tsa-GALT01058171.1 (REVERSE SENSE) TSA: gut metagenome Locus19318v1rpkm26.56 transcribed RNA sequence-table6-Picobirnaviridae-HMM27-90_65.0-ORF10
+seq261	>tsa-GALT01060071.1 TSA: gut metagenome Locus70413v1rpkm9.91 transcribed RNA sequence-table1-Picobirnaviridae-HMM32-133_75.0-ORF5
+seq262	>tsa-GALT01063168.1 (REVERSE SENSE) TSA: gut metagenome Locus10410v1rpkm42.21 transcribed RNA sequence-table6-Picobirnaviridae-HMM1-472_96.0-ORF31
+seq263	>tsa-GALT01065191.1 TSA: gut metagenome Locus4164v1rpkm82.57 transcribed RNA sequence-table6-Picobirnaviridae-HMM13-544_94.0-ORF18
+seq264	>tsa-GALT01067084.1 TSA: gut metagenome Locus9565v1rpkm44.99 transcribed RNA sequence-table1-Picobirnaviridae-HMM13-412_96.0-ORF13
+seq265	>tsa-GALT01084118.1 TSA: gut metagenome Locus191565v1rpkm1.46 transcribed RNA sequence-table1-Picobirnaviridae-HMM4-59_82.0-ORF3
+seq266	>tsa-GALT01084788.1 TSA: gut metagenome Locus46062v1rpkm13.74 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-104_99.0-ORF4
+seq267	>tsa-GALT01090009.1 TSA: gut metagenome Locus18203v1rpkm27.75 transcribed RNA sequence-table6-Picobirnaviridae-HMM1-84_85.0-ORF5
+seq268	>tsa-GALT01095794.1 (REVERSE SENSE) TSA: gut metagenome Locus76776v1rpkm9.22 transcribed RNA sequence-table1-Picobirnaviridae-HMM2-84_96.0-ORF10
+seq269	>tsa-GALT01099972.1 TSA: gut metagenome Locus11188v1rpkm39.98 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-67_98.0-ORF5
+seq270	>tsa-GALT01100812.1 TSA: gut metagenome Locus69863v1rpkm9.98 transcribed RNA sequence-table1-Picobirnaviridae-HMM1-281_99.0-ORF10

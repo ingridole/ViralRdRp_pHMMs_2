@@ -1,0 +1,40 @@
+seq1	>ref-NC_003614.1 Peanut bud necrosis virus L protein (L) gene, complete cds-table6-Tospoviridae-HMM1292-1695_13.0-ORF103
+seq2	>ref-NC_003625.1 (REVERSE SENSE) Impatiens necrotic spot virus segment L, complete sequence-table6-Tospoviridae-HMM1287-1691_14.0-ORF207
+seq3	>ref-NC_002052.1 Tomato spotted wilt virus RNA L, complete sequence-table6-Tospoviridae-HMM1285-1690_13.0-ORF99
+seq4	>ref-NC_003832.1 Watermelon silver mottle virus segment L, complete sequence-table6-Tospoviridae-HMM1292-1695_13.0-ORF99
+seq5	>ref-NC_008306.1 (REVERSE SENSE) Melon yellow spot virus segment L, complete sequence-table4-Tospoviridae-HMM1280-1683_13.0-ORF260
+seq6	>ref-NC_008302.1 (REVERSE SENSE) Capsicum chlorosis virus segment L, complete sequence-table6-Tospoviridae-HMM1292-1695_13.0-ORF222
+seq7	>ref-NC_010491.1 (REVERSE SENSE) Tomato zonate spot virus segment L, complete sequence-table6-Tospoviridae-HMM1289-1692_13.0-ORF225
+seq8	>ref-NC_015469.1 (REVERSE SENSE) Groundnut ringspot and Tomato chlorotic spot virus reassortant segment L, complete genome-table6-Tospoviridae-HMM1289-1693_13.0-ORF203
+seq9	>ref-NC_018070.1 Bean necrotic mosaic virus segment L, complete sequence-table6-Tospoviridae-HMM1273-1675_13.0-ORF107
+seq10	>ref-NC_026617.1 (REVERSE SENSE) Mulberry vein banding virus isolate XCSY-3 segment L, complete sequence-table6-Tospoviridae-HMM1290-1693_13.0-ORF237
+seq11	>ref-NC_027718.1 (REVERSE SENSE) Chrysanthemum stem necrosis virus isolate PD4412741 segment L, complete sequence-table6-Tospoviridae-HMM1289-1693_13.0-ORF222
+seq12	>ref-NC_029799.1 Iris yellow spot virus segment L, complete sequence-table4-Tospoviridae-HMM1291-1694_13.0-ORF94
+seq13	>ref-NC_030378.1 Tospovirus kiwifruit/YXW/2014 segment L, complete sequence-table6-Tospoviridae-HMM1289-1692_13.0-ORF106
+seq14	>ref-NC_031133.1 (REVERSE SENSE) Polygonum ringspot virus isolate Plg6 segment L, complete sequence-table4-Tospoviridae-HMM1290-1693_13.0-ORF224
+seq15	>ref-NC_031762.1 (REVERSE SENSE) Zucchini lethal chlorosis virus isolate ZLCV-SP segment L, complete sequence-table4-Tospoviridae-HMM1288-1692_13.0-ORF246
+seq16	>ref-NC_033774.1 Pepper chlorotic spot virus isolate 14YV733 segment L, complete sequence-table6-Tospoviridae-HMM1285-1687_13.0-ORF106
+seq17	>ref-NC_033834.1 (REVERSE SENSE) Melon severe mosaic tospovirus isolate VE440-A segment L, complete sequence-table6-Tospoviridae-HMM1289-1693_13.0-ORF238
+seq18	>ref-NC_035483.1 (REVERSE SENSE) Tomato chlorotic spot virus isolate DR segment L, complete sequence-table4-Tospoviridae-HMM1288-1692_13.0-ORF257
+seq19	>ref-NC_036607.1 (REVERSE SENSE) Calla lily chlorotic spot virus strain CCSV-Cel segment L, complete sequence-table6-Tospoviridae-HMM1286-1689_13.0-ORF228
+seq20	>nrnt-KP146140 Groundnut chlorotic fan-spot virus isolate PD2 RNA-dependent RNA polymerase gene, complete cds.-table6-Tospoviridae-HMM1294-1695_13.0-ORF107
+seq21	>nrnt-GU722317 (REVERSE SENSE) Soybean vein necrosis virus isolate Milan_TN segment RNA 1, complete sequence.-table6-Tospoviridae-HMM1276-1678_13.0-ORF227
+seq22	>tsa-GBIX01057243.1 TSA: Arachis hypogaea var. vulgaris Contig_57386 transcribed RNA sequence-table1-Tospoviridae-HMM232-636_60.0-ORF14
+seq23	>tsa-GBIY01005164.1 TSA: Arachis hypogaea var. vulgaris Contig5171 transcribed RNA sequence-table6-Tospoviridae-HMM849-1253_16.0-ORF89
+seq24	>tsa-GBIZ01014195.1 TSA: Arachis hypogaea var. vulgaris Contig14245 transcribed RNA sequence-table1-Tospoviridae-HMM233-637_38.0-ORF21
+seq25	>tsa-GBJE01003448.1 TSA: Arachis hypogaea var. vulgaris comp61710_c3_seq1 transcribed RNA sequence-table1-Tospoviridae-HMM233-637_38.0-ORF21
+seq26	>tsa-GBJH01023231.1 TSA: Arachis hypogaea var. vulgaris Contig23335 transcribed RNA sequence-table6-Tospoviridae-HMM849-1253_16.0-ORF89
+seq27	>tsa-GBJI01055449.1 TSA: Arachis hypogaea var. vulgaris Contig55603 transcribed RNA sequence-table6-Tospoviridae-HMM849-1253_16.0-ORF89
+seq28	>tsa-GBJI01070973.1 TSA: Arachis hypogaea var. vulgaris Contig71137 transcribed RNA sequence-table6-Tospoviridae-HMM63-467_29.0-ORF79
+seq29	>tsa-GBJI01091755.1 TSA: Arachis hypogaea var. vulgaris Contig91931 transcribed RNA sequence-table4-Tospoviridae-HMM457-861_22.0-ORF61
+seq30	>tsa-GBJI01100924.1 (REVERSE SENSE) TSA: Arachis hypogaea var. vulgaris Contig101112 transcribed RNA sequence-table6-Tospoviridae-HMM230-634_21.0-ORF144
+seq31	>tsa-GAON01218935.1 (REVERSE SENSE) TSA: Cuscuta pentagona Cpent_contig_219017 transcribed RNA sequence-table6-Tospoviridae-HMM1278-1682_13.0-ORF208
+seq32	>tsa-GAON01218936.1 (REVERSE SENSE) TSA: Cuscuta pentagona Cpent_contig_219018 transcribed RNA sequence-table6-Tospoviridae-HMM1278-1682_13.0-ORF220
+seq33	>tsa-GAON01218937.1 (REVERSE SENSE) TSA: Cuscuta pentagona Cpent_contig_219019 transcribed RNA sequence-table6-Tospoviridae-HMM1278-1682_14.0-ORF223
+seq34	>tsa-GAQC01003309.1 (REVERSE SENSE) TSA: Cuscuta suaveolens 000530_C-sua_isotig08332 transcribed RNA sequence-table4-Tospoviridae-HMM1-187_15.0-ORF117
+seq35	>tsa-GAQC01005133.1 TSA: Cuscuta suaveolens 000530_C-sua_isotig10156 transcribed RNA sequence-table6-Tospoviridae-HMM33-201_83.0-ORF20
+seq36	>tsa-GBDN01031622.1 TSA: Dahlia pinnata Locus_41487_Transcript_1/1_Confidence_1.000_Length_797 transcribed RNA sequence-table1-Tospoviridae-HMM1-254_95.0-ORF8
+seq37	>tsa-GAXD01021296.1 TSA: Frankliniella occidentalis THRIPS_11_08_2011_22063 transcribed RNA sequence-table6-Tospoviridae-HMM770-1174_16.0-ORF89
+seq38	>tsa-GAXD01021297.1 TSA: Frankliniella occidentalis THRIPS_11_08_2011_22064 transcribed RNA sequence-table6-Tospoviridae-HMM1289-1693_13.0-ORF101
+seq39	>tsa-GBZO01036581.1 TSA: Morus alba var. alba Unigene29998_Sang-KangQing10 transcribed RNA sequence-table1-Tospoviridae-HMM1-179_26.0-ORF12
+seq40	>tsa-GBZO01036584.1 TSA: Morus alba var. alba Unigene30001_Sang-KangQing10 transcribed RNA sequence-table1-Tospoviridae-HMM450-681_33.0-ORF14

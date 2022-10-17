@@ -1,0 +1,90 @@
+seq1	>ref-NC_033298.1 Wenzhou qinvirus-like virus 1 strain WZSLuoI86141 RNA-dependent RNA polymerase gene, complete cds-table4-Qinviridae-HMM540-958_22.0-ORF18
+seq2	>ref-NC_033287.1 Shahe qinvirus-like virus 1 strain SHWC0209c11359 RNA-dependent RNA polymerase gene, complete cds-table4-Qinviridae-HMM502-922_22.0-ORF58
+seq3	>ref-NC_033284.1 Sanxia Qinvirus-like virus 1 strain SXXX11646 RNA-dependent RNA polymerase gene, complete cds-table6-Qinviridae-HMM662-990_15.0-ORF54
+seq4	>ref-NC_033296.1 Wenzhou qinvirus-like virus 2 strain WZRBX42684 RNA-dependent RNA polymerase gene, complete cds-table6-Qinviridae-HMM595-1006_20.0-ORF61
+seq5	>ref-NC_033490.1 Wuhan insect virus 15 strain WHCCII13252 RNA-dependent RNA polymerase gene, complete cds-table6-Qinviridae-HMM527-945_21.0-ORF60
+seq6	>ref-NC_033753.1 Xinzhou nematode virus 3 strain XZSJSC65579 RNA-dependent RNA polymerase gene, complete cds-table6-Qinviridae-HMM535-955_21.0-ORF73
+seq7	>ref-NC_032272.1 Beihai sesarmid crab virus 4 strain SCJXSX38901 RNA-dependent RNA polymerase gene, complete cds-table6-Qinviridae-HMM531-951_22.0-ORF46
+seq8	>ref-NC_033282.1 Hubei qinvirus-like virus 1 strain SCM49583 RNA-dependent RNA polymerase gene, complete cds-table6-Qinviridae-HMM556-978_22.0-ORF67
+seq9	>nrnt-KX883989 Hubei qinvirus-like virus 2 strain arthropodmix117161 RNA-dependent RNA polymerase gene, partial cds.-table4-Qinviridae-HMM480-880_34.0-ORF31
+seq10	>nrnt-MF176289 Wilkie qin-like virus strain mos182CP103635 segment 1, complete sequence.-table4-Qinviridae-HMM546-952_22.0-ORF57
+seq11	>tsa-GEEI01008334.1 (REVERSE SENSE) TSA: Acrostichum aureum Aau_c40293_g1_i1 transcribed RNA sequence-table1-Qinviridae-HMM3-105_96.0-ORF11
+seq12	>tsa-GEUJ01027564.1 TSA: Alatina alata comp77057_c0_seq1 transcribed RNA sequence-table6-Qinviridae-HMM492-882_22.0-ORF63
+seq13	>tsa-GAAN01017813.1 TSA: Allium cepa isotig17738 mRNA sequence-table4-Qinviridae-HMM111-456_54.0-ORF19
+seq14	>tsa-GAAO01011969.1 (REVERSE SENSE) TSA: Allium cepa isotig11866 mRNA sequence-table6-Qinviridae-HMM572-917_31.0-ORF65
+seq15	>tsa-GBJZ01183267.1 (REVERSE SENSE) TSA: Allium cepa Contig189087 transcribed RNA sequence-table6-Qinviridae-HMM572-917_31.0-ORF65
+seq16	>tsa-GBRN01030814.1 TSA: Allium cepa AC.SP3B.Locus_11542.1 transcribed RNA sequence-table6-Qinviridae-HMM572-917_31.0-ORF31
+seq17	>tsa-GBRQ01157379.1 TSA: Allium cepa AC.Combine.Locus_88412.1 transcribed RNA sequence-table6-Qinviridae-HMM572-917_31.0-ORF31
+seq18	>tsa-GEOY01022326.1 TSA: Allium cepa c65373_g1 transcribed RNA sequence-table6-Qinviridae-HMM572-917_31.0-ORF31
+seq19	>tsa-GEZL01034816.1 (REVERSE SENSE) TSA: Ambrosia artemisiifolia TR23404_c0_g1_i1 transcribed RNA sequence-table4-Qinviridae-HMM594-934_30.0-ORF59
+seq20	>tsa-GFWB01000132.1 TSA: Ambrosia artemisiifolia TRINITY_DN14278_c0_g1_i2 transcribed RNA sequence-table4-Qinviridae-HMM594-934_30.0-ORF19
+seq21	>tsa-GFWB01002837.1 (REVERSE SENSE) TSA: Ambrosia artemisiifolia TRINITY_DN34090_c0_g1_i1 transcribed RNA sequence-table4-Qinviridae-HMM594-934_30.0-ORF51
+seq22	>tsa-GFWS01069243.1 (REVERSE SENSE) TSA: Ambrosia artemisiifolia TRINITY_DN19108_c0_g1_i1 transcribed RNA sequence-table4-Qinviridae-HMM594-934_30.0-ORF51
+seq23	>tsa-GFWS01069244.1 TSA: Ambrosia artemisiifolia TRINITY_DN19108_c0_g2_i1 transcribed RNA sequence-table4-Qinviridae-HMM594-934_30.0-ORF19
+seq24	>tsa-GAUE02014037.1 (REVERSE SENSE) TSA: Anurida maritima C99386_a_54_0_l_5993 transcribed RNA sequence-table4-Qinviridae-HMM554-969_21.0-ORF167
+seq25	>tsa-GBRG01197083.1 (REVERSE SENSE) TSA: Aurelia aurita comp1643218_c0_seq1 transcribed RNA sequence-table1-Qinviridae-HMM32-209_56.0-ORF22
+seq26	>tsa-GEZK01184852.1 (REVERSE SENSE) TSA: Bemisia tabaci c54957_g1 transcribed RNA sequence-table6-Qinviridae-HMM1-156_99.0-ORF25
+seq27	>tsa-GEZK01229019.1 (REVERSE SENSE) TSA: Bemisia tabaci c103624_g2 transcribed RNA sequence-table4-Qinviridae-HMM19-86_74.0-ORF8
+seq28	>tsa-GAZX01000253.1 (REVERSE SENSE) TSA: Caligus rogercresseyi tsa-crog-ngs-11082834 transcribed RNA sequence-table4-Qinviridae-HMM5-103_93.0-ORF11
+seq29	>tsa-GCRZ01036751.1 TSA: Camellia taliensis CtaTrans40566 transcribed RNA sequence-table1-Qinviridae-HMM5-270_84.0-ORF12
+seq30	>tsa-GEEK01035856.1 (REVERSE SENSE) TSA: Ceratopteris thalictroides Cth_c48558_g7_i1 transcribed RNA sequence-table1-Qinviridae-HMM1-128_98.0-ORF13
+seq31	>tsa-GEEK01059656.1 (REVERSE SENSE) TSA: Ceratopteris thalictroides Cth_c48558_g8_i1 transcribed RNA sequence-table1-Qinviridae-HMM6-246_96.0-ORF17
+seq32	>tsa-IABS01051913.1 TSA: Crematogaster osakensis mRNA, contig: comp72024_c1_seq1.m.511971, transcribed RNA sequence-table6-Qinviridae-HMM497-917_23.0-ORF60
+seq33	>tsa-GFNI01036280.1 TSA: Cricotopus draysoni TR18428_c0_g1_i1 transcribed RNA sequence-table1-Qinviridae-HMM58-181_67.0-ORF5
+seq34	>tsa-GFNI01036281.1 (REVERSE SENSE) TSA: Cricotopus draysoni TR18428_c1_g1_i1 transcribed RNA sequence-table1-Qinviridae-HMM2-294_94.0-ORF18
+seq35	>tsa-GFHX01004511.1 TSA: Dactylorhiza fuchsii fB1855_comp84021_c0_seq1 transcribed RNA sequence-table1-Qinviridae-HMM168-579_32.0-ORF41
+seq36	>tsa-GFHX01032240.1 (REVERSE SENSE) TSA: Dactylorhiza fuchsii fB1855_comp168207_c0_seq1 transcribed RNA sequence-table6-Qinviridae-HMM553-964_21.0-ORF145
+seq37	>tsa-GFOY01030919.1 TSA: Daiswa yunnanensis CL2711.Contig6_All transcribed RNA sequence-table6-Qinviridae-HMM559-902_28.0-ORF37
+seq38	>tsa-GFOY01030920.1 (REVERSE SENSE) TSA: Daiswa yunnanensis CL2711.Contig7_All transcribed RNA sequence-table4-Qinviridae-HMM573-917_35.0-ORF45
+seq39	>tsa-GFOY01030921.1 (REVERSE SENSE) TSA: Daiswa yunnanensis CL2711.Contig8_All transcribed RNA sequence-table4-Qinviridae-HMM604-947_30.0-ORF56
+seq40	>tsa-GFOY01030922.1 (REVERSE SENSE) TSA: Daiswa yunnanensis CL2711.Contig9_All transcribed RNA sequence-table6-Qinviridae-HMM559-902_28.0-ORF68
+seq41	>tsa-GFOY01035881.1 TSA: Daiswa yunnanensis CL4294.Contig3_All transcribed RNA sequence-table4-Qinviridae-HMM600-1009_19.0-ORF74
+seq42	>tsa-GFOY01057968.1 (REVERSE SENSE) TSA: Daiswa yunnanensis Unigene134766_All transcribed RNA sequence-table1-Qinviridae-HMM438-847_31.0-ORF98
+seq43	>tsa-GFOY01075288.1 TSA: Daiswa yunnanensis Unigene38924_All transcribed RNA sequence-table6-Qinviridae-HMM133-476_51.0-ORF23
+seq44	>tsa-GBOQ01012948.1 (REVERSE SENSE) TSA: Dasymutilla gloriosa C67290_a_3_0_l_713 transcribed RNA sequence-table4-Qinviridae-HMM40-212_72.0-ORF20
+seq45	>tsa-GDQF01055671.1 TSA: Erigeron breviscapus c57260_g1_i1 transcribed RNA sequence-table6-Qinviridae-HMM550-960_39.0-ORF32
+seq46	>tsa-GDQF01120239.1 TSA: Erigeron breviscapus c70543_g2_i1 transcribed RNA sequence-table6-Qinviridae-HMM170-513_46.0-ORF25
+seq47	>tsa-GEAN01060429.1 TSA: Eurytemora affinis comp85889_c1_seq1 transcribed RNA sequence-table1-Qinviridae-HMM1-86_96.0-ORF5
+seq48	>tsa-GEAN01099434.1 TSA: Eurytemora affinis CUFF.69997.1 transcribed RNA sequence-table1-Qinviridae-HMM45-201_77.0-ORF9
+seq49	>tsa-GCTP01017876.1 TSA: Festuca arundinacea unigene_17954 transcribed RNA sequence-table6-Qinviridae-HMM1-190_77.0-ORF16
+seq50	>tsa-GAXG02085457.1 (REVERSE SENSE) TSA: Gynaikothrips ficorum C330887_a_4_0_l_1023 transcribed RNA sequence-table6-Qinviridae-HMM2-275_94.0-ORF20
+seq51	>tsa-GFSA01036910.1 TSA: Hofstenia miamia TRINITY_DN30108_c0_g1_i1 transcribed RNA sequence-table6-Qinviridae-HMM129-233_42.0-ORF11
+seq52	>tsa-GFSA01088967.1 (REVERSE SENSE) TSA: Hofstenia miamia TRINITY_DN47551_c0_g1_i1 transcribed RNA sequence-table1-Qinviridae-HMM4-112_96.0-ORF11
+seq53	>tsa-HACH01007828.1 TSA: Hyas araneus, contig c9992_g1_i1, transcribed RNA sequence-table4-Qinviridae-HMM17-130_83.0-ORF5
+seq54	>tsa-GCRV01017790.1 TSA: insect metagenome Unigene5178_All transcribed RNA sequence-table1-Qinviridae-HMM78-421_58.0-ORF17
+seq55	>tsa-GCRV01020394.1 (REVERSE SENSE) TSA: insect metagenome Unigene7782_All transcribed RNA sequence-table1-Qinviridae-HMM109-529_54.0-ORF66
+seq56	>tsa-GEWM01008444.1 (REVERSE SENSE) TSA: Lessonia variegata GWS036284_c39004_g1_i1 transcribed RNA sequence-table1-Qinviridae-HMM30-233_63.0-ORF25
+seq57	>tsa-GBXY01037675.1 (REVERSE SENSE) TSA: Lolium multiflorum L.m.westerwoldicum54072_c0_seq1 transcribed RNA sequence-table6-Qinviridae-HMM538-881_30.0-ORF45
+seq58	>tsa-GEXL01021670.1 (REVERSE SENSE) TSA: Macrostomum lignano RNA1509_21991 transcribed RNA sequence-table6-Qinviridae-HMM10-80_37.0-ORF106
+seq59	>tsa-GACP01092508.1 TSA: Micropterix calthella contig92626 mRNA sequence-table1-Qinviridae-HMM26-93_70.0-ORF4
+seq60	>tsa-GEQP01018596.1 TSA: Micruropus wahlii c31042_g1_i1 transcribed RNA sequence-table1-Qinviridae-HMM3-115_96.0-ORF4
+seq61	>tsa-GEWH01000064.1 TSA: Nereocystis luetkeana GWS036251_c41931_g1_i1 transcribed RNA sequence-table6-Qinviridae-HMM527-930_22.0-ORF48
+seq62	>tsa-GEWH01000237.1 (REVERSE SENSE) TSA: Nereocystis luetkeana GWS036251_c33227_g1_i1 transcribed RNA sequence-table1-Qinviridae-HMM328-731_28.0-ORF104
+seq63	>tsa-GEQZ01005952.1 TSA: Pallasea sp. gam7.3 c9134_g1_i1 transcribed RNA sequence-table4-Qinviridae-HMM32-150_78.0-ORF5
+seq64	>tsa-GEQZ01024064.1 (REVERSE SENSE) TSA: Pallasea sp. gam7.3 c28410_g1_i1 transcribed RNA sequence-table4-Qinviridae-HMM7-82_32.0-ORF26
+seq65	>tsa-GDIV01048546.1 (REVERSE SENSE) TSA: Silene conica Sconica_KEWA_c28364_g1_i1 transcribed RNA sequence-table6-Qinviridae-HMM16-153_36.0-ORF28
+seq66	>tsa-GFCG01013631.1 TSA: Silene dioica TR9413_c0_g1_i1 transcribed RNA sequence-table6-Qinviridae-HMM621-965_29.0-ORF32
+seq67	>tsa-GFCG01013632.1 TSA: Silene dioica TR9413_c0_g2_i1 transcribed RNA sequence-table6-Qinviridae-HMM419-763_35.0-ORF27
+seq68	>tsa-GBJY01015886.1 TSA: Sinopodophyllum hexandrum scaffold27080_148.2-1 transcribed RNA sequence-table6-Qinviridae-HMM138-481_48.0-ORF20
+seq69	>tsa-GBJY01018568.1 (REVERSE SENSE) TSA: Sinopodophyllum hexandrum scaffold2038_135.6-3 transcribed RNA sequence-table1-Qinviridae-HMM371-714_40.0-ORF64
+seq70	>tsa-GEXL01048973.1 (REVERSE SENSE) TSA: Macrostomum lignano RNA1509_50021 transcribed RNA sequence-table4-Qinviridae-HMM2-142_71.0-ORF99
+seq71	>tsa-GAVR01043163.1 TSA: Sphaerechinus granularis AMR0032.53287.0.1 transcribed RNA sequence-table6-Qinviridae-HMM11-220_67.0-ORF15
+seq72	>tsa-GAVR01043164.1 TSA: Sphaerechinus granularis AMR0032.53287.0.2 transcribed RNA sequence-table6-Qinviridae-HMM11-220_67.0-ORF15
+seq73	>tsa-GDQV01085175.1 TSA: Arachnocampa luminosa Alum61603_c0_seq2 transcribed RNA sequence-table6-Qinviridae-HMM58-215_69.0-ORF18
+seq74	>tsa-GEZK01156449.1 (REVERSE SENSE) TSA: Bemisia tabaci c15054_g1 transcribed RNA sequence-table6-Qinviridae-HMM2-81_78.0-ORF9
+seq75	>tsa-GEQZ01051315.1 (REVERSE SENSE) TSA: Pallasea sp. gam7.3 c42180_g1_i1 transcribed RNA sequence-table6-Qinviridae-HMM5-94_68.0-ORF44
+seq76	>tsa-GEQZ01051316.1 (REVERSE SENSE) TSA: Pallasea sp. gam7.3 c42180_g1_i2 transcribed RNA sequence-table6-Qinviridae-HMM5-94_68.0-ORF43
+seq77	>tsa-GEQZ01051319.1 (REVERSE SENSE) TSA: Pallasea sp. gam7.3 c42180_g1_i5 transcribed RNA sequence-table6-Qinviridae-HMM5-94_68.0-ORF44
+seq78	>ref-NC_033289.1 Shahe yuevirus-like virus 1 strain SHWC0209c11789 RNA-dependent RNA polymerase gene, complete cds-table6-Yueviridae-HMM515-940_19.0-ORF72
+seq79	>ref-NC_032273.1 Beihai sesarmid crab virus 3 strain SCJXSX39048 RNA-dependent RNA polymerase gene, complete cds-table6-Yueviridae-HMM524-949_19.0-ORF73
+seq80	>tsa-GEEI01023950.1 (REVERSE SENSE) TSA: Acrostichum aureum Aau_c30058_g1_i1 transcribed RNA sequence-table1-Yueviridae-HMM146-492_70.0-ORF38
+seq81	>tsa-GEEJ01024494.1 TSA: Acrostichum speciosum Asp_c7290_g1_i1 transcribed RNA sequence-table1-Yueviridae-HMM4-138_92.0-ORF8
+seq82	>tsa-GBRG01150463.1 TSA: Aurelia aurita comp197662_c0_seq1 transcribed RNA sequence-table6-Yueviridae-HMM494-911_16.0-ORF89
+seq83	>tsa-GBSS01021322.1 TSA: Lathyrus sativus a74970_80 transcribed RNA sequence-table4-Yueviridae-HMM602-906_12.0-ORF84
+seq84	>tsa-HADN01009525.1 (REVERSE SENSE) TSA: Nematostella vectensis, contig TR6630|c0_g1_i1, transcribed RNA sequence-table1-Yueviridae-HMM3-159_98.0-ORF11
+seq85	>tsa-HADN01100638.1 (REVERSE SENSE) TSA: Nematostella vectensis, contig TR48174|c0_g1_i1, transcribed RNA sequence-table1-Yueviridae-HMM1-184_99.0-ORF13
+seq86	>tsa-HADP01105360.1 (REVERSE SENSE) TSA: Nematostella vectensis, contig TR56564|c0_g1_i1, transcribed RNA sequence-table1-Yueviridae-HMM69-486_64.0-ORF47
+seq87	>tsa-GFFN01127632.1 (REVERSE SENSE) TSA: Phlox cuspidata Cusp@c95066_g9_i1 transcribed RNA sequence-table4-Yueviridae-HMM5-193_94.0-ORF13
+seq88	>tsa-GFFN01127633.1 (REVERSE SENSE) TSA: Phlox cuspidata Cusp@c95066_g9_i2 transcribed RNA sequence-table1-Yueviridae-HMM5-276_65.0-ORF29
+seq89	>tsa-GFFN01127634.1 (REVERSE SENSE) TSA: Phlox cuspidata Cusp@c95066_g9_i3 transcribed RNA sequence-table4-Yueviridae-HMM5-198_91.0-ORF13
+seq90	>tsa-GFFP01102738.1 (REVERSE SENSE) TSA: Phlox drummondii DruR@c95232_g1_i1 transcribed RNA sequence-table1-Yueviridae-HMM7-154_94.0-ORF9

@@ -1,0 +1,68 @@
+seq1	>ref-NC_005301.3 Crimean-Congo hemorrhagic fever virus segment L, complete sequence-table4-Nairoviridae-HMM2174-2703_13.0-ORF140
+seq2	>ref-NC_025831.1 Leopards Hill virus cRNA, segment: L, complete sequence, strain: 11SB17-table6-Nairoviridae-HMM2178-2704_13.0-ORF122
+seq3	>ref-NC_029124.1 Tofla virus viral cRNA, complete genome, segment: L-table4-Nairoviridae-HMM2165-2694_13.0-ORF130
+seq4	>ref-NC_029909.1 Erve virus segment L, complete sequence-table6-Nairoviridae-HMM2093-2621_13.0-ORF126
+seq5	>ref-NC_029931.1 Yogue virus isolate DakAnD 56 RNA-dependent RNA polymerase gene, complete cds-table6-Nairoviridae-HMM2182-2708_13.0-ORF130
+seq6	>ref-NC_031135.1 Huangpi Tick Virus 1 strain H124-1 RNA-dependent RNA polymerase (L) gene, complete cds-table6-Nairoviridae-HMM2155-2682_13.0-ORF132
+seq7	>ref-NC_031141.1 Sanxia Water Strider Virus 1 strain SXSSP08 RNA-dependent RNA polymerase (L) gene, complete cds-table6-Nairoviridae-HMM2085-2615_13.0-ORF130
+seq8	>ref-NC_031291.1 Wenzhou Tick Virus strain TS1-2 RNA-dependent RNA polymerase (L) gene, complete cds-table6-Nairoviridae-HMM2201-2727_13.0-ORF131
+seq9	>ref-NC_031220.1 Shayang Spider Virus 1 strain SYZZ-4 RNA-dependent RNA polymerase (L) gene, complete cds-table4-Nairoviridae-HMM2325-2857_11.0-ORF148
+seq10	>ref-NC_031284.1 Tacheng Tick Virus 1 strain TC253 RNA-dependent RNA polymerase (L) gene, complete cds-table6-Nairoviridae-HMM2253-2780_12.0-ORF124
+seq11	>ref-NC_032514.1 Wuhan pillworm virus 1 strain WHSFII20185 RNA-dependent RNA polymerase gene, complete cds-table4-Nairoviridae-HMM2058-2218_4.0-ORF122
+seq12	>ref-NC_033756.1 Beihai shrimp virus 3 strain BHBJDX18821 RNA-dependent RNA polymerase gene, complete cds-table6-Nairoviridae-HMM1703-1962_7.0-ORF126
+seq13	>ref-NC_034392.1 Keterrah virus isolate P61361 RNA-dependent RNA polymerase gene, complete cds-table6-Nairoviridae-HMM2191-2717_12.0-ORF133
+seq14	>ref-NC_034387.1 Nairobi sheep disease virus isolate Jilin segment L RNA-dependent RNA polymerase gene, complete cds-table6-Nairoviridae-HMM2205-2734_13.0-ORF130
+seq15	>ref-NC_034502.1 UNVERIFIED: Farallon virus isolate CalAr846 segment L cRNA sequence-table6-Nairoviridae-HMM2180-2705_13.0-ORF126
+seq16	>ref-NC_034511.1 UNVERIFIED: Qalyub virus isolate ErAg370 segment L cRNA sequence-table6-Nairoviridae-HMM2172-2698_13.0-ORF126
+seq17	>ref-NC_034561.1 UNVERIFIED: Clo Mor virus isolate ScotAr7 segment L cRNA sequence-table6-Nairoviridae-HMM2123-2650_13.0-ORF139
+seq18	>ref-NC_036636.1 Kasokero virus isolate Z-52963 RNA-dependent RNA polymerase gene, complete cds-table6-Nairoviridae-HMM2183-2709_13.0-ORF131
+seq19	>nrnt-KX884861 Wenling crustacean virus 8 strain WLJQ104142 RNA-dependent RNA polymerase gene, complete cds.-table4-Nairoviridae-HMM1489-1901_13.0-ORF92
+seq20	>nrnt-KX884825 Shahe bunya-like virus 4 strain SHWC0209c12661 RNA-dependent RNA polymerase gene, partial cds.-table1-Nairoviridae-HMM1088-1547_22.0-ORF59
+seq21	>nrnt-KX884824 Shahe bunya-like virus 3 strain SHWC0209c12636 RNA-dependent RNA polymerase gene, complete cds.-table6-Nairoviridae-HMM1858-2316_13.0-ORF116
+seq22	>nrnt-KX884757 Changping bunya-like virus 1 strain CPQY18609 RNA-dependent RNA polymerase gene, partial cds.-table1-Nairoviridae-HMM2302-2503_5.0-ORF95
+seq23	>nrnt-KU925500 Zirqa virus strain Por 7866 segment L, complete sequence.-table1-Nairoviridae-HMM2184-2709_13.0-ORF99
+seq24	>nrnt-KU925497 Tunis virus strain Brest/Ar/T2756 segment L, complete sequence.-table6-Nairoviridae-HMM2161-2687_13.0-ORF140
+seq25	>nrnt-KU925467 Great Saltee virus strain RML 59972-6 segment L, complete sequence.-table6-Nairoviridae-HMM2180-2705_13.0-ORF126
+seq26	>nrnt-KU925443 Avalon Bres virus strain T/Ar/T-261 segment L, complete sequence.-table4-Nairoviridae-HMM2129-2656_13.0-ORF125
+seq27	>nrnt-KU343163 UNVERIFIED: Sapphire II virus isolate 52301-14 segment L cRNA sequence.-table6-Nairoviridae-HMM2186-2712_13.0-ORF136
+seq28	>nrnt-KU933934 Pacific coast tick nairovirus isolate Docc2011cons segment M, complete sequence.-table6-Nairoviridae-HMM2302-2829_12.0-ORF133
+seq29	>nrnt-MG012487 Centruroides sculpturatus bunyavirus isolate a2 polyprotein gene, partial cds.-table6-Nairoviridae-HMM803-1232_18.0-ORF72
+seq30	>nrnt-MF176881 Vinegar Hill virus isolate CS1499 segment L, complete sequence.-table6-Nairoviridae-HMM2168-2694_13.0-ORF129
+seq31	>nrnt-MF190036 Lothians earthworm bunya/arena-like virus 1 isolate G99 segment L, partial sequence.-table1-Nairoviridae-HMM124-350_62.0-ORF11
+seq32	>nrnt-KY700684 Grotenhout virus isolate Gierle-1 segment L, complete sequence.-table6-Nairoviridae-HMM3000-3533_10.0-ORF161
+seq33	>nrnt-KP792702 Artashat virus strain LEIV-9000Az segment L RNA-dependent RNA-polymerase gene, partial cds.-table1-Nairoviridae-HMM2133-2659_13.0-ORF111
+seq34	>nrnt-KP792699 Artashat virus strain LEIV-2366Arm segment L RNA-dependent RNA-polymerase gene, partial cds.-table1-Nairoviridae-HMM2137-2663_13.0-ORF112
+seq35	>nrnt-KP792705 Burana virus strain 760 segment L RNA-dependent RNA-polymerase gene, partial cds.-table1-Nairoviridae-HMM2181-2708_13.0-ORF123
+seq36	>nrnt-KP792708 Caspiy virus strain LEIV-63Az segment L RNA-dependent RNA-polymerase gene, partial cds.-table1-Nairoviridae-HMM2163-2688_13.0-ORF83
+seq37	>nrnt-KP792711 Chim virus strain LEIV-858Uz segment L RNA-dependent RNA-polymerase gene, partial cds.-table1-Nairoviridae-HMM2193-2719_13.0-ORF101
+seq38	>nrnt-KP792714 Geran virus strain LEIV-10899Az segment L RNA-dependent RNA-polymerase gene, partial cds.-table1-Nairoviridae-HMM2158-2684_13.0-ORF93
+seq39	>nrnt-KP792717 Paramushir virus strain LEIV-1149K segment L RNA-dependent RNA-polymerase gene, partial cds.-table1-Nairoviridae-HMM2111-2638_13.0-ORF116
+seq40	>nrnt-KP792732 Tamdy virus strain LEIV-10226Az segment L RNA-dependent RNA-polymerase gene, partial cds.-table1-Nairoviridae-HMM2179-2706_13.0-ORF120
+seq41	>nrnt-KP792741 Uzun Agach virus strain LEIV-Kaz155 segment L RNA-dependent RNA-polymerase gene, partial cds.-table1-Nairoviridae-HMM2185-2711_13.0-ORF99
+seq42	>nrnt-KU925491 Taggert virus strain Ml14850 segment L, partial sequence.-table6-Nairoviridae-HMM2124-2651_13.0-ORF137
+seq43	>nrnt-KU925488 Soldado virus strain TRVL 52214 segment L, complete sequence.-table6-Nairoviridae-HMM2170-2695_13.0-ORF130
+seq44	>nrnt-KU925485 Saphire II virus strain RML 52323-14 segment L, complete sequence.-table6-Nairoviridae-HMM2183-2709_13.0-ORF136
+seq45	>nrnt-KU925482 Sakhalin virus strain LEIV-71C segment L, partial sequence.-table6-Nairoviridae-HMM2127-2654_13.0-ORF134
+seq46	>nrnt-KU925455 Dugbe virus strain Ib Ar 1792 segment L, partial sequence.-table4-Nairoviridae-HMM2250-2779_13.0-ORF154
+seq47	>nrnt-KU925452 Dera Ghazi Khan virus strain JD154 segment L, complete sequence.-table6-Nairoviridae-HMM2169-2695_13.0-ORF131
+seq48	>nrnt-KU925437 Abu Mina virus strain EG AN 4996 segment L, complete sequence.-table4-Nairoviridae-HMM2158-2684_13.0-ORF139
+seq49	>nrnt-KU925434 Abu Hammad virus strain Art 1194 segment L, complete sequence.-table6-Nairoviridae-HMM2161-2687_13.0-ORF132
+seq50	>nrnt-KU343157 UNVERIFIED: Punta Salinas virus isolate CalAr888 segment L cRNA sequence.-table6-Nairoviridae-HMM2184-2709_13.0-ORF123
+seq51	>nrnt-KU343148 UNVERIFIED: Bandia virus isolate IPD/A611 segment L cRNA sequence.-table6-Nairoviridae-HMM2165-2691_13.0-ORF135
+seq52	>nrnt-KR537450 Thiafora virus isolate AnD 11411 RNA-dependent RNA polymerase gene, complete cds.-table6-Nairoviridae-HMM2101-2629_13.0-ORF118
+seq53	>nrnt-KR534878 Gossas virus isolate DakAnD 401 segment L, complete sequence.-table6-Nairoviridae-HMM2197-2723_13.0-ORF133
+seq54	>nrnt-KP406723 Hazara virus isolate JC280 segment L, complete sequence.-table4-Nairoviridae-HMM2137-2666_13.0-ORF143
+seq55	>nrnt-KM048320 South Bay virus isolate H38 segment L, complete sequence.-table6-Nairoviridae-HMM2715-3247_11.0-ORF165
+seq56	>nrnt-KF892055 Issyk-Kul virus strain LEIV-315K segment L, complete sequence.-table4-Nairoviridae-HMM2188-2714_13.0-ORF140
+seq57	>nrnt-FV537249 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Nairoviridae-HMM2174-2702_13.0-ORF185
+seq58	>nrnt-DQ211612 Crimean-Congo hemorrhagic fever virus strain AP92 segment L, complete sequence.-table4-Nairoviridae-HMM2158-2687_13.0-ORF147
+seq59	>nrnt-EU257628 Kupe virus isolate K611 segment L, complete sequence.-table6-Nairoviridae-HMM2264-2793_12.0-ORF151
+seq60	>tsa-GBCS01018455.1 (REVERSE SENSE) TSA: Latrodectus hesperus silk_comp13041_c0_seq1 transcribed RNA sequence-table1-Nairoviridae-HMM1-92_55.0-ORF9
+seq61	>tsa-GBCS01025681.1 (REVERSE SENSE) TSA: Latrodectus hesperus silk_comp13041_c1_seq1 transcribed RNA sequence-table1-Nairoviridae-HMM2-92_95.0-ORF8
+seq62	>tsa-GDUJ01083694.1 (REVERSE SENSE) TSA: Talitrus saltator comp102738_c0_seq1 transcribed RNA sequence-table6-Nairoviridae-HMM2371-2518_3.0-ORF312
+seq63	>nrnt-KM817696 Wuhan Millipede Virus 2 strain WHWG03 RNA-dependent RNA polymerase (L) gene, complete cds.-table6-Wupedeviridae-HMM2116-2629_13.0-ORF138
+seq64	>ref-NC_033761.1 Hubei myriapoda virus 5 strain GCM10499 RNA-dependent RNA polymerase gene, complete cds-table6-Mypoviridae-HMM1661-2199_16.0-ORF105
+seq65	>nrnt-KR870029 (REVERSE SENSE) University of Giessen virus strain UGV-2 segment L Z protein and RdRp genes, complete cds.-table4-Mypoviridae-HMM1160-1380_10.0-ORF156
+seq66	>nrnt-KP071662 (REVERSE SENSE) Unidentified Reptarenavirus strain Reptarenavirus/Boa constrictor/Georgia/snake24/2007 (L12) segment L Z protein (Z) and L polymerase (L) genes, complete cds.-table6-Mypoviridae-HMM1190-1410_10.0-ORF174
+seq67	>nrnt-KP071518 (REVERSE SENSE) Unidentified Reptarenavirus strain Reptarenavirus/Boa constrictor/Georgia/snake25/2005 (L7) segment L Z protein (Z) and L polymerase (L) genes, complete cds.-table6-Mypoviridae-HMM1293-1411_5.0-ORF174
+seq68	>nrnt-KP071503 (REVERSE SENSE) Unidentified Reptarenavirus strain Reptarenavirus/Boa constrictor/California/snake22/2013 (L10) segment L Z protein (Z) and L polymerase (L) genes, complete cds.-table4-Mypoviridae-HMM1155-1373_10.0-ORF180

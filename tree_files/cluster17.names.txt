@@ -1,0 +1,207 @@
+seq1	>ref-NC_002204.1 Influenza B virus RNA 1, complete sequence-table6-Orthomyxoviridae-HMM217-699_61.0-ORF28
+seq2	>ref-NC_004911.1 Influenza A virus pb1 gene for polymerase Pb1, genomic RNA, strain A/Hong Kong/1073/99(H9N2)-table4-Orthomyxoviridae-HMM218-700_62.0-ORF22
+seq3	>ref-NC_006503.1 Infectious salmon anemia virus segment 2, complete sequence-table4-Orthomyxoviridae-HMM218-682_64.0-ORF22
+seq4	>ref-NC_006495.1 Thogoto virus segment 2, complete sequence-table4-Orthomyxoviridae-HMM221-668_61.0-ORF17
+seq5	>ref-NC_006308.2 Influenza C virus (C/Ann Arbor/1/50) PB1 gene for polymerase 1, complete cds-table4-Orthomyxoviridae-HMM219-695_60.0-ORF27
+seq6	>ref-NC_007358.1 Influenza A virus (A/goose/Guangdong/1/1996(H5N1)) polymerase (PB1) and PB1-F2 protein (PB1-F2) genes, complete cds-table4-Orthomyxoviridae-HMM219-702_63.0-ORF21
+seq7	>ref-NC_007372.1 Influenza A virus (A/New York/392/2004(H3N2)) segment 2, complete sequence-table4-Orthomyxoviridae-HMM219-702_63.0-ORF24
+seq8	>ref-NC_002021.1 Influenza A virus (A/Puerto Rico/8/1934(H1N1)) segment 2, complete sequence-table4-Orthomyxoviridae-HMM219-702_63.0-ORF21
+seq9	>ref-NC_007375.1 Influenza A virus (A/Korea/426/1968(H2N2)) segment 2, complete sequence-table4-Orthomyxoviridae-HMM219-702_63.0-ORF24
+seq10	>ref-NC_025796.1 Wellfleet Bay virus isolate 10-280-G segment 2 polymerase basic 1 protein (PB1) gene, complete cds-table6-Orthomyxoviridae-HMM244-718_58.0-ORF30
+seq11	>ref-NC_026423.1 Influenza A virus (A/Shanghai/02/2013(H7N9)) segment 2 polymerase PB1 (PB1) and PB1-F2 protein (PB1-F2) genes, complete cds-table6-Orthomyxoviridae-HMM211-694_63.0-ORF27
+seq12	>ref-NC_026435.1 Influenza A virus (A/California/07/2009(H1N1)) segment 2 polymerase PB1 (PB1) gene, complete cds; and nonfunctional PB1-F2 protein (PB1-F2) gene, complete sequence-table6-Orthomyxoviridae-HMM211-694_63.0-ORF25
+seq13	>ref-NC_036615.1 Influenza D virus (D/swine/Oklahoma/1334/2011) segment 2 polymerase PB1 (PB1) gene, complete cds-table6-Orthomyxoviridae-HMM221-698_61.0-ORF26
+seq14	>nrnt-KX883884 Hubei orthoptera virus 6 strain ZCM21154 segment 2 polymerase PB1 gene, complete cds.-table6-Orthomyxoviridae-HMM209-663_61.0-ORF22
+seq15	>nrnt-KX883874 Hubei orthomyxo-like virus 4 strain SCM51211 polymerase PB1 gene, complete cds.-table6-Orthomyxoviridae-HMM187-643_63.0-ORF21
+seq16	>nrnt-KX883873 Hubei orthomyxo-like virus 1 strain SCM47652 polymerase PB1 gene, partial cds.-table1-Orthomyxoviridae-HMM259-724_60.0-ORF24
+seq17	>nrnt-KX883868 Hubei orthomyxo-like virus 2 strain QTM27225 segment 2 polymerase PB1 gene, complete cds.-table4-Orthomyxoviridae-HMM266-733_56.0-ORF28
+seq18	>nrnt-KX883858 Hubei earwig virus 1 strain GCM19162 segment 2 polymerase PB1 gene, complete cds.-table4-Orthomyxoviridae-HMM265-719_55.0-ORF27
+seq19	>nrnt-KX883844 Beihai orthomyxo-like virus 1 strain BHTSS17872 segment 2 polymerase PB1 gene, complete cds.-table6-Orthomyxoviridae-HMM260-726_58.0-ORF29
+seq20	>nrnt-MF176325 Aedes alboannulatus orthomyxo-like virus strain mosWSAb70818 segment 1, complete sequence.-table6-Orthomyxoviridae-HMM255-714_56.0-ORF29
+seq21	>nrnt-MG972993 (REVERSE SENSE) Photinus pyralis orthomyxo-like virus 2 PB1 gene, complete cds.-table4-Orthomyxoviridae-HMM273-734_55.0-ORF63
+seq22	>nrnt-MG972988 (REVERSE SENSE) Photinus pyralis orthomyxo-like virus 1 PB1 gene, complete cds.-table6-Orthomyxoviridae-HMM269-736_55.0-ORF60
+seq23	>nrnt-LC320124 Oz virus viral cRNA, segment 2, complete sequence, strain: EH8.-table6-Orthomyxoviridae-HMM223-671_60.0-ORF28
+seq24	>nrnt-MG600056 Wuhan carp Isavirus 2 strain DSYS10070 PB1 gene, complete cds.-table6-Orthomyxoviridae-HMM200-663_65.0-ORF31
+seq25	>nrnt-MG600055 Wuhan carp Isavirus 1 strain DSYS7778 PB1 gene, complete cds.-table4-Orthomyxoviridae-HMM214-675_64.0-ORF21
+seq26	>nrnt-MG600051 Wenling hagfish influenza virus strain DHMMS23081 PB1 gene, complete cds.-table6-Orthomyxoviridae-HMM225-700_61.0-ORF24
+seq27	>nrnt-MG600045 Wuhan asiatic toad influenza virus strain WHHM46916 PB1 gene, complete cds.-table6-Orthomyxoviridae-HMM222-704_63.0-ORF23
+seq28	>nrnt-MG600038 Wuhan spiny eel influenza virus strain WHQSR4065 PB1 gene, complete cds.-table6-Orthomyxoviridae-HMM213-694_63.0-ORF24
+seq29	>nrnt-MG600036 Wenling orthomyxo-like virus 2 strain XTXMS37791 PB1 gene, partial cds.-table1-Orthomyxoviridae-HMM193-655_69.0-ORF14
+seq30	>nrnt-MG600035 Yancheng orthomyxo-like virus strain XLXMC11546 PB1 gene, partial cds.-table6-Orthomyxoviridae-HMM157-610_66.0-ORF26
+seq31	>nrnt-MG600033 Wenling orthomyxo-like virus 1 strain XDLYMSFlu21588 PB1 gene, complete cds.-table4-Orthomyxoviridae-HMM228-678_58.0-ORF22
+seq32	>nrnt-MF190045 Barns Ness dog whelk orthomyxo-like virus 1 isolate E38 segment 2, partial sequence.-table4-Orthomyxoviridae-HMM196-647_61.0-ORF11
+seq33	>ref-NC_034263 Dhori virus isolate Dhori/1313/61 segment 2, complete sequence.-table6-Orthomyxoviridae-HMM223-673_61.0-ORF24
+seq34	>nrnt-KX898491 Whidbey virus strain UW1 PB1 gene, complete cds.-table4-Orthomyxoviridae-HMM260-706_56.0-ORF22
+seq35	>nrnt-KX882062 Rainbow trout orthomyxovirus-1 strain Rainbow/Idaho/347/1997 putative polymerase basic 1 (PB1) gene, complete cds.-table4-Orthomyxoviridae-HMM224-680_62.0-ORF19
+seq36	>nrnt-KX883875 Jingshan Fly Virus 1 strain SCM40889 segment PB1 polymerase PB1 gene, complete cds.-table6-Orthomyxoviridae-HMM261-706_55.0-ORF25
+seq37	>nrnt-KX949590 Sinu virus strain CoB 38d segment 2 PB1 protein gene, complete cds.-table6-Orthomyxoviridae-HMM222-669_61.0-ORF25
+seq38	>nrnt-KM817628 Wuchang Cockraoch Virus 2 strain WCZL-3 PB1 (PB1) gene, partial cds.-table1-Orthomyxoviridae-HMM183-354_45.0-ORF11
+seq39	>nrnt-KM817627 Wuhan Mothfly Virus strain WHDL03 PB1 (PB1) gene, complete cds.-table6-Orthomyxoviridae-HMM167-626_64.0-ORF20
+seq40	>nrnt-KM817626 Wuhan Mosquito Virus 7 strain XC1-5 PB1 (PB1) gene, complete cds.-table6-Orthomyxoviridae-HMM244-695_56.0-ORF28
+seq41	>nrnt-KM817625 Wuhan Mosquito Virus 6 strain QN3-6 PB1 (PB1) gene, complete cds.-table6-Orthomyxoviridae-HMM260-706_54.0-ORF26
+seq42	>nrnt-KM817624 Wuhan Mosquito Virus 5 strain XC1-7 PB1 (PB1) gene, complete cds.-table4-Orthomyxoviridae-HMM267-717_55.0-ORF20
+seq43	>nrnt-KM817623 Wuhan Mosquito Virus 4 strain XC3-4 PB1 (PB1) gene, complete cds.-table6-Orthomyxoviridae-HMM270-710_54.0-ORF30
+seq44	>nrnt-KM817622 Wuhan Mosquito Virus 3 strain XZ2-7 PB1 (PB1) gene, complete cds.-table4-Orthomyxoviridae-HMM259-719_56.0-ORF24
+seq45	>nrnt-KM817621 Wuhan Louse Fly Virus 4 strain BFJSC-4 PB1 (PB1) gene, complete cds.-table6-Orthomyxoviridae-HMM268-714_53.0-ORF30
+seq46	>nrnt-KM817620 Wuhan Louse Fly Virus 3 strain BFJSC-1 PB1 (PB1) gene, complete cds.-table4-Orthomyxoviridae-HMM252-697_55.0-ORF35
+seq47	>nrnt-KM817619 Shuangao Insect Virus 4 strain QSA07-1 PB1 (PB1) gene, complete cds.-table4-Orthomyxoviridae-HMM257-713_55.0-ORF33
+seq48	>nrnt-KM817618 Shayang Spider Virus 3 strain SYZZ-5 PB1 (PB1) gene, complete cds.-table6-Orthomyxoviridae-HMM88-382_62.0-ORF28
+seq49	>nrnt-KM817617 Sanxia Water Strider Virus 3 strain SXSSP01 PB1 (PB1) gene, complete cds.-table4-Orthomyxoviridae-HMM255-712_56.0-ORF30
+seq50	>nrnt-KM817616 Jiujie Fly Virus strain JJ3-6 PB1 (PB1) gene, complete cds.-table4-Orthomyxoviridae-HMM184-630_62.0-ORF28
+seq51	>nrnt-KU708254 Bourbon virus strain Original polymerase subunit (PB1) gene, complete cds.-table6-Orthomyxoviridae-HMM223-672_61.0-ORF27
+seq52	>nrnt-LC010982 Thogoto virus gene for PB1 polymerase, complete cds, strain: Hl-Kamigamo-25.-table6-Orthomyxoviridae-HMM219-665_61.0-ORF22
+seq53	>nrnt-KC506163 Aransas Bay virus segment 2 PB1 protein (PB1) gene, complete cds.-table4-Orthomyxoviridae-HMM229-675_59.0-ORF31
+seq54	>nrnt-KC506157 Upolu virus segment 2 polymerase basic subunit 1 (PB1) gene, complete cds.-table6-Orthomyxoviridae-HMM229-676_60.0-ORF23
+seq55	>nrnt-JQ928944 Tjuloc virus strain LEIV 152K polymerase PB1 gene, complete cds.-table4-Orthomyxoviridae-HMM257-718_57.0-ORF24
+seq56	>nrnt-HM627170 Jos virus segment 2 PB1 gene, partial cds.-table1-Orthomyxoviridae-HMM223-669_62.0-ORF26
+seq57	>nrnt-FJ861697 Johnston Atoll virus isolate LBJ polymerase PB1 (PB1) gene, complete cds.-table4-Orthomyxoviridae-HMM247-707_59.0-ORF25
+seq58	>nrnt-FJ861695 Quaranfil virus isolate EG T 377 polymerase PB1 (PB1) gene, complete cds.-table4-Orthomyxoviridae-HMM256-716_57.0-ORF24
+seq59	>tsa-GAYY02007539.1 (REVERSE SENSE) TSA: Acanthocasuarina muellerianae C122436_a_3_0_l_248 transcribed RNA sequence-table1-Orthomyxoviridae-HMM9-81_87.0-ORF9
+seq60	>tsa-GAYY02025820.1 (REVERSE SENSE) TSA: Acanthocasuarina muellerianae C179371_a_3_0_l_677 transcribed RNA sequence-table6-Orthomyxoviridae-HMM63-157_50.0-ORF17
+seq61	>tsa-GAYY02031977.1 (REVERSE SENSE) TSA: Acanthocasuarina muellerianae C202542_a_10_0_l_2494 transcribed RNA sequence-table6-Orthomyxoviridae-HMM259-716_55.0-ORF57
+seq62	>tsa-GAUV02022082.1 TSA: Acanthosoma haemorrhoidale C93156_a_6_0_l_2190 transcribed RNA sequence-table1-Orthomyxoviridae-HMM206-659_62.0-ORF18
+seq63	>tsa-GEXX01073774.1 TSA: Achipteria coleoptrata TR25245_c0_g1_i1 transcribed RNA sequence-table4-Orthomyxoviridae-HMM194-671_63.0-ORF30
+seq64	>tsa-GEXX01073775.1 TSA: Achipteria coleoptrata TR25245_c0_g2_i1 transcribed RNA sequence-table4-Orthomyxoviridae-HMM194-671_63.0-ORF30
+seq65	>tsa-GEXX01073776.1 TSA: Achipteria coleoptrata TR25245_c0_g3_i1 transcribed RNA sequence-table4-Orthomyxoviridae-HMM194-671_63.0-ORF30
+seq66	>tsa-GAFE01003071.1 (REVERSE SENSE) TSA: Anopheles sinensis contig_4160 mRNA sequence-table4-Orthomyxoviridae-HMM18-216_63.0-ORF25
+seq67	>tsa-GAFE01004188.1 TSA: Anopheles sinensis contig_5634 mRNA sequence-table4-Orthomyxoviridae-HMM110-288_60.0-ORF10
+seq68	>tsa-GBEO01019482.1 (REVERSE SENSE) TSA: Anopheles sinensis Unigene14140_5 transcribed RNA sequence-table4-Orthomyxoviridae-HMM6-330_76.0-ORF35
+seq69	>tsa-GBEO01019483.1 TSA: Anopheles sinensis Unigene14141_5 transcribed RNA sequence-table1-Orthomyxoviridae-HMM262-365_26.0-ORF10
+seq70	>tsa-GAJV01007579.1 (REVERSE SENSE) TSA: Anoplocnemis curvipes Anop_trimmed_contig_7663 transcribed RNA sequence-table6-Orthomyxoviridae-HMM14-111_66.0-ORF11
+seq71	>tsa-GAYJ02033071.1 TSA: Atelura formicaria C264193_a_39_0_l_2485 transcribed RNA sequence-table6-Orthomyxoviridae-HMM464-736_32.0-ORF33
+seq72	>tsa-GDHF01033387.1 TSA: Bactrocera latifrons TR19140-c0_g1_i1 transcribed RNA sequence-table6-Orthomyxoviridae-HMM271-732_56.0-ORF31
+seq73	>tsa-GFOR01019367.1 (REVERSE SENSE) TSA: Bactrocera latifrons TR12420_c0_g1_i1 transcribed RNA sequence-table6-Orthomyxoviridae-HMM272-733_56.0-ORF69
+seq74	>tsa-GAPP01016528.1 (REVERSE SENSE) TSA: Bemisia tabaci BT_B_G_ZJU_Unigene11474 transcribed RNA sequence-table1-Orthomyxoviridae-HMM39-350_86.0-ORF32
+seq75	>tsa-GAUC01042530.1 (REVERSE SENSE) TSA: Bemisia tabaci Unitig_42792 transcribed RNA sequence-table1-Orthomyxoviridae-HMM18-95_63.0-ORF10
+seq76	>tsa-GBII01039131.1 TSA: Bemisia tabaci Unigene13564_AB transcribed RNA sequence-table6-Orthomyxoviridae-HMM270-580_52.0-ORF16
+seq77	>tsa-GBIJ01015096.1 (REVERSE SENSE) TSA: Bemisia tabaci Unigene34972_A transcribed RNA sequence-table6-Orthomyxoviridae-HMM270-577_52.0-ORF37
+seq78	>tsa-GCZW01017086.1 TSA: Bemisia tabaci Unigene14186_N1 transcribed RNA sequence-table6-Orthomyxoviridae-HMM270-580_52.0-ORF16
+seq79	>tsa-GEZK01038456.1 TSA: Bemisia tabaci c195330_g1 transcribed RNA sequence-table1-Orthomyxoviridae-HMM1-88_97.0-ORF3
+seq80	>tsa-GEZK01079859.1 (REVERSE SENSE) TSA: Bemisia tabaci c265325_g1 transcribed RNA sequence-table1-Orthomyxoviridae-HMM1-185_97.0-ORF18
+seq81	>tsa-GEZK01153257.1 (REVERSE SENSE) TSA: Bemisia tabaci c191954_g1 transcribed RNA sequence-table1-Orthomyxoviridae-HMM1-103_96.0-ORF10
+seq82	>tsa-HAEN01034382.1 TSA: Bragasellus peltatus, contig comp38716_c0_seq1, transcribed RNA sequence-table6-Orthomyxoviridae-HMM217-668_59.0-ORF30
+seq83	>tsa-GAPE01012446.1 TSA: Meligethes aeneus Locus_12989_Contig1 transcribed RNA sequence-table6-Orthomyxoviridae-HMM271-679_60.0-ORF25
+seq84	>tsa-GEUE01031087.1 (REVERSE SENSE) TSA: Callosobruchus maculatus c44902_g1_i1 transcribed RNA sequence-table1-Orthomyxoviridae-HMM74-228_67.0-ORF15
+seq85	>tsa-GEUE01049438.1 TSA: Callosobruchus maculatus c23738_g1_i1 transcribed RNA sequence-table6-Orthomyxoviridae-HMM214-672_60.0-ORF26
+seq86	>tsa-GEUE01065264.1 (REVERSE SENSE) TSA: Callosobruchus maculatus c4571_g1_i1 transcribed RNA sequence-table1-Orthomyxoviridae-HMM2-234_95.0-ORF19
+seq87	>tsa-GEUF01057062.1 (REVERSE SENSE) TSA: Callosobruchus maculatus c15782_g1_i1 transcribed RNA sequence-table4-Orthomyxoviridae-HMM271-729_55.0-ORF74
+seq88	>tsa-GEUF01064683.1 TSA: Callosobruchus maculatus c21022_g1_i1 transcribed RNA sequence-table4-Orthomyxoviridae-HMM276-734_55.0-ORF33
+seq89	>tsa-GEUH01007982.1 (REVERSE SENSE) TSA: Callosobruchus maculatus c42062_g1_i1 transcribed RNA sequence-table1-Orthomyxoviridae-HMM47-299_83.0-ORF24
+seq90	>tsa-GEUH01026206.1 TSA: Callosobruchus maculatus c18952_g1_i1 transcribed RNA sequence-table4-Orthomyxoviridae-HMM277-735_55.0-ORF33
+seq91	>tsa-GEUH01047422.1 (REVERSE SENSE) TSA: Callosobruchus maculatus c28966_g1_i1 transcribed RNA sequence-table4-Orthomyxoviridae-HMM3-205_67.0-ORF28
+seq92	>tsa-GBVI01015221.1 (REVERSE SENSE) TSA: Cephus spinipes C70634_a_44_0_l_2457 transcribed RNA sequence-table6-Orthomyxoviridae-HMM267-729_56.0-ORF65
+seq93	>tsa-GAMC01001661.1 TSA: Ceratitis capitata comp54479_c0_seq1 mRNA sequence-table4-Orthomyxoviridae-HMM269-725_56.0-ORF27
+seq94	>tsa-GAWK02011243.1 (REVERSE SENSE) TSA: Ceratophyllus gallinae C83065_a_9_0_l_1833 transcribed RNA sequence-table4-Orthomyxoviridae-HMM61-522_75.0-ORF52
+seq95	>tsa-GAJX01009374.1 (REVERSE SENSE) TSA: Clavigralla tomentosicollis Clavig_trimmed_contig_9462 transcribed RNA sequence-table1-Orthomyxoviridae-HMM1-254_97.0-ORF26
+seq96	>tsa-GAKG01021029.1 (REVERSE SENSE) TSA: Cotesia vestalis comp4629_c0_seq1 transcribed RNA sequence-table6-Orthomyxoviridae-HMM265-725_56.0-ORF56
+seq97	>tsa-GAQF01009657.1 TSA: Cotesia vestalis Unigene9657_Cotesia_vestalis_venom_glands transcribed RNA sequence-table1-Orthomyxoviridae-HMM14-125_79.0-ORF3
+seq98	>tsa-GFAF01043430.1 TSA: Cotesia vestalis Unigene32987_All transcribed RNA sequence-table1-Orthomyxoviridae-HMM14-88_74.0-ORF3
+seq99	>tsa-GAZN02039394.1 TSA: Cryptocercus wrighti C216892_a_25_0_l_2468 transcribed RNA sequence-table4-Orthomyxoviridae-HMM270-724_55.0-ORF37
+seq100	>tsa-GECN01122151.1 (REVERSE SENSE) TSA: Diachasma alloeum Dall_Trinity_131625_c0_g1_i1 transcribed RNA sequence-table6-Orthomyxoviridae-HMM256-717_57.0-ORF55
+seq101	>tsa-GECN01122152.1 TSA: Diachasma alloeum Dall_Trinity_131625_c1_g1_i1 transcribed RNA sequence-table6-Orthomyxoviridae-HMM261-722_56.0-ORF24
+seq102	>tsa-GBES01001676.1 (REVERSE SENSE) TSA: Dichelops melacanthus Locus_1816_Transcript_1/1_Confidence_1.000_Length_1595 transcribed RNA sequence-table6-Orthomyxoviridae-HMM1-434_81.0-ORF40
+seq103	>tsa-GBES01005042.1 TSA: Dichelops melacanthus Locus_8867_Transcript_1/2_Confidence_0.938_Length_1193 transcribed RNA sequence-table1-Orthomyxoviridae-HMM4-355_88.0-ORF11
+seq104	>tsa-GBES01005043.1 TSA: Dichelops melacanthus Locus_8867_Transcript_2/2_Confidence_0.938_Length_1113 transcribed RNA sequence-table1-Orthomyxoviridae-HMM24-328_82.0-ORF10
+seq105	>tsa-GENH01032195.1 TSA: Dryadaula visaliella k54_487631 transcribed RNA sequence-table6-Orthomyxoviridae-HMM50-283_51.0-ORF19
+seq106	>tsa-GENH01035966.1 TSA: Dryadaula visaliella k56_432751 transcribed RNA sequence-table6-Orthomyxoviridae-HMM50-283_52.0-ORF20
+seq107	>tsa-GENH01054992.1 TSA: Dryadaula visaliella k64_325739 transcribed RNA sequence-table6-Orthomyxoviridae-HMM50-283_49.0-ORF20
+seq108	>tsa-GENH01079351.1 (REVERSE SENSE) TSA: Dryadaula visaliella k66_570900 transcribed RNA sequence-table6-Orthomyxoviridae-HMM50-283_51.0-ORF46
+seq109	>tsa-GEOD01040642.1 TSA: Dryadaula visaliella c37585_g8_i1 transcribed RNA sequence-table6-Orthomyxoviridae-HMM50-283_55.0-ORF18
+seq110	>tsa-GEOD01040643.1 TSA: Dryadaula visaliella c37585_g8_i2 transcribed RNA sequence-table6-Orthomyxoviridae-HMM280-501_43.0-ORF23
+seq111	>tsa-GFBH01081126.1 TSA: Eogystia hippophaecolus c76600.graph_c0 transcribed RNA sequence-table6-Orthomyxoviridae-HMM274-725_55.0-ORF29
+seq112	>tsa-GEPO01050000.1 TSA: Eucarinogammarus wagii c57842_g1_i1 transcribed RNA sequence-table1-Orthomyxoviridae-HMM9-133_93.0-ORF5
+seq113	>tsa-GBER01000905.1 (REVERSE SENSE) TSA: Euschistus heros Locus_303_Transcript_3/5_Confidence_0.240_Length_2592 transcribed RNA sequence-table4-Orthomyxoviridae-HMM6-311_70.0-ORF75
+seq114	>tsa-GBER01000907.1 (REVERSE SENSE) TSA: Euschistus heros Locus_303_Transcript_5/5_Confidence_0.480_Length_2429 transcribed RNA sequence-table1-Orthomyxoviridae-HMM264-687_52.0-ORF55
+seq115	>tsa-GAYQ02036464.1 TSA: Forficula auricularia C203650_a_25_0_l_2509 transcribed RNA sequence-table6-Orthomyxoviridae-HMM276-734_55.0-ORF32
+seq116	>tsa-GAXD01017262.1 TSA: Frankliniella occidentalis THRIPS_11_08_2011_17950 transcribed RNA sequence-table6-Orthomyxoviridae-HMM165-324_39.0-ORF11
+seq117	>tsa-GAZA02096166.1 (REVERSE SENSE) TSA: Haploembia palaui C359538_a_27_0_l_1672 transcribed RNA sequence-table4-Orthomyxoviridae-HMM286-525_45.0-ORF41
+seq118	>tsa-GEYB01058798.1 (REVERSE SENSE) TSA: Hermannia gibba TR18190_c0_g1_i1 transcribed RNA sequence-table1-Orthomyxoviridae-HMM12-140_90.0-ORF7
+seq119	>tsa-GEYB01121407.1 TSA: Hermannia gibba TR40789_c0_g1_i1 transcribed RNA sequence-table1-Orthomyxoviridae-HMM204-675_63.0-ORF19
+seq120	>tsa-GDLS01007805.1 (REVERSE SENSE) TSA: Hypothenemus hampei C106590 transcribed RNA sequence-table6-Orthomyxoviridae-HMM25-125_79.0-ORF11
+seq121	>tsa-GDLS01012798.1 (REVERSE SENSE) TSA: Hypothenemus hampei C123938 transcribed RNA sequence-table4-Orthomyxoviridae-HMM2-221_72.0-ORF29
+seq122	>tsa-GDAA01056846.1 TSA: Bemisia tabaci Unigene16696_NB1 transcribed RNA sequence-table6-Orthomyxoviridae-HMM269-579_52.0-ORF17
+seq123	>tsa-GACR01007602.1 (REVERSE SENSE) TSA: Ips typographus ConsensusfromContig10241 mRNA sequence-table1-Orthomyxoviridae-HMM13-71_78.0-ORF6
+seq124	>tsa-GANI01048456.1 TSA: Karelinia caspia comp196146_c0_seq1 transcribed RNA sequence-table1-Orthomyxoviridae-HMM5-329_79.0-ORF14
+seq125	>tsa-GANI01049074.1 TSA: Karelinia caspia comp207840_c0_seq1 transcribed RNA sequence-table1-Orthomyxoviridae-HMM267-356_24.0-ORF11
+seq126	>tsa-GEEF01058242.1 (REVERSE SENSE) TSA: Leptinotarsa decemlineata comp104525_c0_seq1 transcribed RNA sequence-table6-Orthomyxoviridae-HMM269-734_56.0-ORF70
+seq127	>tsa-GEEF01058243.1 (REVERSE SENSE) TSA: Leptinotarsa decemlineata comp104525_c0_seq2 transcribed RNA sequence-table6-Orthomyxoviridae-HMM269-527_48.0-ORF48
+seq128	>tsa-GEEF01058244.1 (REVERSE SENSE) TSA: Leptinotarsa decemlineata comp104525_c0_seq3 transcribed RNA sequence-table6-Orthomyxoviridae-HMM269-645_58.0-ORF56
+seq129	>tsa-GEEF01108865.1 TSA: Leptinotarsa decemlineata comp112642_c0_seq1 transcribed RNA sequence-table6-Orthomyxoviridae-HMM275-739_56.0-ORF30
+seq130	>tsa-GEZB01015213.1 (REVERSE SENSE) TSA: Locusta migratoria Unigene4336_N2 transcribed RNA sequence-table6-Orthomyxoviridae-HMM255-720_56.0-ORF63
+seq131	>tsa-GBDZ01002730.1 TSA: Locusta migratoria manilensis a2939;190 transcribed RNA sequence-table6-Orthomyxoviridae-HMM255-720_57.0-ORF29
+seq132	>tsa-GCGJ01013141.1 (REVERSE SENSE) TSA: Locusta migratoria manilensis CL7648.Contig1_test2_name transcribed RNA sequence-table6-Orthomyxoviridae-HMM255-720_56.0-ORF62
+seq133	>tsa-GDIO01020133.1 TSA: Locusta migratoria manilensis Unigene18248_All transcribed RNA sequence-table6-Orthomyxoviridae-HMM254-719_56.0-ORF31
+seq134	>tsa-GETS01056470.1 TSA: Locusta migratoria manilensis Unigene24571_ALL transcribed RNA sequence-table6-Orthomyxoviridae-HMM12-337_75.0-ORF17
+seq135	>tsa-GEOJ01343533.1 TSA: Lophocorona astiptica TR269259-c0_g1_i1 transcribed RNA sequence-table1-Orthomyxoviridae-HMM40-100_60.0-ORF3
+seq136	>tsa-GEXY01023690.1 (REVERSE SENSE) TSA: Megaloprepus caerulatus TR117154-c0_g1_i1 transcribed RNA sequence-table6-Orthomyxoviridae-HMM2-178_65.0-ORF22
+seq137	>tsa-GEXY01028400.1 TSA: Megaloprepus caerulatus TR120504-c0_g1_i1 transcribed RNA sequence-table1-Orthomyxoviridae-HMM67-169_52.0-ORF4
+seq138	>tsa-GEXY01056889.1 TSA: Megaloprepus caerulatus TR140707-c0_g1_i1 transcribed RNA sequence-table6-Orthomyxoviridae-HMM1-265_74.0-ORF13
+seq139	>tsa-GFME01046484.1 (REVERSE SENSE) TSA: Megaphragma amalphitanum transcript46838 transcribed RNA sequence-table4-Orthomyxoviridae-HMM256-720_57.0-ORF59
+seq140	>tsa-GCPB01057471.1 (REVERSE SENSE) TSA: Megastigmus spermotrophus contig105229 transcribed RNA sequence-table1-Orthomyxoviridae-HMM1-100_83.0-ORF10
+seq141	>tsa-GECV01039268.1 TSA: Microhyla fissipes comp714655_c0 transcribed RNA sequence-table1-Orthomyxoviridae-HMM2-112_98.0-ORF5
+seq142	>tsa-GECV01050644.1 TSA: Microhyla fissipes comp456048_c0 transcribed RNA sequence-table1-Orthomyxoviridae-HMM1-109_68.0-ORF4
+seq143	>tsa-GEQP01035960.1 TSA: Micruropus wahlii c51237_g1_i1 transcribed RNA sequence-table4-Orthomyxoviridae-HMM179-642_66.0-ORF21
+seq144	>tsa-GEQP01038422.1 (REVERSE SENSE) TSA: Micruropus wahlii c53927_g2_i1 transcribed RNA sequence-table1-Orthomyxoviridae-HMM2-120_96.0-ORF10
+seq145	>tsa-GFAT01014782.1 (REVERSE SENSE) TSA: Mnemiopsis leidyi c353158_g1_i1 transcribed RNA sequence-table1-Orthomyxoviridae-HMM110-572_69.0-ORF56
+seq146	>tsa-GFAT01052308.1 TSA: Mnemiopsis leidyi c352005_g1_i1 transcribed RNA sequence-table6-Orthomyxoviridae-HMM265-548_51.0-ORF18
+seq147	>tsa-GECQ01168379.1 (REVERSE SENSE) TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.168379 transcribed RNA sequence-table1-Orthomyxoviridae-HMM29-102_70.0-ORF10
+seq148	>tsa-GFCT01006568.1 TSA: Mythimna separata c16663_g1 transcribed RNA sequence-table4-Orthomyxoviridae-HMM272-740_55.0-ORF33
+seq149	>tsa-GFMR01005537.1 TSA: Nibea albiflora contig5542 transcribed RNA sequence-table4-Orthomyxoviridae-HMM217-310_30.0-ORF9
+seq150	>tsa-GFMR01048742.1 TSA: Nibea albiflora comp25183_c0_seq2 transcribed RNA sequence-table4-Orthomyxoviridae-HMM217-310_30.0-ORF9
+seq151	>tsa-GANM01015319.1 TSA: Nilaparvata lugens Unigene27121_All transcribed RNA sequence-table6-Orthomyxoviridae-HMM272-726_55.0-ORF35
+seq152	>tsa-GAYF02024619.1 TSA: Nilaparvata lugens C182325_a_52_0_l_2449 transcribed RNA sequence-table6-Orthomyxoviridae-HMM264-721_56.0-ORF30
+seq153	>tsa-GEQT01000292.1 (REVERSE SENSE) TSA: Pachyschesis branchialis c354_g1_i1 transcribed RNA sequence-table6-Orthomyxoviridae-HMM285-750_56.0-ORF71
+seq154	>tsa-GBVU01030076.1 TSA: Pelecinus polyturator s332_L_334_0_a_11_8_l_2334 transcribed RNA sequence-table1-Orthomyxoviridae-HMM237-704_60.0-ORF24
+seq155	>tsa-GBVU01030087.1 TSA: Pelecinus polyturator s333_L_334_1_a_11_8_l_2334 transcribed RNA sequence-table1-Orthomyxoviridae-HMM237-704_60.0-ORF25
+seq156	>tsa-GAXS01004661.1 TSA: Pepsis grossa comp5107_c0_seq1 transcribed RNA sequence-table6-Orthomyxoviridae-HMM257-727_58.0-ORF26
+seq157	>tsa-GAWJ02031466.1 TSA: Peruphasma schultei C191556_a_17_0_l_2454 transcribed RNA sequence-table6-Orthomyxoviridae-HMM262-713_56.0-ORF25
+seq158	>tsa-GEOW01122366.1 (REVERSE SENSE) TSA: Photinus pyralis TR62624_c0_g1_i1 transcribed RNA sequence-table4-Orthomyxoviridae-HMM101-171_39.0-ORF32
+seq159	>tsa-GEOW01161601.1 (REVERSE SENSE) TSA: Photinus pyralis TR86734_c0_g1_i1 transcribed RNA sequence-table6-Orthomyxoviridae-HMM4-141_91.0-ORF12
+seq160	>tsa-GEZM01032699.1 (REVERSE SENSE) TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN35834_c0_g1_i1 transcribed RNA sequence-table6-Orthomyxoviridae-HMM61-173_45.0-ORF22
+seq161	>tsa-GEZM01043994.1 TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN16928_c0_g1_i1 transcribed RNA sequence-table4-Orthomyxoviridae-HMM271-732_55.0-ORF26
+seq162	>tsa-GEZM01079114.1 TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN17932_c0_g1_i1 transcribed RNA sequence-table6-Orthomyxoviridae-HMM272-739_55.0-ORF30
+seq163	>tsa-GFUB01185180.1 TSA: Podisus maculiventris TRINITY_DN76451_c2_g1_i2 transcribed RNA sequence-table6-Orthomyxoviridae-HMM113-258_51.0-ORF16
+seq164	>tsa-GDHQ01061288.1 (REVERSE SENSE) TSA: Polistes metricus PmetTSAr2.0-061433 transcribed RNA sequence-table4-Orthomyxoviridae-HMM277-740_56.0-ORF73
+seq165	>tsa-HAEP01035468.1 (REVERSE SENSE) TSA: Proasellus assaforensis, contig comp40295_c0_seq1, transcribed RNA sequence-table1-Orthomyxoviridae-HMM5-300_96.0-ORF19
+seq166	>tsa-HAET01043341.1 (REVERSE SENSE) TSA: Proasellus coxalis, contig comp41348_c0_seq1, transcribed RNA sequence-table1-Orthomyxoviridae-HMM5-300_96.0-ORF21
+seq167	>tsa-HAEX01038048.1 TSA: Proasellus grafi, contig c28683_g1_i1, transcribed RNA sequence-table4-Orthomyxoviridae-HMM3-213_67.0-ORF10
+seq168	>tsa-HAEX01038049.1 (REVERSE SENSE) TSA: Proasellus grafi, contig c28683_g2_i1, transcribed RNA sequence-table1-Orthomyxoviridae-HMM53-182_69.0-ORF16
+seq169	>tsa-HAEX01038050.1 (REVERSE SENSE) TSA: Proasellus grafi, contig c28683_g2_i2, transcribed RNA sequence-table1-Orthomyxoviridae-HMM119-345_62.0-ORF28
+seq170	>tsa-HAEX01038051.1 (REVERSE SENSE) TSA: Proasellus grafi, contig c28683_g2_i3, transcribed RNA sequence-table1-Orthomyxoviridae-HMM127-352_60.0-ORF29
+seq171	>tsa-HAFG01092325.1 TSA: Proasellus parvulus, contig comp89201_c0_seq1, transcribed RNA sequence-table4-Orthomyxoviridae-HMM19-104_81.0-ORF4
+seq172	>tsa-HAFG01092327.1 (REVERSE SENSE) TSA: Proasellus parvulus, contig comp89201_c1_seq2, transcribed RNA sequence-table1-Orthomyxoviridae-HMM2-157_93.0-ORF12
+seq173	>tsa-HAFG01101427.1 TSA: Proasellus parvulus, contig comp89830_c0_seq1, transcribed RNA sequence-table6-Orthomyxoviridae-HMM230-353_34.0-ORF12
+seq174	>tsa-HAFI01055399.1 TSA: Proasellus rectus, contig comp66158_c0_seq1, transcribed RNA sequence-table1-Orthomyxoviridae-HMM5-346_82.0-ORF11
+seq175	>tsa-HAFI01109142.1 TSA: Proasellus rectus, contig comp926840_c0_seq1, transcribed RNA sequence-table1-Orthomyxoviridae-HMM35-128_72.0-ORF3
+seq176	>tsa-GFMT01051794.1 TSA: Rhinella marina Rm185392t1 transcribed RNA sequence-table4-Orthomyxoviridae-HMM230-704_60.0-ORF28
+seq177	>tsa-HACP01022575.1 TSA: Rhipicephalus sanguineus, contig R_sang_22575, transcribed RNA sequence-table1-Orthomyxoviridae-HMM238-430_44.0-ORF13
+seq178	>tsa-HACP01027211.1 TSA: Rhipicephalus sanguineus, contig R_sang_27211, transcribed RNA sequence-table6-Orthomyxoviridae-HMM177-642_65.0-ORF29
+seq179	>tsa-HACW01018819.1 TSA: Rhipicephalus sanguineus, contig R_sang_tr_27290, transcribed RNA sequence-table1-Orthomyxoviridae-HMM238-430_44.0-ORF13
+seq180	>tsa-HACW01024387.1 TSA: Rhipicephalus sanguineus, contig R_sang_tr_25835, transcribed RNA sequence-table6-Orthomyxoviridae-HMM177-642_65.0-ORF29
+seq181	>tsa-GEVH01318059.1 (REVERSE SENSE) TSA: Salaria pavo comp40259_c0_seq1 transcribed RNA sequence-table4-Orthomyxoviridae-HMM223-706_62.0-ORF46
+seq182	>tsa-GETN01019510.1 TSA: Scirpophaga incertulas YSB_LS_c59455_g1_i1 transcribed RNA sequence-table1-Orthomyxoviridae-HMM85-188_53.0-ORF5
+seq183	>tsa-GEZY01003193.1 TSA: Sitophilus oryzae c160.graph_c1 transcribed RNA sequence-table1-Orthomyxoviridae-HMM88-159_43.0-ORF6
+seq184	>tsa-GEZY01007301.1 (REVERSE SENSE) TSA: Sitophilus oryzae c11846.graph_c0 transcribed RNA sequence-table4-Orthomyxoviridae-HMM54-217_65.0-ORF25
+seq185	>tsa-GEZY01014504.1 TSA: Sitophilus oryzae c39705.graph_c0 transcribed RNA sequence-table1-Orthomyxoviridae-HMM18-115_57.0-ORF2
+seq186	>tsa-GEZY01022163.1 (REVERSE SENSE) TSA: Sitophilus oryzae c44489.graph_c0 transcribed RNA sequence-table1-Orthomyxoviridae-HMM11-150_78.0-ORF12
+seq187	>tsa-GEZY01033642.1 (REVERSE SENSE) TSA: Sitophilus oryzae c160.graph_c0 transcribed RNA sequence-table1-Orthomyxoviridae-HMM6-246_93.0-ORF22
+seq188	>tsa-GBOA01015653.1 TSA: Spilomena beata C96737_a_37_0_l_2384 transcribed RNA sequence-table4-Orthomyxoviridae-HMM263-727_58.0-ORF31
+seq189	>tsa-GFRZ01104573.1 TSA: Symsagittifera roscoffensis TRINITY_DN97774_c1_g1_i1 transcribed RNA sequence-table4-Orthomyxoviridae-HMM10-197_93.0-ORF8
+seq190	>tsa-GFRZ01104574.1 TSA: Symsagittifera roscoffensis TRINITY_DN97774_c2_g1_i1 transcribed RNA sequence-table4-Orthomyxoviridae-HMM160-416_60.0-ORF15
+seq191	>tsa-GAKE01008984.1 (REVERSE SENSE) TSA: Thlaspi arvense Contig9131 transcribed RNA sequence-table6-Orthomyxoviridae-HMM1-222_77.0-ORF21
+seq192	>tsa-GENN01025739.1 (REVERSE SENSE) TSA: Tineola bisselliella k56_43237 transcribed RNA sequence-table6-Orthomyxoviridae-HMM101-169_21.0-ORF26
+seq193	>tsa-GENN01042847.1 (REVERSE SENSE) TSA: Tineola bisselliella k64_225390 transcribed RNA sequence-table6-Orthomyxoviridae-HMM114-174_33.0-ORF21
+seq194	>tsa-GENN01048422.1 TSA: Tineola bisselliella k68_8052 transcribed RNA sequence-table4-Orthomyxoviridae-HMM1-301_95.0-ORF10
+seq195	>tsa-GENN01055983.1 TSA: Tineola bisselliella k72_168839 transcribed RNA sequence-table4-Orthomyxoviridae-HMM1-301_95.0-ORF10
+seq196	>tsa-GEOR01005695.1 (REVERSE SENSE) TSA: Tineola bisselliella c5783_g1_i1 transcribed RNA sequence-table4-Orthomyxoviridae-HMM6-308_94.0-ORF33
+seq197	>tsa-GEOR01021470.1 TSA: Tineola bisselliella c15273_g4_i2 transcribed RNA sequence-table6-Orthomyxoviridae-HMM110-178_33.0-ORF6
+seq198	>tsa-GEOR01021476.1 TSA: Tineola bisselliella c15273_g4_i4 transcribed RNA sequence-table6-Orthomyxoviridae-HMM109-177_33.0-ORF6
+seq199	>tsa-GEOU01076961.1 TSA: Tischeria quercitella c66722_g1_i1 transcribed RNA sequence-table4-Orthomyxoviridae-HMM9-80_83.0-ORF4
+seq200	>tsa-GBLX01001208.1 TSA: Tremex magus C104862_a_56_0_l_2443 transcribed RNA sequence-table6-Orthomyxoviridae-HMM269-728_56.0-ORF30
+seq201	>tsa-GAXZ02030368.1 TSA: Trichocera saltator s10751_L_18441_0_a_15_8_l_2426 transcribed RNA sequence-table4-Orthomyxoviridae-HMM256-714_56.0-ORF30
+seq202	>tsa-GASO02018026.1 TSA: Tricholepidion gertschi C148504_a_3_0_l_379 transcribed RNA sequence-table4-Orthomyxoviridae-HMM6-117_88.0-ORF5
+seq203	>tsa-GDLS01006965.1 TSA: Hypothenemus hampei C103932 transcribed RNA sequence-table6-Orthomyxoviridae-HMM19-111_82.0-ORF4
+seq204	>tsa-GAYI02060191.1 TSA: Xenophysella greensladeae s11968_L_42916_0_a_10_9_l_801 transcribed RNA sequence-table6-Orthomyxoviridae-HMM3-188_69.0-ORF13
+seq205	>tsa-GAYI02073131.1 TSA: Xenophysella greensladeae s8687_L_18062_0_a_25_0_l_2415 transcribed RNA sequence-table6-Orthomyxoviridae-HMM269-726_56.0-ORF29
+seq206	>tsa-GAYI02073132.1 TSA: Xenophysella greensladeae s8688_L_18062_1_a_23_1_l_1163 transcribed RNA sequence-table6-Orthomyxoviridae-HMM269-378_28.0-ORF12
+seq207	>tsa-GAYB02031468.1 TSA: Zygaena fausta s6525_L_13649_0_a_7_6_l_2366 transcribed RNA sequence-table6-Orthomyxoviridae-HMM62-303_59.0-ORF33

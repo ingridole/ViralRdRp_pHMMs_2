@@ -1,0 +1,101 @@
+seq1	>ref-NC_003506.1 Beet soil-borne mosaic virus RNA1, complete sequence-table6-Hepeviridae-HMM1758-2040_12.0-ORF71
+seq2	>ref-NC_003514.1 Beet necrotic yellow vein virus RNA 1, complete sequence-table6-Hepeviridae-HMM1750-2032_12.0-ORF70
+seq3	>ref-NC_001434.1 Hepatitis E virus, complete genome-table4-Hepeviridae-HMM1259-1685_23.0-ORF49
+seq4	>ref-NC_015521.1 Cutthroat trout virus, complete genome-table6-Hepeviridae-HMM1307-1740_24.0-ORF46
+seq5	>ref-NC_018382.1 Orthohepevirus D isolate BatHEV/BS7/GE/2009, complete genome-table6-Hepeviridae-HMM1164-1590_18.0-ORF76
+seq6	>ref-NC_023425.1 Orthohepevirus B, complete genome-table4-Hepeviridae-HMM1107-1535_26.0-ORF45
+seq7	>ref-NC_032117.1 Bivalve hepelivirus G, partial genome-table4-Hepeviridae-HMM29-292_76.0-ORF62
+seq8	>ref-NC_032127.1 Beihai hepe-like virus 4 strain BHZY60842 replicase and hypothetical protein genes, complete cds-table4-Hepeviridae-HMM236-618_59.0-ORF76
+seq9	>ref-NC_032456.1 Beihai hepe-like virus 8 strain BHZY60925 replicase, hypothetical protein, and putative structural protein genes, complete cds-table6-Hepeviridae-HMM1532-1912_19.0-ORF62
+seq10	>ref-NC_032445.1 Beihai mantis shrimp virus 1 strain BHXG26050 hypothetical protein genes, complete cds-table6-Hepeviridae-HMM2044-2322_11.0-ORF74
+seq11	>ref-NC_032451.1 Beihai hepe-like virus 10 strain BHZY60406 replicase, hypothetical protein, putative structural protein, and hypothetical protein genes, complete cds-table6-Hepeviridae-HMM1976-2353_14.0-ORF66
+seq12	>ref-NC_032784.1 Wenzhou shrimp virus 3 strain shrimp12824 replicase, hypothetical protein, putative structural protein, and hypothetical protein genes, complete cds-table6-Hepeviridae-HMM1944-2214_11.0-ORF69
+seq13	>ref-NC_033184.1 Wenzhou hepe-like virus 1 strain WZSLuoII97618 hypothetical protein genes, complete cds-table6-Hepeviridae-HMM1770-2038_12.0-ORF75
+seq14	>ref-NC_033146.1 Shuangao alphatetra-like virus 1 strain insectZJ93971 replicase, putative structural protein, and hypothetical protein genes, complete cds-table6-Hepeviridae-HMM1022-1326_17.0-ORF56
+seq15	>ref-NC_033147.1 Wenzhou hepe-like virus 2 strain WZFSL85851 replicase and putative structural protein genes, complete cds-table6-Hepeviridae-HMM1381-1801_22.0-ORF60
+seq16	>ref-NC_033098.1 Wenling hepe-like virus 4 strain WLJQ102701 RdRp, hypothetical protein, putative structural protein, and hypothetical protein genes, complete cds-table6-Hepeviridae-HMM1357-1722_15.0-ORF73
+seq17	>ref-NC_033032.1 Hubei hepe-like virus 3 strain WHYY20710 replicase, putative capsid protein, and hypothetical protein genes, complete cds-table6-Hepeviridae-HMM1009-1345_14.0-ORF63
+seq18	>nrnt-KX883839 Beihai hepe-like virus 4 strain YYSZX17852 hypothetical protein genes, complete cds.-table6-Hepeviridae-HMM205-586_61.0-ORF63
+seq19	>nrnt-KX883789 Hubei Beny-like virus 1 strain SCM50761 hypothetical protein gene, complete cds.-table6-Hepeviridae-HMM1092-1373_19.0-ORF44
+seq20	>nrnt-KX883756 Beihai hepe-like virus 4 strain BHZY60303 hypothetical protein genes, complete cds.-table6-Hepeviridae-HMM25-407_87.0-ORF14
+seq21	>nrnt-KX883743 Beihai hepe-like virus 7 strain BHBJDX18438 hypothetical protein genes, complete cds.-table6-Hepeviridae-HMM1873-2142_10.0-ORF82
+seq22	>nrnt-KM048322 Tick borne tetravirus-like virus isolate FI10 polyprotein gene, partial cds.-table6-Hepeviridae-HMM1013-1319_17.0-ORF46
+seq23	>nrnt-JF824737 Chara australis virus isolate Murrumbidgee multifunctional replicase gene, partial cds; and helicase, putative movement protein, and coat protein genes, complete cds.-table6-Hepeviridae-HMM1716-2018_14.0-ORF52
+seq24	>nrnt-LC057247 Ferret hepatitis E virus genomic RNA, complete genome, strain: SF4370.-table6-Hepeviridae-HMM1170-1596_26.0-ORF57
+seq25	>nrnt-MF175081 Murine feces-associated hepe-like virus isolate MFAHLV/NYC/Qpool/2393, partial genome.-table6-Hepeviridae-HMM993-1326_15.0-ORF60
+seq26	>nrnt-MG600417 Rodent hepevirus isolate 05VZ-75-65-L08-R3, complete genome.-table6-Hepeviridae-HMM1212-1638_18.0-ORF64
+seq27	>nrnt-MG872830 Sogatella furcifera hepe-like virus isolate Guangdong, complete genome.-table6-Hepeviridae-HMM1516-1843_15.0-ORF35
+seq28	>nrnt-MG020025 Orthohepevirus C isolate RdHEVEm67/LuXi/2014, complete genome.-table6-Hepeviridae-HMM1202-1628_24.0-ORF46
+seq29	>nrnt-MG020022 Orthohepevirus C isolate RdHEVAc14/LiJiang/2015, complete genome.-table6-Hepeviridae-HMM1214-1639_24.0-ORF50
+seq30	>nrnt-MG600129 Guangdong chinese water snake rubivirus strain LPSF32305 nonstructural polyprotein gene, partial cds; and structural polyprotein gene, complete cds.-table6-Hepeviridae-HMM1393-1567_9.0-ORF44
+seq31	>nrnt-MG600004 Wenling thamnaconus septentrionalis hepevirus strain LQMMT516 nonstructural polyprotein gene, partial cds.-table6-Hepeviridae-HMM930-1364_30.0-ORF39
+seq32	>nrnt-MG600006 Wenling thamnaconus striatus hepevirus strain XTXMC52146 hypothetical protein, RNA-dependent RNA polymerase, and capsid protein genes, complete cds.-table4-Hepeviridae-HMM1211-1593_23.0-ORF49
+seq33	>nrnt-MG600003 Wenling samurai squirrelfish hepevirus strain XYHYC192139 nonstructural polyprotein and capsid protein genes, complete cds.-table6-Hepeviridae-HMM986-1262_17.0-ORF52
+seq34	>nrnt-KY432904 Hepevirus sp. isolate RtEi-HEV/SX2016 non-structural polyprotein and capsid protein genes, complete cds.-table6-Hepeviridae-HMM1204-1630_25.0-ORF45
+seq35	>nrnt-KY432903 Hepevirus sp. isolate RtCm-HEV/XJ2016 non-structural polyprotein and capsid protein genes, complete cds.-table4-Hepeviridae-HMM1267-1399_9.0-ORF41
+seq36	>nrnt-KY432902 Hepevirus sp. isolate RtMg-HEV/XJ2016 non-structural polyprotein and capsid protein genes, complete cds.-table6-Hepeviridae-HMM1211-1637_25.0-ORF44
+seq37	>nrnt-KY432901 Hepevirus sp. isolate RtMr-HEV/HLJ2016 non-structural polyprotein gene, partial cds; and capsid protein gene, complete cds.-table6-Hepeviridae-HMM1146-1571_25.0-ORF52
+seq38	>nrnt-KY432900 Hepevirus sp. isolate RtAa-HEV/JL2014 nonfunctional non-structural polyprotein gene, complete sequence; and capsid protein gene, complete cds.-table6-Hepeviridae-HMM281-706_53.0-ORF45
+seq39	>nrnt-KY432899 Hepevirus sp. isolate RtCb-HEV/HeB2014 non-structural polyprotein and capsid protein genes, complete cds.-table6-Hepeviridae-HMM1273-1699_22.0-ORF56
+seq40	>nrnt-KY432898 Hepevirus sp. isolate RtRf-HEV/YN2014 nonfunctional non-structural polyprotein gene, complete sequence; and capsid protein gene, complete cds.-table6-Hepeviridae-HMM287-713_30.0-ORF55
+seq41	>nrnt-MF189998 Barns Ness breadcrumb sponge hepe-like virus 1 isolate X15, partial genome.-table4-Hepeviridae-HMM1464-1763_16.0-ORF61
+seq42	>nrnt-KJ562187 Bat hepatitis E virus isolate Bat Rf-HEV/Shanxi2013 nonstructural polyprotein, capsid protein, and hypothetical protein genes, complete cds.-table4-Hepeviridae-HMM1111-1536_27.0-ORF49
+seq43	>nrnt-KR905549 Hepatitis E virus isolate Yunnan-2013, complete genome.-table4-Hepeviridae-HMM1151-1576_25.0-ORF39
+seq44	>nrnt-KU140662 Mangifera indica latent virus segment RNA1 RNA-dependent RNA polymerase gene, complete cds.-table4-Hepeviridae-HMM1715-2029_14.0-ORF76
+seq45	>nrnt-KX981911 Swine hepatitis E virus isolate CCJD-517, complete genome.-table4-Hepeviridae-HMM1283-1709_24.0-ORF53
+seq46	>nrnt-KX387866 Hepatitis E virus strain 48XJ, complete genome.-table4-Hepeviridae-HMM1276-1702_22.0-ORF48
+seq47	>nrnt-KX589065 Hepatitis E virus strain little egret/kocsag02/2014/HUN, complete genome.-table6-Hepeviridae-HMM1090-1517_27.0-ORF50
+seq48	>nrnt-KP294371 Hepatitis E virus strain MWP_2010, complete genome.-table4-Hepeviridae-HMM1285-1711_24.0-ORF53
+seq49	>nrnt-KT591534 Hepatitis E virus isolate FR-HEV-GD3 polyprotein and hypothetical protein genes, complete cds; and capsid protein gene, partial cds.-table4-Hepeviridae-HMM1360-1786_23.0-ORF56
+seq50	>nrnt-KU670940 Hepatitis E virus strain kestrel/MR22/2014/HUN, complete genome.-table6-Hepeviridae-HMM1217-1643_24.0-ORF54
+seq51	>nrnt-KT818608 Hepatitis E virus isolate Patient 17, partial genome.-table1-Hepeviridae-HMM1276-1702_24.0-ORF55
+seq52	>nrnt-AB850879 Hepatitis E virus genomic RNA, complete genome, isolate: HE-JA12-0725.-table4-Hepeviridae-HMM1306-1732_24.0-ORF51
+seq53	>nrnt-KC692453 Hepatitis E virus strain CH-YT-sHEV01, complete genome.-table4-Hepeviridae-HMM1279-1705_23.0-ORF53
+seq54	>nrnt-AB847308 Hepatitis E virus DNA, complete genome, isolate: ratESOLO-006SF.-table6-Hepeviridae-HMM1206-1632_18.0-ORF69
+seq55	>nrnt-JX120573 Hepatitis E virus strain Vietnam-105, complete genome.-table6-Hepeviridae-HMM1201-1627_18.0-ORF67
+seq56	>nrnt-JQ898340 Hepelivirus isolate HepeV ORF1 gene, partial cds; and ORF2 gene, complete cds.-table6-Hepeviridae-HMM33-272_63.0-ORF13
+seq57	>nrnt-JQ013792 Hepatitis E virus strain W7-57 nonstructural polyprotein, viral accessory protein, and capsid protein genes, complete cds.-table4-Hepeviridae-HMM1278-1704_24.0-ORF51
+seq58	>nrnt-JQ679013 Hepatitis E virus clone p6, complete genome.-table4-Hepeviridae-HMM1338-1764_23.0-ORF42
+seq59	>nrnt-AB573435 Hepatitis E virus genomic RNA, complete genome, isolate: JBOAR135-Shiz09.-table4-Hepeviridae-HMM1281-1707_22.0-ORF51
+seq60	>nrnt-HPENSSP Hepatitis E virus (mexican strain) structural proteins and a nonstructural polyprotein genes, complete cds.-table4-Hepeviridae-HMM1257-1683_24.0-ORF50
+seq61	>nrnt-FJ906895 Hepatitis E virus isolate GDC9, complete genome.-table4-Hepeviridae-HMM1295-1721_23.0-ORF54
+seq62	>nrnt-EU099844 Rice stripe necrosis virus segment RNA1, complete sequence.-table4-Hepeviridae-HMM1777-2084_14.0-ORF70
+seq63	>nrnt-AB248520 Hepatitis E virus genomic RNA, complete genome, isolate: HE-JA04-1911.-table4-Hepeviridae-HMM1290-1716_22.0-ORF55
+seq64	>nrnt-AB080575 Hepatitis E virus genomic RNA, complete genome, isolate: HE-JI4.-table4-Hepeviridae-HMM1257-1683_20.0-ORF52
+seq65	>tsa-GBTM01022793.1 (REVERSE SENSE) TSA: Anthophora plumipes C94993_a_51_0_l_5607 transcribed RNA sequence-table6-Hepeviridae-HMM1147-1430_18.0-ORF103
+seq66	>tsa-GEER01003429.1 TSA: Camellia reticulata CRD_FL_c53027_g1_i1 transcribed RNA sequence-table6-Hepeviridae-HMM1611-1923_15.0-ORF65
+seq67	>tsa-GEDC01009069.1 TSA: Clastoptera arizonana TR20492_c0_g1_i1 transcribed RNA sequence-table6-Hepeviridae-HMM1724-2012_13.0-ORF67
+seq68	>tsa-GELM01073324.1 TSA: Corynactis australis comp98210_c0_seq1 transcribed RNA sequence-table6-Hepeviridae-HMM4-282_88.0-ORF13
+seq69	>tsa-GFOY01013898.1 TSA: Daiswa yunnanensis CL16484.Contig1_All transcribed RNA sequence-table6-Hepeviridae-HMM368-655_40.0-ORF19
+seq70	>tsa-GAHW01000160.1 TSA: Elliptio complanata Contig_160 transcribed RNA sequence-table4-Hepeviridae-HMM847-1192_18.0-ORF62
+seq71	>tsa-GENB01011754.1 (REVERSE SENSE) TSA: Entomophthora muscae c9528_g1_i1 transcribed RNA sequence-table6-Hepeviridae-HMM1092-1373_18.0-ORF115
+seq72	>tsa-GENB01026954.1 TSA: Entomophthora muscae c16045_g1_i1 transcribed RNA sequence-table6-Hepeviridae-HMM43-328_67.0-ORF11
+seq73	>tsa-GEND01032559.1 TSA: Entomophthora muscae c17495_g1_i1 transcribed RNA sequence-table6-Hepeviridae-HMM1092-1373_18.0-ORF40
+seq74	>tsa-GEOF01029671.1 (REVERSE SENSE) TSA: Eudarcia simulatricella c26567_g4_i1 transcribed RNA sequence-table6-Hepeviridae-HMM113-395_40.0-ORF47
+seq75	>tsa-GEPW01038239.1 (REVERSE SENSE) TSA: Eulimnogammarus cruentus c42248_g4_i1 transcribed RNA sequence-table6-Hepeviridae-HMM479-796_37.0-ORF76
+seq76	>tsa-GCKC01199546.1 TSA: Gleditsia sinensis Gs55830_c0_seq1 transcribed RNA sequence-table1-Hepeviridae-HMM14-258_89.0-ORF11
+seq77	>tsa-GFPE01052446.1 (REVERSE SENSE) TSA: Holacanthella duospinosa c41094_g1_i1 transcribed RNA sequence-table4-Hepeviridae-HMM2103-2433_13.0-ORF207
+seq78	>tsa-GBXQ01012426.1 TSA: Ixodes persulcatus Unigene9969_Ip-T transcribed RNA sequence-table1-Hepeviridae-HMM29-338_87.0-ORF12
+seq79	>tsa-GBSS01016353.1 TSA: Lathyrus sativus a40499_67 transcribed RNA sequence-table4-Hepeviridae-HMM1793-2094_14.0-ORF72
+seq80	>tsa-GCAD01004187.1 (REVERSE SENSE) TSA: Litchi chinensis CL3011.Contig1_L.chinensis transcribed RNA sequence-table1-Hepeviridae-HMM20-199_89.0-ORF17
+seq81	>tsa-GFMD01019951.1 (REVERSE SENSE) TSA: Litchi chinensis Unigene0020155 transcribed RNA sequence-table1-Hepeviridae-HMM8-139_94.0-ORF11
+seq82	>tsa-GFMD01022808.1 (REVERSE SENSE) TSA: Litchi chinensis Unigene0023022 transcribed RNA sequence-table1-Hepeviridae-HMM2-261_86.0-ORF26
+seq83	>tsa-GBCV01010547.1 TSA: Mangifera indica comp10859_c0_seq1 transcribed RNA sequence-table4-Hepeviridae-HMM1128-1442_20.0-ORF48
+seq84	>tsa-GBJO01000048.1 TSA: Mangifera indica Contig49 transcribed RNA sequence-table6-Hepeviridae-HMM553-867_33.0-ORF42
+seq85	>tsa-GBJO01009456.1 (REVERSE SENSE) TSA: Mangifera indica mango_rep_c5201 transcribed RNA sequence-table4-Hepeviridae-HMM155-470_56.0-ORF46
+seq86	>tsa-GEQS01054466.1 TSA: Ommatogammarus flavus c42468_g1_i1 transcribed RNA sequence-table6-Hepeviridae-HMM1580-1898_11.0-ORF62
+seq87	>tsa-GFJQ02007921.1 TSA: Ornithodoros moubata GFJQ01008402.1 transcribed RNA sequence-table1-Hepeviridae-HMM558-857_23.0-ORF43
+seq88	>tsa-GBCA01023658.1 TSA: Oryctolagus cuniculus comp2973_c1_seq1 transcribed RNA sequence-table4-Hepeviridae-HMM1292-1718_22.0-ORF47
+seq89	>tsa-GBCI01214590.1 TSA: Oryctolagus cuniculus comp175806_c0_seq1 transcribed RNA sequence-table1-Hepeviridae-HMM1-145_99.0-ORF3
+seq90	>tsa-GAYC02006394.1 (REVERSE SENSE) TSA: Osmylus fulvicephalus C38896_a_4_0_l_411 transcribed RNA sequence-table1-Hepeviridae-HMM8-136_94.0-ORF13
+seq91	>tsa-GEPB01000156.1 (REVERSE SENSE) TSA: Oxyacanthus flavus c255_g1_i1 transcribed RNA sequence-table6-Hepeviridae-HMM11-308_86.0-ORF28
+seq92	>tsa-GDQW01008098.1 (REVERSE SENSE) TSA: Panax ginseng c2886_g1_i1 transcribed RNA sequence-table1-Hepeviridae-HMM33-185_80.0-ORF20
+seq93	>tsa-GEEP01024692.1 TSA: Penaeus monodon Control_39955 transcribed RNA sequence-table6-Hepeviridae-HMM791-1063_24.0-ORF32
+seq94	>tsa-GEEP01026399.1 (REVERSE SENSE) TSA: Penaeus monodon Control_25261 transcribed RNA sequence-table6-Hepeviridae-HMM791-1063_24.0-ORF117
+seq95	>tsa-GEME01035157.1 (REVERSE SENSE) TSA: Penaeus monodon Ctrl_Locus_1_Tr_10607/26829_Len_7149 transcribed RNA sequence-table6-Hepeviridae-HMM791-1063_24.0-ORF117
+seq96	>tsa-GEME01038049.1 TSA: Penaeus monodon Ctrl_Locus_1_Tr_4835/26829_Len_7149 transcribed RNA sequence-table6-Hepeviridae-HMM791-1063_24.0-ORF32
+seq97	>tsa-GEMR01004364.1 (REVERSE SENSE) TSA: Rhipicephalus microplus athaller1465 transcribed RNA sequence-table6-Hepeviridae-HMM107-412_61.0-ORF32
+seq98	>tsa-GEGY01146555.1 (REVERSE SENSE) TSA: Salmo salar tsa-ssal-ngs-17799483 transcribed RNA sequence-table6-Hepeviridae-HMM1300-1733_23.0-ORF156
+seq99	>tsa-GFCG01071918.1 (REVERSE SENSE) TSA: Silene dioica TR34680_c0_g1_i1 transcribed RNA sequence-table4-Hepeviridae-HMM2014-2327_13.0-ORF234
+seq100	>tsa-GFCH01078807.1 (REVERSE SENSE) TSA: Silene dioica TR42128_c0_g1_i1 transcribed RNA sequence-table4-Hepeviridae-HMM2014-2327_13.0-ORF229
+seq101	>tsa-GFBA01047342.1 (REVERSE SENSE) TSA: Tupiocoris notatus TR22425_c0_g2_i1 transcribed RNA sequence-table6-Hepeviridae-HMM30-252_74.0-ORF33

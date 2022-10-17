@@ -1,0 +1,292 @@
+seq1	>ref-NC_001641.1 Saccharomyces cerevisiae virus L-BC (La), complete genome-table4-Totiviridae-HMM191-663_53.0-ORF55
+seq2	>ref-NC_002064.1 Leishmania RNA virus 2 - 1, complete genome-table6-Totiviridae-HMM909-1372_28.0-ORF49
+seq3	>ref-NC_002063.1 Leishmania RNA virus 1 - 1, complete genome-table4-Totiviridae-HMM281-633_39.0-ORF61
+seq4	>ref-NC_001964.1 Sphaeropsis sapinea RNA virus 2, complete genome-table6-Totiviridae-HMM177-586_48.0-ORF46
+seq5	>ref-NC_002701.1 Eimeria brunetti RNA virus 1, complete genome-table4-Totiviridae-HMM250-633_42.0-ORF59
+seq6	>ref-NC_001963.1 Sphaeropsis sapinea RNA virus 1, complete genome-table6-Totiviridae-HMM261-636_41.0-ORF45
+seq7	>ref-NC_003873.1 Trichomonas vaginalis virus II, complete genome-table4-Totiviridae-HMM283-710_46.0-ORF43
+seq8	>ref-NC_003823.1 Ustilago maydis virus H1, complete genome-table6-Totiviridae-HMM1157-1562_21.0-ORF54
+seq9	>ref-NC_003876.1 Gremmeniella abietina RNA virus L1, complete genome-table4-Totiviridae-HMM248-656_44.0-ORF50
+seq10	>ref-NC_004034.1 Trichomonas vaginalis virus 3, complete genome-table4-Totiviridae-HMM132-561_52.0-ORF48
+seq11	>ref-NC_003607.2 Helminthosporium victoriae virus 190S, complete genome-table4-Totiviridae-HMM282-655_41.0-ORF43
+seq12	>ref-NC_003745.1 Saccharomyces cerevisiae virus L-A (L1), complete genome-table6-Totiviridae-HMM201-683_53.0-ORF55
+seq13	>ref-NC_003824.1 Trichomonas vaginalis virus, complete genome-table6-Totiviridae-HMM129-568_54.0-ORF37
+seq14	>ref-NC_003601.1 Leishmania RNA virus 1 - 4, complete genome-table6-Totiviridae-HMM311-663_37.0-ORF60
+seq15	>ref-NC_006367.1 Magnaporthe oryzae virus 1, complete genome-table6-Totiviridae-HMM274-630_39.0-ORF49
+seq16	>ref-NC_005965.1 Gremmeniella abietina RNA virus L2, complete genome-table4-Totiviridae-HMM228-636_45.0-ORF47
+seq17	>ref-NC_005883.1 Chalara elegans RNA Virus 1, complete genome-table6-Totiviridae-HMM278-736_45.0-ORF46
+seq18	>ref-NC_007523.1 Coniothyrium minitans RNA virus, complete genome-table4-Totiviridae-HMM321-787_44.0-ORF37
+seq19	>ref-NC_009890.1 Black raspberry virus F, complete genome-table6-Totiviridae-HMM225-699_50.0-ORF55
+seq20	>ref-NC_009224.1 Botryotinia fuckeliana totivirus 1, complete genome-table6-Totiviridae-HMM161-617_50.0-ORF52
+seq21	>ref-NC_010246.1 Magnaporthe oryzae virus 2, complete genome-table6-Totiviridae-HMM150-614_52.0-ORF49
+seq22	>ref-NC_014823.1 Tolypocladium cylindrosporum virus 1, complete genome-table6-Totiviridae-HMM1102-1456_20.0-ORF41
+seq23	>ref-NC_013699.1 Diplodia scrobiculata RNA virus 1, complete genome-table6-Totiviridae-HMM343-672_26.0-ORF37
+seq24	>ref-NC_014359.1 Spissistilus festinus virus 1, complete genome-table4-Totiviridae-HMM758-1071_21.0-ORF77
+seq25	>ref-NC_020903.1 Xanthophyllomyces dendrorhous virus L1A capsid protein (CP) and RNA-dependent RNA polymerase (RdRp) genes, complete cds-table6-Totiviridae-HMM315-787_47.0-ORF53
+seq26	>ref-NC_020997.1 Ustilaginoidea virens RNA virus 1, complete genome-table4-Totiviridae-HMM328-702_39.0-ORF45
+seq27	>ref-NC_021565.1 Rosellinia necatrix victorivirus 1 RNA, complete genome, isolate: W1029-table4-Totiviridae-HMM320-676_38.0-ORF31
+seq28	>ref-NC_023547.1 Ustilaginoidea virens RNA virus 3, complete genome-table4-Totiviridae-HMM183-599_47.0-ORF49
+seq29	>ref-NC_024115.1 Leishmania aethiopica RNA virus isolate LRV2-Lae-L494, complete genome-table4-Totiviridae-HMM266-678_43.0-ORF67
+seq30	>ref-NC_023983.1 Persimmon latent virus genomic RNA, complete genome, clone: Kaki13-14-table6-Totiviridae-HMM727-1034_21.0-ORF75
+seq31	>ref-NC_024151.1 Beauveria bassiana victorivirus NZL/1980 isolate 6887, complete genome-table6-Totiviridae-HMM242-620_42.0-ORF49
+seq32	>ref-NC_025214.1 Botryosphaeria dothidea victorivirus 1 isolate GY25, complete genome-table4-Totiviridae-HMM383-791_39.0-ORF32
+seq33	>ref-NC_025366.1 Ustilaginoidea virens RNA virus L isolate GX-1, complete genome-table4-Totiviridae-HMM324-698_39.0-ORF51
+seq34	>ref-NC_026140.1 Eimeria tenella RNA virus 1 strain JL610V coat protein (EtRv1gp1) and RNA-dependent RNA polymerase (RDRP) genes, complete cds-table6-Totiviridae-HMM482-879_34.0-ORF57
+seq35	>ref-NC_026135.1 Phomopsis vexans RNA virus isolate 1, complete genome-table4-Totiviridae-HMM249-632_43.0-ORF30
+seq36	>ref-NC_027209.1 Magnaporthe oryzae virus 3 strain QSP5, complete genome-table4-Totiviridae-HMM505-968_37.0-ORF37
+seq37	>ref-NC_027701.1 Trichomonas vaginalis virus 1 strain TVV1-UR1-1, complete genome-table6-Totiviridae-HMM142-581_53.0-ORF38
+seq38	>ref-NC_028044.1 Maize-associated totivirus 1, complete genome-table4-Totiviridae-HMM226-699_51.0-ORF42
+seq39	>ref-NC_028378.1 Papaya meleira virus strain RN Brazil, complete genome-table6-Totiviridae-HMM405-754_28.0-ORF88
+seq40	>ref-NC_028488.1 Red clover powdery mildew-associated totivirus 7 genomic RNA, complete genome, isolate: RPaTV7_75-7-table4-Totiviridae-HMM243-652_47.0-ORF53
+seq41	>ref-NC_028481.1 Red clover powdery mildew-associated totivirus 2 CP, RdRp genes for capsid protein, RNA dependent RNA polymerase, complete cds, isolate: RPaTV2_75-52-table6-Totiviridae-HMM224-693_51.0-ORF49
+seq42	>ref-NC_028490.1 Red clover powdery mildew-associated totivirus 9 gene for polyprotein, complete cds, isolate: RPaTV9_85-21-table6-Totiviridae-HMM1369-1748_19.0-ORF46
+seq43	>ref-NC_028483.1 Red clover powdery mildew-associated totivirus 3 genomic RNA, complete genome, isolate: RPaTV3_75-77-table6-Totiviridae-HMM289-748_48.0-ORF41
+seq44	>ref-NC_028486.1 Red clover powdery mildew-associated totivirus 6 genomic RNA, complete genome, isolate: RPaTV6_75-22-table4-Totiviridae-HMM267-678_45.0-ORF52
+seq45	>ref-NC_028480.1 Red clover powdery mildew-associated totivirus 1 genomic RNA, complete genome, isolate: RPaTV1a_65-114-table6-Totiviridae-HMM191-665_53.0-ORF50
+seq46	>ref-NC_028485.1 Red clover powdery mildew-associated totivirus 5 genomic RNA, complete genome, isolate: RPaTV5_75-14-table6-Totiviridae-HMM199-676_52.0-ORF59
+seq47	>ref-NC_028477.1 Ustilaginoidea virens RNA virus 5 strain F10-338 coat protein (CP) and RNA-dependent RNA polymerase (RdRp) genes, complete cds-table6-Totiviridae-HMM258-624_41.0-ORF50
+seq48	>ref-NC_028948.1 Penicillium aurantiogriseum totivirus 1 isolate MUT4330, complete genome-table6-Totiviridae-HMM219-596_42.0-ORF46
+seq49	>ref-NC_029096.1 Panax notoginseng virus A isolate YNSL1210, complete genome-table4-Totiviridae-HMM229-697_51.0-ORF61
+seq50	>ref-NC_029989.1 Penicillium digitatum virus 1 strain HS-RH1, complete genome-table4-Totiviridae-HMM211-589_45.0-ORF49
+seq51	>ref-NC_030224.1 Nigrospora oryzae victorivirus 1, complete genome-table6-Totiviridae-HMM189-588_46.0-ORF52
+seq52	>ref-NC_030398.1 Maize associated totivirus isolate EC_Portoviejo, complete genome-table4-Totiviridae-HMM232-704_51.0-ORF51
+seq53	>ref-NC_030392.1 Sclerotinia nivalis victorivirus 1 isolate SsSn-1.v, complete genome-table6-Totiviridae-HMM226-604_42.0-ORF43
+seq54	>ref-NC_030867.1 Fusarium poae victorivirus 1 genomic RNA, complete genome-table4-Totiviridae-HMM188-585_47.0-ORF39
+seq55	>ref-NC_032106.1 Saccharomyces kudriavzevii virus L-A1 isolate 1, complete genome-table6-Totiviridae-HMM185-667_54.0-ORF52
+seq56	>ref-NC_032465.1 Beihai blue swimmer crab virus 3 strain YYSZX17757 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Totiviridae-HMM308-770_46.0-ORF49
+seq57	>ref-NC_032734.1 Hubei toti-like virus 2 strain arthropodmix13450 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Totiviridae-HMM245-713_50.0-ORF55
+seq58	>ref-NC_032786.1 Beihai victori-like virus 1 strain BHZC37363 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Totiviridae-HMM256-698_44.0-ORF51
+seq59	>ref-NC_032883.1 Hubei toti-like virus 9 strain QTM27092 hypothetical protein gene, complete cds-table6-Totiviridae-HMM311-676_34.0-ORF43
+seq60	>ref-NC_032733.1 Hubei toti-like virus 10 strain 3mos6210 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Totiviridae-HMM316-699_36.0-ORF68
+seq61	>ref-NC_033465.1 Wuhan insect virus 26 strain WHZM10161 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Totiviridae-HMM235-693_50.0-ORF47
+seq62	>ref-NC_033468.1 Wuhan insect virus 27 strain WHZM10130 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Totiviridae-HMM263-721_49.0-ORF44
+seq63	>ref-NC_033466.1 Wuhan insect virus 28 strain WHZM10169 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Totiviridae-HMM328-636_31.0-ORF80
+seq64	>ref-NC_035130.1 Aedes alboannulatus toti-like virus 1 strain mosWSCP114121, complete genome-table4-Totiviridae-HMM397-710_29.0-ORF67
+seq65	>ref-NC_035131.1 Aedes camptorhynchus toti-like virus 1 strain mos172CP87493, complete genome-table4-Totiviridae-HMM397-710_29.0-ORF68
+seq66	>ref-NC_036589.1 (REVERSE SENSE) Maize-associated totivirus 3 isolate ANETF3S2 gag-pol-like fusion protein, RNA-dependent RNA polymerase, and coat protein genes, complete cds-table4-Totiviridae-HMM207-680_52.0-ORF113
+seq67	>nrnt-MF372915 (REVERSE SENSE) Maize associated totivirus 1 isolate SSF3 ORF1-ORF2 fusion protein gene, partial cds.-table4-Totiviridae-HMM312-783_46.0-ORF74
+seq68	>nrnt-MF893257 Snodland virus isolate UK1, partial genome.-table1-Totiviridae-HMM34-493_85.0-ORF19
+seq69	>nrnt-LC333739 Rosellinia necatrix fusagravirus 3 genes for putative structural protein, RNA-dependent RNA polymerase, complete cds, contig: Pool-2_106.-table6-Totiviridae-HMM564-711_11.0-ORF75
+seq70	>nrnt-KU724434 Leishmania RNA virus 1 isolate Lg601047, complete genome.-table6-Totiviridae-HMM273-625_39.0-ORF58
+seq71	>nrnt-KY207365 Puccinia striiformis totivirus 5 isolate CYR32 putative capsid protein (CP) gene, complete cds; and putative RNA-dependent RNA polymerase (RdRp) gene, partial cds.-table4-Totiviridae-HMM214-678_57.0-ORF55
+seq72	>nrnt-KY207364 Puccinia striiformis totivirus 4 isolate CYR32 putative capsid protein (CP) gene, complete cds; and putative RNA-dependent RNA polymerase (RdRp) gene, partial cds.-table4-Totiviridae-HMM192-652_53.0-ORF51
+seq73	>nrnt-KY207363 Puccinia striiformis totivirus 3 isolate CYR32 putative capsid protein (CP) gene, complete cds; and putative RNA-dependent RNA polymerase (RdRp) gene, partial cds.-table6-Totiviridae-HMM201-660_50.0-ORF55
+seq74	>nrnt-KY207362 Puccinia striiformis totivirus 2 isolate CYR32 putative capsid protein (CP) gene, complete cds; and putative RNA-dependent RNA polymerase (RdRp) gene, partial cds.-table6-Totiviridae-HMM225-646_48.0-ORF62
+seq75	>nrnt-KY207361 Puccinia striiformis totivirus 1 isolate CYR32 putative capsid protein (CP) gene, complete cds; and putative RNA-dependent RNA polymerase (RdRp) gene, partial cds.-table6-Totiviridae-HMM190-649_51.0-ORF56
+seq76	>nrnt-KY489970 Saccharomyces kudriavzevii virus L-A-1082 gag-pol fusion protein and major virion coat protein genes, complete cds.-table6-Totiviridae-HMM251-733_50.0-ORF43
+seq77	>nrnt-KY489963 Saccharomyces paradoxus virus L-A-45 gag-pol fusion protein and major virion coat protein genes, complete cds.-table6-Totiviridae-HMM185-667_54.0-ORF45
+seq78	>nrnt-KU291928 Pterostylis sanguinea totivirus A isolate Murdoch-10 coat protein and RNA-dependent RNA polymerase genes, partial cds.-table6-Totiviridae-HMM236-558_57.0-ORF38
+seq79	>nrnt-KU291927 Pterostylis sanguinea totivirus A isolate Murdoch-8 coat protein and RNA-dependent RNA polymerase genes, partial cds.-table4-Totiviridae-HMM248-720_52.0-ORF49
+seq80	>nrnt-KU291926 Pterostylis sanguinea totivirus A isolate Murdohc-9 coat protein and RNA-dependent RNA polymerase genes, partial cds.-table6-Totiviridae-HMM279-747_50.0-ORF43
+seq81	>nrnt-KX171636 Ustilaginoidea virens RNA virus 6, complete genome.-table4-Totiviridae-HMM309-691_40.0-ORF43
+seq82	>nrnt-KX808486 Leishmania RNA virus 1 strain LRV1-LbrLEM3874, complete genome.-table6-Totiviridae-HMM272-625_39.0-ORF64
+seq83	>nrnt-KU885932 Sclerotium rolfsii RNA virus 1 isolate BLH-1 RNA-dependent RNA polymerase (RdRp) gene, partial cds.-table6-Totiviridae-HMM19-341_34.0-ORF29
+seq84	>nrnt-LC075493 Red clover powdery mildew-associated totivirus 8 CP, RdRp genes for capsid protein, RNA dependent RNA polymerase, complete and partial cds, isolate: RPaTV8_85-65.-table4-Totiviridae-HMM200-659_51.0-ORF59
+seq85	>nrnt-LC075489 Red clover powdery mildew-associated totivirus 4 CP, RdRp genes for capsid protein, RNA dependent RNA polymerase, complete and partial cds, isolate: RPaTV4_6052.-table6-Totiviridae-HMM288-746_50.0-ORF43
+seq86	>nrnt-KX148560 DsRNA virus-like 3 genomic sequence.-table6-Totiviridae-HMM37-396_90.0-ORF16
+seq87	>nrnt-KU597305 Eimeria stiedai RNA virus 1 isolate TQCBD-12/0909, complete genome.-table6-Totiviridae-HMM610-982_28.0-ORF53
+seq88	>nrnt-EU495331 Ribes virus F isolate Corvallis RNA-dependent RNA polymerase gene, partial cds.-table1-Totiviridae-HMM3-322_91.0-ORF10
+seq89	>nrnt-EU289895 Aspergillus mycovirus 178 clone 178b putative RNA-dependent RNA polymerase gene, partial cds.-table6-Totiviridae-HMM61-525_59.0-ORF30
+seq90	>nrnt-KT921784 Papaya meleira virus coat protein and RNA-dependent RNA polymerase (RdRp) genes, complete cds.-table6-Totiviridae-HMM419-772_29.0-ORF87
+seq91	>nrnt-KT598236 Soybean-associated double-stranded RNA virus 1 isolate SaDSRV1-1, partial sequence.-table4-Totiviridae-HMM328-676_37.0-ORF23
+seq92	>nrnt-KT598230 Coniothyrium minitans RNA virus isolate CmRV-IL, partial sequence.-table4-Totiviridae-HMM353-741_39.0-ORF37
+seq93	>nrnt-KP900901 Phomopsis longicolla totivirus 1 isolate Phom Fam 600B gp1 gene, partial cds; and RNA-dependent RNA polymerase gene, complete cds.-table4-Totiviridae-HMM530-894_31.0-ORF27
+seq94	>nrnt-AP014919 Diatom colony associated virus-Like RNA Segment 6 genomic RNA, complete sequence.-table6-Totiviridae-HMM356-775_39.0-ORF38
+seq95	>nrnt-AP014917 Diatom colony associated virus-Like RNA Segment 4 genomic RNA, complete sequence.-table6-Totiviridae-HMM340-698_36.0-ORF40
+seq96	>nrnt-AP014905 Diatom colony associated dsRNA virus 13 genomic RNA, complete genome.-table6-Totiviridae-HMM143-591_53.0-ORF53
+seq97	>nrnt-AP014904 Diatom colony associated dsRNA virus 12 genomic RNA, complete genome.-table6-Totiviridae-HMM261-642_41.0-ORF66
+seq98	>nrnt-AP014903 Diatom colony associated dsRNA virus 11 genomic RNA, complete genome.-table6-Totiviridae-HMM211-611_43.0-ORF70
+seq99	>nrnt-AP014902 Diatom colony associated dsRNA virus 10 genomic RNA, complete genome.-table6-Totiviridae-HMM193-566_43.0-ORF56
+seq100	>nrnt-AP014901 Diatom colony associated dsRNA virus 9 genome type B genomic RNA, complete genome.-table4-Totiviridae-HMM140-596_54.0-ORF40
+seq101	>nrnt-AP014899 Diatom colony associated dsRNA virus 8 genomic RNA, complete genome.-table6-Totiviridae-HMM99-547_55.0-ORF54
+seq102	>nrnt-AP014898 Diatom colony associated dsRNA virus 7 genomic RNA, complete genome.-table6-Totiviridae-HMM234-588_41.0-ORF61
+seq103	>nrnt-AP014897 Diatom colony associated dsRNA virus 6 genomic RNA, complete genome.-table6-Totiviridae-HMM808-1261_29.0-ORF46
+seq104	>nrnt-AP014896 Diatom colony associated dsRNA virus 5 genomic RNA, complete genome.-table6-Totiviridae-HMM525-907_32.0-ORF57
+seq105	>nrnt-AP014894 Diatom colony associated dsRNA virus 4 genome type A genomic RNA, complete genome.-table4-Totiviridae-HMM100-557_57.0-ORF57
+seq106	>nrnt-AP014893 Diatom colony associated dsRNA virus 3 genomic RNA, complete genome.-table6-Totiviridae-HMM244-621_42.0-ORF53
+seq107	>nrnt-KR011117 Beauveria bassiana victorivirus 1, complete genome.-table6-Totiviridae-HMM259-618_40.0-ORF51
+seq108	>nrnt-KT455460 Delisea pulchra totivirus IndA isolate IndA_16 RNA-dependent RNA polymerase gene, partial cds.-table1-Totiviridae-HMM32-343_90.0-ORF14
+seq109	>nrnt-KT455459 Delisea pulchra totivirus IndA isolate IndA_14 RNA-dependent RNA polymerase gene, partial cds.-table1-Totiviridae-HMM21-348_93.0-ORF8
+seq110	>nrnt-KT455458 Delisea pulchra totivirus IndA isolate IndA_12 RNA-dependent RNA polymerase gene, partial cds.-table1-Totiviridae-HMM53-469_73.0-ORF19
+seq111	>nrnt-KT455457 Delisea pulchra totivirus IndA isolate IndA_11 RNA-dependent RNA polymerase gene, partial cds.-table1-Totiviridae-HMM138-554_71.0-ORF13
+seq112	>nrnt-KT455456 Delisea pulchra totivirus IndA isolate IndA_8 RNA-dependent RNA polymerase gene, partial cds.-table1-Totiviridae-HMM186-578_67.0-ORF21
+seq113	>nrnt-KT455455 Delisea pulchra totivirus IndA isolate IndA_7 RNA-dependent RNA polymerase gene, partial cds.-table1-Totiviridae-HMM118-477_74.0-ORF16
+seq114	>nrnt-KT455454 Delisea pulchra totivirus IndA isolate IndA_6 RNA-dependent RNA polymerase gene, partial cds.-table1-Totiviridae-HMM145-605_73.0-ORF24
+seq115	>nrnt-KT455453 Delisea pulchra totivirus IndA isolate IndA_5 RNA-dependent RNA polymerase gene, partial cds.-table1-Totiviridae-HMM83-543_65.0-ORF17
+seq116	>nrnt-KT455452 Delisea pulchra totivirus IndA isolate IndA_4 RNA-dependent RNA polymerase gene, partial cds.-table1-Totiviridae-HMM54-525_66.0-ORF22
+seq117	>nrnt-KT455451 Delisea pulchra totivirus IndA isolate IndA_3 RNA-dependent RNA polymerase gene, complete cds.-table6-Totiviridae-HMM138-617_58.0-ORF28
+seq118	>nrnt-KT455450 Delisea pulchra totivirus IndA isolate IndA_2 RNA-dependent RNA polymerase gene, complete cds.-table6-Totiviridae-HMM106-569_59.0-ORF22
+seq119	>nrnt-KT455449 Delisea pulchra totivirus IndA isolate IndA_1 RNA-dependent RNA polymerase gene, complete cds.-table6-Totiviridae-HMM153-610_55.0-ORF29
+seq120	>nrnt-HE572591 Beauveria bassiana victorivirus 1, complete genome.-table4-Totiviridae-HMM294-664_40.0-ORF50
+seq121	>nrnt-KP642128 DsRNA virus environmental sample clone thai.aeae_contig5425 proline-alanine-rich protein and PArp-RdRp genes, partial cds.-table6-Totiviridae-HMM326-691_38.0-ORF37
+seq122	>nrnt-KP642124 DsRNA virus environmental sample clone smat.culi_contig119 proline-alanine-rich protein gene, complete cds; and PArp-RdRp gene, partial cds.-table6-Totiviridae-HMM429-866_35.0-ORF67
+seq123	>nrnt-KP642123 DsRNA virus environmental sample clone pepp.ochl_contig32 proline-alanine-rich protein gene, complete cds; and PArp-RdRp gene, partial cds.-table4-Totiviridae-HMM337-705_34.0-ORF77
+seq124	>nrnt-KP642122 DsRNA virus environmental sample clone mill.culi_contig89 proline-alanine-rich protein gene, complete cds; and PArp-RdRp gene, partial cds.-table6-Totiviridae-HMM283-709_39.0-ORF70
+seq125	>nrnt-KF256264 Unidentified Leishmania RNA virus strain MHOM/ET/2011/LDS303 capsid protein gene, complete cds; and RNA-dependent RNA polymerase gene, partial cds.-table4-Totiviridae-HMM230-678_48.0-ORF58
+seq126	>nrnt-JN819511 Saccharomyces cerevisiae virus L-A-lus gag-pol fusion protein and coat protein genes, complete cds.-table4-Totiviridae-HMM178-660_54.0-ORF55
+seq127	>nrnt-JX524563 Ustilaginoidea virens RNA virus 1 strain JYH-ZT, complete genome.-table6-Totiviridae-HMM192-598_41.0-ORF55
+seq128	>nrnt-KC610514 Scheffersomyces segobiensis virus L isolate NRRL Y-11571, complete genome.-table6-Totiviridae-HMM187-662_53.0-ORF50
+seq129	>nrnt-JN997473 Xanthophyllomyces dendrorhous virus L1b capsid protein (CP) and RNA-dependent RNA polymerase (RdRp) genes, complete cds.-table6-Totiviridae-HMM263-734_49.0-ORF47
+seq130	>nrnt-HE579658 Uncultured totivirus genomic RNA containing putative RdRp, contig 95.1Hv1_454_1.-table4-Totiviridae-HMM239-547_52.0-ORF34
+seq131	>nrnt-HQ607520 Trichomonas vaginalis virus 4 strain TVV4-OC3, complete genome.-table4-Totiviridae-HMM346-775_43.0-ORF37
+seq132	>nrnt-HQ158596 Tuber aestivum virus 1 capsid protein and RNA polymerase genes, complete cds.-table6-Totiviridae-HMM217-700_52.0-ORF45
+seq133	>nrnt-AM261427 Epichloe festucae virus 1 CP gene for outative coat protein and RdRp gene for RNA dependent RNA polymerase gene, genomic RNA, strain P23.-table4-Totiviridae-HMM428-804_34.0-ORF39
+seq134	>nrnt-AM111098 Ophiostoma minus totivirus partial mRNA for RNA-dependent RNA polymerase (RdRp gene), isolate H2392.-table1-Totiviridae-HMM122-436_71.0-ORF16
+seq135	>nrnt-AY556461 Thielaviopsis basicola dsRNA virus 2, partial sequence.-table6-Totiviridae-HMM155-509_45.0-ORF26
+seq136	>nrnt-KX882999 Hubei toti-like virus 3 strain ZL17544 hypothetical protein gene, partial cds.-table6-Totiviridae-HMM20-434_63.0-ORF29
+seq137	>nrnt-KX882998 Hubei toti-like virus 1 strain ZL17075 hypothetical protein gene, partial cds.-table6-Totiviridae-HMM196-584_43.0-ORF43
+seq138	>nrnt-KX882981 Hubei toti-like virus 4 strain WHWG8762 hypothetical protein gene, partial cds.-table1-Totiviridae-HMM4-397_66.0-ORF10
+seq139	>nrnt-KX882971 Hubei toti-like virus 7 strain SCM411298 hypothetical protein gene, partial cds.-table6-Totiviridae-HMM128-494_41.0-ORF26
+seq140	>nrnt-KX882968 Hubei toti-like virus 11 strain QTM2810 hypothetical protein gene, partial cds.-table6-Totiviridae-HMM14-319_44.0-ORF19
+seq141	>nrnt-KX882965 Hubei toti-like virus 8 strain QTM25279 hypothetical protein gene, partial cds.-table6-Totiviridae-HMM374-691_40.0-ORF28
+seq142	>nrnt-KX882940 Hubei toti-like virus 6 strain arthropodmix282 hypothetical protein 1 gene, complete cds; and hypothetical protein 2 gene, partial cds.-table4-Totiviridae-HMM427-747_40.0-ORF33
+seq143	>nrnt-GU108587 Grapevine associated mycovirus-1 isolate Ctg150 putative RNA-dependent RNA polymerase gene, partial cds.-table1-Totiviridae-HMM88-407_78.0-ORF16
+seq144	>nrnt-KT222801 Phakopsora pachyrhizi mycovirus isolate 2383 coat protein (gag) gene, complete cds; and polymerase (pol) gene, partial cds.-table4-Totiviridae-HMM239-653_47.0-ORF58
+seq145	>nrnt-KF298277 Uncultured virus isolate acc_9.16 putative RNA-dependent RNA polymerase-like protein and hypothetical protein genes, complete cds.-table4-Totiviridae-HMM316-697_35.0-ORF81
+seq146	>nrnt-X92203 Cucurbit yellows-associated virus partial gene for putative RNA-dependent RNA polymerase, genomic RNA.-table1-Totiviridae-HMM50-309_40.0-ORF15
+seq147	>tsa-GEZL01213530.1 TSA: Ambrosia artemisiifolia TR105651_c0_g1_i1 transcribed RNA sequence-table1-Totiviridae-HMM2-76_97.0-ORF3
+seq148	>tsa-GEOH01029547.1 (REVERSE SENSE) TSA: Ambrosia trifida comp113777_c0_seq1 transcribed RNA sequence-table1-Totiviridae-HMM7-477_82.0-ORF49
+seq149	>tsa-GEOH01044231.1 TSA: Ambrosia trifida comp131608_c0_seq1 transcribed RNA sequence-table4-Totiviridae-HMM205-682_53.0-ORF32
+seq150	>tsa-IAAG01002698.1 TSA: Ambrosiozyma kashinagacola mRNA, contig: c2399_g1_i1, strain: JCM 15019, transcribed RNA sequence-table6-Totiviridae-HMM211-690_58.0-ORF53
+seq151	>tsa-GARP01025880.1 (REVERSE SENSE) TSA: Bemisia tabaci comp13683_c0_seq1 transcribed RNA sequence-table6-Totiviridae-HMM128-455_39.0-ORF58
+seq152	>tsa-GARP01065882.1 (REVERSE SENSE) TSA: Bemisia tabaci comp23871_c0_seq1 transcribed RNA sequence-table1-Totiviridae-HMM73-320_76.0-ORF31
+seq153	>tsa-GBII01021570.1 TSA: Bemisia tabaci CL5557.Contig1_AB transcribed RNA sequence-table6-Totiviridae-HMM540-847_23.0-ORF71
+seq154	>tsa-GBIJ01012886.1 (REVERSE SENSE) TSA: Bemisia tabaci Unigene3143_A transcribed RNA sequence-table6-Totiviridae-HMM117-424_35.0-ORF67
+seq155	>tsa-GCZW01022410.1 TSA: Bemisia tabaci Unigene30521_N1 transcribed RNA sequence-table1-Totiviridae-HMM133-354_62.0-ORF11
+seq156	>tsa-GEZK01105224.1 TSA: Bemisia tabaci c151733_g1 transcribed RNA sequence-table6-Totiviridae-HMM533-797_21.0-ORF36
+seq157	>tsa-GBAD01037434.1 (REVERSE SENSE) TSA: Boechera gunnisoniana comp76126_c1_seq1 transcribed RNA sequence-table4-Totiviridae-HMM2-383_61.0-ORF48
+seq158	>tsa-GAZX01033390.1 (REVERSE SENSE) TSA: Caligus rogercresseyi tsa-crog-ngs-11117133 transcribed RNA sequence-table6-Totiviridae-HMM285-685_37.0-ORF50
+seq159	>tsa-GAZX01040226.1 (REVERSE SENSE) TSA: Caligus rogercresseyi tsa-crog-ngs-11124002 transcribed RNA sequence-table1-Totiviridae-HMM170-515_64.0-ORF47
+seq160	>tsa-GAZX01040383.1 (REVERSE SENSE) TSA: Caligus rogercresseyi tsa-crog-ngs-11124172 transcribed RNA sequence-table1-Totiviridae-HMM211-640_43.0-ORF88
+seq161	>tsa-GAZX01040384.1 (REVERSE SENSE) TSA: Caligus rogercresseyi tsa-crog-ngs-11124173 transcribed RNA sequence-table1-Totiviridae-HMM200-629_44.0-ORF85
+seq162	>tsa-GBHI01002765.1 TSA: Camellia oleifera ColeSingleton3852 transcribed RNA sequence-table1-Totiviridae-HMM1-94_85.0-ORF3
+seq163	>tsa-GBHI01032777.1 TSA: Camellia oleifera ColeSingleton44383 transcribed RNA sequence-table1-Totiviridae-HMM3-118_86.0-ORF4
+seq164	>tsa-GEFY01048316.1 (REVERSE SENSE) TSA: Camellia oleifera Unigene48322 transcribed RNA sequence-table1-Totiviridae-HMM1-75_98.0-ORF9
+seq165	>tsa-GEFY01060752.1 (REVERSE SENSE) TSA: Camellia oleifera Unigene60769 transcribed RNA sequence-table1-Totiviridae-HMM2-71_97.0-ORF7
+seq166	>tsa-GEER01122881.1 TSA: Camellia reticulata CRD_FB_c31637_g2_i1 transcribed RNA sequence-table1-Totiviridae-HMM465-932_41.0-ORF26
+seq167	>tsa-GFSL01077730.1 (REVERSE SENSE) TSA: Camellia sasanqua CSATR013426 transcribed RNA sequence-table1-Totiviridae-HMM765-1233_32.0-ORF112
+seq168	>tsa-GCRZ01031143.1 (REVERSE SENSE) TSA: Camellia taliensis CtaTrans34385 transcribed RNA sequence-table1-Totiviridae-HMM249-659_62.0-ORF52
+seq169	>tsa-GEWG01000926.1 TSA: Chorda filum GWS036236_c35164_g1_i1 transcribed RNA sequence-table6-Totiviridae-HMM426-787_34.0-ORF32
+seq170	>tsa-IABS01014055.1 TSA: Crematogaster osakensis mRNA, contig: comp6123390_c0_seq1.m.543775, transcribed RNA sequence-table1-Totiviridae-HMM3-70_94.0-ORF2
+seq171	>tsa-GBSG01000182.1 TSA: Cronartium ribicola Cr-comp65418_c0_seq1 transcribed RNA sequence-table1-Totiviridae-HMM2-114_97.0-ORF3
+seq172	>tsa-GBSG01002711.1 (REVERSE SENSE) TSA: Cronartium ribicola Cr-comp86831_c0_seq1 transcribed RNA sequence-table1-Totiviridae-HMM3-90_96.0-ORF6
+seq173	>tsa-GBSG01002982.1 TSA: Cronartium ribicola Cr-comp99291_c0_seq1 transcribed RNA sequence-table1-Totiviridae-HMM5-77_60.0-ORF5
+seq174	>tsa-GBSG01005992.1 TSA: Cronartium ribicola Cr-comp119717_c1_seq1 transcribed RNA sequence-table1-Totiviridae-HMM2-134_98.0-ORF5
+seq175	>tsa-GBSG01007995.1 TSA: Cronartium ribicola Cr-comp123314_c0_seq1 transcribed RNA sequence-table1-Totiviridae-HMM75-262_71.0-ORF11
+seq176	>tsa-GBSG01008490.1 TSA: Cronartium ribicola Cr-comp123901_c0_seq1 transcribed RNA sequence-table1-Totiviridae-HMM4-118_54.0-ORF6
+seq177	>tsa-GBSG01016039.1 (REVERSE SENSE) TSA: Cronartium ribicola Cr-comp274043_c0_seq1 transcribed RNA sequence-table1-Totiviridae-HMM121-437_63.0-ORF46
+seq178	>tsa-GBSG01016838.1 TSA: Cronartium ribicola Cr-comp474165_c0_seq1 transcribed RNA sequence-table1-Totiviridae-HMM1-73_66.0-ORF5
+seq179	>tsa-GFOY01042076.1 TSA: Daiswa yunnanensis CL6445.Contig2_All transcribed RNA sequence-table4-Totiviridae-HMM462-881_36.0-ORF30
+seq180	>tsa-GEPN01031878.1 TSA: Echiuropus macronychus c31298_g1_i1 transcribed RNA sequence-table4-Totiviridae-HMM4-364_50.0-ORF32
+seq181	>tsa-GEOE01054439.1 (REVERSE SENSE) TSA: Enteucha acetosae TR30611-c4_g2_i1 transcribed RNA sequence-table6-Totiviridae-HMM10-213_87.0-ORF18
+seq182	>tsa-GAUK02019918.1 TSA: Ephemera danica C84257_a_3_0_l_240 transcribed RNA sequence-table1-Totiviridae-HMM2-76_93.0-ORF1
+seq183	>tsa-HADB01042104.1 (REVERSE SENSE) TSA: Fagus sylvatica, contig fasyl_0913436, transcribed RNA sequence-table1-Totiviridae-HMM2-61_62.0-ORF10
+seq184	>tsa-GBLN01015530.1 TSA: Gonatocerus morrilli C62688_a_40_0_l_8446 transcribed RNA sequence-table6-Totiviridae-HMM587-891_21.0-ORF86
+seq185	>tsa-GEZJ01003294.1 (REVERSE SENSE) TSA: Gracilaria chilensis GChilensis_contig_0003298 transcribed RNA sequence-table6-Totiviridae-HMM236-652_47.0-ORF115
+seq186	>tsa-GEZJ01010006.1 (REVERSE SENSE) TSA: Gracilaria chilensis GChilensis_contig_0010028 transcribed RNA sequence-table1-Totiviridae-HMM127-384_66.0-ORF35
+seq187	>tsa-GEZJ01010517.1 (REVERSE SENSE) TSA: Gracilaria chilensis GChilensis_contig_0010540 transcribed RNA sequence-table1-Totiviridae-HMM5-113_72.0-ORF13
+seq188	>tsa-GEBQ01008458.1 TSA: Graphocephala atropunctata TR13016_c2_g1_i1 transcribed RNA sequence-table1-Totiviridae-HMM12-229_68.0-ORF11
+seq189	>tsa-GBDM01030107.1 TSA: Helicoverpa armigera m.59477 transcribed RNA sequence-table1-Totiviridae-HMM6-101_94.0-ORF1
+seq190	>tsa-GBTA01000683.1 TSA: Helicoverpa assulta m.4176 transcribed RNA sequence-table1-Totiviridae-HMM135-347_61.0-ORF7
+seq191	>tsa-GBTA01063992.1 TSA: Helicoverpa assulta m.3368 transcribed RNA sequence-table4-Totiviridae-HMM205-662_51.0-ORF26
+seq192	>tsa-GFLH01000316.1 (REVERSE SENSE) TSA: Heterosiphonia pulchra scaffold-YSBD-2027401-Heterosiphonia_pulchra transcribed RNA sequence-table1-Totiviridae-HMM5-77_92.0-ORF9
+seq193	>tsa-GFLH01002518.1 TSA: Heterosiphonia pulchra scaffold-YSBD-2002256-Heterosiphonia_pulchra transcribed RNA sequence-table1-Totiviridae-HMM1-160_99.0-ORF6
+seq194	>tsa-GFLH01003970.1 TSA: Heterosiphonia pulchra scaffold-YSBD-2038151-Heterosiphonia_pulchra transcribed RNA sequence-table4-Totiviridae-HMM260-482_45.0-ORF21
+seq195	>tsa-GFLH01006441.1 TSA: Heterosiphonia pulchra scaffold-YSBD-2033823-Heterosiphonia_pulchra transcribed RNA sequence-table1-Totiviridae-HMM9-86_62.0-ORF4
+seq196	>tsa-GFLH01011205.1 (REVERSE SENSE) TSA: Heterosiphonia pulchra scaffold-YSBD-2031505-Heterosiphonia_pulchra transcribed RNA sequence-table1-Totiviridae-HMM11-97_88.0-ORF8
+seq197	>tsa-GFLH01012651.1 TSA: Heterosiphonia pulchra scaffold-YSBD-2029828-Heterosiphonia_pulchra transcribed RNA sequence-table1-Totiviridae-HMM1-74_82.0-ORF2
+seq198	>tsa-GFLH01013713.1 (REVERSE SENSE) TSA: Heterosiphonia pulchra scaffold-YSBD-2039303-Heterosiphonia_pulchra transcribed RNA sequence-table6-Totiviridae-HMM1383-1714_16.0-ORF129
+seq199	>tsa-GFLH01014330.1 (REVERSE SENSE) TSA: Heterosiphonia pulchra scaffold-YSBD-2036378-Heterosiphonia_pulchra transcribed RNA sequence-table1-Totiviridae-HMM1-206_97.0-ORF17
+seq200	>tsa-GFLH01014485.1 (REVERSE SENSE) TSA: Heterosiphonia pulchra scaffold-YSBD-2034374-Heterosiphonia_pulchra transcribed RNA sequence-table1-Totiviridae-HMM4-132_96.0-ORF12
+seq201	>tsa-GFLH01015245.1 (REVERSE SENSE) TSA: Heterosiphonia pulchra scaffold-YSBD-2034525-Heterosiphonia_pulchra transcribed RNA sequence-table1-Totiviridae-HMM3-136_97.0-ORF10
+seq202	>tsa-GFLH01017415.1 TSA: Heterosiphonia pulchra scaffold-YSBD-2002257-Heterosiphonia_pulchra transcribed RNA sequence-table1-Totiviridae-HMM1-176_99.0-ORF7
+seq203	>tsa-GFLH01019864.1 TSA: Heterosiphonia pulchra scaffold-YSBD-2032302-Heterosiphonia_pulchra transcribed RNA sequence-table1-Totiviridae-HMM5-80_72.0-ORF5
+seq204	>tsa-GBRF01043662.1 TSA: Hirudo medicinalis Hm90770_c0_seq1 transcribed RNA sequence-table4-Totiviridae-HMM1-85_46.0-ORF6
+seq205	>tsa-GBRF01061626.1 TSA: Hirudo medicinalis Hm166284_c0_seq1 transcribed RNA sequence-table1-Totiviridae-HMM5-81_67.0-ORF3
+seq206	>tsa-HACH01052700.1 (REVERSE SENSE) TSA: Hyas araneus, contig c49955_g1_i1, transcribed RNA sequence-table1-Totiviridae-HMM2-119_98.0-ORF11
+seq207	>tsa-GCRV01015459.1 (REVERSE SENSE) TSA: insect metagenome Unigene2847_All transcribed RNA sequence-table6-Totiviridae-HMM328-736_40.0-ORF72
+seq208	>tsa-GDAA01043804.1 (REVERSE SENSE) TSA: Bemisia tabaci Unigene24586_NB1 transcribed RNA sequence-table6-Totiviridae-HMM540-847_23.0-ORF154
+seq209	>tsa-GBSN01045719.1 (REVERSE SENSE) TSA: Lathyrus sativus a354004_10 transcribed RNA sequence-table1-Totiviridae-HMM1-107_47.0-ORF17
+seq210	>tsa-GBSN01054039.1 TSA: Lathyrus sativus a453417_7 transcribed RNA sequence-table4-Totiviridae-HMM228-479_52.0-ORF21
+seq211	>tsa-GBSN01057725.1 (REVERSE SENSE) TSA: Lathyrus sativus a503653_6 transcribed RNA sequence-table1-Totiviridae-HMM1-130_99.0-ORF13
+seq212	>tsa-GBSS01044897.1 (REVERSE SENSE) TSA: Lathyrus sativus a354004_10 transcribed RNA sequence-table1-Totiviridae-HMM1-107_47.0-ORF17
+seq213	>tsa-GBSS01051935.1 TSA: Lathyrus sativus a453417_7 transcribed RNA sequence-table4-Totiviridae-HMM228-479_52.0-ORF21
+seq214	>tsa-GBSS01054531.1 (REVERSE SENSE) TSA: Lathyrus sativus a503653_6 transcribed RNA sequence-table1-Totiviridae-HMM1-130_99.0-ORF13
+seq215	>tsa-GFCJ01030370.1 (REVERSE SENSE) TSA: Loxostege sticticalis c47309.graph_c0 transcribed RNA sequence-table6-Totiviridae-HMM1-284_52.0-ORF41
+seq216	>tsa-GEEC01007285.1 TSA: Mangifera indica contig52115 transcribed RNA sequence-table1-Totiviridae-HMM10-88_86.0-ORF2
+seq217	>tsa-GEEC01028067.1 TSA: Mangifera indica contig31027 transcribed RNA sequence-table1-Totiviridae-HMM1-101_80.0-ORF4
+seq218	>tsa-GEEC01033860.1 (REVERSE SENSE) TSA: Mangifera indica contig45577 transcribed RNA sequence-table1-Totiviridae-HMM1-112_99.0-ORF7
+seq219	>tsa-GAZE02096979.1 TSA: Mastotermes darwiniensis C405544_a_5_0_l_355 transcribed RNA sequence-table1-Totiviridae-HMM1-100_84.0-ORF3
+seq220	>tsa-GFLB01004608.1 TSA: Mazzaella japonica scaffold-WEJN-2022162-Mazzaella_japonica transcribed RNA sequence-table1-Totiviridae-HMM22-149_85.0-ORF4
+seq221	>tsa-GFLB01008681.1 (REVERSE SENSE) TSA: Mazzaella japonica scaffold-WEJN-2024780-Mazzaella_japonica transcribed RNA sequence-table1-Totiviridae-HMM3-364_91.0-ORF33
+seq222	>tsa-GFLB01011784.1 (REVERSE SENSE) TSA: Mazzaella japonica scaffold-WEJN-2004710-Mazzaella_japonica transcribed RNA sequence-table1-Totiviridae-HMM3-418_70.0-ORF50
+seq223	>tsa-GCPB01034756.1 (REVERSE SENSE) TSA: Megastigmus spermotrophus contig42287 transcribed RNA sequence-table1-Totiviridae-HMM61-209_63.0-ORF18
+seq224	>tsa-GACY01003739.1 (REVERSE SENSE) TSA: Mengenilla moldrzyki contig03747 mRNA sequence-table6-Totiviridae-HMM9-223_55.0-ORF36
+seq225	>tsa-GFRX01062577.1 TSA: Panax notoginseng TR103168_c0_g1_i1 transcribed RNA sequence-table4-Totiviridae-HMM431-799_31.0-ORF56
+seq226	>tsa-GFRX01062578.1 TSA: Panax notoginseng TR103168_c0_g1_i2 transcribed RNA sequence-table4-Totiviridae-HMM431-799_33.0-ORF56
+seq227	>tsa-GACM01000569.1 TSA: Phakopsora pachyrhizi Thai1 Pp_contig05878 mRNA sequence-table6-Totiviridae-HMM204-663_51.0-ORF46
+seq228	>tsa-GACM01000768.1 (REVERSE SENSE) TSA: Phakopsora pachyrhizi Thai1 Pp_contig02383 mRNA sequence-table4-Totiviridae-HMM239-653_47.0-ORF158
+seq229	>tsa-GACM01001017.1 TSA: Phakopsora pachyrhizi Thai1 Pp_contig04598 mRNA sequence-table6-Totiviridae-HMM22-436_70.0-ORF22
+seq230	>tsa-GACM01001485.1 (REVERSE SENSE) TSA: Phakopsora pachyrhizi Thai1 Pp_contig05068 mRNA sequence-table1-Totiviridae-HMM14-149_90.0-ORF12
+seq231	>tsa-GACM01001698.1 TSA: Phakopsora pachyrhizi Thai1 Pp_contig09517 mRNA sequence-table1-Totiviridae-HMM4-107_96.0-ORF4
+seq232	>tsa-GACM01002484.1 (REVERSE SENSE) TSA: Phakopsora pachyrhizi Thai1 Pp_contig01469 mRNA sequence-table1-Totiviridae-HMM2-111_98.0-ORF13
+seq233	>tsa-GACM01002541.1 TSA: Phakopsora pachyrhizi Thai1 Pp_contig01637 mRNA sequence-table4-Totiviridae-HMM160-572_52.0-ORF28
+seq234	>tsa-GACM01002865.1 TSA: Phakopsora pachyrhizi Thai1 Pp_contig00012 mRNA sequence-table4-Totiviridae-HMM16-201_54.0-ORF12
+seq235	>tsa-GACM01003023.1 TSA: Phakopsora pachyrhizi Thai1 Pp_contig00672 mRNA sequence-table4-Totiviridae-HMM11-327_83.0-ORF17
+seq236	>tsa-GACM01003042.1 TSA: Phakopsora pachyrhizi Thai1 Pp_contig00844 mRNA sequence-table4-Totiviridae-HMM242-439_44.0-ORF20
+seq237	>tsa-GACM01003071.1 (REVERSE SENSE) TSA: Phakopsora pachyrhizi Thai1 Pp_contig00799 mRNA sequence-table6-Totiviridae-HMM150-609_62.0-ORF63
+seq238	>tsa-GACM01003327.1 (REVERSE SENSE) TSA: Phakopsora pachyrhizi Thai1 Pp_contig02568 mRNA sequence-table6-Totiviridae-HMM14-228_88.0-ORF45
+seq239	>tsa-GACM01003622.1 TSA: Phakopsora pachyrhizi Thai1 Pp_contig03497 mRNA sequence-table4-Totiviridae-HMM31-236_86.0-ORF10
+seq240	>tsa-GEUO01004696.1 TSA: Podosphaera xanthii Pfusca_clean_c7919_mira transcribed RNA sequence-table1-Totiviridae-HMM2-308_68.0-ORF10
+seq241	>tsa-GEUO01004841.1 (REVERSE SENSE) TSA: Podosphaera xanthii Pfusca_clean_c10351_mira transcribed RNA sequence-table4-Totiviridae-HMM62-265_76.0-ORF42
+seq242	>tsa-GEUO01007329.1 TSA: Podosphaera xanthii Pfusca_clean_c10629_mira transcribed RNA sequence-table6-Totiviridae-HMM1-229_74.0-ORF10
+seq243	>tsa-GEUO01008218.1 TSA: Podosphaera xanthii Pfusca_clean_c32167_mira transcribed RNA sequence-table1-Totiviridae-HMM1-334_99.0-ORF11
+seq244	>tsa-GEUO01008327.1 TSA: Podosphaera xanthii Pfusca_clean_c15149_mira transcribed RNA sequence-table4-Totiviridae-HMM2-197_76.0-ORF10
+seq245	>tsa-GEUO01009515.1 TSA: Podosphaera xanthii Pfusca_clean_c23963_mira transcribed RNA sequence-table4-Totiviridae-HMM21-261_87.0-ORF11
+seq246	>tsa-GEUO01009767.1 TSA: Podosphaera xanthii Pfusca_clean_c17967_mira transcribed RNA sequence-table1-Totiviridae-HMM143-304_52.0-ORF12
+seq247	>tsa-GEUO01010077.1 (REVERSE SENSE) TSA: Podosphaera xanthii Pfusca_clean_c11920_mira transcribed RNA sequence-table1-Totiviridae-HMM162-298_45.0-ORF24
+seq248	>tsa-GEUO01011264.1 (REVERSE SENSE) TSA: Podosphaera xanthii Contig541 transcribed RNA sequence-table1-Totiviridae-HMM3-173_60.0-ORF25
+seq249	>tsa-GEUO01012054.1 TSA: Podosphaera xanthii Pfusca_clean_c13846_mira transcribed RNA sequence-table1-Totiviridae-HMM1-271_99.0-ORF10
+seq250	>tsa-GEUO01012078.1 TSA: Podosphaera xanthii Pfusca_clean_c27471_mira transcribed RNA sequence-table1-Totiviridae-HMM4-241_87.0-ORF8
+seq251	>tsa-GEUO01015455.1 (REVERSE SENSE) TSA: Podosphaera xanthii Pfusca_clean_c19547_mira transcribed RNA sequence-table6-Totiviridae-HMM7-182_92.0-ORF18
+seq252	>tsa-GEUO01018166.1 TSA: Podosphaera xanthii Pfusca_clean_c21686_mira transcribed RNA sequence-table6-Totiviridae-HMM1-168_79.0-ORF9
+seq253	>tsa-GEUO01022701.1 (REVERSE SENSE) TSA: Podosphaera xanthii Pfusca_clean_c26453_mira transcribed RNA sequence-table1-Totiviridae-HMM1-86_48.0-ORF12
+seq254	>tsa-GEUO01022880.1 (REVERSE SENSE) TSA: Podosphaera xanthii Pfusca_clean_c22253_mira transcribed RNA sequence-table1-Totiviridae-HMM4-173_97.0-ORF15
+seq255	>tsa-GEUO01023055.1 (REVERSE SENSE) TSA: Podosphaera xanthii Pfusca_clean_c21744_mira transcribed RNA sequence-table1-Totiviridae-HMM41-170_75.0-ORF10
+seq256	>tsa-GEUO01023441.1 TSA: Podosphaera xanthii Pfusca_clean_c22910_mira transcribed RNA sequence-table1-Totiviridae-HMM2-167_97.0-ORF7
+seq257	>tsa-GEUO01024010.1 TSA: Podosphaera xanthii Pfusca_clean_c13209_mira transcribed RNA sequence-table1-Totiviridae-HMM3-165_98.0-ORF7
+seq258	>tsa-GEUO01024460.1 (REVERSE SENSE) TSA: Podosphaera xanthii Pfusca_clean_c19338_mira transcribed RNA sequence-table1-Totiviridae-HMM4-85_50.0-ORF15
+seq259	>tsa-GEHP01004297.1 (REVERSE SENSE) TSA: Porites astreoides TR4078_c0_g1_i1 transcribed RNA sequence-table1-Totiviridae-HMM3-103_97.0-ORF11
+seq260	>tsa-GEHP01068358.1 TSA: Porites astreoides TR65244_c0_g1_i1 transcribed RNA sequence-table1-Totiviridae-HMM5-141_95.0-ORF4
+seq261	>tsa-GAIR01002905.1 TSA: Puccinia striiformis f. sp. tritici PST79_6638 transcribed RNA sequence-table4-Totiviridae-HMM4-111_64.0-ORF10
+seq262	>tsa-GAIR01004304.1 TSA: Puccinia striiformis f. sp. tritici PST79_11229 transcribed RNA sequence-table4-Totiviridae-HMM2-130_87.0-ORF6
+seq263	>tsa-GAIS01002840.1 TSA: Puccinia striiformis f. sp. tritici Hcontig_6709 transcribed RNA sequence-table4-Totiviridae-HMM3-110_65.0-ORF10
+seq264	>tsa-GAIS01007917.1 TSA: Puccinia striiformis f. sp. tritici Hcontig_16474 transcribed RNA sequence-table1-Totiviridae-HMM1-189_65.0-ORF11
+seq265	>tsa-GAIS01012457.1 TSA: Puccinia striiformis f. sp. tritici Hcontig_10487 transcribed RNA sequence-table6-Totiviridae-HMM7-114_91.0-ORF9
+seq266	>tsa-GAIY01002142.1 (REVERSE SENSE) TSA: Puccinia striiformis f. sp. tritici Scontig_612 transcribed RNA sequence-table1-Totiviridae-HMM6-167_95.0-ORF15
+seq267	>tsa-GFKY01019707.1 (REVERSE SENSE) TSA: Pyropia yezoensis scaffold-ZULJ-2058493-Porphyra_yezoensis transcribed RNA sequence-table1-Totiviridae-HMM5-111_94.0-ORF9
+seq268	>tsa-GFCG01070398.1 TSA: Silene dioica TR33153_c0_g1_i1 transcribed RNA sequence-table1-Totiviridae-HMM28-182_84.0-ORF7
+seq269	>tsa-GFCG01073250.1 TSA: Silene dioica TR35929_c0_g1_i1 transcribed RNA sequence-table1-Totiviridae-HMM282-519_45.0-ORF16
+seq270	>tsa-GFCG01081080.1 (REVERSE SENSE) TSA: Silene dioica TR43599_c0_g1_i1 transcribed RNA sequence-table1-Totiviridae-HMM30-303_89.0-ORF26
+seq271	>tsa-GFCG01083627.1 TSA: Silene dioica TR46085_c0_g1_i1 transcribed RNA sequence-table1-Totiviridae-HMM1-107_54.0-ORF6
+seq272	>tsa-GFCH01065647.1 (REVERSE SENSE) TSA: Silene dioica TR29216_c0_g1_i1 transcribed RNA sequence-table1-Totiviridae-HMM2-235_64.0-ORF28
+seq273	>tsa-GFCH01074636.1 TSA: Silene dioica TR38016_c0_g1_i1 transcribed RNA sequence-table1-Totiviridae-HMM10-432_81.0-ORF15
+seq274	>tsa-GFCH01079704.1 TSA: Silene dioica TR42985_c0_g1_i1 transcribed RNA sequence-table1-Totiviridae-HMM1-68_36.0-ORF5
+seq275	>tsa-GFCH01082366.1 (REVERSE SENSE) TSA: Silene dioica TR45597_c0_g1_i1 transcribed RNA sequence-table1-Totiviridae-HMM19-161_87.0-ORF14
+seq276	>tsa-GEYV01041786.1 TSA: Silene grisebachii c32143_g1_i1 transcribed RNA sequence-table6-Totiviridae-HMM360-829_43.0-ORF54
+seq277	>tsa-GEYV01065095.1 TSA: Silene grisebachii c36550_g1_i1 transcribed RNA sequence-table6-Totiviridae-HMM231-701_49.0-ORF53
+seq278	>tsa-GEYV01144858.1 (REVERSE SENSE) TSA: Silene grisebachii c79140_g1_i1 transcribed RNA sequence-table1-Totiviridae-HMM1-44_53.0-ORF7
+seq279	>tsa-GEYW01044533.1 TSA: Silene subconica c28247_g1_i1 transcribed RNA sequence-table1-Totiviridae-HMM33-121_69.0-ORF4
+seq280	>tsa-GEYW01045767.1 TSA: Silene subconica c29518_g1_i1 transcribed RNA sequence-table1-Totiviridae-HMM1-98_97.0-ORF4
+seq281	>tsa-GDIM01028937.1 TSA: Stomoxys calcitrans Stomoxys28938 transcribed RNA sequence-table6-Totiviridae-HMM11-422_74.0-ORF17
+seq282	>tsa-GDIM01045081.1 TSA: Stomoxys calcitrans Stomoxys45090 transcribed RNA sequence-table4-Totiviridae-HMM110-436_74.0-ORF17
+seq283	>tsa-GDIM01045082.1 TSA: Stomoxys calcitrans Stomoxys45091 transcribed RNA sequence-table4-Totiviridae-HMM131-457_71.0-ORF18
+seq284	>tsa-GBBP01176362.1 (REVERSE SENSE) TSA: Teleopsis dalmanni Td_comp6756_c0_seq1 transcribed RNA sequence-table4-Totiviridae-HMM166-537_66.0-ORF42
+seq285	>tsa-GBTL01006137.1 TSA: Tetragonula carbonaria C113303_a_3_0_l_242 transcribed RNA sequence-table4-Totiviridae-HMM5-80_93.0-ORF5
+seq286	>tsa-GAXI02022882.1 (REVERSE SENSE) TSA: Tetrodontophora bielanensis C172417_a_5_0_l_1303 transcribed RNA sequence-table4-Totiviridae-HMM11-180_38.0-ORF37
+seq287	>tsa-GBUQ01013088.1 (REVERSE SENSE) TSA: Trichopria drosophilae C56082_a_11_0_l_2072 transcribed RNA sequence-table6-Totiviridae-HMM2-247_38.0-ORF50
+seq288	>tsa-GACI01000485.1 TSA: Uromyces appendiculatus Ua_contig07321 mRNA sequence-table6-Totiviridae-HMM190-526_63.0-ORF46
+seq289	>tsa-GACI01000486.1 TSA: Uromyces appendiculatus Ua_contig07366 mRNA sequence-table6-Totiviridae-HMM190-646_60.0-ORF56
+seq290	>tsa-GACI01003374.1 (REVERSE SENSE) TSA: Uromyces appendiculatus Ua_contig10570 mRNA sequence-table6-Totiviridae-HMM339-796_53.0-ORF96
+seq291	>tsa-GACI01004215.1 (REVERSE SENSE) TSA: Uromyces appendiculatus Ua_contig01686 mRNA sequence-table6-Totiviridae-HMM197-661_57.0-ORF98
+seq292	>tsa-GACI01005200.1 (REVERSE SENSE) TSA: Uromyces appendiculatus Ua_contig00565 mRNA sequence-table6-Totiviridae-HMM18-182_61.0-ORF19

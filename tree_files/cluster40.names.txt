@@ -1,0 +1,68 @@
+seq1	>ref-NC_003468.2 Andes virus segment L, complete genome-table6-Hantaviridae-HMM565-1304_33.0-ORF65
+seq2	>ref-NC_005225.1 Puumala virus segment L, complete genome-table6-Hantaviridae-HMM565-1304_33.0-ORF63
+seq3	>ref-NC_005217.1 Sin Nombre virus map viral genome L segment-table6-Hantaviridae-HMM565-1304_33.0-ORF62
+seq4	>ref-NC_005226.1 Tula virus segment L, complete sequence-table6-Hantaviridae-HMM565-1304_34.0-ORF61
+seq5	>ref-NC_005238.1 Seoul virus strain Seoul 80-39 clone 1-table6-Hantaviridae-HMM566-1304_33.0-ORF73
+seq6	>ref-NC_006435.1 Hantavirus Z10 chromosome L, complete genome-table6-Hantaviridae-HMM565-1304_33.0-ORF66
+seq7	>ref-NC_005222.1 Hantaan virus segment L, complete genome-table6-Hantaviridae-HMM565-1304_33.0-ORF71
+seq8	>ref-NC_005235.1 Dobrava virus complete L segment gene for polymerase protein, strain DOBV/Ano-Poroia/Afl9/1999)-table6-Hantaviridae-HMM565-1304_33.0-ORF65
+seq9	>ref-NC_010707.1 Thottapalayam virus segment L, complete sequence-table6-Hantaviridae-HMM572-1312_33.0-ORF65
+seq10	>ref-NC_034399.1 Jeju virus strain 10-11 RNA-dependent RNA polymerase gene, complete cds-table4-Hantaviridae-HMM564-1303_33.0-ORF66
+seq11	>ref-NC_034401.1 Quezon virus clone MT1720/1657 segment L, complete sequence-table6-Hantaviridae-HMM565-1304_34.0-ORF73
+seq12	>ref-NC_034402.1 Bruges hantavirus strain BE/Vieux-Genappe/TE/2013/1 RNA-dependent RNA polymerase gene, complete cds-table6-Hantaviridae-HMM566-1304_33.0-ORF78
+seq13	>ref-NC_034403.1 Montano virus gene for RNA-dependent RNA polymerase, complete cds, isolate: 104/2006-table6-Hantaviridae-HMM558-1297_33.0-ORF70
+seq14	>ref-NC_034407.1 Bowe virus strain VN1512 RNA-dependent RNA polymerase gene, complete cds-table4-Hantaviridae-HMM564-1303_33.0-ORF72
+seq15	>ref-NC_034465.1 Nova virus strain Te34 RNA-dependent RNA polymerase gene, complete cds-table6-Hantaviridae-HMM571-1311_33.0-ORF69
+seq16	>ref-NC_034467.1 Eothenomys eleusis hantavirus FUGV isolate FG10 segment large, complete sequence-table4-Hantaviridae-HMM565-1304_33.0-ORF76
+seq17	>ref-NC_034485.1 Cao Bang virus strain 3 segment L polymerase gene, complete cds-table6-Hantaviridae-HMM565-1304_33.0-ORF68
+seq18	>ref-NC_034515.1 Cano Delgadito virus strain VHV-574 RNA-dependent RNA polymerase gene, complete cds-table4-Hantaviridae-HMM568-1307_33.0-ORF80
+seq19	>ref-NC_034556.1 Anjozorobe hantavirus strain Anjozorobe/Em/MDG/2009/ATD49 RNA-dependent RNA polymerase gene, complete cds-table4-Hantaviridae-HMM562-1300_34.0-ORF77
+seq20	>ref-NC_034553.1 Maporal virus strain HV 97021050 segment L, complete sequence-table4-Hantaviridae-HMM566-1304_33.0-ORF70
+seq21	>ref-NC_034517.1 Sangassou virus strain SA14 RNA polymerase (L) gene, complete cds-table6-Hantaviridae-HMM566-1304_33.0-ORF71
+seq22	>ref-NC_034560.1 Kenkeme virus isolate Fuyuan-Sr-326 RNA-dependent RNA polymerase gene, complete cds-table4-Hantaviridae-HMM557-1296_34.0-ORF68
+seq23	>ref-NC_034519.1 Khabarovsk virus isolate Fuyuan-Mm-217 RNA-dependent RNA polymerase gene, complete cds-table6-Hantaviridae-HMM565-1304_33.0-ORF64
+seq24	>ref-NC_034564.1 Imjin virus segment L RNA-dependent RNA polymerase gene, complete cds-table6-Hantaviridae-HMM565-1305_33.0-ORF65
+seq25	>nrnt-MG599952 Wenling hagfish hantavirus strain DHMMS25300 segment L, complete sequence.-table6-Hantaviridae-HMM603-1253_30.0-ORF76
+seq26	>nrnt-MG599949 Wenling red spikefish hantavirus strain XTXMS70955 segment L, complete sequence.-table6-Hantaviridae-HMM530-1260_34.0-ORF73
+seq27	>nrnt-MG599946 Wenling yellow goosefish hantavirus strain XQTMS34106 segment L, complete sequence.-table6-Hantaviridae-HMM533-1254_34.0-ORF70
+seq28	>nrnt-MG599940 Hainan oriental leaf-toed gecko hantavirus strain LPXYF84819 L protein gene, complete cds.-table4-Hantaviridae-HMM561-1296_33.0-ORF76
+seq29	>nrnt-KY040520 Asturias virus strain 3877 RNA-dependent RNA polymerase gene, partial cds.-table1-Hantaviridae-HMM1-456_99.0-ORF14
+seq30	>nrnt-KY040517 Asturias virus strain 3947 RNA-dependent RNA polymerase gene, partial cds.-table1-Hantaviridae-HMM1-442_99.0-ORF14
+seq31	>nrnt-KX845680 Brno virus strain 7/2012/CZE RNA-dependent RNA polymerase gene, partial cds.-table1-Hantaviridae-HMM553-1293_34.0-ORF43
+seq32	>nrnt-KU934008 Tigray hantavirus isolate ET2121 segment L, complete sequence.-table6-Hantaviridae-HMM566-1304_33.0-ORF73
+seq33	>nrnt-KT316176 Makokou virus strain Makokou GB303 RNA-dependent RNA polymerase gene, partial cds.-table6-Hantaviridae-HMM1-319_26.0-ORF36
+seq34	>nrnt-EU929078 Asama virus strain N10 segment L RNA-dependent RNA polymerase gene, partial cds.-table1-Hantaviridae-HMM511-1250_35.0-ORF45
+seq35	>nrnt-HQ831373 Thottapalayam virus strain H-1863/96 RNA-dependent RNA polymerase gene, partial cds.-table1-Hantaviridae-HMM1-673_81.0-ORF23
+seq36	>nrnt-EF636026 Seewis virus isolate mp70 RNA-dependent RNA polymerase gene, partial cds.-table6-Hantaviridae-HMM565-1109_49.0-ORF35
+seq37	>nrnt-KM361061 Altai virus strain MSB148793 RNA-dependent RNA polymerase gene, complete cds.-table1-Hantaviridae-HMM551-1292_34.0-ORF55
+seq38	>nrnt-KM201413 Amga virus strain MSB148558 RNA-dependent RNA polymerase gene, partial cds.-table1-Hantaviridae-HMM507-1246_48.0-ORF28
+seq39	>nrnt-KM102249 Laibin virus strain BT20 segment L, complete sequence.-table6-Hantaviridae-HMM564-1305_34.0-ORF69
+seq40	>nrnt-KJ857316 Yuanjiang virus isolate Yuanjiang-Mf-13 RNA-dependent RNA polymerase gene, complete cds.-table6-Hantaviridae-HMM565-1304_33.0-ORF62
+seq41	>nrnt-JX193700 Kilimanjaro virus strain FMNH174124 RNA-dependent RNA polymerase gene, complete cds.-table4-Hantaviridae-HMM566-1306_33.0-ORF74
+seq42	>nrnt-JX193697 Uluguru virus strain FMNH158302 RNA-dependent RNA polymerase gene, complete cds.-table1-Hantaviridae-HMM572-1312_34.0-ORF48
+seq43	>nrnt-KC880349 Asikkala virus strain DE/Duerrbach/1912/2009/Sm segment L, complete sequence.-table1-Hantaviridae-HMM315-854_63.0-ORF22
+seq44	>nrnt-KF974361 Amga virus strain AH301 segment L RNA-dependent RNA polymerase gene, partial cds.-table1-Hantaviridae-HMM560-1299_51.0-ORF40
+seq45	>nrnt-KF958465 Camp Ripley virus strain MSB90845 RNA-dependent RNA polymerase gene, complete cds.-table6-Hantaviridae-HMM551-1292_34.0-ORF73
+seq46	>nrnt-JX046485 Muju virus isolate 11-5 RNA-dependent RNA polymerase gene, complete cds.-table6-Hantaviridae-HMM565-1304_33.0-ORF65
+seq47	>nrnt-GU997097 Black Creek Canal virus strain SPB 9408076 segment L, complete sequence.-table6-Hantaviridae-HMM565-1304_33.0-ORF70
+seq48	>nrnt-HQ616595 Dahonggou Creek virus strain DGR 36708 RNA-dependent RNA polymerase gene, partial cds.-table1-Hantaviridae-HMM1-352_99.0-ORF9
+seq49	>nrnt-JQ287716 Mouyassue virus RNA-dependent RNA polymerase gene, partial cds.-table1-Hantaviridae-HMM1-563_99.0-ORF16
+seq50	>nrnt-JX912953 Xuan son virus strain XSV-VN1982B4 RNA-dependent RNA polymerase gene, partial cds.-table1-Hantaviridae-HMM501-1242_48.0-ORF44
+seq51	>nrnt-JX465372 Lianghe virus strain Lianghe-As-217 L protein gene, partial cds.-table1-Hantaviridae-HMM6-488_98.0-ORF12
+seq52	>nrnt-FJ858378 Catacamas virus strain HV C1280001 RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table6-Hantaviridae-HMM565-1304_33.0-ORF70
+seq53	>nrnt-JX443696 LANV-2 Hantavirus strain H731172/BRA259 RNA polymerase gene, complete cds.-table4-Hantaviridae-HMM554-1293_33.0-ORF71
+seq54	>nrnt-JN542542 Hantaan virus XAAa10091712 nucleoprotein, glycoprotein, and putative RNA-dependent RNA polymerase genes, complete cds.-table4-Hantaviridae-HMM581-1320_33.0-ORF152
+seq55	>nrnt-AB677488 Ussuri virus gene for RNA-dependent RNA polymerase, partial cds, isolate: Khekhtsir37L/2002.-table6-Hantaviridae-HMM564-1303_34.0-ORF75
+seq56	>nrnt-FJ593501 Jemez Springs virus strain MSB144475 RNA-dependent RNA polymerase gene, partial cds.-table1-Hantaviridae-HMM424-1163_45.0-ORF48
+seq57	>nrnt-FJ593497 Oxbow virus strain Ng1453 RNA-dependent RNA polymerase gene, partial cds.-table6-Hantaviridae-HMM566-1304_50.0-ORF48
+seq58	>nrnt-HM015220 Rockport virus isolate MSB57411 segment L, complete sequence.-table6-Hantaviridae-HMM569-1306_33.0-ORF72
+seq59	>nrnt-AB620108 Huitzilac virus gene for RNA-dependent RNA polymerase, complete cds, isolate: 200/2006.-table6-Hantaviridae-HMM565-1304_33.0-ORF76
+seq60	>nrnt-EF397003 Choclo virus strain 588 segment L, complete sequence.-table6-Hantaviridae-HMM566-1305_33.0-ORF67
+seq61	>nrnt-FJ809772 Rio Mamore virus isolate HTN-007 segment L, complete sequence.-table6-Hantaviridae-HMM565-1304_33.0-ORF77
+seq62	>nrnt-FV537384 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Hantaviridae-HMM567-1303_33.0-ORF103
+seq63	>nrnt-FV537305 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Hantaviridae-HMM568-1303_33.0-ORF99
+seq64	>nrnt-DQ989237 Hantaan virus isolate Nc167 segment L, complete sequence.-table6-Hantaviridae-HMM565-1304_33.0-ORF71
+seq65	>nrnt-EF646763 Prospect Hill virus segment L, complete sequence.-table6-Hantaviridae-HMM566-1304_33.0-ORF69
+seq66	>tsa-GACW01004988.1 (REVERSE SENSE) TSA: Carabus granulatus contig04999 mRNA sequence-table4-Hantaviridae-HMM49-241_44.0-ORF34
+seq67	>tsa-GDAR01013477.1 (REVERSE SENSE) TSA: Dendroctonus ponderosae Dpon-CLC-20141217_contig_67373 transcribed RNA sequence-table1-Hantaviridae-HMM3-207_98.0-ORF18
+seq68	>tsa-GAEM01001147.1 (REVERSE SENSE) TSA: Mytilus galloprovincialis NORM_MGC_c1165 mRNA sequence-table1-Hantaviridae-HMM15-211_82.0-ORF17

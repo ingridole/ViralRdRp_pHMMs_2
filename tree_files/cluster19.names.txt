@@ -1,0 +1,182 @@
+seq1	>ref-NC_002551.1 Vesicular exanthema of swine virus, complete genome-table6-Caliciviridae-HMM1373-1856_23.0-ORF55
+seq2	>ref-NC_000940.1 Porcine enteric sapovirus, complete genome-table4-Caliciviridae-HMM1218-1693_20.0-ORF56
+seq3	>ref-NC_004542.1 Canine calicivirus, complete genome-table4-Caliciviridae-HMM1425-1906_18.0-ORF69
+seq4	>ref-NC_004064.1 Calicivirus strain NB, complete genome-table6-Caliciviridae-HMM1171-1658_21.0-ORF74
+seq5	>ref-NC_004541.1 Walrus calicivirus non-structural polyprotein, capsid, and putative nucleic-acid binding protein genes, complete cds-table6-Caliciviridae-HMM1372-1855_24.0-ORF54
+seq6	>ref-NC_001481.2 Feline calicivirus, complete genome-table4-Caliciviridae-HMM1265-1743_26.0-ORF61
+seq7	>ref-NC_010624.1 Sapovirus Mc10, complete genome-table6-Caliciviridae-HMM1226-1702_20.0-ORF69
+seq8	>ref-NC_006269.1 Sapovirus Hu/Dresden/pJG-Sap01/DE, complete genome-table4-Caliciviridae-HMM1222-1698_20.0-ORF64
+seq9	>ref-NC_006554.1 Sapovirus C12 strain C12-table6-Caliciviridae-HMM1227-1703_20.0-ORF69
+seq10	>ref-NC_002615.1 European brown hare syndrome virus, complete genome-table4-Caliciviridae-HMM1275-1739_19.0-ORF55
+seq11	>ref-NC_006875.1 Calicivirus isolate TCG, complete genome-table6-Caliciviridae-HMM1171-1658_21.0-ORF67
+seq12	>ref-NC_001543.1 Rabbit hemorrhagic disease virus-FRG, complete genome-table4-Caliciviridae-HMM1283-1748_19.0-ORF58
+seq13	>ref-NC_001959.2 Norovirus GI, complete genome-table6-Caliciviridae-HMM1298-1763_25.0-ORF54
+seq14	>ref-NC_007916.1 Newbury agent 1 virus, complete genome-table6-Caliciviridae-HMM1180-1667_21.0-ORF60
+seq15	>ref-NC_008580.1 Rabbit vesivirus, complete genome-table6-Caliciviridae-HMM1372-1855_25.0-ORF55
+seq16	>ref-NC_008311.1 Norovirus GV, complete genome-table4-Caliciviridae-HMM1199-1664_26.0-ORF31
+seq17	>ref-NC_011050.1 Steller sea lion vesivirus, complete genome-table6-Caliciviridae-HMM1372-1856_23.0-ORF53
+seq18	>ref-NC_011704.1 Rabbit calicivirus Australia 1 MIC-07, complete genome-table4-Caliciviridae-HMM1278-1742_19.0-ORF70
+seq19	>ref-NC_012699.1 Calicivirus pig/AB90/CAN, complete genome-table6-Caliciviridae-HMM1009-1457_21.0-ORF60
+seq20	>ref-NC_017936.1 Bat sapovirus TLC58/HK, complete genome-table6-Caliciviridae-HMM1241-1720_20.0-ORF74
+seq21	>ref-NC_019712.1 Mink calicivirus, complete genome-table6-Caliciviridae-HMM1442-1924_22.0-ORF66
+seq22	>ref-NC_024031.1 Atlantic salmon calicivirus isolate Nordland/2011, complete genome-table6-Caliciviridae-HMM1307-1755_18.0-ORF76
+seq23	>ref-NC_024078.1 Goose calicivirus strain N, complete genome-table6-Caliciviridae-HMM1232-1711_18.0-ORF64
+seq24	>ref-NC_025676.1 San Miguel sea lion virus 8, complete genome-table6-Caliciviridae-HMM1441-1924_22.0-ORF60
+seq25	>ref-NC_027026.1 Sapovirus Hu/Nagoya/NGY-1/2012/JPN genomic RNA, complete genome-table4-Caliciviridae-HMM1237-1713_20.0-ORF64
+seq26	>ref-NC_027122.1 Vesivirus ferret badger/JX12/China/2012, complete genome-table6-Caliciviridae-HMM1410-1891_24.0-ORF63
+seq27	>ref-NC_029645.1 Norovirus GIII nonstructural polyprotein (ORF1), VP1 (ORF2), and VP2 (ORF3) genes, complete cds-table4-Caliciviridae-HMM1200-1666_26.0-ORF40
+seq28	>ref-NC_029646.1 Norovirus GII nonstructural polyprotein (ORF1), VP1 (ORF2), and VP2 (ORF3) genes, complete cds-table4-Caliciviridae-HMM1208-1673_27.0-ORF45
+seq29	>ref-NC_029647.1 Norovirus GIV nonstructural polyprotein (ORF1), VP1 (ORF2), and VP2 (ORF3) genes, complete cds-table4-Caliciviridae-HMM1195-1661_26.0-ORF50
+seq30	>ref-NC_030793.1 Bovine calicivirus strain Kirklareli, complete genome-table6-Caliciviridae-HMM1196-1682_21.0-ORF58
+seq31	>ref-NC_031324.1 Primate norovirus, complete genome-table6-Caliciviridae-HMM1299-1764_25.0-ORF54
+seq32	>ref-NC_032829.1 Shahe isopoda virus 1 strain SHWC0209c12784 hypothetical protein gene, complete cds-table6-Caliciviridae-HMM1922-2184_7.0-ORF108
+seq33	>ref-NC_033081.1 Chicken calicivirus strain RS/BR/2015, complete genome-table4-Caliciviridae-HMM1337-1804_19.0-ORF67
+seq34	>ref-NC_033776.1 Bat sapovirus isolate Bat-SaV/Limbe65/CAM/2014 polyprotein and putative minor structural protein genes, complete cds-table4-Caliciviridae-HMM1228-1702_20.0-ORF68
+seq35	>ref-NC_034444.1 Hom-1 vesivirus, complete genome-table6-Caliciviridae-HMM1401-1884_23.0-ORF61
+seq36	>ref-NC_035675.1 Fathead minnow calicivirus polyprotien and putative minor structural protein genes, complete cds-table6-Caliciviridae-HMM1079-1489_18.0-ORF67
+seq37	>nrnt-KF944252 Norovirus GII.6 isolate Hu/GII.P7-GII.6/RUS/Novosibirsk/Nsk-N4865/2012 RNA-dependent RNA polymerase (POL) and major capsid protein VP1 (VP1) genes, partial cds.-table4-Caliciviridae-HMM2-247_84.0-ORF7
+seq38	>nrnt-KF944242 Norovirus GII.6 isolate Hu/GII.P7-GII.6/RUS/Novosibirsk/Nsk-N4635/2012 RNA-dependent RNA polymerase (POL) and major capsid protein VP1 (VP1) genes, partial cds.-table4-Caliciviridae-HMM2-247_87.0-ORF7
+seq39	>nrnt-KF931178 Norovirus GII isolate Hu/GII.P21-GII.3/RUS/Novosibirsk/Nsk-H336/2004 RNA-dependent RNA polymerase (POL) gene, partial cds; major capsid protein VP1 (VP1) gene, complete cds; and minor capsid protein VP2 (VP2) gene, partial cds.-table4-Caliciviridae-HMM2-247_87.0-ORF8
+seq40	>nrnt-MF175077 Murine sapovirus isolate MSV/NYC/2014/Mpool/842, partial genome.-table4-Caliciviridae-HMM1182-1646_20.0-ORF36
+seq41	>nrnt-LC380411 Sapovirus Hu/GI.6/Nichinan/FP05284/2005/JPN genomic RNA, complete genome.-table4-Caliciviridae-HMM1225-1701_20.0-ORF64
+seq42	>nrnt-KY855444 Marmot sapovirus strain HT17, partial genome.-table4-Caliciviridae-HMM805-1280_24.0-ORF44
+seq43	>nrnt-KY855443 Marmot norovirus strain HT16, complete genome.-table4-Caliciviridae-HMM1024-1476_21.0-ORF39
+seq44	>nrnt-MG572716 California sea lion norovirus strain Csl/NoV2/PF090207 ORF1 polyprotein gene, partial cds; and VP1 capsid protein and VP2 minor structural protein genes, complete cds.-table6-Caliciviridae-HMM1268-1734_26.0-ORF47
+seq45	>nrnt-MG572714 California sea lion norovirus strain Csl/NoV1/PF080916-1 ORF1 polyprotein, VP1 capsid protein, and VP2 minor structural protein genes, complete cds.-table6-Caliciviridae-HMM1268-1735_26.0-ORF53
+seq46	>nrnt-MH130046 Norovirus GI strain Hu/BD/2011/GI.Pg-GI.7/Dhaka1882, complete genome.-table6-Caliciviridae-HMM1308-1773_25.0-ORF57
+seq47	>nrnt-MG599979 Yancheng osbecks grenadier anchovy calicivirus polyprotein gene, partial cds; and VP2 gene, complete cds.-table6-Caliciviridae-HMM1214-1630_18.0-ORF73
+seq48	>nrnt-MG599976 Zhejiang gunthers frog calicivirus 2 polyprotein and VP2 genes, partial cds.-table4-Caliciviridae-HMM1335-1808_19.0-ORF86
+seq49	>nrnt-MG599962 Wuhan spiny eel calicivirus 1 polyprotein and VP2 genes, partial cds.-table4-Caliciviridae-HMM1053-1447_17.0-ORF69
+seq50	>nrnt-MG599961 Wuhan carp calicivirus 1 polyprotein gene, partial cds; and VP2 gene, complete cds.-table6-Caliciviridae-HMM457-865_26.0-ORF47
+seq51	>nrnt-MG599959 Beihai rabbitfish calicivirus 1 polyprotein gene, partial cds.-table1-Caliciviridae-HMM1121-1504_24.0-ORF53
+seq52	>nrnt-MG599978 Guangdong pseudohemiculter dispar calicivirus polyprotein and VP2 genes, complete cds.-table6-Caliciviridae-HMM1293-1736_18.0-ORF72
+seq53	>nrnt-MG599977 Wenling sharpspine skate calicivirus polyprotein and VP2 genes, complete cds.-table6-Caliciviridae-HMM1356-1764_16.0-ORF80
+seq54	>nrnt-MG599974 Fujian spotted paddle-tail newt calicivirus polyprotein and VP2 genes, complete cds.-table6-Caliciviridae-HMM1240-1681_18.0-ORF81
+seq55	>nrnt-MG599973 Guangdong greater green snake calicivirus polyprotein, hypothetical protein, and VP2 genes, complete cds.-table6-Caliciviridae-HMM1094-1545_20.0-ORF72
+seq56	>nrnt-MG599971 Wenling rattails calicivirus 3 polyprotein and VP2 genes, complete cds.-table6-Caliciviridae-HMM1160-1554_17.0-ORF78
+seq57	>nrnt-MG599969 Wenling rattails calicivirus 2 polyprotein and VP2 genes, complete cds.-table6-Caliciviridae-HMM1265-1678_16.0-ORF78
+seq58	>nrnt-MG599968 Dongbei arctic lamprey calicivirus 2 polyprotein and VP2 genes, complete cds.-table6-Caliciviridae-HMM1269-1683_17.0-ORF77
+seq59	>nrnt-MG599966 Wenling callionymus kaianus calicivirus polyprotein and VP2 genes, complete cds.-table6-Caliciviridae-HMM1298-1711_16.0-ORF76
+seq60	>nrnt-MG599965 Wuhan spiny eel calicivirus 2 polyprotein and VP2 genes, complete cds.-table6-Caliciviridae-HMM1025-1444_19.0-ORF61
+seq61	>nrnt-MG599964 Wuhan sharpbelly calicivirus polyprotein and VP2 genes, complete cds.-table4-Caliciviridae-HMM1050-1461_19.0-ORF61
+seq62	>nrnt-MG599963 Wuhan carp calicivirus 2 polyprotein and VP2 genes, complete cds.-table6-Caliciviridae-HMM1239-1682_18.0-ORF76
+seq63	>nrnt-MG599958 Beihai yellowfin seabream calicivirus polyprotein gene, complete cds.-table4-Caliciviridae-HMM1142-1549_18.0-ORF52
+seq64	>nrnt-MG599956 Beihai conger calicivirus polyprotein and VP2 genes, complete cds.-table4-Caliciviridae-HMM1119-1567_19.0-ORF53
+seq65	>nrnt-MG599036 Nebovirus Bo/LZB-1/17/CH, complete genome.-table6-Caliciviridae-HMM1171-1658_21.0-ORF72
+seq66	>nrnt-MG706448 Norovirus GII isolate Hu/GII/PNV06929/2008/PER, complete genome.-table4-Caliciviridae-HMM1205-1669_27.0-ORF53
+seq67	>nrnt-MF462288 Sapovirus GII.8 Hu/GII.8/Peru330/PNV010961/2008 polyprotein and minor structural protein genes, complete cds.-table6-Caliciviridae-HMM1225-1701_20.0-ORF67
+seq68	>nrnt-AB521772 Sapovirus swine/TYMPo31/08/JP orf1, orf2 genes for ORF1 polyprotein, ORF2 protein, complete cds.-table4-Caliciviridae-HMM1235-1711_20.0-ORF58
+seq69	>nrnt-AB522390 Sapovirus Hu/D1714-B/2008/JPN genomic RNA, complete genome.-table4-Caliciviridae-HMM1227-1702_20.0-ORF56
+seq70	>nrnt-AB623037 Sapovirus Hu/OH08021/2008/JP genomic RNA, complete genome.-table6-Caliciviridae-HMM1226-1702_20.0-ORF67
+seq71	>nrnt-AB630067 Sapovirus Hu/20072248/2008/JP genes for ORF1 polyprotein, ORF2 protein, complete cds.-table6-Caliciviridae-HMM1226-1702_19.0-ORF79
+seq72	>nrnt-KY312552 Caliciviridae sp. isolate yc-13 polyprotein gene, complete cds; and small basic protein gene, partial cds.-table6-Caliciviridae-HMM1329-1810_18.0-ORF93
+seq73	>nrnt-MG572182 Norovirus GII isolate SDJN170450, complete genome.-table4-Caliciviridae-HMM1209-1673_27.0-ORF43
+seq74	>nrnt-KY370105 Shrew calicivirus isolate Shrew-CalV/Tibet2014 polyprotein and capsid protein genes, partial cds.-table6-Caliciviridae-HMM610-1073_35.0-ORF45
+seq75	>nrnt-LC209450 Norovirus Hu/GII/JP/2014/GII.P16_GII.2/Osaka-225 RNA, nearly complete genome.-table4-Caliciviridae-HMM1203-1668_27.0-ORF51
+seq76	>nrnt-KY486328 Norovirus GVI strain Dog/5010/2009/ITA nonstructural polyprotein gene, partial cds; and VP1 and VP2 genes, complete cds.-table6-Caliciviridae-HMM1-223_88.0-ORF11
+seq77	>nrnt-MF973199 Murine norovirus isolate SDHD-46, complete genome.-table4-Caliciviridae-HMM1198-1663_26.0-ORF36
+seq78	>nrnt-LC215901 Sapovirus GXI/HgYa1-2 genomic RNA, nearly complete genome.-table4-Caliciviridae-HMM257-720_34.0-ORF40
+seq79	>nrnt-LC215898 Sapovirus GXI/HgTa2-2-2 genomic RNA, nearly complete genome.-table4-Caliciviridae-HMM1170-1633_19.0-ORF59
+seq80	>nrnt-LC215897 Sapovirus GX/HgTa3-2 genomic RNA, nearly complete genome.-table4-Caliciviridae-HMM1149-1613_19.0-ORF71
+seq81	>nrnt-LC215896 Sapovirus GX/HgTa2 genomic RNA, nearly complete genome.-table4-Caliciviridae-HMM1165-1629_20.0-ORF55
+seq82	>nrnt-LC215895 Sapovirus GVIII/Ishi-Im1-1 genomic RNA, nearly complete genome.-table4-Caliciviridae-HMM1223-1698_20.0-ORF63
+seq83	>nrnt-LC215894 Sapovirus GVII/Ishi-Im3-1 genomic RNA, nearly complete genome.-table4-Caliciviridae-HMM1173-1636_20.0-ORF63
+seq84	>nrnt-LC215888 Sapovirus GVI/Ishi-Im9 genomic RNA, nearly complete genome.-table4-Caliciviridae-HMM1160-1625_20.0-ORF57
+seq85	>nrnt-LC215885 Sapovirus GV/HkKa2-1 genomic RNA, nearly complete genome.-table4-Caliciviridae-HMM1229-1706_20.0-ORF61
+seq86	>nrnt-KJ641703 Bat calicivirus isolate BtMm-CalV/JX2010 polyprotein gene, partial cds; and VP2 gene, complete cds.-table6-Caliciviridae-HMM684-1158_27.0-ORF58
+seq87	>nrnt-KJ641702 Bat calicivirus isolate BtRs-CalV-2/GX2012 polyprotein gene, partial cds.-table1-Caliciviridae-HMM1007-1364_26.0-ORF48
+seq88	>nrnt-KJ641701 Bat calicivirus isolate BtRs-CalV-1/GX2012 polyprotein gene, partial cds; and VP2 gene, complete cds.-table4-Caliciviridae-HMM964-1444_23.0-ORF58
+seq89	>nrnt-KJ641700 Bat calicivirus isolate BtMspp.-CalV/GD2012 polyprotein gene, partial cds; and VP2 gene, complete cds.-table6-Caliciviridae-HMM634-1093_27.0-ORF52
+seq90	>nrnt-KJ790198 Bat norovirus polyprotein gene, partial cds; and VP1 and VP2 genes, complete cds.-table4-Caliciviridae-HMM875-1340_32.0-ORF37
+seq91	>nrnt-KY399947 Goose calicivirus isolate H146, complete genome.-table6-Caliciviridae-HMM1300-1777_19.0-ORF77
+seq92	>nrnt-LC190463 Sapovirus Hu/GII/JP/2010/Kashiwa1 genomic RNA, complete genome, strain: Kashiwa 1.-table6-Caliciviridae-HMM1226-1702_20.0-ORF73
+seq93	>nrnt-AB684668 Norovirus Hu/GII/12-3/Tokyo/1969/JPN genes for polymerase, capsid protein, partial cds.-table4-Caliciviridae-HMM1-262_77.0-ORF8
+seq94	>nrnt-AB684664 Norovirus Hu/GII/9-3/Tokyo/1968/JPN genes for polymerase, capsid protein, partial cds.-table4-Caliciviridae-HMM1-239_87.0-ORF9
+seq95	>nrnt-KP987888 Norovirus GI isolate PP/G1/120906/NL/2012 polyprotein gene, partial cds; capsid protein gene, complete cds; and minor structural protein gene, partial cds.-table4-Caliciviridae-HMM985-1450_29.0-ORF41
+seq96	>nrnt-KX759623 Bat sapovirus isolate Bat-SaV/Limbe900/CAM/2014 polyprotein gene, partial cds; and putative minor structural protein gene, complete cds.-table6-Caliciviridae-HMM1216-1691_20.0-ORF85
+seq97	>nrnt-KX759621 Bat sapovirus isolate Bat-SaV/Limbe899a/CAM/2014 polyprotein and putative minor structural protein genes, complete cds.-table6-Caliciviridae-HMM1225-1699_19.0-ORF81
+seq98	>nrnt-KX158286 UNVERIFIED: Norovirus GII strain 15-65.-table4-Caliciviridae-HMM51-516_83.0-ORF15
+seq99	>nrnt-KX907728 Norovirus Hu/USA/2016/GIV.3/WI7002, partial genome.-table4-Caliciviridae-HMM1194-1659_27.0-ORF49
+seq100	>nrnt-KU935739 Norovirus GII isolate 0907-26, complete genome.-table4-Caliciviridae-HMM1206-1671_26.0-ORF48
+seq101	>nrnt-KP027329 Norovirus Hu/GI.P5/GI.5/Penghu/14-BB-2/2014/TW non-structural protein gene, partial cds; and major structural protein gene, complete cds.-table6-Caliciviridae-HMM1-437_89.0-ORF14
+seq102	>nrnt-KU712497 Bat calicivirus BtCalV/M63/HUN/2013 polyprotein gene, partial cds; and VP2 gene, complete cds.-table6-Caliciviridae-HMM24-273_26.0-ORF25
+seq103	>nrnt-KU712496 Bat calicivirus BtCalV/BS58/HUN/2013 polyprotein gene, partial cds; and VP2 gene, complete cds.-table6-Caliciviridae-HMM6-242_28.0-ORF24
+seq104	>nrnt-JN420369 California sea lion sapovirus 2 isolate 1136 polyprotein gene, partial cds.-table1-Caliciviridae-HMM21-497_65.0-ORF19
+seq105	>nrnt-AY823307 Norovirus swine/GII/OH-QW218/03/US RNA-dependent RNA polymerase gene, partial cds; and capsid protein and VP2 small basic protein genes, complete cds.-table6-Caliciviridae-HMM1-234_89.0-ORF10
+seq106	>nrnt-HM346630 Sapovirus pig/DO19/2007/KOR polyprotein gene, partial cds; and VP2 protein gene, complete cds.-table4-Caliciviridae-HMM2-237_28.0-ORF18
+seq107	>nrnt-GU230161 Sapovirus swine/F2-4/CAN/2006 polyprotein gene, partial cds; and small basic protein VP2 gene, complete cds.-table4-Caliciviridae-HMM1-229_27.0-ORF15
+seq108	>nrnt-EU019230 Norovirus Hu/Ahm/PC03/2006/India RNA-dependent RNA polymerase gene, partial cds; and capsid protein gene, complete cds.-table4-Caliciviridae-HMM18-483_90.0-ORF16
+seq109	>nrnt-EU193658 Norovirus sheep/Norsewood30/2007/NZL RNA-dependent RNA polymerase gene, partial cds; and capsid protein gene, complete cds.-table4-Caliciviridae-HMM4-138_63.0-ORF5
+seq110	>nrnt-FJ498788 Sapovirus pig/F16-7/CAN polyprotein gene, partial cds; and VP2 gene, complete cds.-table4-Caliciviridae-HMM6-237_27.0-ORF18
+seq111	>nrnt-FJ498787 Sapovirus pig/AB23/CAN polyprotein gene, partial cds; and VP2 gene, complete cds.-table4-Caliciviridae-HMM2-238_27.0-ORF18
+seq112	>nrnt-KX000385 Sapovirus GXII/WD1237 polyprotein gene, partial cds; and minor capsid protein VP2 gene, complete cds.-table6-Caliciviridae-HMM710-1183_26.0-ORF52
+seq113	>nrnt-KX000384 Sapovirus GVII/RV0042, complete genome.-table4-Caliciviridae-HMM1173-1639_20.0-ORF66
+seq114	>nrnt-KX000383 Sapovirus GV/WG194D-1, complete genome.-table4-Caliciviridae-HMM1236-1713_20.0-ORF58
+seq115	>nrnt-KC309419 Sapovirus swine/WG214D/2009/USA polyprotein gene, partial cds; and small basic protein VP2 gene, complete cds.-table4-Caliciviridae-HMM1243-1719_20.0-ORF49
+seq116	>nrnt-KC309418 Sapovirus swine/WG214C/2009/USA polyprotein gene, partial cds; and small basic protein VP2 gene, complete cds.-table4-Caliciviridae-HMM23-487_42.0-ORF29
+seq117	>nrnt-KC309420 Sapovirus swine/WGP3/2009/USA polyprotein gene, partial cds; and small basic protein VP2 gene, complete cds.-table4-Caliciviridae-HMM2-237_27.0-ORF23
+seq118	>nrnt-KT290889 Norovirus GII strain Hu/PE/2010/GII.P23_GII.23/Loreto1847 nonstructural polyprotein gene, partial cds; VP1 gene, complete cds; and VP2 gene, partial cds.-table4-Caliciviridae-HMM1-245_88.0-ORF10
+seq119	>nrnt-AJ011099 Bovine calicivirus strain Jena genomic RNA for a non-structural polyprotein, structural capsid protein and small basic protein.-table4-Caliciviridae-HMM1198-1662_26.0-ORF38
+seq120	>nrnt-KP998539 Norovirus GII.17 isolate GII/Hu/HKG/2014/GII.17/CUHK-NS-463, complete genome.-table4-Caliciviridae-HMM1211-1676_27.0-ORF50
+seq121	>nrnt-KU311161 Norovirus Hu/GI.7/AlbertaEI404/2012/CA isolate OU4 non-structural polyprotein gene, partial cds; and major capsid protein and minor capsid protein genes, complete cds.-table6-Caliciviridae-HMM1304-1769_25.0-ORF54
+seq122	>nrnt-KT207829 Sapovirus Bari/5020/2007/ITA polyprotein gene, partial cds; and VP2 gene, complete cds.-table6-Caliciviridae-HMM1-181_22.0-ORF25
+seq123	>nrnt-KT245136 Norovirus cat/GVI.2/TE/77-13/ITA RNA dependent RNA polymerase gene, partial cds; and capsid protein VP1 and small basic protein VP2 genes, complete cds.-table6-Caliciviridae-HMM1-242_77.0-ORF7
+seq124	>nrnt-KT346358 Norovirus Hu/GII.17/CUHK-NS-682/HKG/2015 RNA-dependent RNA polymerase (ORF1) gene, partial cds; and viral protein 1 (VP1) gene, complete cds.-table4-Caliciviridae-HMM2-295_89.0-ORF7
+seq125	>nrnt-KT267162 Feline calicivirus isolate HB-S4 non-structural polyprotein (VP1), capsid protein (VP2), and VP3 (VP3) genes, complete cds.-table4-Caliciviridae-HMM1266-1744_26.0-ORF60
+seq126	>nrnt-LN854563 Norovirus GI/Hu/NL/2011/GI.4/Groningen, complete genome.-table6-Caliciviridae-HMM1295-1759_25.0-ORF50
+seq127	>nrnt-KP987265 Feline calicivirus SH, complete genome.-table4-Caliciviridae-HMM1266-1744_26.0-ORF63
+seq128	>nrnt-KJ196298 Norovirus GI/Hu/JP/2007/GI.P8_GI.8/Nagoya/KY531, complete genome.-table6-Caliciviridae-HMM1308-1773_25.0-ORF56
+seq129	>nrnt-KP407451 Norovirus GI strain GI/Hu/CHN/2008/Huzhou/N11, complete genome.-table6-Caliciviridae-HMM1298-1762_25.0-ORF60
+seq130	>nrnt-EU921354 Norovirus Hu/Pune/PC25/2006/India strain PC25 RNA-dependent RNA polymerase gene, partial cds; and capsid protein gene, complete cds.-table4-Caliciviridae-HMM2-447_91.0-ORF12
+seq131	>nrnt-KJ577140 Atlantic salmon calicivirus isolate AL V901, complete genome.-table6-Caliciviridae-HMM1301-1744_17.0-ORF83
+seq132	>nrnt-KJ196295 Norovirus GII/Hu/JP/2010/GII.P7_GII.7/Musashimurayama/TAKAsanKimchi, complete genome.-table4-Caliciviridae-HMM1206-1671_27.0-ORF50
+seq133	>nrnt-KJ196291 Norovirus GII/Hu/JP/2011/GII/Yuzawa/Gira2HS, complete genome.-table6-Caliciviridae-HMM1202-1667_26.0-ORF55
+seq134	>nrnt-KJ196290 Norovirus GII/Hu/JP/2007/GII.P15_GII.15/Sapporo/HK299, complete genome.-table4-Caliciviridae-HMM1207-1672_26.0-ORF52
+seq135	>nrnt-KC662370 Rhesus macaque recovirus strain FT400 RNA-dependent RNA polymerase gene, partial cds; and capsid protein and minor structural protein genes, complete cds.-table4-Caliciviridae-HMM13-221_74.0-ORF8
+seq136	>nrnt-KJ402295 Norovirus Hu/GI.5/Siklos-HUN5407/2013/HUN RNA-dependent RNA polymerase, capsid protein, and minor structural protein genes, partial cds.-table6-Caliciviridae-HMM1-232_82.0-ORF7
+seq137	>nrnt-KF306214 Norovirus Hu/GII.4/Jingzhou/2013403/CHN, complete genome.-table4-Caliciviridae-HMM1208-1673_26.0-ORF44
+seq138	>nrnt-KF306212 Norovirus Hu/GI.2/Jingzhou/2013401/CHN, complete genome.-table6-Caliciviridae-HMM1299-1762_25.0-ORF48
+seq139	>nrnt-KJ508818 Sapovirus pig/GVI/OH-JJ674/2000/US, complete genome.-table4-Caliciviridae-HMM1184-1649_20.0-ORF65
+seq140	>nrnt-JN420370 California sea lion sapovirus 1 isolate 9775 polyprotein gene, partial cds; and VP2 capsid gene, complete cds.-table4-Caliciviridae-HMM1219-1695_19.0-ORF47
+seq141	>nrnt-JN387134 Sapovirus dog/AN210D/USA/2009 polyprotein gene, partial cds; and VP2 gene, complete cds.-table6-Caliciviridae-HMM1219-1695_20.0-ORF71
+seq142	>nrnt-KF924393 Sapovirus Hu/GII.2/GII.4/VIG-AM-116006/BRA/2010 polyprotein gene, partial cds.-table1-Caliciviridae-HMM1-239_65.0-ORF10
+seq143	>nrnt-JN400618 Norovirus Hu/GII-4/CGMH20/2009/TW, complete genome.-table4-Caliciviridae-HMM1207-1672_26.0-ORF46
+seq144	>nrnt-KF586507 Norovirus GI.9 isolate CAIQ12110628 nonstructural polyprotein, viral capsid protein, and minor capsid protein genes, complete cds.-table6-Caliciviridae-HMM1306-1771_25.0-ORF53
+seq145	>nrnt-JX993277 Sapovirus Hu/G1/BE-HPI01/DE/2012, complete genome.-table6-Caliciviridae-HMM1226-1702_20.0-ORF69
+seq146	>nrnt-FJ875027 Norovirus dog/GVI.1/Bari/91/2007/ITA polymerase gene, partial cds; and VP1 and minor capsid protein genes, complete cds.-table6-Caliciviridae-HMM1-242_89.0-ORF11
+seq147	>nrnt-JX627575 WUHARV Calicivirus 1 nonstructural polyprotein and capsid protein genes, complete cds; and minor structural protein VP2 gene, partial cds.-table4-Caliciviridae-HMM995-1428_21.0-ORF54
+seq148	>nrnt-JX486102 Norovirus Rn/GV/HKU_KT/HKG/2012 polyprotein, VP1 capsid protein, and VP2 minor structural protein genes, complete cds.-table4-Caliciviridae-HMM1214-1678_26.0-ORF33
+seq149	>nrnt-FJ692501 Norovirus dog/GVI.1/HKU_Ca035F/2007/HKG ORF1 polyprotein, VP1 capsid protein, and VP2 minor structural protein genes, complete cds.-table4-Caliciviridae-HMM1200-1665_26.0-ORF48
+seq150	>nrnt-JQ347523 Chicken calicivirus isolate F10026n polyprotein gene, partial cds; and small basic protein gene, complete cds.-table6-Caliciviridae-HMM50-531_40.0-ORF30
+seq151	>nrnt-JQ347522 Turkey calicivirus isolate L11043 polyprotein and small basic protein (small basic protein) genes, complete cds.-table6-Caliciviridae-HMM1228-1708_18.0-ORF84
+seq152	>nrnt-AY823305 Norovirus swine/GII/OH-QW125/03/US, complete genome.-table4-Caliciviridae-HMM1201-1666_26.0-ORF48
+seq153	>nrnt-JF930689 Norovirus dog/FD53/2007/Ita RNA dependent RNA polymerase gene, partial cds; and capsid protein and basic polypeptide genes, complete cds.-table6-Caliciviridae-HMM1-239_89.0-ORF12
+seq154	>nrnt-HQ392821 Norovirus pig/GII/Ch6/China/2009, complete genome.-table6-Caliciviridae-HMM1203-1668_26.0-ORF57
+seq155	>nrnt-JF781268 Norovirus cat/GIV.2/CU081210E/USA/2010, complete genome.-table6-Caliciviridae-HMM1255-1722_26.0-ORF53
+seq156	>nrnt-JN899245 Norovirus Hu/GII.21/Salisbury150/2011/USA RNA-dependent RNA polymerase gene, partial cds; and major capsid protein and minor capsid protein genes, complete cds.-table4-Caliciviridae-HMM3-249_87.0-ORF7
+seq157	>nrnt-EU424333 Norovirus Hu/GII/Leverkusen267/2005/DE nonstructural polyprotein and capsid protein genes, complete cds; and minor structural protein gene, partial cds.-table4-Caliciviridae-HMM1207-1672_27.0-ORF51
+seq158	>nrnt-DQ379715 Norovirus Hu/GII/Goulburn Valley G5175 C/1983/AUS nonstructural polyprotein (ORF1) gene, partial cds; and capsid (ORF2) and basic protein (ORF3) genes, complete cds.-table4-Caliciviridae-HMM1-439_82.0-ORF14
+seq159	>nrnt-DQ379714 Norovirus Hu/GII/Goulburn Valley G5175 B/1983/AUS nonstructural polyprotein (ORF1) gene, partial cds; and capsid (ORF2) and basic protein (ORF3) genes, complete cds.-table4-Caliciviridae-HMM1-364_91.0-ORF12
+seq160	>nrnt-AB687559 Feline calicivirus gene for proteinase-polymerase, partial cds, strain: FCV-B.-table1-Caliciviridae-HMM133-455_70.0-ORF14
+seq161	>nrnt-JN387135 Sapovirus dog/AN196/USA/2009 polyprotein gene, partial cds.-table1-Caliciviridae-HMM3-306_35.0-ORF33
+seq162	>nrnt-GQ856476 Norovirus Hu/GII.4/Beijing/55171/2008/CHN RNA-dependent RNA polymerase gene, partial cds; and capsid and minor structural protein genes, complete cds.-table4-Caliciviridae-HMM1-234_87.0-ORF7
+seq163	>nrnt-GQ856473 Norovirus Hu/GII.4/Beijing/55042/2007/CHN RNA-dependent RNA polymerase gene, partial cds; and capsid and minor structural protein genes, complete cds.-table6-Caliciviridae-HMM1-234_82.0-ORF9
+seq164	>nrnt-GQ856472 Norovirus Hu/GII.4/Beijing/54660/2007/CHN RNA-dependent RNA polymerase gene, partial cds; and capsid and minor structural protein genes, complete cds.-table6-Caliciviridae-HMM1-234_82.0-ORF8
+seq165	>nrnt-GQ856465 Norovirus Hu/GII.4/Beijing/55028/2007/CHN nonfunctional RNA-dependent RNA polymerase gene, partial sequence; and capsid and minor structural protein genes, complete cds.-table4-Caliciviridae-HMM1-240_76.0-ORF9
+seq166	>nrnt-FV536857 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Caliciviridae-HMM1180-1666_19.0-ORF99
+seq167	>nrnt-FV536855 Modified Microbial Nucleic Acid.-table6-Caliciviridae-HMM74-327_76.0-ORF51
+seq168	>nrnt-AF093797 Norwalk virus, complete genome.-table6-Caliciviridae-HMM1294-1758_25.0-ORF49
+seq169	>nrnt-GQ475302 Calicivirus isolate Allston 2008/US, complete genome.-table4-Caliciviridae-HMM1425-1908_18.0-ORF61
+seq170	>nrnt-DQ366345 Sapovirus Hu/Ehime643/March 2000/JP ORF1, ORF3, and ORF2 mRNA, complete cds.-table4-Caliciviridae-HMM1222-1698_20.0-ORF57
+seq171	>nrnt-AY646856 Sapovirus NongKhai-24/Thailand, complete genome.-table4-Caliciviridae-HMM1239-1715_20.0-ORF65
+seq172	>nrnt-DQ125334 Sapovirus Hu/Angelholm/SW314/2004/SE polyprotein mRNA, complete cds; and unknown genes.-table4-Caliciviridae-HMM1227-1703_20.0-ORF61
+seq173	>nrnt-AB083780 Norwalk-like virus genomic RNA, complete genome, strain: YURI.-table4-Caliciviridae-HMM1220-1685_27.0-ORF49
+seq174	>nrnt-AB221131 Porcine enteric sapovirus genes for polyprotein, small basic protein, partial and complete cds, strain: K10/JP.-table4-Caliciviridae-HMM1-246_24.0-ORF20
+seq175	>nrnt-EU391643 Tulane virus nonstructural polyprotein, capsid protein, and minor structural protein VP2 genes, complete cds.-table4-Caliciviridae-HMM994-1429_21.0-ORF61
+seq176	>nrnt-AB365435 Norovirus Hu/Texas/TCH04-577/2004/US genomic RNA, complete genome.-table4-Caliciviridae-HMM1208-1673_27.0-ORF45
+seq177	>nrnt-AY646855 Sapovirus SaKaeo-15/Thailand, complete genome.-table6-Caliciviridae-HMM1226-1702_20.0-ORF77
+seq178	>nrnt-AY237419 Sapovirus Mc2, complete genome.-table6-Caliciviridae-HMM1226-1702_20.0-ORF67
+seq179	>nrnt-AB039780 Norwalk-like virus genomic RNA, complete genome, isolate:Saitama U25.-table4-Caliciviridae-HMM1208-1673_26.0-ORF56
+seq180	>nrnt-AB039774 Norwalk-like virus genomic RNA, complete genome, isolate:SzUG1.-table6-Caliciviridae-HMM1297-1761_25.0-ORF50
+seq181	>tsa-GAXR01008826.1 TSA: Stigmatomma oregonense comp7586_c1_seq1 transcribed RNA sequence-table6-Caliciviridae-HMM17-164_76.0-ORF7
+seq182	>tsa-GFTX01069879.1 TSA: Ulva lactuca c33627_g2_i1 transcribed RNA sequence-table6-Caliciviridae-HMM632-795_16.0-ORF26

@@ -1,0 +1,99 @@
+seq1	>ref-NC_005817.1 Sclerophthora macrospora virus A RNA 1, complete sequence-table6-Nodaviridae-HMM428-850_44.0-ORF25
+seq2	>ref-NC_002690.1 Nodamura virus RNA1, complete sequence-table4-Nodaviridae-HMM427-818_36.0-ORF24
+seq3	>ref-NC_003448.1 Striped Jack nervous necrosis virus RNA1, complete sequence-table6-Nodaviridae-HMM422-904_46.0-ORF30
+seq4	>ref-NC_003691.1 Pariacato virus chromosome RNA1, complete genome-table6-Nodaviridae-HMM401-784_38.0-ORF35
+seq5	>ref-NC_005094.1 Macrobrachium rosenbergii nodavirus RNA-1, complete genome-table6-Nodaviridae-HMM458-794_31.0-ORF34
+seq6	>ref-NC_008040.1 Redspotted grouper nervous necrosis virus RNA 1, complete sequence-table6-Nodaviridae-HMM429-902_45.0-ORF32
+seq7	>ref-NC_013458.1 Barfin flounder nervous necrosis virus RNA 1, complete genome-table6-Nodaviridae-HMM426-881_44.0-ORF27
+seq8	>ref-NC_013460.1 Tiger puffer nervous necrosis virus RNA 1, complete genome-table6-Nodaviridae-HMM427-872_43.0-ORF27
+seq9	>ref-NC_014978.1 Penaeus vannamei nodavirus RNA-1, complete genome-table6-Nodaviridae-HMM454-790_32.0-ORF25
+seq10	>ref-NC_015069.1 Santeuil nodavirus RNA 1, complete genome-table6-Nodaviridae-HMM386-876_47.0-ORF35
+seq11	>ref-NC_024492.1 Senegalese sole Iberian betanodavirus isolate SpSsIAusc16003 RNA-dependent RNA polymerase gene, complete cds-table6-Nodaviridae-HMM429-890_44.0-ORF30
+seq12	>ref-NC_028097.1 Orsay virus isolate JU1580 RNA dependent RNA polymerase gene, complete cds-table6-Nodaviridae-HMM410-902_45.0-ORF35
+seq13	>ref-NC_028133.1 Le Blanc nodavirus strain JU1498 RNA-dependent RNA polymerase gene, complete cds-table6-Nodaviridae-HMM414-903_46.0-ORF34
+seq14	>ref-NC_032154.1 Beihai sphaeromadae virus 3 strain BHTSS17005 RNA-dependent RNA polymerase gene, complete cds-table6-Nodaviridae-HMM427-900_46.0-ORF36
+seq15	>ref-NC_032241.1 Hubei noda-like virus 17 strain HC30049 hypothetical protein gene, complete cds-table6-Nodaviridae-HMM390-801_40.0-ORF30
+seq16	>ref-NC_032172.1 Beihai noda-like virus 18 strain YYSZX13070 hypothetical protein gene, complete cds-table4-Nodaviridae-HMM440-891_42.0-ORF27
+seq17	>ref-NC_032244.1 Beihai noda-like virus 5 strain HOU157766 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Nodaviridae-HMM479-861_33.0-ORF33
+seq18	>ref-NC_032525.1 Beihai noda-like virus 11 strain BHJJX49550 RNA-dependent RNA polymerase gene, complete cds-table6-Nodaviridae-HMM471-921_43.0-ORF32
+seq19	>ref-NC_032523.1 Beihai mantis shrimp virus 6 strain BHXG24422 RNA-dependent RNA polymerase, hypothetical protein, and B2-like protein genes, complete cds-table6-Nodaviridae-HMM450-800_32.0-ORF25
+seq20	>ref-NC_032520.1 Beihai barnacle virus 11 strain BHTH10280 RNA-dependent RNA polymerase gene, complete cds-table6-Nodaviridae-HMM429-904_47.0-ORF29
+seq21	>ref-NC_032647.1 Beihai shrimp virus 6 strain BHBJDX18793 RNA-dependent RNA polymerase gene, complete cds-table6-Nodaviridae-HMM426-810_40.0-ORF31
+seq22	>ref-NC_033077.1 Sanxia water strider virus 17 strain SXSSP1704 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Nodaviridae-HMM411-784_35.0-ORF26
+seq23	>ref-NC_033166.1 Wenzhou bivalvia virus 3 strain beimix38484 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Nodaviridae-HMM557-1045_40.0-ORF35
+seq24	>ref-NC_033265.1 Shuangao insect virus 11 strain insectZJ65889 hypothetical protein gene, complete cds-table6-Nodaviridae-HMM431-811_42.0-ORF27
+seq25	>ref-NC_032732.1 Shuangao insect virus 10 strain insectZJ94627 hypothetical protein gene, complete cds-table4-Nodaviridae-HMM316-711_44.0-ORF27
+seq26	>ref-NC_032760.1 Beihai sphaeromadae virus 2 strain BHTSS26432 hypothetical protein gene, complete cds-table4-Nodaviridae-HMM411-795_33.0-ORF31
+seq27	>ref-NC_033139.1 Sanxia water strider virus 16 strain SXXX38069 hypothetical protein gene, complete cds-table6-Nodaviridae-HMM402-766_35.0-ORF31
+seq28	>ref-NC_033280.1 Hubei unio douglasiae virus 1 strain WHBL72336 RNA-dependent RNA polymerase and B2-like protein genes, complete cds-table6-Nodaviridae-HMM434-897_43.0-ORF27
+seq29	>ref-NC_033309.1 Hubei noda-like virus 8 strain WHLC5312 RNA-dependent RNA polymerase gene, complete cds-table6-Nodaviridae-HMM597-965_30.0-ORF30
+seq30	>ref-NC_033307.1 Hubei noda-like virus 9 strain WHLC5367 RNA-dependent RNA polymerase gene, complete cds-table6-Nodaviridae-HMM486-890_37.0-ORF25
+seq31	>ref-NC_032872.1 Hubei diptera virus 16 strain SCM32007 hypothetical protein gene, complete cds-table6-Nodaviridae-HMM397-803_45.0-ORF27
+seq32	>ref-NC_033311.1 Hubei orthoptera virus 4 strain ZCM21011 RNA-dependent RNA polymerase gene, complete cds-table6-Nodaviridae-HMM409-812_40.0-ORF33
+seq33	>ref-NC_033482.1 Wuhan house centipede virus 6 strain WHWG55397 RNA-dependent RNA polymerase gene, complete cds-table6-Nodaviridae-HMM454-893_41.0-ORF32
+seq34	>nrnt-KY214439 Caninovirus sp. isolate South Douro RNA1 RdRp gene, complete cds.-table6-Nodaviridae-HMM283-633_54.0-ORF23
+seq35	>nrnt-KX883277 Wenzhou noda-like virus 7 strain WZRBX38997 hypothetical protein 1 and hypothetical protein 2 genes, complete cds.-table4-Nodaviridae-HMM423-837_39.0-ORF29
+seq36	>nrnt-KX883260 Wenzhou noda-like virus 6 strain WZFSL85309 hypothetical protein gene, complete cds.-table4-Nodaviridae-HMM431-809_36.0-ORF30
+seq37	>nrnt-KX883258 Wenzhou noda-like virus 1 strain WZFSL84567 hypothetical protein 1 and hypothetical protein 2 genes, complete cds.-table6-Nodaviridae-HMM447-813_24.0-ORF46
+seq38	>nrnt-KX883253 Wenling noda-like virus 3 strain WLJQ104201 hypothetical protein gene, complete cds.-table6-Nodaviridae-HMM425-862_42.0-ORF29
+seq39	>nrnt-KX883251 Wenling noda-like virus 2 strain WLJQ103411 hypothetical protein gene, complete cds.-table6-Nodaviridae-HMM481-896_40.0-ORF29
+seq40	>nrnt-KX883250 Wenling noda-like virus 1 strain WLJQ102234 hypothetical protein gene, partial cds.-table1-Nodaviridae-HMM416-837_40.0-ORF40
+seq41	>nrnt-KX883225 Hubei noda-like virus 7 strain WHCC113193 hypothetical protein 1 gene, complete cds.-table6-Nodaviridae-HMM414-814_41.0-ORF28
+seq42	>nrnt-KX883205 Hubei noda-like virus 2 strain WHBL70552 hypothetical protein gene, complete cds.-table6-Nodaviridae-HMM421-772_37.0-ORF30
+seq43	>nrnt-KX883197 Hubei noda-like virus 3 strain WGML145075 hypothetical protein gene, complete cds.-table6-Nodaviridae-HMM444-757_32.0-ORF36
+seq44	>nrnt-KX883190 Hubei noda-like virus 20 strain SZmix18793 hypothetical protein 1 and hypothetical protein 2 genes, complete cds.-table6-Nodaviridae-HMM398-740_28.0-ORF31
+seq45	>nrnt-KX883189 Shayang noda-like virus 1 strain SYJFC44697 hypothetical protein gene, complete cds.-table6-Nodaviridae-HMM397-815_41.0-ORF27
+seq46	>nrnt-KX883188 Sanxia noda-like virus 1 strain SXXX12565 hypothetical protein gene, complete cds.-table6-Nodaviridae-HMM393-742_38.0-ORF30
+seq47	>nrnt-KX883170 Hubei noda-like virus 11 strain SSZZ1919 hypothetical protein 1 and hypothetical protein 2 genes, complete cds.-table6-Nodaviridae-HMM407-776_35.0-ORF31
+seq48	>nrnt-KX883167 Hubei noda-like virus 6 strain SSZZ5803 hypothetical protein gene, complete cds.-table6-Nodaviridae-HMM384-746_37.0-ORF29
+seq49	>nrnt-KX883161 Hubei noda-like virus 5 strain spider124210 hypothetical protein gene, complete cds.-table4-Nodaviridae-HMM394-801_40.0-ORF32
+seq50	>nrnt-KX883151 Wenzhou noda-like virus 3 strain shrimp14297 hypothetical protein gene, complete cds.-table6-Nodaviridae-HMM430-863_41.0-ORF32
+seq51	>nrnt-KX883139 Hubei noda-like virus 13 strain QTM161985 hypothetical protein gene, complete cds.-table6-Nodaviridae-HMM423-782_40.0-ORF26
+seq52	>nrnt-KX883129 Hubei noda-like virus 14 strain QTM24683 hypothetical protein gene, complete cds.-table4-Nodaviridae-HMM458-879_42.0-ORF29
+seq53	>nrnt-KX883128 Hubei noda-like virus 25 strain QTM19461 hypothetical protein gene, complete cds.-table6-Nodaviridae-HMM446-809_33.0-ORF33
+seq54	>nrnt-KX883125 Hubei noda-like virus 12 strain mosZJ34483 hypothetical protein 1 and hypothetical protein 2 genes, complete cds.-table6-Nodaviridae-HMM509-896_33.0-ORF32
+seq55	>nrnt-KX883120 Shuangao noda-like virus 1 strain insectZJ94204 hypothetical protein gene, complete cds.-table6-Nodaviridae-HMM442-803_33.0-ORF31
+seq56	>nrnt-KX883117 Beihai noda-like virus 10 strain HWRTX12795 hypothetical protein 1 and hypothetical protein 2 genes, complete cds.-table4-Nodaviridae-HMM396-843_38.0-ORF24
+seq57	>nrnt-KX883113 Beihai noda-like virus 16 strain HOU155673 hypothetical protein gene, complete cds.-table4-Nodaviridae-HMM425-878_45.0-ORF27
+seq58	>nrnt-KX883111 Beihai noda-like virus 13 strain HOU158094 hypothetical protein gene, complete cds.-table4-Nodaviridae-HMM464-948_41.0-ORF28
+seq59	>nrnt-KX883110 Hubei noda-like virus 18 strain HC16588 hypothetical protein gene, complete cds.-table4-Nodaviridae-HMM442-810_36.0-ORF29
+seq60	>nrnt-KX883107 Hubei noda-like virus 26 strain GCM10516 hypothetical protein gene, complete cds.-table4-Nodaviridae-HMM436-803_34.0-ORF20
+seq61	>nrnt-KX883075 Beihai noda-like virus 12 strain BHZY60795 hypothetical protein gene, partial cds.-table1-Nodaviridae-HMM557-861_28.0-ORF32
+seq62	>nrnt-KX883066 Beihai noda-like virus 15 strain BHZY56617 hypothetical protein gene, partial cds.-table6-Nodaviridae-HMM452-824_44.0-ORF26
+seq63	>nrnt-KX883065 Beihai noda-like virus 3 strain BHZY60087 hypothetical protein 1 and hypothetical protein 2 genes, complete cds.-table6-Nodaviridae-HMM423-841_43.0-ORF25
+seq64	>nrnt-KX883061 Beihai noda-like virus 9 strain BHZC37179 hypothetical protein 1 and hypothetical protein 2 genes, complete cds.-table6-Nodaviridae-HMM432-831_37.0-ORF32
+seq65	>nrnt-KX883058 Beihai noda-like virus 17 strain BHXG25071 hypothetical protein gene, complete cds.-table6-Nodaviridae-HMM363-812_39.0-ORF32
+seq66	>nrnt-KX883055 Beihai noda-like virus 6 strain BHWZXX9026 hypothetical protein 1 and hypothetical protein 2 genes, complete cds.-table6-Nodaviridae-HMM390-747_41.0-ORF30
+seq67	>nrnt-KX883054 Beihai noda-like virus 25 strain BHWZXX26411 hypothetical protein 1 and hypothetical protein 2 genes, complete cds.-table6-Nodaviridae-HMM412-789_36.0-ORF31
+seq68	>nrnt-KX883052 Beihai noda-like virus 26 strain BHWZXX15658 hypothetical protein gene, complete cds.-table6-Nodaviridae-HMM592-914_26.0-ORF39
+seq69	>nrnt-KX883045 Beihai noda-like virus 8 strain BHWZXX12837 hypothetical protein 1 gene, complete cds; and hypothetical protein 2 gene, partial cds.-table6-Nodaviridae-HMM428-809_35.0-ORF33
+seq70	>nrnt-KX883031 Beihai noda-like virus 30 strain BHJJX6144 hypothetical protein gene, complete cds.-table4-Nodaviridae-HMM454-807_33.0-ORF32
+seq71	>nrnt-KX883030 Beihai noda-like virus 14 strain BHHK130223 hypothetical protein gene, complete cds.-table4-Nodaviridae-HMM442-902_42.0-ORF34
+seq72	>nrnt-KX883024 Beihai noda-like virus 27 strain BHHK108774 hypothetical protein gene, partial cds.-table1-Nodaviridae-HMM430-807_35.0-ORF38
+seq73	>nrnt-KX883016 Beihai noda-like virus 24 strain BHBJDX12560 hypothetical protein gene, complete cds.-table4-Nodaviridae-HMM417-840_40.0-ORF33
+seq74	>nrnt-KX883009 Hubei noda-like virus 10 strain arthropodmix12988 hypothetical protein gene, complete cds.-table4-Nodaviridae-HMM409-773_38.0-ORF26
+seq75	>nrnt-KF510033 Betegovirus SF gp1 gene, complete cds.-table6-Nodaviridae-HMM487-913_27.0-ORF40
+seq76	>nrnt-HM453713 Plasmopara halstedii virus A isolate Ph8-99 RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table4-Nodaviridae-HMM416-748_35.0-ORF31
+seq77	>nrnt-KX774634 Lone star tick nodavirus isolate RTS54 polymerase gene, complete cds.-table6-Nodaviridae-HMM414-841_46.0-ORF29
+seq78	>nrnt-MF190050 Barns Ness serrated wrack noda-like virus 2 isolate T29, partial genome.-table4-Nodaviridae-HMM294-741_54.0-ORF21
+seq79	>nrnt-HM480376 Tetnovirus 2 unknown genes.-table4-Nodaviridae-HMM385-808_30.0-ORF39
+seq80	>nrnt-HM480375 Tetnovirus 1 unknown genes.-table6-Nodaviridae-HMM488-872_24.0-ORF47
+seq81	>nrnt-KU754526 Craigmillar Park virus segment 1 putative polymerase gene, partial cds.-table6-Nodaviridae-HMM431-828_42.0-ORF27
+seq82	>nrnt-KP263548 Lunovirus strain 260l RNA-dependent RNA polymerase gene, partial cds.-table1-Nodaviridae-HMM159-553_69.0-ORF20
+seq83	>nrnt-KM112247 Covert mortality nodavirus isolate Hebei-20120627 RNA-dependent RNA polymerase (RdRp) gene, partial cds.-table1-Nodaviridae-HMM22-203_45.0-ORF9
+seq84	>nrnt-KM017739 Fesavirus 4 hypothetical protein gene, partial cds.-table1-Nodaviridae-HMM412-838_28.0-ORF42
+seq85	>nrnt-KJ632942 Mosinovirus strain C36-CI-2004 segment 1, complete sequence.-table6-Nodaviridae-HMM404-785_38.0-ORF29
+seq86	>nrnt-GU976287 Alphanodavirus HB-2007/CHN RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table6-Nodaviridae-HMM379-745_37.0-ORF26
+seq87	>nrnt-HM228873 Bat guano associated nodavirus GF-4n putative RdRp gene, complete cds.-table4-Nodaviridae-HMM403-818_42.0-ORF32
+seq88	>nrnt-AY962576 Pieris rapae virus RNA-dependent RNA polymerase gene, complete cds.-table6-Nodaviridae-HMM458-872_40.0-ORF25
+seq89	>tsa-GATW02016170.1 TSA: Aleochara curtula C71553_a_61_0_l_3318 transcribed RNA sequence-table4-Nodaviridae-HMM433-802_34.0-ORF27
+seq90	>tsa-GFLG01015573.1 TSA: Grateloupia filicina scaffold-ZJOJ-2007719-Grateloupia_filicina transcribed RNA sequence-table6-Nodaviridae-HMM427-795_38.0-ORF23
+seq91	>tsa-GALQ01002362.1 TSA: gut metagenome Locus4970v1rpkm86.75 transcribed RNA sequence-table1-Nodaviridae-HMM148-490_68.0-ORF11
+seq92	>tsa-GANM01015802.1 TSA: Nilaparvata lugens Unigene28012_All transcribed RNA sequence-table6-Nodaviridae-HMM463-867_39.0-ORF24
+seq93	>tsa-GFDF01008189.1 TSA: Nyssomyia neivai Nn-40188_FR5_1-869 transcribed RNA sequence-table1-Nodaviridae-HMM347-826_55.0-ORF23
+seq94	>tsa-GBJA01011878.1 (REVERSE SENSE) TSA: Opisthorchis felineus c73282_g2_i1 transcribed RNA sequence-table4-Nodaviridae-HMM302-730_43.0-ORF85
+seq95	>tsa-HAEX01076376.1 TSA: Proasellus grafi, contig c66993_g1_i1, transcribed RNA sequence-table1-Nodaviridae-HMM57-260_77.0-ORF9
+seq96	>tsa-HAFE01129314.1 (REVERSE SENSE) TSA: Proasellus meridianus, contig comp973846_c0_seq1, transcribed RNA sequence-table1-Nodaviridae-HMM7-150_92.0-ORF15
+seq97	>tsa-HAFF01024124.1 (REVERSE SENSE) TSA: Proasellus ortizi, contig c23679_g1_i1, transcribed RNA sequence-table1-Nodaviridae-HMM94-348_62.0-ORF34
+seq98	>tsa-GDRE01024231.1 TSA: Rotaria magnacalcarata RMAGT0024292 transcribed RNA sequence-table6-Nodaviridae-HMM447-831_38.0-ORF31
+seq99	>tsa-HACX01023008.1 (REVERSE SENSE) TSA: Salix viminalis x (Salix viminalis x Salix schwerinii), contig c42587_g1_i1, transcribed RNA sequence-table4-Nodaviridae-HMM464-837_34.0-ORF97

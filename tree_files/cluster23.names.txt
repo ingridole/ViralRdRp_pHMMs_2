@@ -1,0 +1,128 @@
+seq1	>ref-NC_003043.1 Avian paramyxovirus 6, complete genome-table6-Paramyxoviridae-HMM587-1133_23.0-ORF179
+seq2	>ref-NC_002199.1 Tupaia paramyxovirus, complete genome-table6-Paramyxoviridae-HMM731-1150_17.0-ORF176
+seq3	>ref-NC_003461.1 Human parainfluenza virus 1, complete genome-table4-Paramyxoviridae-HMM510-1072_24.0-ORF166
+seq4	>ref-NC_001796.2 Human parainfluenza virus 3, complete genome-table6-Paramyxoviridae-HMM606-1168_23.0-ORF151
+seq5	>ref-NC_004074.1 Tioman virus, complete genome-table6-Paramyxoviridae-HMM582-1136_23.0-ORF163
+seq6	>ref-NC_005036.1 Goose paramyxovirus SF02, complete genome-table6-Paramyxoviridae-HMM527-1066_23.0-ORF169
+seq7	>ref-NC_001906.3 Hendra virus, complete genome-table4-Paramyxoviridae-HMM675-1125_19.0-ORF223
+seq8	>ref-NC_005339.1 Mossman virus, complete genome-table6-Paramyxoviridae-HMM520-1091_25.0-ORF191
+seq9	>ref-NC_005084.2 Fer-de-lance virus, complete genome-table4-Paramyxoviridae-HMM500-1064_25.0-ORF188
+seq10	>ref-NC_001921.1 Canine distemper virus, complete genome-table4-Paramyxoviridae-HMM494-1065_25.0-ORF175
+seq11	>ref-NC_002161.1 Bovine parainfluenza virus 3, complete genome-table6-Paramyxoviridae-HMM555-1116_24.0-ORF150
+seq12	>ref-NC_006430.1 Parainfluenza virus 5, complete genome-table6-Paramyxoviridae-HMM1207-1758_18.0-ORF166
+seq13	>ref-NC_001498.1 Measles virus, complete genome-table6-Paramyxoviridae-HMM516-1086_25.0-ORF148
+seq14	>ref-NC_001552.1 Sendai virus genomic RNA, antisense, complete sequence-table4-Paramyxoviridae-HMM1120-1682_19.0-ORF180
+seq15	>ref-NC_006296.2 Rinderpest virus (strain Kabete O), complete genome-table4-Paramyxoviridae-HMM528-1099_25.0-ORF172
+seq16	>ref-NC_002200.1 Mumps virus, complete genome-table4-Paramyxoviridae-HMM1135-1692_19.0-ORF176
+seq17	>ref-NC_005283.1 Dolphin morbillivirus, complete genome-table6-Paramyxoviridae-HMM532-1102_25.0-ORF185
+seq18	>ref-NC_006428.1 Simian virus 41, complete genome-table6-Paramyxoviridae-HMM528-1089_24.0-ORF173
+seq19	>ref-NC_002617.1 Newcastle disease virus B1, complete genome-table6-Paramyxoviridae-HMM521-1059_23.0-ORF164
+seq20	>ref-NC_003443.1 Human rubulavirus 2, complete genome-table6-Paramyxoviridae-HMM580-1136_23.0-ORF157
+seq21	>ref-NC_002728.1 Nipah virus, complete genome-table4-Paramyxoviridae-HMM694-1142_19.0-ORF233
+seq22	>ref-NC_007454.1 J-virus, complete genome-table4-Paramyxoviridae-HMM503-1076_25.0-ORF211
+seq23	>ref-NC_007620.1 Menangle virus, complete genome-table6-Paramyxoviridae-HMM550-1107_23.0-ORF175
+seq24	>ref-NC_006383.2 Peste des petits ruminants virus complete genome-table4-Paramyxoviridae-HMM1147-1718_20.0-ORF172
+seq25	>ref-NC_007803.1 Beilong virus, complete genome-table4-Paramyxoviridae-HMM515-1062_24.0-ORF233
+seq26	>ref-NC_009640.1 Porcine rubulavirus, complete genome-table6-Paramyxoviridae-HMM1264-1812_18.0-ORF154
+seq27	>ref-NC_009489.1 Mapuera virus, complete genome-table6-Paramyxoviridae-HMM544-1094_23.0-ORF162
+seq28	>ref-NC_017937.1 Nariva virus, complete genome-table6-Paramyxoviridae-HMM524-1097_25.0-ORF160
+seq29	>ref-NC_019531.1 Avian paramyxovirus 4 strain APMV-4/duck/Delaware/549227/2010, complete genome-table6-Paramyxoviridae-HMM640-1043_17.0-ORF163
+seq30	>ref-NC_021928.1 Human parainfluenza virus 4a viral cRNA, complete genome, strain: M-25-table6-Paramyxoviridae-HMM575-1142_24.0-ORF176
+seq31	>ref-NC_025343.1 Sosuga virus isolate 2012, complete genome-table6-Paramyxoviridae-HMM1880-2437_15.0-ORF175
+seq32	>ref-NC_025351.1 Cedar virus isolate CG1a, complete genome-table6-Paramyxoviridae-HMM978-1442_17.0-ORF199
+seq33	>ref-NC_025361.1 Avian paramyxovirus 5 strain budgerigar/Kunitachi/74, complete genome-table4-Paramyxoviridae-HMM533-1107_25.0-ORF218
+seq34	>ref-NC_025404.1 Achimota virus 2, complete genome-table6-Paramyxoviridae-HMM1193-1749_18.0-ORF165
+seq35	>ref-NC_025407.1 Avian paramyxovirus 11 isolate common_snipe/France/100212/2010, complete genome-table6-Paramyxoviridae-HMM522-1081_24.0-ORF196
+seq36	>ref-NC_025256.1 Bat Paramyxovirus Eid_hel/GH-M74a/GHA/2009, complete genome-table6-Paramyxoviridae-HMM722-1146_18.0-ORF205
+seq37	>ref-NC_025264.1 Feline morbillivirus viral cRNA, complete genome, strain: OtJP001-table4-Paramyxoviridae-HMM504-1086_26.0-ORF182
+seq38	>ref-NC_025345.1 Sunshine virus, complete genome-table4-Paramyxoviridae-HMM650-1049_17.0-ORF211
+seq39	>ref-NC_025350.1 Tuhoko virus 3, complete genome-table6-Paramyxoviridae-HMM522-1077_24.0-ORF168
+seq40	>ref-NC_025374.1 Avian paramyxovirus 8 isolate APMV-8/Goose/Delaware/1053/76, complete genome-table6-Paramyxoviridae-HMM539-1091_23.0-ORF157
+seq41	>ref-NC_025402.1 Porcine parainfluenza virus 1 strain S206N, complete genome-table6-Paramyxoviridae-HMM504-1065_24.0-ORF164
+seq42	>ref-NC_025403.1 Achimota virus 1, complete genome-table6-Paramyxoviridae-HMM542-1097_23.0-ORF177
+seq43	>ref-NC_025360.1 Atlantic salmon paramyxovirus isolate ASPV/Yrkje371/95, complete genome-table6-Paramyxoviridae-HMM594-1156_24.0-ORF191
+seq44	>ref-NC_025348.1 Tuhoko virus 2, complete genome-table6-Paramyxoviridae-HMM525-1081_24.0-ORF166
+seq45	>ref-NC_025347.1 Avian paramyxovirus 7 strain APMV-7/dove/Tennessee/4/75, complete genome-table6-Paramyxoviridae-HMM551-1096_23.0-ORF185
+seq46	>ref-NC_025352.1 Mojiang virus isolate Tongguan1, complete genome-table6-Paramyxoviridae-HMM783-1223_18.0-ORF195
+seq47	>ref-NC_025390.1 Avian paramyxovirus 9 strain duck/New York/22/1978, complete genome-table6-Paramyxoviridae-HMM551-1088_23.0-ORF159
+seq48	>ref-NC_025373.1 Avian paramyxovirus 3 strain turkey/Wisconsin/68, complete genome-table6-Paramyxoviridae-HMM635-1047_17.0-ORF164
+seq49	>ref-NC_025363.1 Avian paramyxovirus 12 isolate Wigeon/Italy/3920_1/2005, complete genome-table6-Paramyxoviridae-HMM525-1064_23.0-ORF163
+seq50	>ref-NC_025355.1 Tailam virus strain TL8K, complete genome-table6-Paramyxoviridae-HMM560-1109_24.0-ORF196
+seq51	>ref-NC_025386.1 Salem virus, complete genome-table6-Paramyxoviridae-HMM658-1089_18.0-ORF178
+seq52	>ref-NC_025410.1 Tuhoko virus 1, complete genome-table4-Paramyxoviridae-HMM543-1100_23.0-ORF174
+seq53	>ref-NC_028233.1 Teviot virus isolate Geelong, complete genome-table6-Paramyxoviridae-HMM585-1140_23.0-ORF171
+seq54	>ref-NC_028245.1 Avian paramyxovirus 2 strain APMV-2/Chicken/England/7702/06, complete genome-table6-Paramyxoviridae-HMM547-1096_23.0-ORF163
+seq55	>ref-NC_028249.1 Phocine distemper virus strain PDV/Wadden_Sea.NLD/1988, complete genome-table6-Paramyxoviridae-HMM660-1231_23.0-ORF171
+seq56	>ref-NC_028362.1 Caprine parainfluenza virus 3 strain JS2013, complete genome-table6-Paramyxoviridae-HMM517-1077_24.0-ORF151
+seq57	>ref-NC_030231.1 Avian paramyxovirus goose/Shimane/67/2000 viral cRNA, complete genome-table6-Paramyxoviridae-HMM545-1082_23.0-ORF167
+seq58	>ref-NC_025349.3 Avian paramyxovirus penguin/Falkland Islands/324/2007, complete genome-table6-Paramyxoviridae-HMM518-1069_23.0-ORF166
+seq59	>ref-NC_034968.1 Avian paramyxovirus 15 isolate APMV-15/calidris_fuscicollis/Brazil/RS-1177/2012, partial genome-table6-Paramyxoviridae-HMM577-1128_24.0-ORF147
+seq60	>nrnt-MF100763 Avian avulavirus 1 isolate D/GD/GZ/817/2016, complete genome.-table6-Paramyxoviridae-HMM555-1094_23.0-ORF171
+seq61	>nrnt-MG573141 Mount Mabu Lophuromys virus 2 isolate MOZ135_2, complete genome.-table6-Paramyxoviridae-HMM533-1098_24.0-ORF188
+seq62	>nrnt-MG573140 Mount Mabu Lophuromys virus 1 isolate MOZ135_1, complete genome.-table6-Paramyxoviridae-HMM515-1066_23.0-ORF189
+seq63	>nrnt-MG516455 Pohorje myodes paramyxovirus 1 isolate TT02/05, complete genome.-table6-Paramyxoviridae-HMM581-1146_24.0-ORF235
+seq64	>nrnt-MG600062 Wenling hoplichthys paramyxovirus strain XYXMC57250 nucleoprotein, hypothetical protein, matrix protein, fusion protein, hemagglutinin-neuraminidase, and L protein genes, complete cds.-table6-Paramyxoviridae-HMM1190-1595_15.0-ORF166
+seq65	>nrnt-MG600060 Reptilian ferlavirus strain LPSC29299 nucleoprotein, hypothetical protein, phosphoprotein, matrix protein, fusion protein, hemagglutinin-neuraminidase, and L protein genes, complete cds.-table4-Paramyxoviridae-HMM500-1064_25.0-ORF203
+seq66	>nrnt-MG600059 Wenling tonguesole paramyxovirus strain XYHYC190750 nucleoprotein, hypothetical protein, matrix protein, fusion protein, putative glycoprotein, and L protein genes, complete cds.-table6-Paramyxoviridae-HMM1730-2138_12.0-ORF161
+seq67	>nrnt-MG600058 Wenling triplecross lizardfish paramyxovirus strain XYHYC179963 nucleoprotein, hypothetical protein, matrix protein, hypothetical protein, fusion protein, hemagglutinin-neuraminidase, and L protein genes, complete cds.-table6-Paramyxoviridae-HMM525-1069_24.0-ORF203
+seq68	>nrnt-MG600057 Wenzhou pacific spadenose shark paramyxovirus strain DWXCSG11347 nucleoprotein, hypothetical protein, fusion protein, putative glycoprotein, hemagglutinin-neuraminidase, and L protein genes, complete cds.-table6-Paramyxoviridae-HMM535-1078_24.0-ORF232
+seq69	>nrnt-MF594598 Avian paramyxovirus 17 isolate Cheonsu1510, complete genome.-table6-Paramyxoviridae-HMM527-1063_23.0-ORF146
+seq70	>nrnt-MF033136 Avian paramyxovirus 20 isolate APMV-20/gull/Kazakhstan/5976/2014, complete genome.-table6-Paramyxoviridae-HMM570-1123_24.0-ORF161
+seq71	>nrnt-KY370098 Rodent paramyxovirus isolate RtAp-ParaV/NX2015, complete genome.-table4-Paramyxoviridae-HMM511-1068_25.0-ORF220
+seq72	>nrnt-KU672593 UNVERIFIED: Hervey virus isolate BO6 genomic sequence.-table6-Paramyxoviridae-HMM549-1096_23.0-ORF164
+seq73	>nrnt-KJ641661 Bat paramyxovirus isolate BtRf-ParaV-1/YN2010 polymerase gene, partial cds.-table1-Paramyxoviridae-HMM99-488_79.0-ORF13
+seq74	>nrnt-KJ641660 Bat paramyxovirus isolate BtRh-ParaV/Tibet2013 polymerase gene, partial cds.-table1-Paramyxoviridae-HMM442-1011_42.0-ORF32
+seq75	>nrnt-KJ641659 Bat paramyxovirus isolate BtVs-ParaV/SC2013 polymerase gene, partial cds.-table1-Paramyxoviridae-HMM80-516_84.0-ORF17
+seq76	>nrnt-KJ641658 Bat paramyxovirus isolate BtRf-ParaV/SX2013 polymerase gene, partial cds.-table1-Paramyxoviridae-HMM115-671_62.0-ORF27
+seq77	>nrnt-KJ641657 Bat paramyxovirus isolate BtMl-ParaV/QH2013 nucleocapsid protein gene, partial cds; phosphoprotein, matrix protein, fusion protein, small hydrophobic protein, and attachment glycoprotein genes, complete cds; and polymerase gene, partial cds.-table4-Paramyxoviridae-HMM513-1070_28.0-ORF165
+seq78	>nrnt-KJ641656 Bat paramyxovirus isolate BtMd-ParaV/LN2012 polymerase gene, partial cds.-table1-Paramyxoviridae-HMM296-843_30.0-ORF47
+seq79	>nrnt-KJ641655 Bat paramyxovirus isolate BtHp-ParaV/GD2012 polymerase gene, partial cds.-table1-Paramyxoviridae-HMM186-755_38.0-ORF34
+seq80	>nrnt-KJ641654 Bat paramyxovirus isolate BtHa-ParaV/GD2012 nucleocapsid protein, phosphoprotein, matrix protein, fusion protein, and attachment glycoprotein genes, complete cds; and polymerase gene, partial cds.-table4-Paramyxoviridae-HMM521-1077_27.0-ORF180
+seq81	>nrnt-KC154056 Miniopterus schreibersii paramyxovirus isolate Bat Ms-ParaV-2/Shaanxi2011 attachment glycoprotein (G) and large protein (L) genes, partial cds.-table6-Paramyxoviridae-HMM537-1083_32.0-ORF69
+seq82	>nrnt-KC154055 Miniopterus schreibersii paramyxovirus isolate Bat Ms-ParaV-1/Shaanxi2011 large protein gene, partial cds.-table4-Paramyxoviridae-HMM68-621_31.0-ORF71
+seq83	>nrnt-KC154054 Miniopterus schreibersii paramyxovirus isolate Bat Ms-ParaV/Anhui2011, partial genome.-table6-Paramyxoviridae-HMM546-1115_31.0-ORF177
+seq84	>nrnt-KY511044 Avian paramyxovirus UPO216 isolate APMV-15/WB/Kr/UPO216/2014, complete genome.-table6-Paramyxoviridae-HMM515-1052_23.0-ORF178
+seq85	>nrnt-KY452444 Antarctic penguin virus C, complete genome.-table4-Paramyxoviridae-HMM540-1074_23.0-ORF165
+seq86	>nrnt-KY452443 Antarctic penguin virus B, complete genome.-table6-Paramyxoviridae-HMM596-1131_23.0-ORF168
+seq87	>nrnt-KY452442 Antarctic penguin virus A, complete genome.-table4-Paramyxoviridae-HMM519-1055_24.0-ORF178
+seq88	>nrnt-KY745892 Anaconda paramyxovirus isolate 1507RN030, complete genome.-table6-Paramyxoviridae-HMM552-1116_25.0-ORF187
+seq89	>nrnt-LF954386 JP 2016533749-A/1: COMPOSITIONS FEATURING AN ATTENUATED NEWCASTLE DISEASE VIRUS AND METHODS OF USE FOR TREATING NEOPLASIA.-table6-Paramyxoviridae-HMM575-1113_23.0-ORF164
+seq90	>nrnt-KX343068 Bat paramyxovirus isolate JTA L protein gene, partial cds.-table1-Paramyxoviridae-HMM2-503_72.0-ORF25
+seq91	>nrnt-LC187310 Avian paramyxovirus 10 genomic RNA, complete genome, strain: rAPMV-10-FI324/YmHA.-table6-Paramyxoviridae-HMM518-1069_23.0-ORF181
+seq92	>nrnt-LC187308 Avian paramyxovirus 6 genomic RNA, complete genome, strain: rAPMV-6-HK199/YmHA.-table4-Paramyxoviridae-HMM568-1114_23.0-ORF210
+seq93	>nrnt-LC187306 Avian paramyxovirus 2 genomic RNA, complete genome, strain: rAPMV-2-Yuc/YmHA.-table6-Paramyxoviridae-HMM547-1096_23.0-ORF183
+seq94	>nrnt-KX258200 Avian paramyxovirus 14 isolate APMV14/duck/Japan/11OG0352/2011, complete genome.-table6-Paramyxoviridae-HMM518-1071_24.0-ORF191
+seq95	>nrnt-KT071757 Avian paramyxovirus 2 isolate APMV-2/Emberiza spodocephala/China/Daxing'anling/974/2013, complete genome.-table6-Paramyxoviridae-HMM557-1109_24.0-ORF151
+seq96	>nrnt-LC040886 Bovine parainfluenza virus 3 viral cRNA, complete genome, strain: FK/D56/13.-table6-Paramyxoviridae-HMM709-1270_22.0-ORF151
+seq97	>nrnt-KM816619 Peste-des-petits-ruminants virus isolate GZL-14, complete genome.-table4-Paramyxoviridae-HMM1147-1718_20.0-ORF175
+seq98	>nrnt-KP764763 Bovine parainfluenza virus 3 strain TtPIV-1, complete genome.-table6-Paramyxoviridae-HMM594-1155_23.0-ORF152
+seq99	>nrnt-KP159804 Feline paramyxovirus MSi-2014 isolate 94743 RNA polymerase (L) gene, partial cds.-table1-Paramyxoviridae-HMM377-815_53.0-ORF19
+seq100	>nrnt-JC486655 Sequence 18 from Patent EP2702159.-table6-Paramyxoviridae-HMM503-1065_24.0-ORF190
+seq101	>nrnt-KF006252 Paramyxovirus C40 L protein polymerase (L) mRNA, partial cds.-table1-Paramyxoviridae-HMM129-595_78.0-ORF14
+seq102	>nrnt-AB844427 Rodent Paramyxovirus LivR10-74 L gene for RNA-dependent RNA polymerase, partial cds.-table1-Paramyxoviridae-HMM92-555_83.0-ORF10
+seq103	>nrnt-AB844426 Rodent Paramyxovirus LivR10-73 L gene for RNA-dependent RNA polymerase, partial cds.-table1-Paramyxoviridae-HMM280-595_52.0-ORF15
+seq104	>nrnt-AB844425 Rodent Paramyxovirus LR11-22 L gene for RNA-dependent RNA polymerase, partial cds.-table1-Paramyxoviridae-HMM89-531_83.0-ORF13
+seq105	>nrnt-AB844422 Rodent Paramyxovirus MpR12-59 L gene for RNA-dependent RNA polymerase, partial cds.-table1-Paramyxoviridae-HMM92-555_83.0-ORF9
+seq106	>nrnt-AB844407 Rodent Paramyxovirus LR11-138 L gene for RNA-dependent RNA polymerase, partial cds.-table1-Paramyxoviridae-HMM88-549_83.0-ORF17
+seq107	>nrnt-AB844404 Rodent Paramyxovirus LR11-134 L gene for RNA-dependent RNA polymerase, partial cds.-table1-Paramyxoviridae-HMM89-549_83.0-ORF16
+seq108	>nrnt-AB844369 Rodent Paramyxovirus LivR11-48 L gene for RNA-dependent RNA polymerase, partial cds.-table1-Paramyxoviridae-HMM88-557_84.0-ORF14
+seq109	>nrnt-AB844350 Rodent Paramyxovirus LR11-110 L gene for RNA-dependent RNA polymerase, partial cds.-table1-Paramyxoviridae-HMM254-595_57.0-ORF13
+seq110	>nrnt-AB844348 Rodent Paramyxovirus MpR12-62 L gene for RNA-dependent RNA polymerase, partial cds.-table1-Paramyxoviridae-HMM256-595_56.0-ORF14
+seq111	>nrnt-AB844343 Rodent Paramyxovirus LR11-168 L gene for RNA-dependent RNA polymerase, partial cds.-table1-Paramyxoviridae-HMM248-597_58.0-ORF15
+seq112	>nrnt-AB759118 Avian paramyxovirus 6 viral cRNA, complete genome, strain: red-necked stint/Japan/8KS0813/2008.-table4-Paramyxoviridae-HMM597-1143_23.0-ORF189
+seq113	>nrnt-JN086951 Paramyxovirus bat/E95/2009 polymerase (L) gene, partial cds.-table6-Paramyxoviridae-HMM89-411_76.0-ORF12
+seq114	>nrnt-HQ660109 Bat Paramyxovirus Eid_hel/GB1661-AR/GAB/2005 isolate BatPV/Eid_hel/GB1661-AR/GAB/2005 RNA-dependent RNA polymerase (L) gene, partial cds.-table1-Paramyxoviridae-HMM135-396_65.0-ORF8
+seq115	>nrnt-HQ660106 Bat Paramyxovirus Rou_aeg/GB1400/GAB/2005 isolate BatPV/Rou_aeg/GB1400/GAB/2005 RNA-dependent RNA polymerase (L) gene, partial cds.-table1-Paramyxoviridae-HMM138-404_65.0-ORF10
+seq116	>nrnt-HQ660100 Bat Paramyxovirus Rou_aeg/GB09156/GAB/2009 isolate BatPV/Rou_aeg/GB09156/GAB/2009 RNA-dependent RNA polymerase (L) gene, partial cds.-table1-Paramyxoviridae-HMM138-406_66.0-ORF13
+seq117	>nrnt-HQ660098 Bat Paramyxovirus Rou_aeg/GB1704/GAB/2005 isolate BatPV/Rou_aeg/GB1704/GAB/2005 RNA-dependent RNA polymerase (L) gene, partial cds.-table1-Paramyxoviridae-HMM138-400_65.0-ORF14
+seq118	>nrnt-HQ660092 Bat Paramyxovirus Eid_hel/GB3378/GAB/2006 isolate BatPV/Eid_hel/GB3378/GAB/2006 RNA-dependent RNA polymerase (L) gene, partial cds.-table1-Paramyxoviridae-HMM139-398_65.0-ORF13
+seq119	>nrnt-FJ971943 Paramyxovirus bat/GH1a/2009 polymerase (L) gene, partial cds.-table1-Paramyxoviridae-HMM136-396_65.0-ORF10
+seq120	>nrnt-FJ609195 Paramyxovirus bat/GH47/2008 polymerase (L) gene, partial cds.-table1-Paramyxoviridae-HMM137-402_65.0-ORF12
+seq121	>nrnt-HQ660095 Bat Paramyxovirus Epo_spe/AR1/DRC/2009, complete genome.-table6-Paramyxoviridae-HMM532-1089_24.0-ORF160
+seq122	>nrnt-AF016281 Recombinant PIV3/PIV1 virus fusion glycoprotein (F) and hemagglutinin (HN) genes, complete cds; and RNA dependent RNA polymerase (L) gene, partial cds.-table6-Paramyxoviridae-HMM667-1061_37.0-ORF67
+seq123	>nrnt-FN869553 Nipah virus N gene, P gene, M gene, F gene, G gene and L gene, isolated from urine of Pteropus vampyrus, genomic RNA.-table6-Paramyxoviridae-HMM2172-2620_11.0-ORF173
+seq124	>nrnt-HM159995 Avian paramyxovirus 2 strain APMV-2/Finch/N.Ireland/Bangor/73, complete genome.-table6-Paramyxoviridae-HMM16-104_51.0-ORF104
+seq125	>nrnt-HM159994 Avian paramyxovirus 2 strain APMV-2/Gadwell/Kenya/3/80, complete genome.-table6-Paramyxoviridae-HMM538-1088_23.0-ORF168
+seq126	>nrnt-FV537057 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Paramyxoviridae-HMM3377-3939_10.0-ORF246
+seq127	>nrnt-GM881284 Sequence 5 from Patent WO2008137981.-table4-Paramyxoviridae-HMM510-1072_24.0-ORF176
+seq128	>nrnt-EU403085 Avian paramyxovirus 3 strain APMV3/PKT/Netherland/449/75, complete genome.-table6-Paramyxoviridae-HMM669-1081_18.0-ORF157

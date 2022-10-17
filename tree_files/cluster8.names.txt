@@ -1,0 +1,477 @@
+seq1	>ref-NC_001469.1 Cucumber necrosis virus, complete genome-table6-Tombusviridae-HMM375-849_54.0-ORF32
+seq2	>ref-NC_001600.1 Cardamine chlorotic fleck virus, complete genome-table6-Tombusviridae-HMM268-769_51.0-ORF30
+seq3	>ref-NC_003056.1 Soybean dwarf virus genomic RNA, complete genome, strain:YS-table6-Tombusviridae-HMM20-502_35.0-ORF42
+seq4	>ref-NC_003487.1 Tobacco necrosis virus D, complete genome-table6-Tombusviridae-HMM223-729_68.0-ORF28
+seq5	>ref-NC_002160.2 Barley yellow dwarf virus-PAS, complete genome-table4-Tombusviridae-HMM88-582_81.0-ORF32
+seq6	>ref-NC_003369.1 Bean leafroll virus, complete genome-table6-Tombusviridae-HMM28-509_85.0-ORF31
+seq7	>ref-NC_003680.1 Barley yellow dwarf virus - MAV, complete genome-table4-Tombusviridae-HMM69-550_83.0-ORF28
+seq8	>ref-NC_003853.1 Pea enation mosaic virus-2, complete genome-table6-Tombusviridae-HMM190-659_64.0-ORF26
+seq9	>ref-NC_003603.1 Groundnut rosette virus complete genome, strain MC1-table4-Tombusviridae-HMM94-582_73.0-ORF24
+seq10	>ref-NC_003871.1 Carrot red leaf luteovirus associated RNA clone a25 putative RNA dependent RNA polymerase, complete cds-table6-Tombusviridae-HMM271-744_58.0-ORF20
+seq11	>ref-NC_004366.1 Tobacco bushy top virus, complete genome-table6-Tombusviridae-HMM88-572_49.0-ORF29
+seq12	>ref-NC_004995.1 Pea stem necrosis virus, complete genome-table6-Tombusviridae-HMM276-781_63.0-ORF25
+seq13	>ref-NC_004045.1 Beet western yellows ST9 associated virus genomic RNA sequence, open reading frame 1,2,3, and 4-table6-Tombusviridae-HMM16-327_60.0-ORF29
+seq14	>ref-NC_003535.1 Cowpea mottle virus, complete genome-table6-Tombusviridae-HMM246-742_65.0-ORF21
+seq15	>ref-NC_003756.1 Red clover necrotic mosaic virus RNA-1, complete sequence-table6-Tombusviridae-HMM24-516_78.0-ORF26
+seq16	>ref-NC_003806.1 Sweet clover necrotic mosaic virus RNA 1, complete sequence-table6-Tombusviridae-HMM24-516_48.0-ORF41
+seq17	>ref-NC_004725.1 Cucumber Bulgarian latent virus, complete genome-table4-Tombusviridae-HMM28-502_52.0-ORF48
+seq18	>ref-NC_003530.1 Carnation ringspot virus fusion protein polymerase (p88K), p27K, p57K, capsid protein (p37K) and p11K genes, complete cds-table6-Tombusviridae-HMM57-548_46.0-ORF35
+seq19	>ref-NC_003821.3 Turnip crinkle virus, complete genome-table6-Tombusviridae-HMM280-781_54.0-ORF31
+seq20	>ref-NC_005985.1 Pelargonium chlorotic ring pattern virus isolate GR57, complete genome-table6-Tombusviridae-HMM252-753_57.0-ORF30
+seq21	>ref-NC_005286.1 Pelargonium flower break virus, complete genome-table6-Tombusviridae-HMM261-758_64.0-ORF28
+seq22	>ref-NC_005287.1 Johnsongrass chlorotic stripe mosaic virus, complete genome-table6-Tombusviridae-HMM314-787_58.0-ORF25
+seq23	>ref-NC_001780.1 Saguaro cactus virus, complete genome-table6-Tombusviridae-HMM258-757_64.0-ORF22
+seq24	>ref-NC_004666.1 Barley yellow dwarf virus-GAV, complete genome-table4-Tombusviridae-HMM72-555_83.0-ORF30
+seq25	>ref-NC_003532.1 Cymbidium ringspot virus, complete genome-table6-Tombusviridae-HMM343-817_56.0-ORF31
+seq26	>ref-NC_001265.2 Carnation mottle virus (CarMV) complete genomic RNA sequence-table6-Tombusviridae-HMM276-775_53.0-ORF33
+seq27	>ref-NC_001822.1 Leek white stripe virus, complete genome-table6-Tombusviridae-HMM217-721_69.0-ORF23
+seq28	>ref-NC_004452.3 Beet black scorch virus, complete genome-table6-Tombusviridae-HMM215-719_69.0-ORF21
+seq29	>ref-NC_001721.1 Olive latent virus 1, complete genome-table6-Tombusviridae-HMM230-727_66.0-ORF22
+seq30	>ref-NC_001278.1 Diaporthe ambigua RNA virus 1, complete genome-table6-Tombusviridae-HMM560-1009_39.0-ORF37
+seq31	>ref-NC_002598.1 Panicum mosaic virus, complete genome-table6-Tombusviridae-HMM442-949_46.0-ORF30
+seq32	>ref-NC_003500.3 Carnation Italian ringspot virus genomic sequence for ORF1-5-table6-Tombusviridae-HMM378-852_54.0-ORF29
+seq33	>ref-NC_003633.1 Oat chlorotic stunt virus, complete genome-table6-Tombusviridae-HMM236-753_67.0-ORF22
+seq34	>ref-NC_001726.1 Carrot mottle mimic umbravirus (CMoMV) dsRNA1, complete genome-table6-Tombusviridae-HMM109-589_75.0-ORF27
+seq35	>ref-NC_002187.1 Japanese iris necrotic ring virus, complete genome-table6-Tombusviridae-HMM263-753_54.0-ORF27
+seq36	>ref-NC_003627.1 Maize chlorotic mottle virus genomic RNA, isolate KS1-table6-Tombusviridae-HMM468-967_48.0-ORF35
+seq37	>ref-NC_001777.1 Tobacco necrosis virus A, complete genome-table6-Tombusviridae-HMM230-730_67.0-ORF23
+seq38	>ref-NC_005285.1 Pelargonium necrotic spot virus, complete genome-table6-Tombusviridae-HMM374-848_54.0-ORF27
+seq39	>ref-NC_001554.1 Tomato bushy stunt virus, complete genome-table6-Tombusviridae-HMM343-817_56.0-ORF27
+seq40	>ref-NC_006939.1 Olive mild mosaic virus, complete genome-table6-Tombusviridae-HMM230-730_67.0-ORF25
+seq41	>ref-NC_004750.1 Barley yellow dwarf virus - PAV, complete genome-table4-Tombusviridae-HMM66-548_84.0-ORF26
+seq42	>ref-NC_003608.1 Hibiscus chlorotic ringspot virus, complete genome-table6-Tombusviridae-HMM233-729_38.0-ORF36
+seq43	>ref-NC_000939.2 Pothos latent virus genes for replicase, capsid protein and movement protein-table6-Tombusviridae-HMM255-727_63.0-ORF30
+seq44	>ref-NC_001818.1 Galinsoga mosaic virus, complete genome-table6-Tombusviridae-HMM232-726_66.0-ORF22
+seq45	>ref-NC_007017.2 Pelargonium line pattern virus isolate PV-0193, complete genome-table6-Tombusviridae-HMM250-750_51.0-ORF30
+seq46	>ref-NC_001339.1 Artichoke mottled crinkle virus, complete genome-table6-Tombusviridae-HMM352-826_56.0-ORF34
+seq47	>ref-NC_007729.1 Maize necrotic streak virus isolate Arizona, complete genome-table6-Tombusviridae-HMM341-808_56.0-ORF27
+seq48	>ref-NC_007733.1 Angelonia flower break virus, complete genome-table6-Tombusviridae-HMM256-757_64.0-ORF29
+seq49	>ref-NC_001504.1 Melon necrotic spot virus, genome-table6-Tombusviridae-HMM306-807_57.0-ORF26
+seq50	>ref-NC_009017.1 Nootka lupine vein-clearing virus, complete genome-table6-Tombusviridae-HMM277-771_58.0-ORF27
+seq51	>ref-NC_007816.2 Cucumber leaf spot virus, complete genome-table6-Tombusviridae-HMM280-755_61.0-ORF28
+seq52	>ref-NC_009756.1 Marine RNA virus SOG, complete genome-table6-Tombusviridae-HMM376-858_33.0-ORF41
+seq53	>ref-NC_009533.1 Maize white line mosaic virus, complete genome-table6-Tombusviridae-HMM310-785_59.0-ORF26
+seq54	>ref-NC_010806.1 Rose spring dwarf-associated virus, complete genome-table6-Tombusviridae-HMM48-528_59.0-ORF40
+seq55	>ref-NC_011108.1 Cocksfoot mild mosaic virus, complete genome-table6-Tombusviridae-HMM403-905_51.0-ORF21
+seq56	>ref-NC_011643.1 Soybean yellow mottle mosaic virus, complete genome-table6-Tombusviridae-HMM249-748_56.0-ORF30
+seq57	>ref-NC_011535.1 Grapevine Algerian latent virus, complete genome-table6-Tombusviridae-HMM343-817_56.0-ORF31
+seq58	>ref-NC_014126.1 Providence virus, complete genome-table6-Tombusviridae-HMM514-788_26.0-ORF27
+seq59	>ref-NC_014967.1 Honeysuckle ringspot virus, complete genome-table6-Tombusviridae-HMM263-764_55.0-ORF27
+seq60	>ref-NC_015227.2 Trailing lespedeza virus 1 isolate 06TGP01091, complete genome-table6-Tombusviridae-HMM265-764_56.0-ORF32
+seq61	>ref-NC_011515.1 Carrot mottle virus isolate Weddel, complete genome-table6-Tombusviridae-HMM99-584_72.0-ORF24
+seq62	>ref-NC_020073.2 Moroccan pepper virus isolate MPV-PM75, complete genome-table4-Tombusviridae-HMM28-502_51.0-ORF46
+seq63	>ref-NC_020469.1 Furcraea necrotic streak virus isolate Cauca, complete genome-table6-Tombusviridae-HMM263-763_60.0-ORF20
+seq64	>ref-NC_020415.1 Rosa rugosa leaf distortion virus isolate MN-3, complete genome-table6-Tombusviridae-HMM247-750_65.0-ORF29
+seq65	>ref-NC_021481.1 Barley yellow dwarf virus Ker-II isolate K439, complete genome-table6-Tombusviridae-HMM13-509_87.0-ORF33
+seq66	>ref-NC_021926.1 Calibrachoa mottle virus isolate California, complete genome-table6-Tombusviridae-HMM256-752_64.0-ORF18
+seq67	>ref-NC_021705.2 Thin paspalum asymptomatic virus strain 2005, complete genome-table6-Tombusviridae-HMM397-905_52.0-ORF32
+seq68	>ref-NC_022895.1 Yam spherical virus culture-collection DSMZ:PV-0517, complete genome-table6-Tombusviridae-HMM295-770_51.0-ORF29
+seq69	>ref-NC_023682.1 Anopheline-associated C virus isolate acc_1.1s segment 1 RNA-dependent RNA polymerase-like protein and hypothetical proteins genes, complete cds-table4-Tombusviridae-HMM218-490_40.0-ORF31
+seq70	>ref-NC_023339.1 Eggplant mottled crinkle virus, complete genome-table6-Tombusviridae-HMM342-816_56.0-ORF33
+seq71	>ref-NC_024808.1 Ethiopian tobacco bushy top virus isolate 18-2, complete genome-table4-Tombusviridae-HMM55-545_77.0-ORF26
+seq72	>ref-NC_026240.1 Pelargonium ringspot virus isolate DSMZ-PV-0304, complete genome-table6-Tombusviridae-HMM249-749_64.0-ORF23
+seq73	>ref-NC_026239.1 Elderberry latent virus isolate ELV, complete genome-table6-Tombusviridae-HMM262-760_63.0-ORF26
+seq74	>ref-NC_026137.1 Magnaporthe oryzae RNA virus, complete genome-table6-Tombusviridae-HMM391-840_43.0-ORF21
+seq75	>ref-NC_026508.1 Cucurbit aphid borne yellows virus associated RNA RNA-dependent RNA polymerase and putative 25K replicase component genes, complete cds-table6-Tombusviridae-HMM249-739_54.0-ORF25
+seq76	>ref-NC_027211.1 Nectarine stem pitting-associated virus isolate nectarine, complete genome-table4-Tombusviridae-HMM251-713_63.0-ORF28
+seq77	>ref-NC_027710.2 Opium poppy mosaic virus isolate PHEL5235, complete genome-table6-Tombusviridae-HMM20-502_51.0-ORF34
+seq78	>ref-NC_029900.1 Tobacco necrosis virus P isolate QV323, complete genome-table6-Tombusviridae-HMM216-712_68.0-ORF23
+seq79	>ref-NC_030203.1 Sclerotinia sclerotiorum umbra-like virus 1 isolate IL1 RNA-dependent RNA polymerase and replication-associated protein genes, complete cds-table6-Tombusviridae-HMM455-952_42.0-ORF34
+seq80	>ref-NC_030452.1 Pelargonium leaf curl virus isolate T46 clone p1580-12, complete genome-table6-Tombusviridae-HMM378-852_54.0-ORF29
+seq81	>ref-NC_030742.1 Gompholobium virus A isolate Monadnocks putative RNA dependent RNA polymerase (RdRP), replication-associated protein (RdRP), movement protein 1 (MP1), movement protein 2 (MP2), and coat protein (CP) genes, complete cds-table6-Tombusviridae-HMM287-786_38.0-ORF34
+seq82	>ref-NC_031800.1 Cherry associated luteovirus, complete genome-table6-Tombusviridae-HMM87-569_75.0-ORF27
+seq83	>ref-NC_032231.1 Hubei mosquito virus 4 strain 3mos6213 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM624-1002_37.0-ORF26
+seq84	>ref-NC_032230.1 Changjiang tombus-like virus 15 strain CJLX30583 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM285-746_56.0-ORF28
+seq85	>ref-NC_032202.1 Beihai tombus-like virus 4 strain BHZY58951 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM421-933_53.0-ORF29
+seq86	>ref-NC_032521.1 Beihai horseshoe crab virus 1 strain HOU157708 hypothetical protein genes, complete cds-table6-Tombusviridae-HMM96-544_74.0-ORF32
+seq87	>ref-NC_032455.1 Hubei tombus-like virus 30 strain spider132818 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM136-469_54.0-ORF19
+seq88	>ref-NC_032471.1 Sanxia water strider virus 15 strain SXSSP1894 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Tombusviridae-HMM143-578_70.0-ORF22
+seq89	>ref-NC_032405.1 Bermuda grass latent virus isolate BGLV, complete genome-table6-Tombusviridae-HMM356-862_54.0-ORF21
+seq90	>ref-NC_032453.1 Hubei tombus-like virus 16 strain spider58816 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM104-568_66.0-ORF26
+seq91	>ref-NC_032443.1 Shahe isopoda virus 5 strain SHWC0209c16708 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and hypothetical protein 4 genes, complete cds-table6-Tombusviridae-HMM515-949_44.0-ORF30
+seq92	>ref-NC_032474.1 Sanxia tombus-like virus 7 strain SXSSP2567 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and hypothetical protein 4 genes, complete cds-table4-Tombusviridae-HMM287-625_50.0-ORF30
+seq93	>ref-NC_033217.1 Hubei tombus-like virus 24 strain GCM76561 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Tombusviridae-HMM443-844_46.0-ORF23
+seq94	>ref-NC_032965.1 Hubei tombus-like virus 2 strain WHSFII19265 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and hypothetical protein 4 genes, complete cds-table6-Tombusviridae-HMM410-821_48.0-ORF27
+seq95	>ref-NC_032813.1 Hubei tombus-like virus 17 strain QTM26798 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM72-493_68.0-ORF22
+seq96	>ref-NC_032853.1 Hubei tombus-like virus 12 strain WHBL71803 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM266-723_55.0-ORF23
+seq97	>ref-NC_033073.1 Wenling tombus-like virus 3 strain WLJQ76752 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table4-Tombusviridae-HMM357-680_39.0-ORF28
+seq98	>ref-NC_033058.1 Sanxia tombus-like virus 5 strain SXSSP12445 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Tombusviridae-HMM363-770_50.0-ORF24
+seq99	>ref-NC_033178.1 Sanxia tombus-like virus 1 strain SXXX36383 hypothetical protein 3, hypothetical protein 2, and hypothetical protein 1 genes, complete cds-table6-Tombusviridae-HMM61-545_85.0-ORF22
+seq100	>ref-NC_032936.1 Shahe tombus-like virus 1 strain SHWC0209c12685 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM160-646_71.0-ORF17
+seq101	>ref-NC_033117.1 Sanxia tombus-like virus 6 strain SXSSP2574 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM23-472_61.0-ORF23
+seq102	>ref-NC_033187.1 Sanxia tombus-like virus 2 strain SXXX29202 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM65-550_85.0-ORF21
+seq103	>ref-NC_033059.1 Wenling tombus-like virus 2 strain WLJQ104302 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and hypothetical protein 4 genes, complete cds-table6-Tombusviridae-HMM401-827_45.0-ORF28
+seq104	>ref-NC_033043.1 Wenling tombus-like virus 1 strain WLJQ104192 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM387-847_52.0-ORF32
+seq105	>ref-NC_032920.1 Shahe tombus-like virus 2 strain SHWC01c3797 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM198-669_68.0-ORF24
+seq106	>ref-NC_033092.1 Sanxia water strider virus 14 strain SXSSP2565 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and hypothetical protein 4 genes, complete cds-table6-Tombusviridae-HMM502-927_39.0-ORF32
+seq107	>ref-NC_033068.1 Sanxia tombus-like virus 8 strain SXSSP2544 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Tombusviridae-HMM105-431_62.0-ORF18
+seq108	>ref-NC_033170.1 Sanxia tombus-like virus 3 strain SXXX37381 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Tombusviridae-HMM212-690_67.0-ORF26
+seq109	>ref-NC_032811.1 Hubei unio douglasiae virus 2 strain WHBL72658 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM590-975_35.0-ORF25
+seq110	>ref-NC_032862.1 Beihai tombus-like virus 1 strain SCJXSX39078 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM281-780_62.0-ORF24
+seq111	>ref-NC_032914.1 Beihai tombus-like virus 9 strain BHZY58393 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM372-827_33.0-ORF38
+seq112	>ref-NC_032903.1 Beihai tombus-like virus 3 strain BHZY54477 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM359-851_55.0-ORF34
+seq113	>ref-NC_032747.1 Beihai tombus-like virus 12 strain BHTSS17936 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, hypothetical protein 4, and hypothetical protein 5 genes, complete cds-table4-Tombusviridae-HMM377-713_45.0-ORF27
+seq114	>ref-NC_033161.1 Changjiang tombus-like virus 9 strain CJLX30737 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM380-857_53.0-ORF26
+seq115	>ref-NC_033169.1 Changjiang tombus-like virus 5 strain CJLX42586 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM289-770_58.0-ORF33
+seq116	>ref-NC_033002.1 Changjiang tombus-like virus 18 strain CJLX21588 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM409-871_49.0-ORF26
+seq117	>ref-NC_032932.1 Beihai tombus-like virus 10 strain BHZY59908 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and hypothetical protein 4 genes, complete cds-table6-Tombusviridae-HMM572-1026_42.0-ORF33
+seq118	>ref-NC_033250.1 Beihai tombus-like virus 5 strain HOU131178 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM91-546_77.0-ORF30
+seq119	>ref-NC_032880.1 Beihai tombus-like virus 13 strain BHZC37436 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM413-861_46.0-ORF31
+seq120	>ref-NC_033052.1 Changjiang crawfish virus 7 strain CJLX29643 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM295-771_42.0-ORF41
+seq121	>ref-NC_033142.1 Changjiang tombus-like virus 6 strain CJLX30707 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM302-776_42.0-ORF32
+seq122	>ref-NC_033096.1 Changjiang tombus-like virus 14 strain CJLX30318 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM228-704_64.0-ORF23
+seq123	>ref-NC_033028.1 Changjiang tombus-like virus 1 strain CJLX26263 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Tombusviridae-HMM224-687_65.0-ORF22
+seq124	>ref-NC_033129.1 Sanxia tombus-like virus 4 strain SXXX7002 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM304-774_57.0-ORF23
+seq125	>ref-NC_032951.1 Beihai tombus-like virus 8 strain BHZY60516 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM392-852_47.0-ORF30
+seq126	>ref-NC_033268.1 Beihai tombus-like virus 2 strain BHNXC41455 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM388-896_48.0-ORF34
+seq127	>ref-NC_033202.1 Beihai tombus-like virus 15 strain BHBJDX18752 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM457-662_20.0-ORF31
+seq128	>ref-NC_033244.1 Beihai tombus-like virus 11 strain BHHK128439 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM126-501_73.0-ORF33
+seq129	>ref-NC_033208.1 Beihai tombus-like virus 7 strain BHBJDX18773 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and hypothetical protein 4 genes, complete cds-table6-Tombusviridae-HMM570-1013_37.0-ORF29
+seq130	>ref-NC_033183.1 Changjiang tombus-like virus 7 strain CJLX49320 hypothetical protein 2 and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM277-772_41.0-ORF35
+seq131	>ref-NC_033104.1 Changjiang tombus-like virus 3 strain CJLX30495 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and hypothetical protein 4 genes, complete cds-table6-Tombusviridae-HMM87-568_77.0-ORF28
+seq132	>ref-NC_033135.1 Changjiang tombus-like virus 2 strain CJLX30692 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Tombusviridae-HMM216-680_66.0-ORF28
+seq133	>ref-NC_033016.1 Changjiang tombus-like virus 16 strain CJLX25258 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM293-738_39.0-ORF36
+seq134	>ref-NC_033008.1 Changjiang tombus-like virus 10 strain CJLX21891 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM229-726_67.0-ORF27
+seq135	>ref-NC_032897.1 Hubei diptera virus 15 strain SCM95219 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM89-407_64.0-ORF18
+seq136	>ref-NC_033042.1 Changjiang tombus-like virus 12 strain CJLX27860 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM269-747_49.0-ORF28
+seq137	>ref-NC_032768.1 Hubei tombus-like virus 9 strain WHBL63242 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM212-676_62.0-ORF27
+seq138	>ref-NC_033237.1 Hubei tombus-like virus 5 strain WGML136364 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM305-804_49.0-ORF36
+seq139	>ref-NC_032731.1 Hubei tombus-like virus 4 strain WGML147612 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM255-731_63.0-ORF30
+seq140	>ref-NC_033023.1 Hubei tombus-like virus 28 strain SSZZ1762 hypothetical protein and RNA-dependent RNA polymerase genes, complete cds-table6-Tombusviridae-HMM114-402_47.0-ORF20
+seq141	>ref-NC_032846.1 Hubei odonate virus 12 strain QTM25968 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Tombusviridae-HMM299-550_32.0-ORF37
+seq142	>ref-NC_033231.1 Hubei tombus-like virus 6 strain WGML12775 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM305-783_59.0-ORF29
+seq143	>ref-NC_032767.1 Hubei tombus-like virus 40 strain QCM118690 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM724-1001_24.0-ORF30
+seq144	>ref-NC_032949.1 Hubei tombus-like virus 29 strain spider124630 hypothetical protein and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM79-418_63.0-ORF28
+seq145	>ref-NC_033063.1 Changjiang tombus-like virus 8 strain CJLX29920 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM290-776_36.0-ORF42
+seq146	>ref-NC_033076.1 Changjiang tombus-like virus 4 strain CJLX30236 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM328-807_58.0-ORF22
+seq147	>ref-NC_033123.1 Changjiang tombus-like virus 17 strain CJLX30686 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table4-Tombusviridae-HMM301-755_58.0-ORF25
+seq148	>ref-NC_033191.1 Changjiang tombus-like virus 11 strain CJLX30677 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM238-724_62.0-ORF28
+seq149	>ref-NC_032884.1 Hubei tombus-like virus 8 strain WHCC116238 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM293-781_57.0-ORF30
+seq150	>ref-NC_032741.1 Hubei tombus-like virus 39 strain WGML9144 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table4-Tombusviridae-HMM186-436_38.0-ORF55
+seq151	>ref-NC_032782.1 Hubei tombus-like virus 7 strain WHBL69243 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM519-1009_47.0-ORF36
+seq152	>ref-NC_033207.1 Hubei tombus-like virus 42 strain fly55787 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM204-518_49.0-ORF25
+seq153	>ref-NC_032984.1 Hubei tombus-like virus 38 strain WHWG56034 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM138-551_69.0-ORF20
+seq154	>ref-NC_033248.1 Hubei tombus-like virus 3 strain WGML143241 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM298-779_59.0-ORF23
+seq155	>ref-NC_032826.1 Hubei tombus-like virus 31 strain WHBL72828 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM419-827_47.0-ORF28
+seq156	>ref-NC_032856.1 Hubei tombus-like virus 26 strain QTM27120 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM84-400_51.0-ORF20
+seq157	>ref-NC_032970.1 Hubei tombus-like virus 21 strain spider121926 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM59-474_75.0-ORF29
+seq158	>ref-NC_032832.1 Hubei tombus-like virus 18 strain QTM27278 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and hypothetical protein 4 genes, complete cds-table6-Tombusviridae-HMM108-483_59.0-ORF27
+seq159	>ref-NC_032964.1 Hubei tombus-like virus 14 strain spider118341 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table4-Tombusviridae-HMM77-492_66.0-ORF26
+seq160	>ref-NC_032875.1 Hubei tombus-like virus 10 strain WHCC112361 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM222-723_68.0-ORF21
+seq161	>ref-NC_033048.1 Hubei tombus-like virus 27 strain SSZZ3453 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Tombusviridae-HMM65-456_73.0-ORF27
+seq162	>ref-NC_032901.1 Hubei tombus-like virus 23 strain WHCCII13249 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM625-1041_39.0-ORF34
+seq163	>ref-NC_032927.1 Hubei tombus-like virus 19 strain WHCCII13323 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and hypothetical protein 4 genes, complete cds-table4-Tombusviridae-HMM548-952_29.0-ORF46
+seq164	>ref-NC_033009.1 Hubei tombus-like virus 15 strain WHYY21098 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM512-904_42.0-ORF23
+seq165	>ref-NC_032960.1 Hubei tombus-like virus 11 strain WHSFII11317 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM113-534_77.0-ORF28
+seq166	>ref-NC_032789.1 Hubei tombus-like virus 25 strain WHBL69613 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table4-Tombusviridae-HMM350-848_52.0-ORF37
+seq167	>ref-NC_032988.1 Hubei tombus-like virus 20 strain spider131362 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and hypothetical protein 4 genes, complete cds-table4-Tombusviridae-HMM151-549_72.0-ORF29
+seq168	>ref-NC_033017.1 Hubei tombus-like virus 13 strain WHYY18977 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM105-520_69.0-ORF51
+seq169	>ref-NC_032992.1 Hubei tombus-like virus 1 strain WHWN54407 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and hypothetical protein 4 genes, complete cds-table6-Tombusviridae-HMM393-817_48.0-ORF23
+seq170	>ref-NC_033444.1 Wenzhou tombus-like virus 9 strain WZSLuoI85212 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM370-877_56.0-ORF29
+seq171	>ref-NC_033439.1 Wenzhou tombus-like virus 5 strain WZFSL67420 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table4-Tombusviridae-HMM275-755_61.0-ORF28
+seq172	>ref-NC_033417.1 Wenzhou tombus-like virus 11 strain mosZJ33874 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM611-991_37.0-ORF25
+seq173	>ref-NC_033427.1 Wenzhou tombus-like virus 6 strain WZFSL85189 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table4-Tombusviridae-HMM114-582_77.0-ORF35
+seq174	>ref-NC_033430.1 Wenzhou tombus-like virus 2 strain WZFSL84050 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM187-647_65.0-ORF23
+seq175	>ref-NC_033443.1 Wenzhou tombus-like virus 14 strain WZFSL15005 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM521-1000_47.0-ORF34
+seq176	>ref-NC_033435.1 Wenzhou tombus-like virus 1 strain WZFSL78713 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Tombusviridae-HMM8-497_66.0-ORF14
+seq177	>ref-NC_033434.1 Wenzhou tombus-like virus 8 strain beimix73523 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM453-948_48.0-ORF33
+seq178	>ref-NC_033420.1 Wenzhou tombus-like virus 4 strain shrimp14425 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Tombusviridae-HMM634-1104_40.0-ORF28
+seq179	>ref-NC_033429.1 Wenzhou tombus-like virus 12 strain WZFSL84432 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and hypothetical protein 4 genes, complete cds-table6-Tombusviridae-HMM190-565_65.0-ORF29
+seq180	>ref-NC_033440.1 Wenzhou tombus-like virus 10 strain WZFSL57346 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Tombusviridae-HMM163-591_67.0-ORF45
+seq181	>ref-NC_033441.1 Wenzhou tombus-like virus 7 strain WZFSL44625 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Tombusviridae-HMM383-870_55.0-ORF34
+seq182	>ref-NC_033433.1 Wenzhou tombus-like virus 3 strain WZFSL80503 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table4-Tombusviridae-HMM32-499_58.0-ORF21
+seq183	>ref-NC_033491.1 Wuhan insect virus 21 strain WHCCII13077 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM227-490_37.0-ORF22
+seq184	>ref-NC_033463.1 Wuhan insect virus 20 strain WHCCII13322 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM73-554_81.0-ORF33
+seq185	>ref-NC_033709.1 Wuhan spider virus 9 strain spider112003 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and hypothetical protein 4 genes, complete cds-table6-Tombusviridae-HMM130-570_64.0-ORF23
+seq186	>ref-NC_033749.1 Wuhan insect virus 35 strain WHCCII10556 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Tombusviridae-HMM118-435_57.0-ORF15
+seq187	>ref-NC_033711.1 Wuhan spider virus 8 strain spider134060 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and hypothetical protein 4 genes, complete cds-table4-Tombusviridae-HMM44-290_36.0-ORF45
+seq188	>ref-NC_033734.1 Xinzhou nematode virus 7 strain XZSJSC65582 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Tombusviridae-HMM193-632_66.0-ORF18
+seq189	>ref-NC_033777.1 Clematis chlorotic mottle virus, complete genome-table6-Tombusviridae-HMM245-744_52.0-ORF34
+seq190	>ref-NC_033815.1 Jingmen tombus-like virus 1 strain JMYJCC68055 hypothetical protein genes, complete cds-table6-Tombusviridae-HMM140-499_20.0-ORF65
+seq191	>ref-NC_034243.1 Ixeridium yellow mottle virus 2, complete genome-table6-Tombusviridae-HMM32-517_52.0-ORF37
+seq192	>ref-NC_034970.1 Peach associated luteovirus isolate Konela, complete genome-table6-Tombusviridae-HMM72-554_83.0-ORF30
+seq193	>ref-NC_035452.1 Rice virus A isolate SK, complete genome-table6-Tombusviridae-HMM321-792_53.0-ORF30
+seq194	>ref-NC_032807.1 Hubei tombus-like virus 22 strain QTM26784 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Tombusviridae-HMM178-601_59.0-ORF29
+seq195	>nrnt-KF214786 Papaya meleira virus hypothetical protein and RNA-dependent RNA polymerase genes, complete cds.-table6-Tombusviridae-HMM31-388_75.0-ORF25
+seq196	>nrnt-MG600130 Wenzhou tombus-like virus 1 strain RGYQSMGReov43160 hypothetical protein, RNA-dependent RNA polymerase, and hypothetical protein genes, complete cds.-table4-Tombusviridae-HMM222-581_45.0-ORF53
+seq197	>nrnt-KX883267 Wenzhou tombus-like virus 13 strain WZFSL80420 hypothetical protein 1 and hypothetical protein 2 genes, complete cds; and hypothetical protein 3 gene, partial cds.-table6-Tombusviridae-HMM374-832_51.0-ORF32
+seq198	>nrnt-KX883192 Hubei tombus-like virus 38 strain WGML123693 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds.-table6-Tombusviridae-HMM154-551_66.0-ORF29
+seq199	>nrnt-KX883142 Hubei odonate virus 12 strain QTM3271 hypothetical protein 1 and hypothetical protein 2 genes, complete cds.-table6-Tombusviridae-HMM262-514_33.0-ORF36
+seq200	>nrnt-KX883087 Changjiang tombus-like virus 13 strain CJLX26767 hypothetical protein 1 and hypothetical protein 2 genes, complete cds; and hypothetical protein 3 gene, partial cds.-table6-Tombusviridae-HMM289-771_56.0-ORF25
+seq201	>nrnt-KX883044 Beihai tombus-like virus 6 strain BHWZXX15351 hypothetical protein gene, partial cds.-table4-Tombusviridae-HMM247-710_62.0-ORF20
+seq202	>nrnt-KU754520 Corseley virus hypothetical protein 1, putative polymerase, and hypothetical protein 3 genes, complete cds.-table6-Tombusviridae-HMM447-839_45.0-ORF30
+seq203	>nrnt-KT598234 Soybean leaf-associated ssRNA virus 2 isolate SaSSRV2-1, partial sequence.-table6-Tombusviridae-HMM556-959_37.0-ORF27
+seq204	>nrnt-KT598231 Soybean leaf-associated ssRNA virus 1 isolate SaSSRV1-1, partial sequence.-table6-Tombusviridae-HMM412-862_48.0-ORF29
+seq205	>nrnt-KY563743 Verticillium dahliae RNA virus isolate V94 hypothetical protein and RNA-dependent RNA polymerase genes, complete cds.-table6-Tombusviridae-HMM306-777_57.0-ORF18
+seq206	>nrnt-KX792982 Statovirus D1 RdRp gene, partial cds.-table6-Tombusviridae-HMM248-507_41.0-ORF14
+seq207	>nrnt-KX792980 Statovirus B1 RdRp gene, partial cds; and coat protein gene, complete cds.-table4-Tombusviridae-HMM632-857_16.0-ORF14
+seq208	>nrnt-KX792979 Statovirus A4 RdRp and coat protein genes, complete cds.-table6-Tombusviridae-HMM686-921_16.0-ORF36
+seq209	>nrnt-KX580894 Renton virus ORF1 gene, partial cds; and RNA-dependent RNA polymerase, capsid protein, and ORF4 genes, complete cds.-table6-Tombusviridae-HMM91-521_68.0-ORF22
+seq210	>nrnt-KX580890 Pinela virus polyprotein gene, partial cds; and RNA-dependent RNA polymerase gene, complete cds.-table6-Tombusviridae-HMM76-483_71.0-ORF50
+seq211	>nrnt-KU754521 Tartou virus hypothetical protein 1 gene, complete cds.-table4-Tombusviridae-HMM117-405_55.0-ORF14
+seq212	>nrnt-KX235518 Diaphorina citri associated C virus isolate CA segment RNA1, complete sequence.-table4-Tombusviridae-HMM186-497_50.0-ORF23
+seq213	>nrnt-KT921785 Papaya meleira virus 2 hypothetical protein and RNA-dependent RNA polymerase (RdRp) genes, complete cds.-table6-Tombusviridae-HMM32-490_79.0-ORF26
+seq214	>nrnt-KP900898 Macrophomina phaseolina single-stranded RNA virus 3 isolate Et15 RNA-dependent RNA polymerase gene, partial cds.-table4-Tombusviridae-HMM27-420_72.0-ORF12
+seq215	>nrnt-KP714086 Dansoman virus segment 1 orf1 and putative replicase genes, complete cds.-table6-Tombusviridae-HMM325-609_36.0-ORF24
+seq216	>nrnt-KF510030 Tombunodavirus UC1 ORF1, ORF2, and ORF3 genes, complete cds.-table6-Tombusviridae-HMM339-816_57.0-ORF27
+seq217	>nrnt-JX101610 Citrus yellow vein-associated virus isolate YV920, complete genome.-table4-Tombusviridae-HMM38-514_83.0-ORF27
+seq218	>nrnt-KY753855 Saguaro cactus virus isolate kr, partial genome.-table6-Tombusviridae-HMM64-551_63.0-ORF23
+seq219	>nrnt-MF580384 Apple-associated luteovirus isolate A68, complete genome.-table6-Tombusviridae-HMM32-502_37.0-ORF50
+seq220	>nrnt-MG646922 Groundnut rosette virus isolate SRF57, complete genome.-table4-Tombusviridae-HMM55-545_53.0-ORF34
+seq221	>nrnt-KX897157 Jasmine virus H isolate Fujian, complete genome.-table6-Tombusviridae-HMM257-758_64.0-ORF24
+seq222	>nrnt-LC314589 Melon necrotic spot virus genomic RNA, complete genome, isolate: GS.-table6-Tombusviridae-HMM308-809_36.0-ORF46
+seq223	>nrnt-MF189995 Barns Ness breadcrumb sponge tombus-like virus 4 isolate N17, partial genome.-table6-Tombusviridae-HMM1-367_93.0-ORF13
+seq224	>nrnt-MF189994 Barns Ness breadcrumb sponge tombus-like virus 3 isolate D66, partial genome.-table4-Tombusviridae-HMM43-514_76.0-ORF22
+seq225	>nrnt-MF189993 Barns Ness breadcrumb sponge tombus-like virus 2 isolate H89, partial genome.-table6-Tombusviridae-HMM554-1005_42.0-ORF31
+seq226	>nrnt-MF189992 Barns Ness breadcrumb sponge tombus-like virus 1 isolate R71, partial genome.-table6-Tombusviridae-HMM891-1317_31.0-ORF28
+seq227	>nrnt-MF189981 Caledonia beadlet anemone tombus-like virus 1 isolate D78, partial genome.-table6-Tombusviridae-HMM487-876_42.0-ORF24
+seq228	>nrnt-KY124136 Melon necrotic spot virus strain MNSV/USA/MD/2012, complete genome.-table6-Tombusviridae-HMM300-801_58.0-ORF32
+seq229	>nrnt-LC171345 Adonis mosaic virus DNA, complete genome, isolate: HSP-2.-table6-Tombusviridae-HMM268-769_64.0-ORF28
+seq230	>nrnt-KX599174 Cowpea tombusvirid 1 isolate BE81 RNA-dependant RNA polymerase and coat protein genes, partial cds.-table1-Tombusviridae-HMM3-426_94.0-ORF17
+seq231	>nrnt-DQ367845 Sesame necrotic mosaic virus replicase and truncated replicase genes, partial cds; coat protein gene, complete cds; and protein 4 (p4) and protein 5 (p5) genes, partial cds.-table6-Tombusviridae-HMM42-515_49.0-ORF26
+seq232	>nrnt-AY007231 Tobacco mottle virus RNA-dependent RNA polymerase gene, partial cds; and long-distance movement protein and cell-to-cell movement protein genes, complete cds.-table6-Tombusviridae-HMM2-301_74.0-ORF17
+seq233	>nrnt-KP259608 Soybean yellow mottle mosaic virus isolate New Delhi, complete genome.-table6-Tombusviridae-HMM247-744_56.0-ORF28
+seq234	>nrnt-KP165407 Papaya umbra virus isolate Ec_12 RdRp gene, complete cds.-table4-Tombusviridae-HMM59-447_84.0-ORF27
+seq235	>nrnt-KJ786322 Soybean dwarf virus isolate W4, complete genome.-table6-Tombusviridae-HMM28-509_34.0-ORF50
+seq236	>nrnt-KC572000 Barley yellow dwarf virus Ker-II isolate K465, complete genome.-table6-Tombusviridae-HMM23-508_85.0-ORF38
+seq237	>nrnt-KC559092 Barley yellow dwarf virus Ker-III isolate K460 RNA-dependent RNA polymerase P1-P2 fusion (ORF1) and RNA-dependent RNA polymerase P1 (ORF1) genes, partial cds; and aphid transmission protein P5 (ORF3), coat protein P3 (ORF3), and movement protein P4 (ORF4) genes, complete cds.-table6-Tombusviridae-HMM21-507_85.0-ORF25
+seq238	>nrnt-JX879088 Melon necrotic spot virus strain Hyd, complete genome.-table6-Tombusviridae-HMM295-796_52.0-ORF30
+seq239	>nrnt-JQ288895 Olive mild mosaic virus RNA-dependent RNA polymerase and p23 genes, partial cds; p52, p8, and p6 genes, complete cds; and coat protein gene, partial cds.-table6-Tombusviridae-HMM21-520_93.0-ORF18
+seq240	>nrnt-JQ807998 Japanese iris necrotic ring virus isolate Marijiniup10, complete genome.-table6-Tombusviridae-HMM257-743_62.0-ORF26
+seq241	>nrnt-EU332335 Barley yellow dwarf virus-PAV isolate 06ZZ4 RNA-dependent RNA polymerase, P1, aphid transmission protein, coat protein, movement protein, and P6 genes, complete cds.-table4-Tombusviridae-HMM99-583_79.0-ORF32
+seq242	>nrnt-TNCPOLCOAT Tobacco necrosis virus (Nebraska) RNA-dependent RNA polymerase gene, 3' end p10.7, p6.2 and coat protein genes, complete cds.-table4-Tombusviridae-HMM5-72_68.0-ORF2
+seq243	>nrnt-AB033715 Dianthovirus RVX1 ORF1, ORF2, ORF3, ORF4, ORF5 genes for 35 kDa protein, 54 kDa protein, 15 kDa protein, 28 kDa protein, 33 kDa protein, complete cds.-table4-Tombusviridae-HMM79-563_81.0-ORF26
+seq244	>tsa-GAUV02020505.1 (REVERSE SENSE) TSA: Acanthosoma haemorrhoidale C88754_a_3_0_l_1396 transcribed RNA sequence-table4-Tombusviridae-HMM220-464_52.0-ORF39
+seq245	>tsa-GFAL01046423.1 TSA: Allium chinense c94570_g1 transcribed RNA sequence-table6-Tombusviridae-HMM29-494_72.0-ORF28
+seq246	>tsa-GAFD01017573.1 TSA: Anolis carolinensis a42788 mRNA sequence-table6-Tombusviridae-HMM95-495_70.0-ORF35
+seq247	>tsa-GAFN01030595.1 TSA: Anolis carolinensis comp5517_c0_seq1 mRNA sequence-table6-Tombusviridae-HMM95-495_70.0-ORF35
+seq248	>tsa-GAFZ01246985.1 TSA: Anolis carolinensis comp17429_c0_seq1 transcribed RNA sequence-table6-Tombusviridae-HMM12-411_82.0-ORF19
+seq249	>tsa-GBBS01030662.1 TSA: Anolis carolinensis comp5517_c0_seq1 transcribed RNA sequence-table6-Tombusviridae-HMM95-495_70.0-ORF35
+seq250	>tsa-GBDE01247196.1 TSA: Anolis carolinensis comp17429_c0_seq1 transcribed RNA sequence-table6-Tombusviridae-HMM12-411_82.0-ORF19
+seq251	>tsa-GALX01005074.1 TSA: Anoplophora glabripennis comp35259_c0_seq1 transcribed RNA sequence-table6-Tombusviridae-HMM89-530_65.0-ORF22
+seq252	>tsa-GALX01005075.1 TSA: Anoplophora glabripennis comp35259_c0_seq2 transcribed RNA sequence-table6-Tombusviridae-HMM10-448_73.0-ORF16
+seq253	>tsa-GBAQ01007706.1 TSA: Aplysia californica comp40124_c0_seq1 transcribed RNA sequence-table1-Tombusviridae-HMM6-122_92.0-ORF4
+seq254	>tsa-GBAQ01056718.1 TSA: Aplysia californica comp51608_c0_seq1 transcribed RNA sequence-table1-Tombusviridae-HMM74-312_76.0-ORF11
+seq255	>tsa-GDQV01096552.1 TSA: Arachnocampa luminosa Alum63544_c0_seq2 transcribed RNA sequence-table4-Tombusviridae-HMM85-390_78.0-ORF23
+seq256	>tsa-GCKF01007904.1 TSA: Araucaria cunninghamii Ref_Hoop_Pine_Transcript_9021_273 transcribed RNA sequence-table1-Tombusviridae-HMM3-80_85.0-ORF2
+seq257	>tsa-GCKF01061662.1 (REVERSE SENSE) TSA: Araucaria cunninghamii Ref_Hoop_Pine_Transcript_67913_202 transcribed RNA sequence-table1-Tombusviridae-HMM2-66_95.0-ORF4
+seq258	>tsa-GCKF01062770.1 (REVERSE SENSE) TSA: Araucaria cunninghamii Ref_Hoop_Pine_Transcript_69222_454 transcribed RNA sequence-table1-Tombusviridae-HMM6-148_94.0-ORF16
+seq259	>tsa-GCKF01065789.1 TSA: Araucaria cunninghamii Ref_Hoop_Pine_Transcript_72704_232 transcribed RNA sequence-table1-Tombusviridae-HMM6-71_84.0-ORF3
+seq260	>tsa-GAYJ02032904.1 (REVERSE SENSE) TSA: Atelura formicaria C263383_a_42_0_l_2190 transcribed RNA sequence-table6-Tombusviridae-HMM107-425_54.0-ORF48
+seq261	>tsa-GAKB01000739.1 TSA: Bactrocera oleae contig00737 transcribed RNA sequence-table6-Tombusviridae-HMM100-425_61.0-ORF12
+seq262	>tsa-GAZU01004632.1 (REVERSE SENSE) TSA: Brachycistis timberlakei comp6329_c0_seq1 transcribed RNA sequence-table6-Tombusviridae-HMM84-451_67.0-ORF65
+seq263	>tsa-GAZU01010951.1 (REVERSE SENSE) TSA: Brachycistis timberlakei comp10866_c1_seq1 transcribed RNA sequence-table1-Tombusviridae-HMM2-79_96.0-ORF5
+seq264	>tsa-GAZU01042561.1 (REVERSE SENSE) TSA: Brachycistis timberlakei comp52098_c0_seq1 transcribed RNA sequence-table4-Tombusviridae-HMM55-197_72.0-ORF12
+seq265	>tsa-GBMS01023368.1 TSA: Brachygaster minutus s12096_L_22472_0_a_3_8_l_1255 transcribed RNA sequence-table4-Tombusviridae-HMM91-195_38.0-ORF8
+seq266	>tsa-GDFQ01020179.1 (REVERSE SENSE) TSA: Brassica napus comp36009_c0_seq1 transcribed RNA sequence-table1-Tombusviridae-HMM1-71_97.0-ORF5
+seq267	>tsa-GDFQ01058673.1 TSA: Brassica napus comp59340_c0_seq1 transcribed RNA sequence-table6-Tombusviridae-HMM2-267_73.0-ORF13
+seq268	>tsa-GDFQ01058674.1 (REVERSE SENSE) TSA: Brassica napus comp59340_c1_seq1 transcribed RNA sequence-table6-Tombusviridae-HMM8-194_43.0-ORF30
+seq269	>tsa-GDFQ01084724.1 (REVERSE SENSE) TSA: Brassica napus comp65629_c0_seq4 transcribed RNA sequence-table6-Tombusviridae-HMM247-710_55.0-ORF51
+seq270	>tsa-GEID01195607.1 (REVERSE SENSE) TSA: Callinectes sapidus C_sapidus_gill_comp103540_c0_seq1 transcribed RNA sequence-table6-Tombusviridae-HMM1-200_85.0-ORF15
+seq271	>tsa-GFTL01030852.1 (REVERSE SENSE) TSA: Carya illinoinensis comp86722_c0_seq1 transcribed RNA sequence-table1-Tombusviridae-HMM5-72_91.0-ORF10
+seq272	>tsa-GFTL01036584.1 (REVERSE SENSE) TSA: Carya illinoinensis comp32791_c1_seq2 transcribed RNA sequence-table1-Tombusviridae-HMM49-352_86.0-ORF27
+seq273	>tsa-GFTL01049243.1 (REVERSE SENSE) TSA: Carya illinoinensis comp5842_c0_seq1 transcribed RNA sequence-table4-Tombusviridae-HMM54-186_70.0-ORF16
+seq274	>tsa-GFTL01078637.1 (REVERSE SENSE) TSA: Carya illinoinensis comp71987_c0_seq1 transcribed RNA sequence-table1-Tombusviridae-HMM2-87_97.0-ORF12
+seq275	>tsa-GFTL01086536.1 (REVERSE SENSE) TSA: Carya illinoinensis comp32791_c0_seq1 transcribed RNA sequence-table1-Tombusviridae-HMM1-79_95.0-ORF7
+seq276	>tsa-GFTL01098167.1 (REVERSE SENSE) TSA: Carya illinoinensis comp64055_c0_seq1 transcribed RNA sequence-table6-Tombusviridae-HMM1-104_66.0-ORF20
+seq277	>tsa-GFTL01101256.1 (REVERSE SENSE) TSA: Carya illinoinensis comp127497_c0_seq1 transcribed RNA sequence-table1-Tombusviridae-HMM2-79_97.0-ORF7
+seq278	>tsa-GFTL01106994.1 (REVERSE SENSE) TSA: Carya illinoinensis comp116546_c0_seq1 transcribed RNA sequence-table1-Tombusviridae-HMM2-88_97.0-ORF9
+seq279	>tsa-GFTL01127788.1 (REVERSE SENSE) TSA: Carya illinoinensis comp32791_c1_seq1 transcribed RNA sequence-table1-Tombusviridae-HMM54-357_84.0-ORF28
+seq280	>tsa-GFTL01129988.1 (REVERSE SENSE) TSA: Carya illinoinensis comp33179_c1_seq1 transcribed RNA sequence-table6-Tombusviridae-HMM2-307_84.0-ORF29
+seq281	>tsa-GAUN02028912.1 TSA: Cercopis vulnerata s3324_L_5203_1_a_62_7_l_5369 transcribed RNA sequence-table6-Tombusviridae-HMM89-437_63.0-ORF52
+seq282	>tsa-GAXL01049501.1 TSA: Chyphotes mellipes comp60082_c0_seq1 transcribed RNA sequence-table1-Tombusviridae-HMM1-73_97.0-ORF4
+seq283	>tsa-GADH01009088.1 TSA: Corydalinae sp. KMRSPBM-2012 contig09879 mRNA sequence-table6-Tombusviridae-HMM6-216_85.0-ORF8
+seq284	>tsa-GADH01011294.1 (REVERSE SENSE) TSA: Corydalinae sp. KMRSPBM-2012 contig12246 mRNA sequence-table6-Tombusviridae-HMM10-218_90.0-ORF17
+seq285	>tsa-HAGZ01003353.1 TSA: Craterolophus convolvulus, contig Convo_TRINITY_DN9212_c0_g1_i2, transcribed RNA sequence-table6-Tombusviridae-HMM108-472_60.0-ORF28
+seq286	>tsa-GADR01005246.1 (REVERSE SENSE) TSA: Drosophila pseudoananassae nigrens 392088 mRNA sequence-table1-Tombusviridae-HMM1-186_91.0-ORF14
+seq287	>tsa-GADR01005481.1 (REVERSE SENSE) TSA: Drosophila pseudoananassae nigrens 409924 mRNA sequence-table1-Tombusviridae-HMM3-91_95.0-ORF8
+seq288	>tsa-GENH01018760.1 TSA: Dryadaula visaliella k52_507025 transcribed RNA sequence-table4-Tombusviridae-HMM92-195_47.0-ORF14
+seq289	>tsa-GENH01023779.1 TSA: Dryadaula visaliella k52_520680 transcribed RNA sequence-table4-Tombusviridae-HMM92-195_47.0-ORF13
+seq290	>tsa-GENH01028350.1 (REVERSE SENSE) TSA: Dryadaula visaliella k54_298823 transcribed RNA sequence-table6-Tombusviridae-HMM21-126_77.0-ORF24
+seq291	>tsa-GENH01035185.1 TSA: Dryadaula visaliella k56_339397 transcribed RNA sequence-table6-Tombusviridae-HMM21-126_77.0-ORF7
+seq292	>tsa-GENH01085789.1 (REVERSE SENSE) TSA: Dryadaula visaliella k66_587547 transcribed RNA sequence-table4-Tombusviridae-HMM92-195_47.0-ORF60
+seq293	>tsa-GENH01095753.1 (REVERSE SENSE) TSA: Dryadaula visaliella k68_539719 transcribed RNA sequence-table6-Tombusviridae-HMM21-126_77.0-ORF21
+seq294	>tsa-GENH01107463.1 (REVERSE SENSE) TSA: Dryadaula visaliella k72_451841 transcribed RNA sequence-table6-Tombusviridae-HMM21-126_77.0-ORF18
+seq295	>tsa-GEOD01041212.1 TSA: Dryadaula visaliella c37782_g1_i1 transcribed RNA sequence-table6-Tombusviridae-HMM21-126_77.0-ORF7
+seq296	>tsa-GEOD01067914.1 TSA: Dryadaula visaliella c41381_g2_i6 transcribed RNA sequence-table4-Tombusviridae-HMM92-195_47.0-ORF18
+seq297	>tsa-GEOD01067916.1 TSA: Dryadaula visaliella c41381_g2_i8 transcribed RNA sequence-table6-Tombusviridae-HMM99-195_44.0-ORF13
+seq298	>tsa-GEOD01067917.1 TSA: Dryadaula visaliella c41381_g2_i9 transcribed RNA sequence-table4-Tombusviridae-HMM92-195_47.0-ORF18
+seq299	>tsa-GEOD01068350.1 (REVERSE SENSE) TSA: Dryadaula visaliella c41410_g2_i1 transcribed RNA sequence-table6-Tombusviridae-HMM87-252_60.0-ORF22
+seq300	>tsa-GBRW01030946.1 (REVERSE SENSE) TSA: Elysia cornigera Eco053378_seq1 transcribed RNA sequence-table6-Tombusviridae-HMM19-421_63.0-ORF39
+seq301	>tsa-GDCY01031425.1 TSA: Endophyte metagenome, transcribed RNA sequence-table4-Tombusviridae-HMM2-304_91.0-ORF9
+seq302	>tsa-GBYD01011799.1 TSA: Euwallacea fornicatus comp29189_c0_seq1 transcribed RNA sequence-table1-Tombusviridae-HMM2-178_98.0-ORF4
+seq303	>tsa-GBYD01011800.1 (REVERSE SENSE) TSA: Euwallacea fornicatus comp29189_c1_seq1 transcribed RNA sequence-table1-Tombusviridae-HMM18-217_91.0-ORF22
+seq304	>tsa-GBYD01039488.1 TSA: Euwallacea fornicatus comp36260_c0_seq1 transcribed RNA sequence-table1-Tombusviridae-HMM44-244_81.0-ORF5
+seq305	>tsa-GBYD01090692.1 (REVERSE SENSE) TSA: Euwallacea fornicatus comp21094_c0_seq1 transcribed RNA sequence-table1-Tombusviridae-HMM9-184_84.0-ORF16
+seq306	>tsa-GAWG01012535.1 (REVERSE SENSE) TSA: Extatosoma tiaratum comp39421_c0_seq1 transcribed RNA sequence-table4-Tombusviridae-HMM533-807_23.0-ORF99
+seq307	>tsa-GAWG01012536.1 (REVERSE SENSE) TSA: Extatosoma tiaratum comp39421_c0_seq2 transcribed RNA sequence-table4-Tombusviridae-HMM533-807_23.0-ORF87
+seq308	>tsa-GAYT01018543.1 TSA: Ficus carica GLN2OWZ01BS82W transcribed RNA sequence-table4-Tombusviridae-HMM31-155_80.0-ORF5
+seq309	>tsa-GAYT01024913.1 TSA: Ficus carica GLN2OWZ02DL7ZH transcribed RNA sequence-table1-Tombusviridae-HMM1-71_97.0-ORF2
+seq310	>tsa-GAYT01043759.1 (REVERSE SENSE) TSA: Ficus carica GMFT9DJ07H2VEC transcribed RNA sequence-table6-Tombusviridae-HMM27-81_62.0-ORF9
+seq311	>tsa-GAYT01044519.1 (REVERSE SENSE) TSA: Ficus carica GMFT9DJ07H1MWS transcribed RNA sequence-table1-Tombusviridae-HMM1-77_97.0-ORF5
+seq312	>tsa-GEWS01001274.1 TSA: Helianthus niveus Controltranscript1274 transcribed RNA sequence-table6-Tombusviridae-HMM300-774_60.0-ORF20
+seq313	>tsa-GEWS01001275.1 TSA: Helianthus niveus Controltranscript1275 transcribed RNA sequence-table6-Tombusviridae-HMM300-774_56.0-ORF23
+seq314	>tsa-GEWS01001276.1 TSA: Helianthus niveus Controltranscript1276 transcribed RNA sequence-table6-Tombusviridae-HMM300-774_56.0-ORF21
+seq315	>tsa-GEWS01001277.1 TSA: Helianthus niveus Controltranscript1277 transcribed RNA sequence-table6-Tombusviridae-HMM300-774_56.0-ORF22
+seq316	>tsa-GEWS01001278.1 TSA: Helianthus niveus Controltranscript1278 transcribed RNA sequence-table6-Tombusviridae-HMM300-774_56.0-ORF22
+seq317	>tsa-GEWS01001279.1 TSA: Helianthus niveus Controltranscript1279 transcribed RNA sequence-table6-Tombusviridae-HMM300-774_56.0-ORF23
+seq318	>tsa-GEWS01001280.1 TSA: Helianthus niveus Controltranscript1280 transcribed RNA sequence-table6-Tombusviridae-HMM300-774_56.0-ORF22
+seq319	>tsa-GEWS01061806.1 (REVERSE SENSE) TSA: Helianthus niveus Sampletranscript18624 transcribed RNA sequence-table1-Tombusviridae-HMM98-227_56.0-ORF19
+seq320	>tsa-HADG01009525.1 TSA: Heterorhabditis indica, isolate Gzb, contig Hindica_14652, transcribed RNA sequence-table6-Tombusviridae-HMM230-619_52.0-ORF20
+seq321	>tsa-GDUH01012470.1 (REVERSE SENSE) TSA: insect metagenome unigene_9826869 transcribed RNA sequence-table4-Tombusviridae-HMM114-582_74.0-ORF58
+seq322	>tsa-GEEF01000487.1 (REVERSE SENSE) TSA: Leptinotarsa decemlineata comp5648_c0_seq1 transcribed RNA sequence-table1-Tombusviridae-HMM2-207_99.0-ORF15
+seq323	>tsa-GEEF01021973.1 (REVERSE SENSE) TSA: Leptinotarsa decemlineata comp74537_c0_seq1 transcribed RNA sequence-table1-Tombusviridae-HMM64-213_69.0-ORF19
+seq324	>tsa-GEEF01175258.1 TSA: Leptinotarsa decemlineata comp126418_c0_seq1 transcribed RNA sequence-table1-Tombusviridae-HMM16-92_72.0-ORF3
+seq325	>tsa-GAYX01044685.1 (REVERSE SENSE) TSA: Lolium perenne comp28375_c0_seq2 transcribed RNA sequence-table4-Tombusviridae-HMM94-575_80.0-ORF103
+seq326	>tsa-GAYX01047757.1 TSA: Lolium perenne comp29227_c0_seq1 transcribed RNA sequence-table4-Tombusviridae-HMM94-575_80.0-ORF28
+seq327	>tsa-GBHO01016499.1 TSA: Lygus hesperus comp17372_c0_seq1 transcribed RNA sequence-table6-Tombusviridae-HMM290-728_57.0-ORF22
+seq328	>tsa-GBRD01006680.1 TSA: Lygus hesperus comp27001_c0_seq1 transcribed RNA sequence-table6-Tombusviridae-HMM293-731_55.0-ORF22
+seq329	>tsa-GDAW01049729.1 TSA: Lygus lineolaris c47064_g1_i1 transcribed RNA sequence-table1-Tombusviridae-HMM1-246_98.0-ORF9
+seq330	>tsa-GBOK01018548.1 (REVERSE SENSE) TSA: Meria tripunctata s11487_L_5744_0_a_68_9_l_2434 transcribed RNA sequence-table4-Tombusviridae-HMM207-518_50.0-ORF67
+seq331	>tsa-GBOK01018549.1 (REVERSE SENSE) TSA: Meria tripunctata s11488_L_5744_1_a_66_7_l_2344 transcribed RNA sequence-table6-Tombusviridae-HMM198-509_50.0-ORF53
+seq332	>tsa-GBOK01018550.1 (REVERSE SENSE) TSA: Meria tripunctata s11489_L_5744_2_a_68_9_l_2434 transcribed RNA sequence-table4-Tombusviridae-HMM207-519_50.0-ORF66
+seq333	>tsa-GEMC01039803.1 TSA: Nasturtium officinale c34822_g1_i1 transcribed RNA sequence-table6-Tombusviridae-HMM343-817_56.0-ORF29
+seq334	>tsa-GEMC01055756.1 TSA: Nasturtium officinale c38401_g2_i1 transcribed RNA sequence-table6-Tombusviridae-HMM232-739_62.0-ORF27
+seq335	>tsa-GASV02003997.1 TSA: Notostira elongata C46324_a_3_0_l_237 transcribed RNA sequence-table1-Tombusviridae-HMM5-74_88.0-ORF2
+seq336	>tsa-GASV02021598.1 (REVERSE SENSE) TSA: Notostira elongata s2186_L_2942_0_a_32_9_l_2975 transcribed RNA sequence-table6-Tombusviridae-HMM372-801_43.0-ORF68
+seq337	>tsa-GENQ01056059.1 TSA: Ophryotrocha diadema FC_dicembre2013_draft_s56201 transcribed RNA sequence-table6-Tombusviridae-HMM6-76_56.0-ORF2
+seq338	>tsa-GBYS01013288.1 TSA: Oryza meyeriana contig_86614 transcribed RNA sequence-table4-Tombusviridae-HMM214-541_60.0-ORF14
+seq339	>tsa-GBYS01102416.1 TSA: Oryza meyeriana contig_155245 transcribed RNA sequence-table1-Tombusviridae-HMM1-130_89.0-ORF5
+seq340	>tsa-GAVD01019588.1 (REVERSE SENSE) TSA: Ostrinia nubilalis comp26355_c0_seq1 transcribed RNA sequence-table4-Tombusviridae-HMM103-441_60.0-ORF63
+seq341	>tsa-GBLU01012511.1 (REVERSE SENSE) TSA: Oxybelus bipunctatus C92647_a_13_0_l_1415 transcribed RNA sequence-table6-Tombusviridae-HMM24-340_67.0-ORF26
+seq342	>tsa-GBLU01014462.1 (REVERSE SENSE) TSA: Oxybelus bipunctatus s1763_L_2060_0_a_34_1_l_1993 transcribed RNA sequence-table6-Tombusviridae-HMM106-498_70.0-ORF41
+seq343	>tsa-GBLU01014463.1 (REVERSE SENSE) TSA: Oxybelus bipunctatus s1764_L_2060_1_a_39_1_l_1904 transcribed RNA sequence-table6-Tombusviridae-HMM106-497_73.0-ORF37
+seq344	>tsa-GBLU01014925.1 TSA: Oxybelus bipunctatus s2184_L_2609_0_a_18_9_l_914 transcribed RNA sequence-table1-Tombusviridae-HMM6-247_79.0-ORF12
+seq345	>tsa-GBLU01016562.1 (REVERSE SENSE) TSA: Oxybelus bipunctatus s3663_L_5127_0_a_12_5_l_570 transcribed RNA sequence-table1-Tombusviridae-HMM2-174_91.0-ORF16
+seq346	>tsa-GALN01000106.1 (REVERSE SENSE) TSA: Persicaria minor PMT0000000106 transcribed RNA sequence-table6-Tombusviridae-HMM44-295_82.0-ORF45
+seq347	>tsa-GALN01009137.1 (REVERSE SENSE) TSA: Persicaria minor PMT0000010668 transcribed RNA sequence-table4-Tombusviridae-HMM2-56_67.0-ORF5
+seq348	>tsa-GALN01012569.1 TSA: Persicaria minor PMT0000014634 transcribed RNA sequence-table1-Tombusviridae-HMM1-99_92.0-ORF5
+seq349	>tsa-GALN01020191.1 TSA: Persicaria minor PMT0000023747 transcribed RNA sequence-table4-Tombusviridae-HMM1-76_82.0-ORF4
+seq350	>tsa-GALN01031802.1 TSA: Persicaria minor PMT0000037847 transcribed RNA sequence-table1-Tombusviridae-HMM1-89_83.0-ORF6
+seq351	>tsa-GALN01035445.1 TSA: Persicaria minor PMT0000042227 transcribed RNA sequence-table6-Tombusviridae-HMM1-122_81.0-ORF8
+seq352	>tsa-GALN01051258.1 TSA: Persicaria minor PMT0000060997 transcribed RNA sequence-table6-Tombusviridae-HMM3-83_91.0-ORF2
+seq353	>tsa-GALN01054946.1 TSA: Persicaria minor PMT0000065149 transcribed RNA sequence-table1-Tombusviridae-HMM2-64_86.0-ORF3
+seq354	>tsa-GALN01066338.1 (REVERSE SENSE) TSA: Persicaria minor PMT0000078043 transcribed RNA sequence-table4-Tombusviridae-HMM6-86_61.0-ORF12
+seq355	>tsa-GALN01072088.1 TSA: Persicaria minor PMT0000084676 transcribed RNA sequence-table1-Tombusviridae-HMM5-126_96.0-ORF5
+seq356	>tsa-GALN01073387.1 TSA: Persicaria minor PMT0000086199 transcribed RNA sequence-table6-Tombusviridae-HMM25-132_65.0-ORF6
+seq357	>tsa-GALN01077171.1 (REVERSE SENSE) TSA: Persicaria minor PMT0000090536 transcribed RNA sequence-table6-Tombusviridae-HMM47-131_64.0-ORF9
+seq358	>tsa-GALN01098834.1 TSA: Persicaria minor PMT0000115378 transcribed RNA sequence-table1-Tombusviridae-HMM2-176_98.0-ORF6
+seq359	>tsa-GALN01102613.1 (REVERSE SENSE) TSA: Persicaria minor PMT0000119719 transcribed RNA sequence-table6-Tombusviridae-HMM19-71_71.0-ORF9
+seq360	>tsa-GALN01107410.1 TSA: Persicaria minor PMT0000125192 transcribed RNA sequence-table1-Tombusviridae-HMM7-71_85.0-ORF3
+seq361	>tsa-GALN01109627.1 (REVERSE SENSE) TSA: Persicaria minor PMT0000127699 transcribed RNA sequence-table4-Tombusviridae-HMM58-124_52.0-ORF10
+seq362	>tsa-GALN01140782.1 TSA: Persicaria minor PMT0000162720 transcribed RNA sequence-table4-Tombusviridae-HMM4-95_82.0-ORF3
+seq363	>tsa-GALN01143096.1 (REVERSE SENSE) TSA: Persicaria minor PMT0000165301 transcribed RNA sequence-table6-Tombusviridae-HMM16-123_86.0-ORF10
+seq364	>tsa-GALN01146381.1 (REVERSE SENSE) TSA: Persicaria minor PMT0000168953 transcribed RNA sequence-table4-Tombusviridae-HMM21-100_79.0-ORF13
+seq365	>tsa-GALN01146499.1 (REVERSE SENSE) TSA: Persicaria minor PMT0000169087 transcribed RNA sequence-table6-Tombusviridae-HMM32-126_73.0-ORF9
+seq366	>tsa-GALN01173260.1 (REVERSE SENSE) TSA: Persicaria minor PMT0000199110 transcribed RNA sequence-table6-Tombusviridae-HMM8-92_88.0-ORF7
+seq367	>tsa-GALN01192438.1 TSA: Persicaria minor PMT0000221018 transcribed RNA sequence-table6-Tombusviridae-HMM16-94_76.0-ORF3
+seq368	>tsa-GALN01196507.1 TSA: Persicaria minor PMT0000225643 transcribed RNA sequence-table6-Tombusviridae-HMM51-108_50.0-ORF4
+seq369	>tsa-GALN01196646.1 TSA: Persicaria minor PMT0000225796 transcribed RNA sequence-table6-Tombusviridae-HMM3-124_96.0-ORF5
+seq370	>tsa-GALN01202679.1 TSA: Persicaria minor PMT0000232567 transcribed RNA sequence-table6-Tombusviridae-HMM5-82_60.0-ORF3
+seq371	>tsa-GALN01204461.1 (REVERSE SENSE) TSA: Persicaria minor PMT0000234577 transcribed RNA sequence-table6-Tombusviridae-HMM12-140_91.0-ORF10
+seq372	>tsa-GALN01204984.1 (REVERSE SENSE) TSA: Persicaria minor PMT0000235152 transcribed RNA sequence-table1-Tombusviridae-HMM1-53_86.0-ORF9
+seq373	>tsa-GALN01206241.1 (REVERSE SENSE) TSA: Persicaria minor PMT0000236583 transcribed RNA sequence-table4-Tombusviridae-HMM38-110_64.0-ORF12
+seq374	>tsa-GALN01216936.1 (REVERSE SENSE) TSA: Persicaria minor PMT0000248744 transcribed RNA sequence-table6-Tombusviridae-HMM50-119_57.0-ORF8
+seq375	>tsa-GALN01224706.1 TSA: Persicaria minor PMT0000257596 transcribed RNA sequence-table6-Tombusviridae-HMM3-121_95.0-ORF5
+seq376	>tsa-GALN01229863.1 (REVERSE SENSE) TSA: Persicaria minor PMT0000263457 transcribed RNA sequence-table6-Tombusviridae-HMM5-79_71.0-ORF10
+seq377	>tsa-GALN01230878.1 TSA: Persicaria minor PMT0000264607 transcribed RNA sequence-table6-Tombusviridae-HMM26-65_56.0-ORF4
+seq378	>tsa-GALN01231791.1 TSA: Persicaria minor PMT0000265646 transcribed RNA sequence-table6-Tombusviridae-HMM3-113_92.0-ORF4
+seq379	>tsa-GALN01240319.1 (REVERSE SENSE) TSA: Persicaria minor PMT0000275370 transcribed RNA sequence-table6-Tombusviridae-HMM12-88_54.0-ORF12
+seq380	>tsa-GALN01240451.1 (REVERSE SENSE) TSA: Persicaria minor PMT0000275570 transcribed RNA sequence-table4-Tombusviridae-HMM44-82_32.0-ORF12
+seq381	>tsa-GALN01248344.1 TSA: Persicaria minor PMT0000286886 transcribed RNA sequence-table6-Tombusviridae-HMM7-50_57.0-ORF2
+seq382	>tsa-GALN01292622.1 TSA: Persicaria minor PMT0000339217 transcribed RNA sequence-table4-Tombusviridae-HMM73-123_38.0-ORF3
+seq383	>tsa-GALN01295369.1 TSA: Persicaria minor PMT0000342628 transcribed RNA sequence-table6-Tombusviridae-HMM5-46_56.0-ORF3
+seq384	>tsa-GCJZ01025803.1 TSA: Persicaria minor c36532_g1_i1 transcribed RNA sequence-table1-Tombusviridae-HMM1-66_90.0-ORF5
+seq385	>tsa-GCJZ01159753.1 (REVERSE SENSE) TSA: Persicaria minor c58149_g1_i1 transcribed RNA sequence-table1-Tombusviridae-HMM2-200_98.0-ORF20
+seq386	>tsa-GCJZ01159754.1 TSA: Persicaria minor c58149_g2_i1 transcribed RNA sequence-table6-Tombusviridae-HMM254-358_28.0-ORF13
+seq387	>tsa-GCJZ01159755.1 TSA: Persicaria minor c58149_g3_i1 transcribed RNA sequence-table4-Tombusviridae-HMM6-115_47.0-ORF13
+seq388	>tsa-GEFX01060902.1 TSA: Persicaria minor comp57751_c0_seq1 transcribed RNA sequence-table6-Tombusviridae-HMM256-751_64.0-ORF24
+seq389	>tsa-GEOW01009589.1 TSA: Photinus pyralis TR4783_c1_g1_i1 transcribed RNA sequence-table1-Tombusviridae-HMM2-260_87.0-ORF9
+seq390	>tsa-GEOW01086872.1 TSA: Photinus pyralis TR46128_c1_g2_i1 transcribed RNA sequence-table1-Tombusviridae-HMM10-123_91.0-ORF5
+seq391	>tsa-GEOW01086877.1 TSA: Photinus pyralis TR46128_c1_g6_i1 transcribed RNA sequence-table1-Tombusviridae-HMM5-88_94.0-ORF4
+seq392	>tsa-GEOW01086879.1 TSA: Photinus pyralis TR46128_c1_g8_i1 transcribed RNA sequence-table1-Tombusviridae-HMM15-100_85.0-ORF4
+seq393	>tsa-GEOW01086882.1 TSA: Photinus pyralis TR46128_c1_g11_i1 transcribed RNA sequence-table1-Tombusviridae-HMM1-78_98.0-ORF4
+seq394	>tsa-GEOW01086887.1 TSA: Photinus pyralis TR46128_c1_g16_i1 transcribed RNA sequence-table1-Tombusviridae-HMM2-200_75.0-ORF6
+seq395	>tsa-GEOW01086892.1 TSA: Photinus pyralis TR46128_c1_g18_i1 transcribed RNA sequence-table1-Tombusviridae-HMM15-100_85.0-ORF5
+seq396	>tsa-GEOW01086893.1 TSA: Photinus pyralis TR46128_c1_g19_i1 transcribed RNA sequence-table1-Tombusviridae-HMM15-100_85.0-ORF5
+seq397	>tsa-GEOW01086894.1 TSA: Photinus pyralis TR46128_c1_g20_i1 transcribed RNA sequence-table1-Tombusviridae-HMM10-123_91.0-ORF5
+seq398	>tsa-GEOW01087507.1 TSA: Photinus pyralis TR46153_c4_g4_i1 transcribed RNA sequence-table6-Tombusviridae-HMM77-453_66.0-ORF17
+seq399	>tsa-GEOW01087509.1 TSA: Photinus pyralis TR46153_c4_g4_i3 transcribed RNA sequence-table1-Tombusviridae-HMM77-233_66.0-ORF7
+seq400	>tsa-GEOW01087510.1 TSA: Photinus pyralis TR46153_c4_g4_i4 transcribed RNA sequence-table1-Tombusviridae-HMM77-173_54.0-ORF6
+seq401	>tsa-GEOW01126637.1 TSA: Photinus pyralis TR65266_c0_g1_i1 transcribed RNA sequence-table6-Tombusviridae-HMM9-339_68.0-ORF10
+seq402	>tsa-GEOW01129275.1 TSA: Photinus pyralis TR67068_c0_g1_i1 transcribed RNA sequence-table1-Tombusviridae-HMM11-96_87.0-ORF3
+seq403	>tsa-GEOW01151320.1 TSA: Photinus pyralis TR79388_c0_g1_i1 transcribed RNA sequence-table1-Tombusviridae-HMM9-108_91.0-ORF3
+seq404	>tsa-GEOW01155598.1 TSA: Photinus pyralis TR82039_c0_g1_i1 transcribed RNA sequence-table1-Tombusviridae-HMM2-125_97.0-ORF4
+seq405	>tsa-GEXJ01000774.1 TSA: Phragmites australis Phco-d_40467 transcribed RNA sequence-table1-Tombusviridae-HMM1-70_97.0-ORF4
+seq406	>tsa-GEXJ01068213.1 TSA: Phragmites australis Phco-d_80485 transcribed RNA sequence-table1-Tombusviridae-HMM1-72_97.0-ORF2
+seq407	>tsa-GEBH01017200.1 TSA: Poa pratensis IXRNA007_contig_17574 transcribed RNA sequence-table6-Tombusviridae-HMM112-576_76.0-ORF28
+seq408	>tsa-GBPX01000993.1 (REVERSE SENSE) TSA: Podalonia hirsuta C106997_a_18_0_l_2167 transcribed RNA sequence-table6-Tombusviridae-HMM92-438_63.0-ORF50
+seq409	>tsa-GFUB01026417.1 (REVERSE SENSE) TSA: Podisus maculiventris TRINITY_DN34459_c0_g1_i1 transcribed RNA sequence-table4-Tombusviridae-HMM6-171_83.0-ORF14
+seq410	>tsa-GFUB01026418.1 (REVERSE SENSE) TSA: Podisus maculiventris TRINITY_DN34459_c0_g2_i1 transcribed RNA sequence-table4-Tombusviridae-HMM6-171_83.0-ORF17
+seq411	>tsa-GEHP01122030.1 (REVERSE SENSE) TSA: Porites astreoides TR88182_c1_g1_i1 transcribed RNA sequence-table6-Tombusviridae-HMM112-524_69.0-ORF48
+seq412	>tsa-GDRW01018201.1 TSA: Priapulus caudatus m.35197 transcribed RNA sequence-table1-Tombusviridae-HMM14-105_85.0-ORF4
+seq413	>tsa-GDRW01018202.1 TSA: Priapulus caudatus m.35198 transcribed RNA sequence-table1-Tombusviridae-HMM24-228_89.0-ORF9
+seq414	>tsa-GDRW01018204.1 TSA: Priapulus caudatus m.35201 transcribed RNA sequence-table1-Tombusviridae-HMM24-212_87.0-ORF9
+seq415	>tsa-HAER01062223.1 TSA: Proasellus cantabricus, contig c54118_g1_i1, transcribed RNA sequence-table4-Tombusviridae-HMM3-89_80.0-ORF5
+seq416	>tsa-HAEW01005716.1 TSA: Proasellus ebrensis, contig c6255_g1_i1, transcribed RNA sequence-table1-Tombusviridae-HMM2-78_89.0-ORF4
+seq417	>tsa-HAEX01015375.1 (REVERSE SENSE) TSA: Proasellus grafi, contig c17307_g1_i1, transcribed RNA sequence-table6-Tombusviridae-HMM120-274_56.0-ORF16
+seq418	>tsa-HAFC01159329.1 (REVERSE SENSE) TSA: Proasellus karamani, contig comp1274123_c0_seq1, transcribed RNA sequence-table1-Tombusviridae-HMM20-163_81.0-ORF14
+seq419	>tsa-GAWA01046178.1 (REVERSE SENSE) TSA: Prunus armeniaca Apricot(Seed)Unigene4925_LT-B transcribed RNA sequence-table1-Tombusviridae-HMM1-274_98.0-ORF23
+seq420	>tsa-GAWA01062173.1 TSA: Prunus armeniaca Apricot(Seed)Unigene20940_LT-B transcribed RNA sequence-table1-Tombusviridae-HMM2-88_74.0-ORF4
+seq421	>tsa-GEAB01053399.1 TSA: Psammomys obesus comp238387_c0_seq1_568 transcribed RNA sequence-table1-Tombusviridae-HMM3-189_98.0-ORF6
+seq422	>tsa-GEAB01063592.1 TSA: Psammomys obesus comp27444_c0_seq1_450 transcribed RNA sequence-table6-Tombusviridae-HMM2-149_98.0-ORF6
+seq423	>tsa-GEAB01139056.1 (REVERSE SENSE) TSA: Psammomys obesus comp51543_c0_seq1_1267 transcribed RNA sequence-table4-Tombusviridae-HMM150-335_54.0-ORF37
+seq424	>tsa-GEMG01023306.1 TSA: Raphanus sativus Unigene1928_NAU-LB transcribed RNA sequence-table1-Tombusviridae-HMM2-78_97.0-ORF2
+seq425	>tsa-GEMG01030158.1 TSA: Raphanus sativus Unigene9805_NAU-LB transcribed RNA sequence-table1-Tombusviridae-HMM3-103_94.0-ORF4
+seq426	>tsa-GETQ01024331.1 (REVERSE SENSE) TSA: Rhagoletis pomonella c50421_g1_i1 transcribed RNA sequence-table6-Tombusviridae-HMM17-193_57.0-ORF29
+seq427	>tsa-GFHZ01023637.1 TSA: Saccharum SUG_denovo_0610343 transcribed RNA sequence-table1-Tombusviridae-HMM4-270_98.0-ORF8
+seq428	>tsa-GFHZ01051763.1 (REVERSE SENSE) TSA: Saccharum SUG_denovo_0314895 transcribed RNA sequence-table1-Tombusviridae-HMM4-157_96.0-ORF13
+seq429	>tsa-GFHZ01053833.1 (REVERSE SENSE) TSA: Saccharum SUG_denovo_0309328 transcribed RNA sequence-table6-Tombusviridae-HMM1-144_60.0-ORF18
+seq430	>tsa-GFHZ01053837.1 (REVERSE SENSE) TSA: Saccharum SUG_denovo_0341441 transcribed RNA sequence-table6-Tombusviridae-HMM1-148_83.0-ORF16
+seq431	>tsa-GFHZ01080416.1 (REVERSE SENSE) TSA: Saccharum SUG_denovo_0012857 transcribed RNA sequence-table6-Tombusviridae-HMM104-540_57.0-ORF49
+seq432	>tsa-GFHZ01088711.1 (REVERSE SENSE) TSA: Saccharum SUG_denovo_0385277 transcribed RNA sequence-table4-Tombusviridae-HMM341-798_57.0-ORF64
+seq433	>tsa-GFHZ01089282.1 (REVERSE SENSE) TSA: Saccharum SUG_denovo_0392365 transcribed RNA sequence-table6-Tombusviridae-HMM123-454_59.0-ORF77
+seq434	>tsa-GFHZ01099856.1 (REVERSE SENSE) TSA: Saccharum SUG_denovo_0043858 transcribed RNA sequence-table1-Tombusviridae-HMM2-120_98.0-ORF11
+seq435	>tsa-GFHZ01106973.1 (REVERSE SENSE) TSA: Saccharum SUG_denovo_0122095 transcribed RNA sequence-table1-Tombusviridae-HMM14-314_92.0-ORF27
+seq436	>tsa-GFHZ01113191.1 (REVERSE SENSE) TSA: Saccharum SUG_denovo_0287975 transcribed RNA sequence-table6-Tombusviridae-HMM43-365_85.0-ORF22
+seq437	>tsa-GFHZ01113197.1 (REVERSE SENSE) TSA: Saccharum SUG_denovo_0302060 transcribed RNA sequence-table6-Tombusviridae-HMM20-209_81.0-ORF16
+seq438	>tsa-GFHZ01113204.1 TSA: Saccharum SUG_denovo_0307475 transcribed RNA sequence-table1-Tombusviridae-HMM1-140_98.0-ORF7
+seq439	>tsa-GFLP01001555.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0384676 transcribed RNA sequence-table4-Tombusviridae-HMM120-598_75.0-ORF52
+seq440	>tsa-GFLP01014202.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0012857 transcribed RNA sequence-table6-Tombusviridae-HMM104-540_57.0-ORF49
+seq441	>tsa-GFLP01025007.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0024012 transcribed RNA sequence-table1-Tombusviridae-HMM6-143_95.0-ORF13
+seq442	>tsa-GFLP01044751.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0043858 transcribed RNA sequence-table1-Tombusviridae-HMM2-120_98.0-ORF11
+seq443	>tsa-GFLP01122536.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0122095 transcribed RNA sequence-table1-Tombusviridae-HMM14-314_92.0-ORF27
+seq444	>tsa-GFLP01181675.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0181533 transcribed RNA sequence-table4-Tombusviridae-HMM438-894_48.0-ORF82
+seq445	>tsa-GFLP01287544.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0287975 transcribed RNA sequence-table6-Tombusviridae-HMM43-365_85.0-ORF22
+seq446	>tsa-GFLP01300486.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0302060 transcribed RNA sequence-table6-Tombusviridae-HMM20-209_81.0-ORF16
+seq447	>tsa-GFLP01305317.1 TSA: Saccharum hybrid cultivar SUGdenovo-0307475 transcribed RNA sequence-table1-Tombusviridae-HMM1-140_98.0-ORF7
+seq448	>tsa-GFLP01306977.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0309328 transcribed RNA sequence-table6-Tombusviridae-HMM1-144_60.0-ORF18
+seq449	>tsa-GFLP01312107.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0314895 transcribed RNA sequence-table1-Tombusviridae-HMM4-157_96.0-ORF13
+seq450	>tsa-GFLP01336726.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0341441 transcribed RNA sequence-table6-Tombusviridae-HMM1-148_83.0-ORF16
+seq451	>tsa-GFLP01343056.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0348704 transcribed RNA sequence-table1-Tombusviridae-HMM15-120_86.0-ORF16
+seq452	>tsa-GFLP01375807.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0385277 transcribed RNA sequence-table4-Tombusviridae-HMM341-798_57.0-ORF64
+seq453	>tsa-GFLP01382005.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0392365 transcribed RNA sequence-table6-Tombusviridae-HMM123-454_59.0-ORF77
+seq454	>tsa-GETN01008101.1 TSA: Scirpophaga incertulas YSB_LS_c28941_g1_i2 transcribed RNA sequence-table6-Tombusviridae-HMM96-429_69.0-ORF20
+seq455	>tsa-GETN01023238.1 TSA: Scirpophaga incertulas YSB_LS_c28941_g1_i1 transcribed RNA sequence-table6-Tombusviridae-HMM96-305_68.0-ORF14
+seq456	>tsa-GBQJ01018513.1 (REVERSE SENSE) TSA: Scolia hirta C93025_a_29_0_l_2436 transcribed RNA sequence-table6-Tombusviridae-HMM78-511_72.0-ORF50
+seq457	>tsa-GALN01115913.1 (REVERSE SENSE) TSA: Persicaria minor PMT0000134773 transcribed RNA sequence-table4-Tombusviridae-HMM31-147_77.0-ORF13
+seq458	>tsa-GBBP01067385.1 TSA: Teleopsis dalmanni Td_comp156562_c0_seq4 transcribed RNA sequence-table6-Tombusviridae-HMM28-172_67.0-ORF7
+seq459	>tsa-GBBP01067387.1 TSA: Teleopsis dalmanni Td_comp156562_c0_seq6 transcribed RNA sequence-table4-Tombusviridae-HMM38-145_57.0-ORF7
+seq460	>tsa-GBBP01097964.1 TSA: Teleopsis dalmanni Td_comp161421_c2_seq3 transcribed RNA sequence-table6-Tombusviridae-HMM61-282_59.0-ORF12
+seq461	>tsa-GBBP01097965.1 TSA: Teleopsis dalmanni Td_comp161421_c2_seq4 transcribed RNA sequence-table6-Tombusviridae-HMM91-313_55.0-ORF11
+seq462	>tsa-GBBQ01042194.1 (REVERSE SENSE) TSA: Teleopsis whitei Tw_comp161201_c0_seq1 transcribed RNA sequence-table4-Tombusviridae-HMM16-86_78.0-ORF7
+seq463	>tsa-GENN01005416.1 TSA: Tineola bisselliella k52_167124 transcribed RNA sequence-table6-Tombusviridae-HMM133-426_54.0-ORF23
+seq464	>tsa-GEOR01000310.1 TSA: Tineola bisselliella c352_g1_i1 transcribed RNA sequence-table6-Tombusviridae-HMM133-426_52.0-ORF23
+seq465	>tsa-GEZE01000849.1 TSA: Trapa bispinosa c11023_g1_i1 transcribed RNA sequence-table4-Tombusviridae-HMM1-113_99.0-ORF5
+seq466	>tsa-GEZE01051300.1 TSA: Trapa bispinosa c38611_g1_i1 transcribed RNA sequence-table4-Tombusviridae-HMM12-97_87.0-ORF3
+seq467	>tsa-GASO02037726.1 (REVERSE SENSE) TSA: Tricholepidion gertschi C202207_a_9_0_l_1773 transcribed RNA sequence-table4-Tombusviridae-HMM55-406_60.0-ORF28
+seq468	>tsa-GAOU01042834.1 (REVERSE SENSE) TSA: Trifolium pratense RC.43679 transcribed RNA sequence-table6-Tombusviridae-HMM28-509_79.0-ORF88
+seq469	>tsa-GEST01012358.1 (REVERSE SENSE) TSA: Trifolium repens SSHrefA3_contig_1683 transcribed RNA sequence-table4-Tombusviridae-HMM2-259_98.0-ORF22
+seq470	>tsa-GENH01100961.1 TSA: Dryadaula visaliella k70_480678 transcribed RNA sequence-table6-Tombusviridae-HMM80-225_45.0-ORF25
+seq471	>tsa-GEAB01105920.1 TSA: Psammomys obesus comp42106_c0_seq1_251 transcribed RNA sequence-table6-Tombusviridae-HMM2-83_97.0-ORF3
+seq472	>tsa-GEDL01013581.1 (REVERSE SENSE) TSA: Triticum polonicum comp7910_c0 transcribed RNA sequence-table6-Tombusviridae-HMM25-507_91.0-ORF36
+seq473	>tsa-GEDQ01000142.1 TSA: Triticum polonicum comp700983_c0 transcribed RNA sequence-table6-Tombusviridae-HMM1-73_97.0-ORF3
+seq474	>tsa-GEDQ01003202.1 (REVERSE SENSE) TSA: Triticum polonicum comp44894_c0 transcribed RNA sequence-table6-Tombusviridae-HMM25-507_84.0-ORF81
+seq475	>tsa-GEDQ01114817.1 (REVERSE SENSE) TSA: Triticum polonicum comp1002196_c0 transcribed RNA sequence-table6-Tombusviridae-HMM15-150_90.0-ORF14
+seq476	>tsa-GFTX01133892.1 TSA: Ulva lactuca c88995_g1_i1 transcribed RNA sequence-table6-Tombusviridae-HMM2-69_94.0-ORF3
+seq477	>tsa-GAUO02025157.1 (REVERSE SENSE) TSA: Velia caprai s5878_L_24820_0_a_35_4_l_2848 transcribed RNA sequence-table6-Tombusviridae-HMM28-454_62.0-ORF53

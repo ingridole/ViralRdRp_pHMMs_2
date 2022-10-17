@@ -1,0 +1,57 @@
+seq1	>ref-NC_012703.1 (REVERSE SENSE) Nyamanini virus, complete genome-table6-Nyamiviridae-HMM1375-1860_16.0-ORF260
+seq2	>ref-NC_012702.1 (REVERSE SENSE) Midway virus, complete genome-table6-Nyamiviridae-HMM496-981_24.0-ORF258
+seq3	>ref-NC_024376.1 (REVERSE SENSE) Sierra Nevada virus, complete genome-table4-Nyamiviridae-HMM540-1025_24.0-ORF245
+seq4	>ref-NC_024702.1 Soybean cyst nematode midway virus N-protein, hypothetical proteins, glycoprotein, and putative RNA dependent RNA polymerase genes, complete cds-table4-Nyamiviridae-HMM459-946_23.0-ORF77
+seq5	>ref-NC_032544.1 Beihai rhabdo-like virus 5 strain BHJP63888 putative nucleoprotein, hypothetical protein 1, hypothetical protein 2, and RNA-dependent RNA polymerase genes, complete cds-table4-Nyamiviridae-HMM572-1055_23.0-ORF92
+seq6	>ref-NC_032543.1 Beihai rhabdo-like virus 4 strain BHJP58499 putative nucleoprotein, hypothetical protein, and RNA-dependent RNA polymerase genes, complete cds-table6-Nyamiviridae-HMM631-1113_23.0-ORF123
+seq7	>nrnt-KX884408 Beihai rhabdo-like virus 3 strain BHNXC39077 putative nucleoprotein, hypothetical protein 1, hypothetical protein 2, and putative glycoprotein genes, complete cds; and RNA-dependent RNA polymerase gene, partial cds.-table6-Nyamiviridae-HMM1405-1886_18.0-ORF111
+seq8	>nrnt-KX257488 (REVERSE SENSE) Orinoco virus strain UW1, partial genome.-table6-Nyamiviridae-HMM463-943_26.0-ORF223
+seq9	>nrnt-MG550265 Soybean cyst nematode nyami-like virus isolate 6269845N nucleoprotein, putative phosphoprotein, putative matrix protein, glycoprotein, and RNA-dependent RNA polymerase genes, complete cds.-table6-Nyamiviridae-HMM586-1072_22.0-ORF123
+seq10	>tsa-GECD01009919.1 (REVERSE SENSE) TSA: Arbacia punctulata comp118507_c7_seq2 transcribed RNA sequence-table4-Nyamiviridae-HMM8-265_73.0-ORF29
+seq11	>tsa-GECD01036770.1 (REVERSE SENSE) TSA: Arbacia punctulata comp118507_c7_seq5 transcribed RNA sequence-table1-Nyamiviridae-HMM106-210_48.0-ORF19
+seq12	>tsa-GECD01061386.1 (REVERSE SENSE) TSA: Arbacia punctulata comp118507_c7_seq4 transcribed RNA sequence-table1-Nyamiviridae-HMM110-214_47.0-ORF19
+seq13	>tsa-GECD01077301.1 TSA: Arbacia punctulata comp115851_c1_seq1 transcribed RNA sequence-table1-Nyamiviridae-HMM84-269_68.0-ORF10
+seq14	>tsa-GBVF01003620.1 TSA: Blasticotoma filiceti C27061_a_66_0_l_296 transcribed RNA sequence-table4-Nyamiviridae-HMM3-54_52.0-ORF4
+seq15	>tsa-GFCY01005828.1 TSA: Bombyx mori BmPG_Unigene_BMK.5841 transcribed RNA sequence-table6-Nyamiviridae-HMM10-152_73.0-ORF51
+seq16	>tsa-GBVI01021842.1 TSA: Cephus spinipes s5673_L_20355_0_a_22_6_l_7258 transcribed RNA sequence-table6-Nyamiviridae-HMM478-962_25.0-ORF76
+seq17	>tsa-GBOM01015490.1 (REVERSE SENSE) TSA: Chalybion californicum s2279_L_2862_0_a_40_3_l_9703 transcribed RNA sequence-table6-Nyamiviridae-HMM538-1022_24.0-ORF222
+seq18	>tsa-GBOM01015492.1 (REVERSE SENSE) TSA: Chalybion californicum s2280_L_2862_1_a_40_9_l_9795 transcribed RNA sequence-table6-Nyamiviridae-HMM538-1022_24.0-ORF225
+seq19	>tsa-GEOC01017155.1 TSA: Dyseriocrania griseocapitella TR12863-c0_g1_i1 transcribed RNA sequence-table6-Nyamiviridae-HMM60-149_59.0-ORF11
+seq20	>tsa-GBRW01124732.1 (REVERSE SENSE) TSA: Elysia cornigera Eco014459_seq2 transcribed RNA sequence-table4-Nyamiviridae-HMM137-242_41.0-ORF83
+seq21	>tsa-GBRW01124733.1 (REVERSE SENSE) TSA: Elysia cornigera Eco014459_seq3 transcribed RNA sequence-table6-Nyamiviridae-HMM52-153_51.0-ORF72
+seq22	>tsa-GBRW01124734.1 (REVERSE SENSE) TSA: Elysia cornigera Eco014459_seq4 transcribed RNA sequence-table4-Nyamiviridae-HMM137-242_41.0-ORF78
+seq23	>tsa-GBRW01124735.1 (REVERSE SENSE) TSA: Elysia cornigera Eco014459_seq5 transcribed RNA sequence-table4-Nyamiviridae-HMM137-242_41.0-ORF83
+seq24	>tsa-GBRW01124737.1 (REVERSE SENSE) TSA: Elysia cornigera Eco014459_seq7 transcribed RNA sequence-table4-Nyamiviridae-HMM137-242_41.0-ORF83
+seq25	>tsa-GBRW01124738.1 (REVERSE SENSE) TSA: Elysia cornigera Eco014459_seq8 transcribed RNA sequence-table6-Nyamiviridae-HMM52-153_51.0-ORF78
+seq26	>tsa-GBRW01124739.1 (REVERSE SENSE) TSA: Elysia cornigera Eco014459_seq9 transcribed RNA sequence-table4-Nyamiviridae-HMM137-242_41.0-ORF83
+seq27	>tsa-GBRW01124743.1 (REVERSE SENSE) TSA: Elysia cornigera Eco014459_seq13 transcribed RNA sequence-table6-Nyamiviridae-HMM52-153_51.0-ORF77
+seq28	>tsa-GBRW01124744.1 (REVERSE SENSE) TSA: Elysia cornigera Eco014459_seq14 transcribed RNA sequence-table4-Nyamiviridae-HMM137-242_41.0-ORF78
+seq29	>tsa-GBRW01124745.1 (REVERSE SENSE) TSA: Elysia cornigera Eco014459_seq15 transcribed RNA sequence-table6-Nyamiviridae-HMM52-153_51.0-ORF78
+seq30	>tsa-GBRW01124746.1 (REVERSE SENSE) TSA: Elysia cornigera Eco014459_seq16 transcribed RNA sequence-table6-Nyamiviridae-HMM52-153_51.0-ORF66
+seq31	>tsa-GBRW01124747.1 (REVERSE SENSE) TSA: Elysia cornigera Eco014459_seq17 transcribed RNA sequence-table6-Nyamiviridae-HMM52-153_51.0-ORF78
+seq32	>tsa-GBRM01100443.1 TSA: Elysia timida Eti022653_seq1 transcribed RNA sequence-table4-Nyamiviridae-HMM248-406_38.0-ORF74
+seq33	>tsa-GBRM01100444.1 TSA: Elysia timida Eti022653_seq2 transcribed RNA sequence-table4-Nyamiviridae-HMM248-406_38.0-ORF73
+seq34	>tsa-GBRM01142263.1 (REVERSE SENSE) TSA: Elysia timida Eti065484_seq1 transcribed RNA sequence-table4-Nyamiviridae-HMM68-146_51.0-ORF14
+seq35	>tsa-GFBH01069846.1 TSA: Eogystia hippophaecolus c67225.graph_c0 transcribed RNA sequence-table6-Nyamiviridae-HMM526-1006_23.0-ORF104
+seq36	>tsa-GEIG01038096.1 TSA: Girardia dorotocephala comp3641_c0_seq1 transcribed RNA sequence-table6-Nyamiviridae-HMM598-1078_23.0-ORF128
+seq37	>tsa-GEIG01090818.1 (REVERSE SENSE) TSA: Girardia dorotocephala comp11117_c0_seq1 transcribed RNA sequence-table6-Nyamiviridae-HMM537-1015_23.0-ORF156
+seq38	>tsa-GEIG01096411.1 TSA: Girardia dorotocephala comp31567_c0_seq1 transcribed RNA sequence-table1-Nyamiviridae-HMM371-771_51.0-ORF18
+seq39	>tsa-GBNR01019826.1 TSA: Gorytes laticinctus s5448_L_20534_0_a_57_3_l_9814 transcribed RNA sequence-table6-Nyamiviridae-HMM1063-1546_19.0-ORF102
+seq40	>tsa-GASD01000936.1 TSA: Heterodera schachtii hs_contig_1555 transcribed RNA sequence-table1-Nyamiviridae-HMM151-316_51.0-ORF11
+seq41	>tsa-GASD01022378.1 (REVERSE SENSE) TSA: Heterodera schachtii hs_contig_27739 transcribed RNA sequence-table4-Nyamiviridae-HMM137-386_63.0-ORF35
+seq42	>tsa-GASD01024463.1 (REVERSE SENSE) TSA: Heterodera schachtii hs_contig_30056 transcribed RNA sequence-table6-Nyamiviridae-HMM6-130_51.0-ORF37
+seq43	>tsa-GASD01030394.1 (REVERSE SENSE) TSA: Heterodera schachtii hs_contig_36492 transcribed RNA sequence-table1-Nyamiviridae-HMM4-228_33.0-ORF61
+seq44	>tsa-GASD01082680.1 TSA: Heterodera schachtii hs_singlet_127462 transcribed RNA sequence-table4-Nyamiviridae-HMM1-92_81.0-ORF2
+seq45	>tsa-GEXL01007702.1 TSA: Macrostomum lignano RNA1509_7788 transcribed RNA sequence-table6-Nyamiviridae-HMM556-1037_24.0-ORF68
+seq46	>tsa-GCPB01004670.1 TSA: Megastigmus spermotrophus contig5320 transcribed RNA sequence-table6-Nyamiviridae-HMM1049-1358_20.0-ORF53
+seq47	>tsa-GAQJ01061938.1 (REVERSE SENSE) TSA: Ostrinia furnacalis Unigene39049_All transcribed RNA sequence-table1-Nyamiviridae-HMM3-68_94.0-ORF9
+seq48	>tsa-GCVS01094397.1 TSA: Pardosa pseudoannulata comp113900_c0_seq1 transcribed RNA sequence-table6-Nyamiviridae-HMM4-91_84.0-ORF2
+seq49	>tsa-GEDB01028943.1 (REVERSE SENSE) TSA: Polistes dominula PdomTSAr1.2-029729 transcribed RNA sequence-table4-Nyamiviridae-HMM24-97_70.0-ORF10
+seq50	>tsa-HAEU01032102.1 (REVERSE SENSE) TSA: Proasellus coiffaiti, contig comp50102_c0_seq1, transcribed RNA sequence-table6-Nyamiviridae-HMM1-191_17.0-ORF83
+seq51	>tsa-GENM01002017.1 (REVERSE SENSE) TSA: Thyridopteryx ephemeraeformis k52_58630 transcribed RNA sequence-table6-Nyamiviridae-HMM1-473_76.0-ORF46
+seq52	>tsa-GEOQ01021889.1 TSA: Thyridopteryx ephemeraeformis comp17191_c0_seq2 transcribed RNA sequence-table6-Nyamiviridae-HMM18-500_74.0-ORF33
+seq53	>tsa-GFCY01005706.1 TSA: Bombyx mori BmPG_Unigene_BMK.5719 transcribed RNA sequence-table6-Nyamiviridae-HMM54-157_48.0-ORF4
+seq54	>tsa-GBRW01194965.1 TSA: Elysia cornigera Eco076211_seq1 transcribed RNA sequence-table6-Nyamiviridae-HMM2-100_90.0-ORF4
+seq55	>tsa-GELL01060642.1 (REVERSE SENSE) TSA: Megalopta genalis c58806_g5_i1 transcribed RNA sequence-table6-Nyamiviridae-HMM7-117_59.0-ORF21
+seq56	>tsa-GESP01039352.1 (REVERSE SENSE) TSA: Spodoptera frugiperda TRINITY_DN30283_c2_g1_i1 transcribed RNA sequence-table6-Nyamiviridae-HMM291-387_24.0-ORF129
+seq57	>tsa-GESP01039353.1 (REVERSE SENSE) TSA: Spodoptera frugiperda TRINITY_DN30283_c2_g1_i2 transcribed RNA sequence-table6-Nyamiviridae-HMM291-387_24.0-ORF122

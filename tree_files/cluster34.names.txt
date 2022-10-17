@@ -1,0 +1,85 @@
+seq1	>ref-NC_003773.1 Rice dwarf virus segment 1, complete sequence-table4-Sedoreovirinae_1-HMM335-934_40.0-ORF54
+seq2	>ref-NC_004210.1 Kadipiro virus chromosome segment 1, complete genome-table6-Sedoreovirinae_1-HMM292-673_30.0-ORF46
+seq3	>ref-NC_006023.1 Bluetongue virus segment 1, complete sequence-table4-Sedoreovirinae_1-HMM246-839_45.0-ORF45
+seq4	>ref-NC_005990.1 Palyam virus segment 1, complete sequence-table6-Sedoreovirinae_1-HMM244-841_45.0-ORF46
+seq5	>ref-NC_006021.1 African horsesickness virus segment 1, complete genome-table4-Sedoreovirinae_1-HMM246-844_45.0-ORF50
+seq6	>ref-NC_005997.1 St Croix river virus segment 1 putative RNA-dependent RNA polymerase VP1 gene, complete cds-table6-Sedoreovirinae_1-HMM276-875_44.0-ORF42
+seq7	>ref-NC_004211.1 Banna virus strain JKT-6423 segment 1, complete sequence-table6-Sedoreovirinae_1-HMM297-691_31.0-ORF43
+seq8	>ref-NC_007656.1 Yunnan orbivirus segment 1, complete sequence-table4-Sedoreovirinae_1-HMM255-854_45.0-ORF45
+seq9	>ref-NC_007736.1 Liao ning virus segment 1, complete genome-table6-Sedoreovirinae_1-HMM295-676_30.0-ORF46
+seq10	>ref-NC_007748.1 Peruvian horse sickness virus segment 1, complete genome-table4-Sedoreovirinae_1-HMM250-850_45.0-ORF40
+seq11	>ref-NC_009248.1 Rice gall dwarf virus segment S1, complete sequence-table4-Sedoreovirinae_1-HMM332-933_40.0-ORF56
+seq12	>ref-NC_012535.1 Homalodisca vitripennis reovirus segment S1, complete genome-table6-Sedoreovirinae_1-HMM324-924_40.0-ORF52
+seq13	>ref-NC_013396.1 Epizootic hemorrhagic disease virus (serotype 1 / strain New Jersey) segment 1-table6-Sedoreovirinae_1-HMM247-839_45.0-ORF53
+seq14	>ref-NC_012754.1 Stretch Lagoon orbivirus segment 1, complete genome-table6-Sedoreovirinae_1-HMM242-838_45.0-ORF44
+seq15	>ref-NC_014522.1 Great Island virus segment 1, complete genome-table6-Sedoreovirinae_1-HMM230-827_45.0-ORF31
+seq16	>ref-NC_022639.1 Changuinola virus isolate CGLV/BE AN 28873 segment 1, complete sequence-table6-Sedoreovirinae_1-HMM248-846_45.0-ORF50
+seq17	>ref-NC_022626.1 Mobuck virus strain 12-2 segment 1, complete sequence-table4-Sedoreovirinae_1-HMM268-867_44.0-ORF51
+seq18	>ref-NC_022553.1 Wallal virus isolate 927 segment 1, complete sequence-table4-Sedoreovirinae_1-HMM246-841_45.0-ORF48
+seq19	>ref-NC_024503.1 Umatilla virus isolate USA1969/01 segment 1, complete sequence-table6-Sedoreovirinae_1-HMM242-839_45.0-ORF47
+seq20	>ref-NC_027553.1 Chobar Gorge virus isolate NEP1970/01 segment 1 RNA-dependent RNA polymerase (VP1) gene, complete cds-table6-Sedoreovirinae_1-HMM229-826_46.0-ORF41
+seq21	>ref-NC_027533.1 Wad Medani virus isolate SUD1952/01 segment 1 RNA-dependent RNA polymerase (VP1) gene, complete cds-table4-Sedoreovirinae_1-HMM246-844_45.0-ORF35
+seq22	>ref-NC_027534.1 Chenuda virus isolate EGY1954/01 segment 1 RNA-dependent RNA polymerase (VP1) gene, complete cds-table6-Sedoreovirinae_1-HMM229-826_45.0-ORF46
+seq23	>ref-NC_027803.1 Fengkai orbivirus isolate D181/2008 segment 1, complete sequence-table6-Sedoreovirinae_1-HMM248-841_45.0-ORF47
+seq24	>ref-NC_029904.1 Callinectes sapidus reovirus 1 segment 1 VP1 gene, complete cds-table6-Sedoreovirinae_1-HMM400-1024_43.0-ORF51
+seq25	>ref-NC_033782.1 Orbivirus SX-2017a VP1 gene, complete cds-table6-Sedoreovirinae_1-HMM248-841_45.0-ORF47
+seq26	>nrnt-MF124282 Bluetongue virus isolate TUN2017 segment 1 VP1 gene, partial cds.-table4-Sedoreovirinae_1-HMM229-822_45.0-ORF52
+seq27	>nrnt-MF094119 Ninarumi virus VP1 gene, complete cds.-table6-Sedoreovirinae_1-HMM281-870_43.0-ORF48
+seq28	>nrnt-MG600111 Wenling scaldfish reovirus strain XDXMC35344 RNA-dependent RNA polymerase gene, complete cds.-table6-Sedoreovirinae_1-HMM257-827_43.0-ORF45
+seq29	>nrnt-KX695170 Bluetongue virus strain V196/XJ/2014 segment 1, complete sequence.-table4-Sedoreovirinae_1-HMM246-839_45.0-ORF55
+seq30	>nrnt-KX234078 Bluetongue virus isolate BTV-X ITL2015 segment 1, complete sequence.-table4-Sedoreovirinae_1-HMM246-839_45.0-ORF49
+seq31	>nrnt-KX907618 Morris orbivirus strain J13 VP1 gene, complete cds.-table6-Sedoreovirinae_1-HMM329-835_37.0-ORF37
+seq32	>nrnt-KX884638 Banna virus strain QTM104536 RNA-dependent RNA polymerase gene, complete cds.-table6-Sedoreovirinae_1-HMM306-704_31.0-ORF39
+seq33	>nrnt-LQ282552 Sequence 11 from Patent WO2016071683.-table4-Sedoreovirinae_1-HMM246-839_45.0-ORF50
+seq34	>nrnt-LC158842 Muko virus genomic RNA, segment 1, complete sequence, strain: MUV-hay.-table6-Sedoreovirinae_1-HMM230-826_45.0-ORF36
+seq35	>nrnt-AB186040 Ibaraki virus genomic RNA, segment L1, complete sequence.-table6-Sedoreovirinae_1-HMM247-841_45.0-ORF45
+seq36	>nrnt-KU724110 Parry's Lagoon virus isolate K71551 segment 1 VP1 gene, complete cds.-table6-Sedoreovirinae_1-HMM232-827_46.0-ORF39
+seq37	>nrnt-KP311320 Chenuda virus strain LEIV-7453Tur VP1 protein gene, partial cds.-table6-Sedoreovirinae_1-HMM248-845_46.0-ORF41
+seq38	>nrnt-KR349187 Mangshi virus strain DH13M041 segment S1, complete sequence.-table6-Sedoreovirinae_1-HMM297-689_31.0-ORF51
+seq39	>nrnt-KP638402 Eriocheir sinensis reovirus strain WX-2012 segment 1 VP1 gene, partial cds.-table6-Sedoreovirinae_1-HMM381-1005_44.0-ORF49
+seq40	>nrnt-KJ746864 Vellore virus isolate Vellore VP1 gene, partial cds.-table1-Sedoreovirinae_1-HMM1-533_99.0-ORF11
+seq41	>nrnt-KJ746862 Changuinola virus isolate CoAr2827 VP1 gene, partial cds.-table4-Sedoreovirinae_1-HMM3-449_96.0-ORF17
+seq42	>nrnt-KJ950937 Mulberry orbivirus isolate MBOV/NYC-D7 VP1 gene, partial cds.-table1-Sedoreovirinae_1-HMM137-736_64.0-ORF20
+seq43	>nrnt-KJ495755 Warrego virus strain AUS1969/01 segment 1, complete sequence.-table6-Sedoreovirinae_1-HMM247-845_45.0-ORF44
+seq44	>nrnt-KF690601 Changuinola virus isolate CGLV/BE AR 385278 segment 1, complete sequence.-table6-Sedoreovirinae_1-HMM248-846_45.0-ORF47
+seq45	>nrnt-KF690581 Changuinola virus isolate CGLV/BE AR 440541 segment 1, complete sequence.-table6-Sedoreovirinae_1-HMM248-846_45.0-ORF51
+seq46	>nrnt-KF017495 Bluetongue virus 4 isolate BTV4/1047/10 VP1 protein gene, partial cds.-table1-Sedoreovirinae_1-HMM246-643_61.0-ORF19
+seq47	>nrnt-KJ191550 Baku virus strain LEIV-46Azn VP1 protein gene, partial cds.-table1-Sedoreovirinae_1-HMM154-751_58.0-ORF37
+seq48	>nrnt-KJ425428 Wad Medani virus strain LEIV-8066Tur VP1 protein gene, partial cds.-table1-Sedoreovirinae_1-HMM236-833_46.0-ORF50
+seq49	>nrnt-KF981625 Okhotskiy virus strain LEIV-70C VP1 protein gene, partial cds.-table1-Sedoreovirinae_1-HMM225-822_46.0-ORF53
+seq50	>nrnt-JQ610675 Orungo virus isolate UGMP 359 segment 1, complete sequence.-table4-Sedoreovirinae_1-HMM244-840_45.0-ORF45
+seq51	>nrnt-JQ610665 Lebombo virus isolate SAAR 3896 segment 1, complete sequence.-table6-Sedoreovirinae_1-HMM246-840_45.0-ORF44
+seq52	>nrnt-JQ610655 Changuinola virus isolate BE AR 490492 segment 1, complete sequence.-table4-Sedoreovirinae_1-HMM248-846_45.0-ORF45
+seq53	>nrnt-KC669539 Heramatsu virus strain KY-663 VP1 gene, partial cds.-table1-Sedoreovirinae_1-HMM240-834_46.0-ORF38
+seq54	>nrnt-JX947843 Banna-like virus strain Balaton/2010/HUN segment 1, complete sequence.-table6-Sedoreovirinae_1-HMM297-689_31.0-ORF42
+seq55	>nrnt-KC853042 Corriparta virus strain AUS1960/01 VP1 protein gene, complete cds.-table6-Sedoreovirinae_1-HMM235-830_45.0-ORF46
+seq56	>nrnt-KC288130 Kemerovo virus segment 1, complete sequence.-table6-Sedoreovirinae_1-HMM230-827_45.0-ORF40
+seq57	>nrnt-JQ070386 Pata virus isolate CAF1968/01 segment 1, complete sequence.-table6-Sedoreovirinae_1-HMM248-840_45.0-ORF53
+seq58	>nrnt-JQ070376 Eubenangee virus isolate AUS1963/01 segment 1, complete sequence.-table6-Sedoreovirinae_1-HMM248-845_45.0-ORF50
+seq59	>nrnt-JQ070366 Tilligerry virus isolate AUS1978/03 segment 1, complete sequence.-table4-Sedoreovirinae_1-HMM246-843_45.0-ORF49
+seq60	>nrnt-HQ414127 Scylla serrata reovirus SZ-2007 segment 1, complete sequence.-table6-Sedoreovirinae_1-HMM409-1033_43.0-ORF44
+seq61	>nrnt-AY542965 Eriocheir sinensis reovirus isolate 905 segment 1, complete sequence.-table6-Sedoreovirinae_1-HMM704-830_10.0-ORF37
+seq62	>nrnt-KX884675 Hubei tetragnatha maxillosa virus 9 strain QTM27093 RNA-dependent RNA polymerase gene, complete cds.-table4-Sedoreovirinae_1-HMM430-820_29.0-ORF43
+seq63	>nrnt-KX884664 Hubei odonate virus 15 strain QTM133059 RNA-dependent RNA polymerase gene, complete cds.-table6-Sedoreovirinae_1-HMM340-823_36.0-ORF51
+seq64	>nrnt-KX884628 Hubei lepidoptera virus 4 strain LCM63323 RNA-dependent RNA polymerase gene, complete cds.-table6-Sedoreovirinae_1-HMM318-823_37.0-ORF47
+seq65	>nrnt-KX884607 Hubei reo-like virus 14 strain fly110803 RdRp gene, complete cds.-table6-Sedoreovirinae_1-HMM346-830_36.0-ORF46
+seq66	>nrnt-MF094109 Big Cypress virus VP1 gene, complete cds.-table4-Sedoreovirinae_1-HMM231-832_45.0-ORF48
+seq67	>nrnt-KF298273 Uncultured virus isolate acc_9.3 truncated putative RNA-dependent RNA polymerase-like protein gene, partial cds.-table6-Sedoreovirinae_1-HMM240-824_44.0-ORF44
+seq68	>tsa-GARB01026632.1 TSA: Athetis lepigone T3_27609 transcribed RNA sequence-table1-Sedoreovirinae_1-HMM9-291_63.0-ORF13
+seq69	>tsa-GEEA01028041.1 TSA: Bactrocera dorsalis comp68533_c0_seq1 transcribed RNA sequence-table6-Sedoreovirinae_1-HMM330-823_37.0-ORF46
+seq70	>tsa-GEYS01007536.1 (REVERSE SENSE) TSA: Bactrocera dorsalis Unigene115_All transcribed RNA sequence-table6-Sedoreovirinae_1-HMM328-821_37.0-ORF89
+seq71	>tsa-GEZK01185407.1 (REVERSE SENSE) TSA: Bemisia tabaci c166363_g2 transcribed RNA sequence-table6-Sedoreovirinae_1-HMM218-329_30.0-ORF52
+seq72	>tsa-GDAR01010679.1 (REVERSE SENSE) TSA: Dendroctonus ponderosae Dpon-CLC-20141217_contig_27747 transcribed RNA sequence-table4-Sedoreovirinae_1-HMM62-308_46.0-ORF45
+seq73	>tsa-GBPW01015714.1 TSA: Epeolus variegatus C95104_a_11_0_l_3069 transcribed RNA sequence-table1-Sedoreovirinae_1-HMM214-808_58.0-ORF25
+seq74	>tsa-HAAX01020223.1 (REVERSE SENSE) TSA: Eriocheir sinensis, contig Unigene20317_A0A, transcribed RNA sequence-table1-Sedoreovirinae_1-HMM405-1029_57.0-ORF84
+seq75	>tsa-HAAX01046049.1 TSA: Eriocheir sinensis, contig Unigene46342_A0A, transcribed RNA sequence-table1-Sedoreovirinae_1-HMM564-690_12.0-ORF24
+seq76	>tsa-GBNZ01012862.1 (REVERSE SENSE) TSA: Heterodontonyx sp. AD-2014 C79130_a_22_0_l_4026 transcribed RNA sequence-table6-Sedoreovirinae_1-HMM346-823_35.0-ORF104
+seq77	>tsa-GBOY01021047.1 (REVERSE SENSE) TSA: Mellinus arvensis s5948_L_19400_0_a_33_1_l_3436 transcribed RNA sequence-table6-Sedoreovirinae_1-HMM126-635_44.0-ORF79
+seq78	>tsa-GFFJ01064750.1 TSA: Portunus trituberculatus comp103683_c0 transcribed RNA sequence-table6-Sedoreovirinae_1-HMM399-1023_43.0-ORF48
+seq79	>tsa-GEFA01023424.1 TSA: Rhipicephalus microplus ATc24913 transcribed RNA sequence-table1-Sedoreovirinae_1-HMM2-170_98.0-ORF7
+seq80	>tsa-GEFA01032821.1 TSA: Rhipicephalus microplus ATc36415 transcribed RNA sequence-table1-Sedoreovirinae_1-HMM11-149_84.0-ORF5
+seq81	>tsa-GEMR01003375.1 (REVERSE SENSE) TSA: Rhipicephalus microplus athaller1121 transcribed RNA sequence-table6-Sedoreovirinae_1-HMM269-868_44.0-ORF108
+seq82	>tsa-GFLP01426253.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0437261 transcribed RNA sequence-table1-Sedoreovirinae_1-HMM7-112_93.0-ORF7
+seq83	>tsa-GETN01016785.1 TSA: Scirpophaga incertulas YSB_LS_c43535_g1_i1 transcribed RNA sequence-table1-Sedoreovirinae_1-HMM9-365_86.0-ORF15
+seq84	>tsa-GBZU01019542.1 (REVERSE SENSE) TSA: Tityus serrulatus Locus_28422 transcribed RNA sequence-table4-Sedoreovirinae_1-HMM451-814_28.0-ORF101
+seq85	>tsa-GEDL01063411.1 TSA: Triticum polonicum comp180892_c0 transcribed RNA sequence-table6-Sedoreovirinae_1-HMM26-139_17.0-ORF50

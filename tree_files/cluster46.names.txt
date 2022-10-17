@@ -1,0 +1,51 @@
+seq1	>ref-NC_005978.1 Helminthosporium victoriae 145S virus-table6-Chrysoviridae-HMM355-953_51.0-ORF35
+seq2	>ref-NC_007539.1 Penicillium chrysogenum virus segment 1, complete genome-table6-Chrysoviridae-HMM362-959_50.0-ORF38
+seq3	>ref-NC_009947.1 Amasya cherry disease associated chrysovirus segment 1, complete sequence-table6-Chrysoviridae-HMM316-913_52.0-ORF43
+seq4	>ref-NC_014462.1 Magnaporthe oryzae chrysovirus 1 segment 1, complete genome-table4-Chrysoviridae-HMM421-943_44.0-ORF34
+seq5	>ref-NC_023041.1 Magnaporthe oryzae chrysovirus 3 RdRp gene for RNA dependent RNA polymerase, complete cds-table6-Chrysoviridae-HMM427-949_44.0-ORF37
+seq6	>ref-NC_033277.1 Isaria javanica chrysovirus 1 isolate IjCV-1 RNA-dependent RNA polymerase (RdRp) gene, complete cds-table6-Chrysoviridae-HMM362-959_51.0-ORF41
+seq7	>nrnt-KY489954 Bipolaris maydis chrysovirus 1 strain SS01 segment RNA1, complete sequence.-table6-Chrysoviridae-HMM300-898_53.0-ORF44
+seq8	>nrnt-KP782031 Brassica campestris chrysovirus 1 isolate Hubei segment RNA1, complete sequence.-table6-Chrysoviridae-HMM370-962_50.0-ORF40
+seq9	>nrnt-GU108588 Grapevine associated chrysovirus-1 isolate Ctg446 putative RNA-dependent RNA polymerase gene, partial cds.-table1-Chrysoviridae-HMM234-831_62.0-ORF32
+seq10	>nrnt-KP900886 Macrophomina phaseolina chrysovirus 1 isolate TN263 RNA-dependent RNA polymerase gene, complete cds.-table6-Chrysoviridae-HMM311-908_53.0-ORF50
+seq11	>nrnt-KJ418374 Persea americana chrysovirus segment RNA1, complete sequence.-table6-Chrysoviridae-HMM319-893_51.0-ORF37
+seq12	>nrnt-KP757934 Drosophila-associated Chrysoviridae-like clone DmelChrysoLike genomic sequence.-table6-Chrysoviridae-HMM355-938_50.0-ORF43
+seq13	>nrnt-JQ045335 Raphanus sativas chrysovirus 1 segment RNA1 putative RNA-dependent RNA polymerase gene, complete cds.-table6-Chrysoviridae-HMM375-967_48.0-ORF50
+seq14	>nrnt-HE579593 Uncultured chrysovirus genomic RNA containing putative RdRp, contig 469Hv1_454_3.-table6-Chrysoviridae-HMM96-270_64.0-ORF13
+seq15	>nrnt-HE579591 Uncultured chrysovirus genomic RNA containing putative RdRp, contig 469Hv1_454_2.-table6-Chrysoviridae-HMM4-182_91.0-ORF6
+seq16	>nrnt-HE579570 Uncultured chrysovirus genomic RNA containing putative RdRp, contig 218Pv1_454_3.-table4-Chrysoviridae-HMM184-780_60.0-ORF32
+seq17	>nrnt-FR750563 Tolypocladium cylindrosporum virus 2 RdRp gene for RNA dependent RNA polymerase, genomic RNA.-table6-Chrysoviridae-HMM416-928_44.0-ORF43
+seq18	>nrnt-HM004067 (REVERSE SENSE) Verticillium dahliae chrysovirus 1 segment 1, complete sequence.-table6-Chrysoviridae-HMM361-960_51.0-ORF79
+seq19	>nrnt-FN178512 Aspergillus fumigatus chrysovirus segment 1, complete sequence, isolate A-56, genomic RNA.-table4-Chrysoviridae-HMM353-950_50.0-ORF42
+seq20	>nrnt-FJ899675 Anthurium mosaic-associated virus strain PHA segment dsRNA1, complete sequence.-table6-Chrysoviridae-HMM349-944_50.0-ORF43
+seq21	>nrnt-GQ290649 Cryphonectria nitschkei chrysovirus 1 from Cryphonectria nitschkei BS122 RNA-dependent RNA polymerase gene, complete cds.-table4-Chrysoviridae-HMM317-916_61.0-ORF33
+seq22	>nrnt-MF176340 Shuangao chryso-like virus 1 strain mosWSB68555 segment 1, complete sequence.-table6-Chrysoviridae-HMM349-933_50.0-ORF49
+seq23	>nrnt-MF176261 Hubei chryso-like virus 1 strain mos172gb42656 segment 1, complete sequence.-table4-Chrysoviridae-HMM382-966_49.0-ORF50
+seq24	>nrnt-KX882987 Wuhan insect virus 29 strain WHZM9836 hypothetical protein gene, complete cds.-table6-Chrysoviridae-HMM202-716_53.0-ORF29
+seq25	>nrnt-KX882984 Wuhan insect virus 30 strain WHZM9752 hypothetical protein gene, complete cds.-table6-Chrysoviridae-HMM325-923_52.0-ORF34
+seq26	>nrnt-KX882973 Hubei chryso-like virus 2 strain SCM47694 hypothetical protein gene, complete cds.-table6-Chrysoviridae-HMM346-929_50.0-ORF44
+seq27	>nrnt-LC350277 Alternaria alternata chrysovirus 1 AaCV1 RNA, segment RNA1, complete sequence.-table6-Chrysoviridae-HMM413-923_44.0-ORF43
+seq28	>tsa-GEXX01086189.1 TSA: Achipteria coleoptrata TR29499_c1_g1_i1 transcribed RNA sequence-table1-Chrysoviridae-HMM16-203_70.0-ORF4
+seq29	>tsa-GEXX01086190.1 TSA: Achipteria coleoptrata TR29499_c2_g1_i1 transcribed RNA sequence-table1-Chrysoviridae-HMM28-233_85.0-ORF4
+seq30	>tsa-GEZL01189387.1 (REVERSE SENSE) TSA: Ambrosia artemisiifolia TR78336_c0_g1_i1 transcribed RNA sequence-table1-Chrysoviridae-HMM4-212_98.0-ORF16
+seq31	>tsa-GEZL01197181.1 (REVERSE SENSE) TSA: Ambrosia artemisiifolia TR87216_c0_g1_i1 transcribed RNA sequence-table1-Chrysoviridae-HMM4-100_96.0-ORF9
+seq32	>tsa-GEZL01214350.1 TSA: Ambrosia artemisiifolia TR106574_c0_g1_i1 transcribed RNA sequence-table6-Chrysoviridae-HMM1-126_89.0-ORF5
+seq33	>tsa-GFWB01034163.1 TSA: Ambrosia artemisiifolia TRINITY_DN3933_c0_g1_i1 transcribed RNA sequence-table1-Chrysoviridae-HMM1-593_83.0-ORF19
+seq34	>tsa-GFWS01071771.1 TSA: Ambrosia artemisiifolia TRINITY_DN13061_c0_g1_i1 transcribed RNA sequence-table6-Chrysoviridae-HMM2-363_61.0-ORF21
+seq35	>tsa-GFWS01071773.1 TSA: Ambrosia artemisiifolia TRINITY_DN13061_c0_g3_i1 transcribed RNA sequence-table1-Chrysoviridae-HMM337-573_41.0-ORF17
+seq36	>tsa-GEOH01197147.1 (REVERSE SENSE) TSA: Ambrosia trifida comp287448_c0_seq1 transcribed RNA sequence-table6-Chrysoviridae-HMM388-981_48.0-ORF88
+seq37	>tsa-GCRZ01034361.1 (REVERSE SENSE) TSA: Camellia taliensis CtaTrans37938 transcribed RNA sequence-table4-Chrysoviridae-HMM86-658_73.0-ORF60
+seq38	>tsa-GDQF01141756.1 (REVERSE SENSE) TSA: Erigeron breviscapus c90615_g1_i1 transcribed RNA sequence-table1-Chrysoviridae-HMM11-248_95.0-ORF19
+seq39	>tsa-GDQF01168856.1 (REVERSE SENSE) TSA: Erigeron breviscapus c118604_g1_i1 transcribed RNA sequence-table1-Chrysoviridae-HMM3-139_97.0-ORF11
+seq40	>tsa-GDQF01175007.1 (REVERSE SENSE) TSA: Erigeron breviscapus c124987_g1_i1 transcribed RNA sequence-table1-Chrysoviridae-HMM1-106_64.0-ORF11
+seq41	>tsa-GCTP01042747.1 (REVERSE SENSE) TSA: Festuca arundinacea unigene_42911 transcribed RNA sequence-table1-Chrysoviridae-HMM1-247_99.0-ORF20
+seq42	>tsa-GCTP01086719.1 TSA: Festuca arundinacea unigene_87040 transcribed RNA sequence-table1-Chrysoviridae-HMM2-207_98.0-ORF6
+seq43	>tsa-GAWP02030315.1 TSA: Grylloblatta bifratrilecta C196005_a_4_0_l_1024 transcribed RNA sequence-table1-Chrysoviridae-HMM26-339_92.0-ORF10
+seq44	>tsa-HAHA01036386.1 TSA: Haliclystus auricula, contig TRINITY_DN7519_c0_g1_i1, transcribed RNA sequence-table1-Chrysoviridae-HMM39-273_48.0-ORF10
+seq45	>tsa-GBRK01025785.1 (REVERSE SENSE) TSA: Limonium bicolor LB121955_1 transcribed RNA sequence-table1-Chrysoviridae-HMM2-361_65.0-ORF39
+seq46	>tsa-GBRK01025787.1 TSA: Limonium bicolor LB121955_3 transcribed RNA sequence-table1-Chrysoviridae-HMM2-198_98.0-ORF4
+seq47	>tsa-GECQ01307890.1 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.307890 transcribed RNA sequence-table1-Chrysoviridae-HMM1-71_98.0-ORF2
+seq48	>tsa-GASZ01006339.1 TSA: Noccaea caerulescens Nc_isotig06317_isogroup02885 transcribed RNA sequence-table6-Chrysoviridae-HMM3-535_71.0-ORF23
+seq49	>tsa-GFCG01062349.1 TSA: Silene dioica TR25338_c0_g1_i1 transcribed RNA sequence-table4-Chrysoviridae-HMM381-976_50.0-ORF45
+seq50	>tsa-GEYV01018942.1 TSA: Silene grisebachii c20182_g1_i1 transcribed RNA sequence-table6-Chrysoviridae-HMM374-969_50.0-ORF38
+seq51	>tsa-GBZQ01015705.1 (REVERSE SENSE) TSA: Zea nicaraguensis comp36280_c0_seq1 transcribed RNA sequence-table6-Chrysoviridae-HMM360-935_49.0-ORF87

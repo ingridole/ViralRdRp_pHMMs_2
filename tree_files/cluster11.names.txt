@@ -1,0 +1,325 @@
+seq1	>ref-NC_001837.1 Hepatitis GB virus A, complete genome-table6-Flaviviridae-HMM2648-3052_12.0-ORF95
+seq2	>ref-NC_005064.1 Kamiti River virus, complete genome-table4-Flaviviridae-HMM2861-3292_12.0-ORF91
+seq3	>ref-NC_003678.1 Pestivirus giraffe-1 H138 complete genome-table4-Flaviviridae-HMM3444-3897_11.0-ORF136
+seq4	>ref-NC_006551.1 Usutu virus, complete cds-table6-Flaviviridae-HMM2913-3358_12.0-ORF112
+seq5	>ref-NC_005062.1 Omsk hemorrhagic fever virus, complete genome-table6-Flaviviridae-HMM2908-3339_12.0-ORF121
+seq6	>ref-NC_002032.1 Bovine viral diarrhea virus genotype 2, complete genome-table4-Flaviviridae-HMM3350-3803_11.0-ORF135
+seq7	>ref-NC_002031.1 Yellow fever virus, complete genome-table6-Flaviviridae-HMM2932-3179_7.0-ORF115
+seq8	>ref-NC_006947.1 Karshi virus, complete genome-table6-Flaviviridae-HMM2905-3342_12.0-ORF116
+seq9	>ref-NC_005039.1 Yokose virus, complete genome-table4-Flaviviridae-HMM2923-3168_7.0-ORF92
+seq10	>ref-NC_003687.1 Powassan virus, complete genome-table6-Flaviviridae-HMM2912-3160_7.0-ORF111
+seq11	>ref-NC_003690.1 Langat virus, complete genome-table4-Flaviviridae-HMM2942-3371_12.0-ORF72
+seq12	>ref-NC_003635.1 Modoc virus, complete genome-table6-Flaviviridae-HMM2897-3329_12.0-ORF105
+seq13	>ref-NC_001563.2 West Nile virus lineage 2, complete genome-table6-Flaviviridae-HMM2933-3186_7.0-ORF118
+seq14	>ref-NC_001461.1 Bovine viral diarrhea virus 1, complete genome-table4-Flaviviridae-HMM3452-3905_11.0-ORF140
+seq15	>ref-NC_003996.1 Tamana bat virus, genome-table6-Flaviviridae-HMM2859-3281_12.0-ORF111
+seq16	>ref-NC_004119.1 Montana myotis leukoencephalitis virus, complete genome-table6-Flaviviridae-HMM2906-3333_12.0-ORF114
+seq17	>ref-NC_004102.1 Hepatitis C virus genotype 1, complete genome-table4-Flaviviridae-HMM2497-2924_14.0-ORF74
+seq18	>ref-NC_001710.1 GB virus C/Hepatitis G virus, complete genome-table4-Flaviviridae-HMM2400-2810_13.0-ORF70
+seq19	>ref-NC_001477.1 Dengue virus 1, complete genome-table6-Flaviviridae-HMM2904-3345_12.0-ORF108
+seq20	>ref-NC_001437.1 Japanese encephalitis virus, genome-table6-Flaviviridae-HMM2927-3181_7.0-ORF104
+seq21	>ref-NC_001564.2 Cell fusing agent virus strain Galveston, complete genome-table4-Flaviviridae-HMM2864-3292_12.0-ORF95
+seq22	>ref-NC_001655.1 Hepatitis GB virus B, complete genome-table6-Flaviviridae-HMM2354-2776_14.0-ORF94
+seq23	>ref-NC_003675.1 Rio Bravo virus, genome-table6-Flaviviridae-HMM2868-3299_12.0-ORF113
+seq24	>ref-NC_003679.1 Border disease virus X818, complete genome-table6-Flaviviridae-HMM3415-3868_11.0-ORF135
+seq25	>ref-NC_001672.1 Tick-borne encephalitis virus, complete genome-table6-Flaviviridae-HMM2908-3339_12.0-ORF117
+seq26	>ref-NC_001809.1 Louping ill virus, complete genome-table6-Flaviviridae-HMM2908-3339_12.0-ORF117
+seq27	>ref-NC_003676.1 Apoi virus, genome-table6-Flaviviridae-HMM2867-3290_12.0-ORF119
+seq28	>ref-NC_004355.1 Alkhurma virus, complete genome-table6-Flaviviridae-HMM2917-3341_12.0-ORF113
+seq29	>ref-NC_000943.1 Murray Valley encephalitis virus, complete genome-table6-Flaviviridae-HMM2913-3166_7.0-ORF111
+seq30	>ref-NC_002657.1 Classical swine fever virus, complete genome-table4-Flaviviridae-HMM3354-3807_11.0-ORF136
+seq31	>ref-NC_002640.1 Dengue virus 4, complete genome-table6-Flaviviridae-HMM2901-3152_7.0-ORF111
+seq32	>ref-NC_001475.2 Dengue virus 3, complete genome-table6-Flaviviridae-HMM2902-3151_7.0-ORF105
+seq33	>ref-NC_007580.2 St. Louis encephalitis virus, complete genome-table6-Flaviviridae-HMM2938-3191_7.0-ORF123
+seq34	>ref-NC_008719.1 Sepik virus, complete genome-table6-Flaviviridae-HMM2922-3171_7.0-ORF115
+seq35	>ref-NC_032088.1 New Mapoon virus, complete cds-table6-Flaviviridae-HMM2917-3168_7.0-ORF104
+seq36	>ref-NC_008604.2 Culex flavivirus, complete genome-table4-Flaviviridae-HMM2882-3308_12.0-ORF73
+seq37	>ref-NC_008718.1 Entebbe bat virus, complete genome-table6-Flaviviridae-HMM2937-3368_12.0-ORF118
+seq38	>ref-NC_009028.2 Ilheus virus, complete genome-table6-Flaviviridae-HMM2935-3183_7.0-ORF113
+seq39	>ref-NC_009823.1 Hepatitis C virus genotype 2, complete genome-table6-Flaviviridae-HMM2520-2947_13.0-ORF86
+seq40	>ref-NC_001474.2 Dengue virus 2, complete genome-table6-Flaviviridae-HMM2912-3345_12.0-ORF106
+seq41	>ref-NC_009827.1 Hepatitis C virus genotype 6, complete genome-table6-Flaviviridae-HMM2505-2933_13.0-ORF81
+seq42	>ref-NC_009026.2 Bussuquara virus, complete genome-table4-Flaviviridae-HMM2946-3192_7.0-ORF93
+seq43	>ref-NC_009826.1 Hepatitis C virus genotype 5, genome-table4-Flaviviridae-HMM2500-2927_14.0-ORF97
+seq44	>ref-NC_009825.1 Hepatitis C virus genotype 4, genome-table6-Flaviviridae-HMM2495-2922_14.0-ORF89
+seq45	>ref-NC_009824.1 Hepatitis C virus genotype 3, genome-table4-Flaviviridae-HMM2507-2934_13.0-ORF93
+seq46	>ref-NC_009942.1 West Nile virus lineage 1, complete genome-table6-Flaviviridae-HMM2936-3189_7.0-ORF112
+seq47	>ref-NC_012532.1 Zika virus isolate ZIKV/Monkey/Uganda/MR766/1947, complete genome-table6-Flaviviridae-HMM2941-3185_6.0-ORF122
+seq48	>ref-NC_012671.1 Quang Binh virus, complete genome-table6-Flaviviridae-HMM2872-3298_12.0-ORF105
+seq49	>ref-NC_012534.1 Bagaza virus, complete genome-table6-Flaviviridae-HMM2924-3178_7.0-ORF130
+seq50	>ref-NC_012735.1 Wesselsbron virus, complete genome-table6-Flaviviridae-HMM2892-3141_7.0-ORF119
+seq51	>ref-NC_012533.1 Kedougou virus, complete genome-table4-Flaviviridae-HMM2926-3364_12.0-ORF98
+seq52	>ref-NC_012812.1 Bovine viral diarrhea virus 3 Th/04_KhonKaen, complete genome-table6-Flaviviridae-HMM3469-3923_11.0-ORF134
+seq53	>ref-NC_012932.1 Aedes flavivirus genomic RNA, complete genome, strain: Narita-21-table6-Flaviviridae-HMM2856-3281_12.0-ORF106
+seq54	>ref-NC_016997.1 Donggang virus, complete genome-table6-Flaviviridae-HMM2966-3207_6.0-ORF112
+seq55	>ref-NC_015843.2 Tembusu virus flavivirus polyprotein (flavivirus polyprotein gene) gene, complete cds-table6-Flaviviridae-HMM2942-3192_6.0-ORF123
+seq56	>ref-NC_017086.1 Chaoyang virus, complete genome-table4-Flaviviridae-HMM2929-3174_7.0-ORF99
+seq57	>ref-NC_018705.3 Ntaya virus, complete cds-table6-Flaviviridae-HMM2936-3183_6.0-ORF122
+seq58	>ref-NC_018713.1 Pestivirus strain Aydin/04-TR, complete genome-table6-Flaviviridae-HMM3394-3848_11.0-ORF141
+seq59	>ref-NC_020902.1 Equine Pegivirus 1 isolate C0035, complete genome-table6-Flaviviridae-HMM2927-3337_11.0-ORF103
+seq60	>ref-NC_021153.1 Rodent hepacivirus isolate RHV-339, complete genome-table6-Flaviviridae-HMM2296-2718_14.0-ORF83
+seq61	>ref-NC_021069.1 Mosquito flavivirus isolate LSFlaviV-A20-09, complete genome-table6-Flaviviridae-HMM2884-3311_12.0-ORF101
+seq62	>ref-NC_021154.1 Rodent pegivirus isolate CC61, complete genome-table6-Flaviviridae-HMM2996-3406_11.0-ORF94
+seq63	>ref-NC_023424.1 Tyuleniy virus strain LEIV-6C polyprotein gene, complete cds-table6-Flaviviridae-HMM2931-3363_12.0-ORF113
+seq64	>ref-NC_023439.1 Kama virus strain LEIV-20776Tat polyprotein gene, complete cds-table6-Flaviviridae-HMM2913-3345_12.0-ORF115
+seq65	>ref-NC_023176.1 Porcine pestivirus isolate Bungowannah, complete genome-table6-Flaviviridae-HMM3373-3827_11.0-ORF144
+seq66	>ref-NC_024018.2 Pronghorn antelope pestivirus, complete genome-table6-Flaviviridae-HMM3364-3818_11.0-ORF138
+seq67	>ref-NC_024113.1 Jingmen Tick Virus isolate SY84 segment 1, complete sequence-table6-Flaviviridae-HMM468-816_35.0-ORF25
+seq68	>ref-NC_024017.1 Nhumirim virus strain BrMS-MQ10, complete genome-table4-Flaviviridae-HMM2940-3181_6.0-ORF90
+seq69	>ref-NC_024377.1 Simian pegivirus isolate SPgVkrc_RC08 polyprotein precursor, gene, complete cds-table6-Flaviviridae-HMM2491-2899_13.0-ORF104
+seq70	>ref-NC_024805.1 Ilomantsi virus isolate M0724 polyprotein gene, complete cds-table6-Flaviviridae-HMM2938-3181_7.0-ORF112
+seq71	>ref-NC_024889.1 Equine hepacivirus JPN3/JAPAN/2013 gene for polyprotein, complete cds-table6-Flaviviridae-HMM2432-2858_14.0-ORF84
+seq72	>ref-NC_024299.2 Nienokoue virus isolate B51/CI/2004, complete genome-table6-Flaviviridae-HMM2876-3307_12.0-ORF119
+seq73	>ref-NC_025673.1 Norway rat hepacivirus 2 isolate NrHV-2/NYC-E43 polyprotein gene, complete cds-table6-Flaviviridae-HMM2338-2761_14.0-ORF81
+seq74	>ref-NC_025677.1 Norway rat pestivirus isolate NrPV/NYC-D23 polyprotein gene, complete cds-table6-Flaviviridae-HMM3559-3944_9.0-ORF141
+seq75	>ref-NC_024806.1 Lammi virus isolate M0719 polyprotein gene, complete cds-table6-Flaviviridae-HMM2920-3352_12.0-ORF111
+seq76	>ref-NC_025672.1 Norway rat hepacivirus 1 isolate NrHV-1/NYC-C12 polyprotein gene, complete cds-table6-Flaviviridae-HMM2477-2893_13.0-ORF88
+seq77	>ref-NC_025679.1 Norway rat pegivirus isolate NrPgV/NYC-E13 polyprotein gene, complete cds-table6-Flaviviridae-HMM2836-3246_12.0-ORF91
+seq78	>ref-NC_026623.1 Cacipacore virus flavivirus polyprotein (flavivirus polyprotein gene) and truncated polyprotein (flavivirus polyprotein gene) genes, complete cds-table6-Flaviviridae-HMM2904-3346_12.0-ORF111
+seq79	>ref-NC_026620.1 Jutiapa virus strain JG-128, complete genome-table6-Flaviviridae-HMM2868-3294_12.0-ORF113
+seq80	>ref-NC_026624.1 Sokoluk virus strain LEIV-400K, complete genome-table6-Flaviviridae-HMM2896-3140_7.0-ORF119
+seq81	>ref-NC_026797.1 Bovine hepacivirus isolate GHC25 polyprotein gene, complete cds-table4-Flaviviridae-HMM2332-2753_14.0-ORF70
+seq82	>ref-NC_027709.1 Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome-table4-Flaviviridae-HMM2941-3372_12.0-ORF80
+seq83	>ref-NC_027817.1 Parramatta River virus isolate 92-B115745, complete genome-table6-Flaviviridae-HMM2884-3315_12.0-ORF111
+seq84	>ref-NC_027819.1 Mercadeo virus isolate ER-M10, complete genome-table4-Flaviviridae-HMM2921-3351_12.0-ORF86
+seq85	>ref-NC_027998.2 Human pegivirus 2 isolate UC0125.US polyprotein gene, complete cds-table4-Flaviviridae-HMM2661-3070_12.0-ORF81
+seq86	>ref-NC_027999.1 Paraiso Escondido virus isolate Ecuador2012, complete genome-table6-Flaviviridae-HMM2960-3200_6.0-ORF115
+seq87	>ref-NC_028369.1 Shayang spider virus 4 strain SYZZ-1 polyprotein gene, complete cds-table6-Flaviviridae-HMM6440-6805_5.0-ORF216
+seq88	>ref-NC_028382.1 Wuhan aphid virus 2 strain WHYC-2 segment 1, complete sequence-table6-Flaviviridae-HMM454-862_41.0-ORF30
+seq89	>ref-NC_028377.1 Wenling shark virus, complete cds-table6-Flaviviridae-HMM2592-3019_13.0-ORF98
+seq90	>ref-NC_028388.1 Wuhan aphid virus 1 strain WHYC-1 segment 1, complete sequence-table6-Flaviviridae-HMM443-806_35.0-ORF35
+seq91	>ref-NC_028396.1 Shuangao insect virus 7 strain SKC segment 1, complete sequence-table4-Flaviviridae-HMM438-818_40.0-ORF35
+seq92	>ref-NC_028400.1 Wuhan cricket virus strain WHXS-1 segment 1, complete sequence-table4-Flaviviridae-HMM435-819_37.0-ORF37
+seq93	>ref-NC_028398.1 Wuhan flea virus strain WHZM segment 1, complete sequence-table6-Flaviviridae-HMM458-828_38.0-ORF36
+seq94	>ref-NC_029055.1 Spondweni virus, complete genome-table6-Flaviviridae-HMM2907-3344_12.0-ORF113
+seq95	>ref-NC_030228.1 Xinzhou spider virus 3 strain XZZZ-3 polyprotein gene, complete cds-table6-Flaviviridae-HMM6138-6507_5.0-ORF196
+seq96	>ref-NC_030289.1 Edge Hill virus strain YMP 48 polyprotein gene, complete cds-table6-Flaviviridae-HMM2883-3317_12.0-ORF117
+seq97	>ref-NC_030290.1 Culiseta flavivirus strain 502-13, complete genome-table6-Flaviviridae-HMM2909-3343_12.0-ORF107
+seq98	>ref-NC_030291.1 GB virus D strain 68 polyprotein precursor, gene, complete cds-table6-Flaviviridae-HMM2607-3023_12.0-ORF98
+seq99	>ref-NC_030401.1 Hanko virus polyprotein gene, complete cds-table6-Flaviviridae-HMM2868-3294_12.0-ORF109
+seq100	>ref-NC_030400.1 Nakiwogo virus strain Uganda08 polyprotein gene, partial cds-table6-Flaviviridae-HMM2860-3292_12.0-ORF111
+seq101	>ref-NC_030653.1 Atypical porcine pestivirus 1 isolate Bavaria S5/9 polyprotein gene, complete cds-table6-Flaviviridae-HMM3079-3508_11.0-ORF118
+seq102	>ref-NC_030791.1 Hepatitis C virus genotype 7, complete genome-table6-Flaviviridae-HMM2500-2927_14.0-ORF84
+seq103	>ref-NC_029054.2 Potiskum virus strain IBAN 10069 polyprotein gene, complete cds-table6-Flaviviridae-HMM2874-3119_7.0-ORF113
+seq104	>ref-NC_031327.1 Anopheles flavivirus variant 1, complete genome-table4-Flaviviridae-HMM2861-3291_12.0-ORF101
+seq105	>ref-NC_031947.1 Bat hepacivirus isolate PDB-452 polyprotein gene, complete cds-table4-Flaviviridae-HMM2513-2937_13.0-ORF83
+seq106	>ref-NC_031950.1 Guereza hepacivirus, complete sequence-table6-Flaviviridae-HMM2808-3233_12.0-ORF101
+seq107	>ref-NC_033694.1 Palm Creek virus isolate 56 polyprotein gene, complete cds-table4-Flaviviridae-HMM2852-3283_12.0-ORF97
+seq108	>ref-NC_033723.1 Gadgets Gully virus from Australia polyprotein gene, complete cds-table6-Flaviviridae-HMM2901-3330_12.0-ORF108
+seq109	>ref-NC_033715.1 Nounane virus polyprotein mRNA, complete cds-table6-Flaviviridae-HMM2943-3382_12.0-ORF114
+seq110	>ref-NC_033698.1 Uganda S virus polyprotein gene, complete cds-table6-Flaviviridae-HMM2878-3127_7.0-ORF115
+seq111	>ref-NC_033726.1 Saumarez Reef virus from Australia polyprotein gene, complete cds-table6-Flaviviridae-HMM2909-3334_12.0-ORF104
+seq112	>ref-NC_033699.1 Jugra virus strain P-9-314 polyprotein gene, complete cds-table6-Flaviviridae-HMM2876-3119_7.0-ORF107
+seq113	>ref-NC_033697.1 Saboya virus strain Dak AR D4600 polyprotein gene, complete cds-table6-Flaviviridae-HMM2874-3119_7.0-ORF117
+seq114	>ref-NC_033725.1 Bamaga virus isolate CY4270 polyprotein gene, complete cds-table6-Flaviviridae-HMM2888-3131_7.0-ORF112
+seq115	>ref-NC_033724.1 Kadam virus from Uganda polyprotein gene, complete cds-table6-Flaviviridae-HMM2889-3318_12.0-ORF121
+seq116	>ref-NC_033693.1 Bouboui virus strain DAK AR B490 polyprotein gene, complete cds-table6-Flaviviridae-HMM2875-3120_7.0-ORF106
+seq117	>ref-NC_033721.1 Meaban virus from France polyprotein gene, complete cds-table6-Flaviviridae-HMM2903-3336_12.0-ORF112
+seq118	>ref-NC_034018.1 Yaounde virus strain Dak Ar Y276 polyprotein gene, complete cds-table4-Flaviviridae-HMM2907-3351_12.0-ORF83
+seq119	>ref-NC_034007.1 Phnom Penh bat virus strain 30834_A38, complete genome-table4-Flaviviridae-HMM2874-3298_12.0-ORF111
+seq120	>ref-NC_034017.1 Xishuangbanna aedes flavivirus, complete genome-table6-Flaviviridae-HMM2921-3353_12.0-ORF119
+seq121	>ref-NC_034204.1 Menghai flavivirus isolate MHAedFV1, complete genome-table6-Flaviviridae-HMM2938-3370_12.0-ORF114
+seq122	>ref-NC_034222.1 Mogiana tick virus isolate MGTV/V4/11 segment 1, complete sequence-table6-Flaviviridae-HMM467-812_35.0-ORF25
+seq123	>ref-NC_034242.1 Ochlerotatus caspius flavivirus isolate 1608 polyprotein gene, complete cds-table6-Flaviviridae-HMM2881-3306_12.0-ORF116
+seq124	>ref-NC_034151.1 T'Ho virus strain T'Ho-Mex07, complete genome-table6-Flaviviridae-HMM2909-3162_7.0-ORF124
+seq125	>ref-NC_034442.1 Pegivirus K isolate PPgV_903/Ger/2013 polyprotein gene, complete cds-table6-Flaviviridae-HMM2489-2902_13.0-ORF90
+seq126	>ref-NC_035118.1 Karumba virus isolate KRBV 1892, complete genome-table6-Flaviviridae-HMM2842-3273_12.0-ORF107
+seq127	>ref-NC_035187.1 Mac Peak virus isolate McPV 150840 polyprotein gene, complete cds-table6-Flaviviridae-HMM2826-3252_12.0-ORF111
+seq128	>ref-NC_035432.1 Linda virus strain Austria1, complete genome-table6-Flaviviridae-HMM3369-3823_11.0-ORF139
+seq129	>ref-NC_009029.2 Kokobera virus, complete genome-table4-Flaviviridae-HMM2909-3160_7.0-ORF107
+seq130	>ref-NC_035889.1 Zika virus isolate ZIKV/H. sapiens/Brazil/Natal/2015, complete genome-table6-Flaviviridae-HMM2932-3359_11.0-ORF120
+seq131	>ref-NC_031916.1 Hepacivirus L isolate PDB-112 polyprotein gene, complete cds-table6-Flaviviridae-HMM2427-2855_14.0-ORF86
+seq132	>nrnt-KX883002 Changjiang Jingmen-like virus strain CJLX28200 NS5-like protein gene, complete cds.-table4-Flaviviridae-HMM453-815_37.0-ORF40
+seq133	>nrnt-KT966498 Guaico Culex virus strain BrMS-MQ10 segment 1 NSP1 protein gene, complete cds.-table6-Flaviviridae-HMM469-844_38.0-ORF30
+seq134	>nrnt-KF298267 Uncultured virus isolate acc_7.2 polyprotein gene, partial cds.-table1-Flaviviridae-HMM1699-2128_19.0-ORF49
+seq135	>nrnt-KC796088 Pegivirus I isolate PDB-1715 polyprotein gene, complete cds.-table4-Flaviviridae-HMM2564-2979_13.0-ORF80
+seq136	>nrnt-KC796076 Pegivirus G isolate PDB-620 polyprotein gene, complete cds.-table6-Flaviviridae-HMM2979-3389_11.0-ORF106
+seq137	>nrnt-MG600414 Rodent hepacivirus isolate 05VZ-14-118 polyprotein gene, complete cds.-table6-Flaviviridae-HMM2273-2688_14.0-ORF87
+seq138	>nrnt-MG600416 Rodent pegivirus isolate 05VZ-14-Rat070 polyprotein gene, complete cds.-table6-Flaviviridae-HMM2897-3305_12.0-ORF87
+seq139	>nrnt-MG599999 Chinese softshell turtle hepacivirus strain WHJYGF75270 polyprotein gene, partial cds.-table6-Flaviviridae-HMM2463-2885_13.0-ORF94
+seq140	>nrnt-MG599983 Wenling pesti-like virus 2 strain DHHSYSCGS2055 polyprotein gene, partial cds.-table6-Flaviviridae-HMM3692-4058_8.0-ORF117
+seq141	>nrnt-MG600000 Chinese broad-headed pond turtle hepacivirus strain WHWGGF64311 polyprotein gene, complete cds.-table4-Flaviviridae-HMM2361-2782_14.0-ORF97
+seq142	>nrnt-MG599997 Nanhai ghost shark hepacivirus 2 strain NHYJG60710 polyprotein gene, complete cds.-table6-Flaviviridae-HMM2785-3214_12.0-ORF101
+seq143	>nrnt-MG599994 Guangxi houndshark hepacivirus strain NHJSG30635 polyprotein gene, complete cds.-table6-Flaviviridae-HMM2589-3023_13.0-ORF86
+seq144	>nrnt-MG599992 Xiamen sepia Stingray hepacivirus strain DHHHBHGS10983 polyprotein gene, complete cds.-table4-Flaviviridae-HMM2891-3314_12.0-ORF109
+seq145	>nrnt-MG599988 Guangxi chinese leopard gecko hepacivirus strain PXJHG3419 polyprotein gene, complete cds.-table6-Flaviviridae-HMM3505-3928_10.0-ORF108
+seq146	>nrnt-MG599987 Yili teratoscincus roborowskii hepacivirus strain YLSHG5584 polyprotein gene, complete cds.-table6-Flaviviridae-HMM3267-3689_10.0-ORF115
+seq147	>nrnt-MG599986 Wenzhou shark flavivirus strain WZSS16343 polyprotein gene, complete cds.-table4-Flaviviridae-HMM2963-3361_11.0-ORF108
+seq148	>nrnt-MF167292 Atypical porcine pestivirus 1 isolate CN-CQ_11/39 polyprotein gene, complete cds.-table6-Flaviviridae-HMM3048-3482_12.0-ORF124
+seq149	>nrnt-KY370102 Rodent pestivirus isolate RtAd-PestV/SAX2015 polyprotein gene, partial cds.-table1-Flaviviridae-HMM3428-3848_10.0-ORF113
+seq150	>nrnt-KY370101 Rodent pestivirus isolate RtNn-PestV/HuB2014 polyprotein gene, complete cds.-table6-Flaviviridae-HMM3686-4070_8.0-ORF136
+seq151	>nrnt-KY370100 Rodent pestivirus isolate RtAp-PestV/JL2014 polyprotein gene, complete cds.-table6-Flaviviridae-HMM3461-3914_11.0-ORF132
+seq152	>nrnt-KY370099 Rodent pestivirus isolate RtNe-PestV/SC2014 polyprotein gene, partial cds.-table6-Flaviviridae-HMM3610-3853_6.0-ORF130
+seq153	>nrnt-KY370095 Rodent hepacvirus isolate RtDs-HCV/IM2014 polyprotein gene, partial cds.-table4-Flaviviridae-HMM2385-2807_14.0-ORF93
+seq154	>nrnt-KY370094 Rodent hepacvirus isolate RtMc-HCV/Tibet2014 polyprotein gene, complete cds.-table4-Flaviviridae-HMM2259-2681_15.0-ORF68
+seq155	>nrnt-KY370093 Rodent hepacvirus isolate RtCb-HCV/HeB2014 polyprotein gene, partial cds.-table1-Flaviviridae-HMM1498-1925_22.0-ORF69
+seq156	>nrnt-KY370092 Rodent hepacvirus isolate RtMm-HCV/IM2014 polyprotein gene, partial cds.-table6-Flaviviridae-HMM2597-2987_13.0-ORF80
+seq157	>nrnt-KY370091 Rodent hepacvirus isolate RtAs-HCV/IM2014 polyprotein gene, complete cds.-table6-Flaviviridae-HMM2522-2948_13.0-ORF89
+seq158	>nrnt-MF776369 Cyclopterus lumpus virus isolate R170217-6L polyprotein gene, complete cds.-table6-Flaviviridae-HMM1693-2113_18.0-ORF103
+seq159	>nrnt-KY703856 West Nile virus isolate ArD94343/1992/SN polyprotein gene, complete cds.-table6-Flaviviridae-HMM2910-3163_7.0-ORF114
+seq160	>nrnt-KY703855 West Nile virus isolate ArD96655/1993/SN polyprotein gene, complete cds.-table6-Flaviviridae-HMM2910-3163_7.0-ORF112
+seq161	>nrnt-KY964311 Bovine viral diarrhea virus type 1b isolate Y2, complete genome.-table4-Flaviviridae-HMM3362-3815_11.0-ORF134
+seq162	>nrnt-KY320648 Kampung Karu virus isolate SWK_P44, complete genome.-table6-Flaviviridae-HMM2913-3170_7.0-ORF118
+seq163	>nrnt-KY290256 Long Pine Key virus strain EVG 5-72 polyprotein gene, complete cds.-table6-Flaviviridae-HMM2942-3373_12.0-ORF115
+seq164	>nrnt-MF461639 Rocio virus strain SPH 34675, complete genome.-table6-Flaviviridae-HMM2919-3358_12.0-ORF114
+seq165	>nrnt-LT907991 Bovine viral diarrhea virus 1 isolate VE/138cp/05 genome assembly, chromosome: viral_cRNA.-table4-Flaviviridae-HMM3503-3956_11.0-ORF138
+seq166	>nrnt-MF102260 Border disease virus isolate R4785/06, complete genome.-table6-Flaviviridae-HMM3465-3918_11.0-ORF140
+seq167	>nrnt-MF139576 Marisma mosquito virus strain HU4528/07, complete genome.-table6-Flaviviridae-HMM2964-3217_7.0-ORF108
+seq168	>nrnt-MF139575 Nanay virus strain PRD316/PER/09, complete genome.-table6-Flaviviridae-HMM2942-3191_7.0-ORF106
+seq169	>nrnt-KY072986 Panmunjeom flavivirus strain A12.3025/ROK/2012 polyprotein gene, complete cds.-table6-Flaviviridae-HMM2964-3211_7.0-ORF112
+seq170	>nrnt-KT069219 Tick-borne encephalitis virus isolate Primorye-1001, complete genome.-table6-Flaviviridae-HMM2877-3309_12.0-ORF119
+seq171	>nrnt-KX669682 Calbertado virus isolate Cal_mos_2 polyprotein gene, complete cds.-table6-Flaviviridae-HMM2896-3323_12.0-ORF102
+seq172	>nrnt-KC411784 Hepacivirus F isolate Hepacivirus/NLR07-oct70/NEL/2007 polyprotein gene, complete cds.-table6-Flaviviridae-HMM2432-2854_14.0-ORF91
+seq173	>nrnt-KC411777 Hepacivirus J isolate Hepacivirus/RMU10-3382/GER/2010 polyprotein gene, complete cds.-table4-Flaviviridae-HMM2537-2965_13.0-ORF91
+seq174	>nrnt-KC796074 Hepacivirus K isolate PDB-829 polyprotein gene, complete cds.-table6-Flaviviridae-HMM2512-2937_13.0-ORF91
+seq175	>nrnt-KY923048 Dengue virus 2 isolate D2Sab2015, complete genome.-table4-Flaviviridae-HMM2895-3323_12.0-ORF97
+seq176	>nrnt-LT837585 Bovine viral diarrhea virus 1 genome assembly, chromosome: viral_cRNA.-table4-Flaviviridae-HMM3362-3815_11.0-ORF139
+seq177	>nrnt-KU705226 UNVERIFIED: Japanese encephalitis virus isolate M 178 genomic sequence.-table4-Flaviviridae-HMM285-538_31.0-ORF52
+seq178	>nrnt-KX652378 Mosquito flavivirus isolate 599, complete genome.-table6-Flaviviridae-HMM2874-3302_12.0-ORF97
+seq179	>nrnt-AB558134 Bovine viral diarrhea virus 1 gene for polyprotein, complete cds, strain: NoseE-.-table4-Flaviviridae-HMM3725-4178_10.0-ORF137
+seq180	>nrnt-KX245154 Cuacua virus isolate MZ2014-Cv polyprotein gene, partial cds.-table1-Flaviviridae-HMM2810-3242_13.0-ORF118
+seq181	>nrnt-KX268355 Yellow fever virus isolate CNYF01R/2016, complete genome.-table4-Flaviviridae-HMM2919-3163_7.0-ORF95
+seq182	>nrnt-KU563155 Bovine viral diarrhea virus 3 isolate HN1507, complete genome.-table6-Flaviviridae-HMM3574-4028_10.0-ORF139
+seq183	>nrnt-DQ400858 Ngoye virus polyprotein gene, partial cds.-table1-Flaviviridae-HMM1251-1386_9.0-ORF43
+seq184	>nrnt-AF144618 Pestivirus reindeer-1 V60-Krefeld complete genome.-table6-Flaviviridae-HMM3452-3906_11.0-ORF141
+seq185	>nrnt-AY167442 Ilheus virus NS5 protein (NS5) gene, partial cds.-table1-Flaviviridae-HMM426-636_23.0-ORF32
+seq186	>nrnt-AY167441 Iguape virus NS5 protein (NS5) gene, partial cds.-table1-Flaviviridae-HMM391-580_21.0-ORF32
+seq187	>nrnt-LC089876 Bovine viral diarrhea virus 1 genomic RNA, complete genome, strain: Shitara/02/06.-table4-Flaviviridae-HMM3362-3815_11.0-ORF142
+seq188	>nrnt-AB981186 Mosquito flavivirus gene for polyprotein, complete cds, strain: YDFV/Oct/2013.-table4-Flaviviridae-HMM2850-3281_12.0-ORF69
+seq189	>nrnt-HZ038019 JP 2015091247-A/33: ATTENUATED VIRUSES USEFUL FOR VACCINES.-table6-Flaviviridae-HMM2904-3345_12.0-ORF83
+seq190	>nrnt-KP757924 Drosophila-associated Flavivirus-like 2 clone DmelFlaviLike_2 genomic sequence.-table6-Flaviviridae-HMM419-800_38.0-ORF32
+seq191	>nrnt-KP757923 Drosophila-associated Flavivirus-like 1 clone DmelFlaviLike_1 genomic sequence.-table6-Flaviviridae-HMM439-816_40.0-ORF35
+seq192	>nrnt-HM047196 Bat GB-like virus JFD-2011 strain BtGBV/S60/Eid_hel/GH/2009 polyprotein gene, complete cds.-table6-Flaviviridae-HMM2714-3129_12.0-ORF90
+seq193	>nrnt-KJ463423 Border disease virus isolate Coos Bay 5 c, complete genome.-table6-Flaviviridae-HMM3511-3964_10.0-ORF150
+seq194	>nrnt-AF145967 Bovine viral diarrhea virus genotype 2 strain 1373 polyprotein gene, complete cds.-table4-Flaviviridae-HMM3376-3830_11.0-ORF137
+seq195	>nrnt-KF917538 Naranjal virus strain 25008, complete genome.-table6-Flaviviridae-HMM2906-3344_12.0-ORF116
+seq196	>nrnt-KF917535 Aroa virus strain Macaray 01809, complete genome.-table6-Flaviviridae-HMM2902-3143_7.0-ORF110
+seq197	>nrnt-KP296858 Simian pegivirus isolate VGA00020, complete genome.-table6-Flaviviridae-HMM2459-2866_13.0-ORF100
+seq198	>nrnt-LC006970 Bovine viral diarrhea virus 2 genomic RNA, complete genome, strain: KZ-91-CP.-table6-Flaviviridae-HMM3576-4029_10.0-ORF148
+seq199	>nrnt-KM225265 Torres virus strain TS5273, complete genome.-table4-Flaviviridae-HMM2921-3169_7.0-ORF99
+seq200	>nrnt-KM225263 Stratford virus strain C338, complete genome.-table6-Flaviviridae-HMM2901-3145_7.0-ORF120
+seq201	>nrnt-JC603295 Sequence 1 from Patent WO2014070975.-table4-Flaviviridae-HMM2727-3140_12.0-ORF76
+seq202	>nrnt-KJ960231 Tick-borne encephalitis virus strain Neudoerfl variant 2 non-structural protein 5 mRNA, partial cds and 3' UTR.-table6-Flaviviridae-HMM2-94_48.0-ORF6
+seq203	>nrnt-KF991111 Tick-borne encephalitis virus strain Habo-2011 non-structural protein 5 gene, partial cds.-table6-Flaviviridae-HMM2-94_37.0-ORF8
+seq204	>nrnt-KF234530 Simian pegivirus isolate SPgVkob_OB23 polyprotein precursor, gene, complete cds.-table4-Flaviviridae-HMM2460-2868_13.0-ORF69
+seq205	>nrnt-KF234529 Simian pegivirus isolate SPgVkrtg_RT11 polyprotein precursor, gene, complete cds.-table4-Flaviviridae-HMM2393-2800_13.0-ORF86
+seq206	>nrnt-KJ660072 Pestivirus PG-2, complete genome.-table4-Flaviviridae-HMM3349-3801_11.0-ORF139
+seq207	>nrnt-KF918753 Border disease virus strain Aveyron, complete genome.-table6-Flaviviridae-HMM3418-3872_11.0-ORF143
+seq208	>nrnt-GQ902940 Border disease virus strain Gifhorn clone pBeloGif3, complete genome.-table4-Flaviviridae-HMM3353-3806_11.0-ORF134
+seq209	>nrnt-KC496020 Barkedji virus isolate 363/11 polyprotein gene, partial cds.-table6-Flaviviridae-HMM2908-3148_7.0-ORF119
+seq210	>nrnt-KF430633 HCV/GBV-B chimeric virus clone M17 polyprotein gene, complete cds.-table6-Flaviviridae-HMM2431-2853_14.0-ORF93
+seq211	>nrnt-KC757383 Bovine viral diarrhea virus 1 isolate 10JJ-SKR, complete genome.-table4-Flaviviridae-HMM3361-3814_11.0-ORF144
+seq212	>nrnt-KC853441 Bovine viral diarrhea virus 1 isolate SuwaCp, complete genome.-table4-Flaviviridae-HMM3390-3843_11.0-ORF142
+seq213	>nrnt-KC411807 Rodent hepacivirus isolate Hepacivirus/SAR-46/RSA/2008 polyprotein gene, complete cds.-table6-Flaviviridae-HMM2316-2743_14.0-ORF85
+seq214	>nrnt-KC796073 Bat pegivirus isolate PDB-303 polyprotein gene, complete cds.-table6-Flaviviridae-HMM2565-2980_13.0-ORF95
+seq215	>nrnt-KC796093 Bat pegivirus isolate PDB-34.1 polyprotein gene, complete cds.-table6-Flaviviridae-HMM2965-3368_11.0-ORF97
+seq216	>nrnt-KC796089 Bat pegivirus isolate PDB-491.2 polyprotein gene, complete cds.-table6-Flaviviridae-HMM2592-3003_13.0-ORF95
+seq217	>nrnt-KC796087 Bat pegivirus isolate PDB-1734 polyprotein gene, complete cds.-table4-Flaviviridae-HMM2896-3306_11.0-ORF61
+seq218	>nrnt-KC796086 Bat pegivirus isolate PDB-838 polyprotein gene, complete cds.-table4-Flaviviridae-HMM2604-3012_13.0-ORF64
+seq219	>nrnt-KC796084 Bat pegivirus isolate PDB-76.1 polyprotein gene, complete cds.-table6-Flaviviridae-HMM2788-3193_12.0-ORF98
+seq220	>nrnt-KC796082 Bat pegivirus isolate PDB-24 polyprotein gene, complete cds.-table4-Flaviviridae-HMM2643-3056_13.0-ORF54
+seq221	>nrnt-KC796081 Bat pegivirus isolate PDB-737B polyprotein gene, complete cds.-table6-Flaviviridae-HMM2532-2941_13.0-ORF101
+seq222	>nrnt-JQ303102 West Nile virus isolate KLU_181 polyprotein gene, partial cds.-table6-Flaviviridae-HMM1150-1403_15.0-ORF49
+seq223	>nrnt-JQ799141 Bovine viral diarrhea virus 1, complete genome.-table6-Flaviviridae-HMM2-313_99.0-ORF114
+seq224	>nrnt-JQ045672 Dengue virus 2 isolate DENV2/Vietnam/10dx-207-802-3000mg-36hrs polyprotein-like gene, complete sequence.-table6-Flaviviridae-HMM238-670_51.0-ORF105
+seq225	>nrnt-AF013402 San Perlita virus strain 71V-1251 NS5 protein (NS5) gene, partial cds.-table1-Flaviviridae-HMM1-335_99.0-ORF12
+seq226	>nrnt-AF013401 Sal Vieja virus strain 38TWM-106 NS5 protein (NS5) gene, partial cds.-table1-Flaviviridae-HMM1-334_98.0-ORF10
+seq227	>nrnt-AF013371 Dakar bat virus strain 209 NS5 protein (NS5) gene, partial cds.-table1-Flaviviridae-HMM1-335_99.0-ORF10
+seq228	>nrnt-AF013370 Cowbone Ridge virus strain W-10986 NS5 protein (NS5) gene, partial cds.-table1-Flaviviridae-HMM1-335_99.0-ORF12
+seq229	>nrnt-AF013368 Carey Island virus strain P70-1215 NS5 protein (NS5) gene, partial cds.-table1-Flaviviridae-HMM1-335_99.0-ORF12
+seq230	>nrnt-AF013365 Bukalasa bat virus strain UGBP-111 NS5 protein (NS5) gene, partial cds.-table1-Flaviviridae-HMM1-335_99.0-ORF11
+seq231	>nrnt-HI516623 Sequence 1 from Patent EP2162151.-table4-Flaviviridae-HMM3374-3827_11.0-ORF135
+seq232	>nrnt-HI137419 Sequence 22 from Patent EP1989316.-table6-Flaviviridae-HMM3284-3530_6.0-ORF133
+seq233	>nrnt-GU270877 Border disease virus strain H2121 (Chamois-1), complete genome.-table6-Flaviviridae-HMM3366-3819_11.0-ORF144
+seq234	>nrnt-PTU86599 Pestivirus type 1 cytopathic genomic RNA, complete genome.-table6-Flaviviridae-HMM4449-4897_8.0-ORF184
+seq235	>nrnt-FV537263 Modified Microbial Nucleic Acid.-table6-Flaviviridae-HMM69-235_46.0-ORF125
+seq236	>nrnt-FV537259 Modified Microbial Nucleic Acid.-table6-Flaviviridae-HMM233-470_41.0-ORF116
+seq237	>nrnt-FV537410 Modified Microbial Nucleic Acid.-table6-Flaviviridae-HMM5-179_91.0-ORF110
+seq238	>nrnt-FV537354 Modified Microbial Nucleic Acid.-table6-Flaviviridae-HMM2-199_67.0-ORF125
+seq239	>nrnt-FV537323 Modified Microbial Nucleic Acid.-table6-Flaviviridae-HMM87-258_58.0-ORF137
+seq240	>nrnt-FV537223 Modified Microbial Nucleic Acid.-table6-Flaviviridae-HMM79-250_60.0-ORF144
+seq241	>nrnt-FV536935 Modified Microbial Nucleic Acid.-table6-Flaviviridae-HMM2-238_81.0-ORF122
+seq242	>nrnt-DQ859056 Banzi virus strain SAH 336 polyprotein gene, complete cds.-table6-Flaviviridae-HMM2879-3127_7.0-ORF110
+seq243	>nrnt-AF070476 GB virus C variant troglodytes, complete genome.-table4-Flaviviridae-HMM2445-2855_13.0-ORF87
+seq244	>nrnt-AY898809 Alfuy virus strain MRM3929, complete genome.-table6-Flaviviridae-HMM2942-3195_7.0-ORF110
+seq245	>nrnt-BVU18059 Bovine viral diarrhea virus 2 polyprotein gene, complete cds.-table6-Flaviviridae-HMM3449-3902_11.0-ORF143
+seq246	>nrnt-AY765264 West Nile virus strain Rabensburg isolate 97-103, complete genome.-table4-Flaviviridae-HMM2942-3195_7.0-ORF109
+seq247	>nrnt-AB008336 GB virus C genomic RNA, complete genome, strain: F1029.-table4-Flaviviridae-HMM2399-2809_13.0-ORF72
+seq248	>nrnt-AY632538 Iguape virus strain SPAn 71686, complete genome.-table6-Flaviviridae-HMM2935-3178_6.0-ORF105
+seq249	>nrnt-FJ159131 West Nile virus isolate 8_1-05-Uu, complete genome.-table4-Flaviviridae-HMM2930-3183_7.0-ORF85
+seq250	>nrnt-DQ235149 Royal Farm virus from Afghanistan polyprotein gene, complete cds.-table6-Flaviviridae-HMM2898-3335_12.0-ORF122
+seq251	>nrnt-E01149 cDNA to genomic RNA of bovine viral diarrhea virus.-table6-Flaviviridae-HMM2159-2611_16.0-ORF138
+seq252	>nrnt-AJ585412 Bovine viral diarrhea virus VEDEVAC ORF1 for polyprotein, complete genome, genomic RNA, strain VEDEVAC.-table6-Flaviviridae-HMM3379-3832_11.0-ORF135
+seq253	>nrnt-AB078952 Bovine viral diarrhea virus-1 gene for polyprotein, complete cds, strain:KS86-1cp.-table4-Flaviviridae-HMM3661-4114_10.0-ORF149
+seq254	>nrnt-FV537269 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Flaviviridae-HMM2910-3340_12.0-ORF154
+seq255	>nrnt-FV537265 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Flaviviridae-HMM2903-3152_6.0-ORF141
+seq256	>nrnt-FV537257 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Flaviviridae-HMM2913-3340_11.0-ORF150
+seq257	>nrnt-FV537412 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Flaviviridae-HMM2936-3368_11.0-ORF142
+seq258	>nrnt-FV537356 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Flaviviridae-HMM2951-3196_6.0-ORF141
+seq259	>nrnt-FV537325 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Flaviviridae-HMM2947-3194_6.0-ORF147
+seq260	>nrnt-FV537225 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Flaviviridae-HMM2952-3193_6.0-ORF146
+seq261	>tsa-GEXX01051937.1 (REVERSE SENSE) TSA: Achipteria coleoptrata TR12949_c0_g1_i1 transcribed RNA sequence-table6-Flaviviridae-HMM10-226_42.0-ORF36
+seq262	>tsa-GEXX01082539.1 TSA: Achipteria coleoptrata TR28317_c0_g1_i1 transcribed RNA sequence-table6-Flaviviridae-HMM513-904_32.0-ORF43
+seq263	>tsa-GFNA01301981.1 (REVERSE SENSE) TSA: Aedes aegypti comp371595_c0_seq17 transcribed RNA sequence-table4-Flaviviridae-HMM48-114_57.0-ORF16
+seq264	>tsa-GFNA01301988.1 (REVERSE SENSE) TSA: Aedes aegypti comp371595_c0_seq24 transcribed RNA sequence-table4-Flaviviridae-HMM48-114_57.0-ORF18
+seq265	>tsa-GFNA01327423.1 (REVERSE SENSE) TSA: Aedes aegypti comp373165_c0_seq1 transcribed RNA sequence-table6-Flaviviridae-HMM124-431_69.0-ORF39
+seq266	>tsa-GFNA01327424.1 (REVERSE SENSE) TSA: Aedes aegypti comp373165_c0_seq2 transcribed RNA sequence-table6-Flaviviridae-HMM124-400_51.0-ORF45
+seq267	>tsa-GFNA01327436.1 (REVERSE SENSE) TSA: Aedes aegypti comp373165_c0_seq14 transcribed RNA sequence-table6-Flaviviridae-HMM124-400_57.0-ORF41
+seq268	>tsa-GFNA01342450.1 (REVERSE SENSE) TSA: Aedes aegypti comp373990_c1_seq2 transcribed RNA sequence-table6-Flaviviridae-HMM99-197_48.0-ORF49
+seq269	>tsa-GFNA01342452.1 (REVERSE SENSE) TSA: Aedes aegypti comp373990_c1_seq4 transcribed RNA sequence-table6-Flaviviridae-HMM9-158_90.0-ORF14
+seq270	>tsa-GFNA01342453.1 (REVERSE SENSE) TSA: Aedes aegypti comp373990_c1_seq5 transcribed RNA sequence-table6-Flaviviridae-HMM99-197_48.0-ORF47
+seq271	>tsa-GFNA01342459.1 (REVERSE SENSE) TSA: Aedes aegypti comp373990_c1_seq11 transcribed RNA sequence-table6-Flaviviridae-HMM99-197_48.0-ORF48
+seq272	>tsa-GFNA01342460.1 (REVERSE SENSE) TSA: Aedes aegypti comp373990_c1_seq12 transcribed RNA sequence-table6-Flaviviridae-HMM300-398_24.0-ORF49
+seq273	>tsa-GFNA01342461.1 (REVERSE SENSE) TSA: Aedes aegypti comp373990_c1_seq13 transcribed RNA sequence-table6-Flaviviridae-HMM445-543_17.0-ORF52
+seq274	>tsa-GFNA01342467.1 (REVERSE SENSE) TSA: Aedes aegypti comp373990_c1_seq19 transcribed RNA sequence-table6-Flaviviridae-HMM99-197_48.0-ORF50
+seq275	>tsa-GFNA01342472.1 (REVERSE SENSE) TSA: Aedes aegypti comp373990_c1_seq24 transcribed RNA sequence-table6-Flaviviridae-HMM445-543_17.0-ORF50
+seq276	>tsa-GFNA01342474.1 (REVERSE SENSE) TSA: Aedes aegypti comp373990_c1_seq26 transcribed RNA sequence-table6-Flaviviridae-HMM300-398_24.0-ORF51
+seq277	>tsa-GCLM01043252.1 (REVERSE SENSE) TSA: Aedes albopictus Unigene9326_All transcribed RNA sequence-table1-Flaviviridae-HMM1-92_97.0-ORF9
+seq278	>tsa-GAUC01008989.1 TSA: Bemisia tabaci Unitig_9025 transcribed RNA sequence-table1-Flaviviridae-HMM48-413_76.0-ORF11
+seq279	>tsa-IABX01135281.1 (REVERSE SENSE) TSA: Caridina multidentata mRNA, contig: Cm_tra_AS01_contig_14399, transcribed RNA sequence-table6-Flaviviridae-HMM1672-2006_15.0-ORF199
+seq280	>tsa-GECX01104373.1 (REVERSE SENSE) TSA: Catostomus commersonii Contig_104439 transcribed RNA sequence-table1-Flaviviridae-HMM2-240_99.0-ORF19
+seq281	>tsa-GAYP02000463.1 (REVERSE SENSE) TSA: Ctenocephalides felis C101857_a_9_0_l_2417 transcribed RNA sequence-table4-Flaviviridae-HMM456-799_42.0-ORF66
+seq282	>tsa-GDIP01020109.1 TSA: Daphnia magna Dapma6txEVm001927t1 transcribed RNA sequence-table6-Flaviviridae-HMM304-501_36.0-ORF298
+seq283	>tsa-GDIP01029596.1 TSA: Daphnia magna Dapma6txEVm007773t1 transcribed RNA sequence-table6-Flaviviridae-HMM219-416_43.0-ORF12
+seq284	>tsa-GDIQ01000186.1 TSA: Daphnia magna Dapma6tiEVm007407t1 transcribed RNA sequence-table6-Flaviviridae-HMM21-275_64.0-ORF104
+seq285	>tsa-GDIQ01027256.1 TSA: Daphnia magna Dapma6tiEVm008982t2 transcribed RNA sequence-table6-Flaviviridae-HMM21-275_50.0-ORF42
+seq286	>tsa-GBTY01006039.1 TSA: Dufourea dentiventris C121483_a_23_0_l_4622 transcribed RNA sequence-table4-Flaviviridae-HMM1127-1327_13.0-ORF59
+seq287	>tsa-GBRM01100899.1 TSA: Elysia timida Eti009315_seq1 transcribed RNA sequence-table6-Flaviviridae-HMM627-842_13.0-ORF84
+seq288	>tsa-GBRM01100901.1 TSA: Elysia timida Eti009315_seq3 transcribed RNA sequence-table6-Flaviviridae-HMM627-842_13.0-ORF84
+seq289	>tsa-GBRM01100902.1 TSA: Elysia timida Eti009315_seq4 transcribed RNA sequence-table6-Flaviviridae-HMM627-842_13.0-ORF66
+seq290	>tsa-GBRM01100903.1 TSA: Elysia timida Eti009315_seq5 transcribed RNA sequence-table6-Flaviviridae-HMM627-842_13.0-ORF92
+seq291	>tsa-GBRM01100907.1 TSA: Elysia timida Eti009315_seq9 transcribed RNA sequence-table6-Flaviviridae-HMM627-842_13.0-ORF92
+seq292	>tsa-GBRM01100908.1 TSA: Elysia timida Eti009315_seq10 transcribed RNA sequence-table6-Flaviviridae-HMM627-842_13.0-ORF66
+seq293	>tsa-GFCV01104478.1 TSA: Gammarus chevreuxi TRINITY_DN71754_c0_g1_i1 transcribed RNA sequence-table6-Flaviviridae-HMM1737-2159_18.0-ORF75
+seq294	>tsa-GFNE01070033.1 TSA: Idiosepius notoides comp53411_c0_seq1 transcribed RNA sequence-table6-Flaviviridae-HMM3368-3769_9.0-ORF117
+seq295	>tsa-GBVB01007577.1 TSA: Inostemma sp. AD-2014 C144665_a_4_0_l_285 transcribed RNA sequence-table1-Flaviviridae-HMM3-94_96.0-ORF5
+seq296	>tsa-GEFM01005816.1 TSA: Ixodes ricinus Ir-119909 mRNA sequence-table4-Flaviviridae-HMM289-643_46.0-ORF24
+seq297	>tsa-GEZB01018832.1 (REVERSE SENSE) TSA: Locusta migratoria Unigene8130_N2 transcribed RNA sequence-table1-Flaviviridae-HMM442-676_33.0-ORF60
+seq298	>tsa-GBDZ01017918.1 TSA: Locusta migratoria manilensis a61800;13 transcribed RNA sequence-table1-Flaviviridae-HMM439-582_23.0-ORF15
+seq299	>tsa-GBDZ01036210.1 (REVERSE SENSE) TSA: Locusta migratoria manilensis a161435;9 transcribed RNA sequence-table6-Flaviviridae-HMM27-214_54.0-ORF23
+seq300	>tsa-GDIO01027029.1 TSA: Locusta migratoria manilensis Unigene2445_All transcribed RNA sequence-table6-Flaviviridae-HMM447-819_39.0-ORF31
+seq301	>tsa-GETS01024961.1 TSA: Locusta migratoria manilensis CL9910.Contig1_ALL transcribed RNA sequence-table6-Flaviviridae-HMM125-498_59.0-ORF19
+seq302	>tsa-GBKW01027739.1 (REVERSE SENSE) TSA: Olea europaea OlePic_t_109930 transcribed RNA sequence-table1-Flaviviridae-HMM3-119_65.0-ORF16
+seq303	>tsa-GBKW01099397.1 (REVERSE SENSE) TSA: Olea europaea OlePic_t_397022 transcribed RNA sequence-table1-Flaviviridae-HMM3-119_65.0-ORF15
+seq304	>tsa-GATV02006093.1 (REVERSE SENSE) TSA: Perla marginata C117449_a_3_0_l_847 transcribed RNA sequence-table1-Flaviviridae-HMM2-275_97.0-ORF27
+seq305	>tsa-GDHJ01006664.1 (REVERSE SENSE) TSA: Phalaenopsis equestris c13651_g1_i1 transcribed RNA sequence-table4-Flaviviridae-HMM235-646_53.0-ORF65
+seq306	>tsa-GECO01002153.1 TSA: Pinus patula Pipt_75k_comp55393_c0_seq1 transcribed RNA sequence-table1-Flaviviridae-HMM1-207_99.0-ORF9
+seq307	>tsa-GECO01005570.1 TSA: Pinus patula Pipt_75k_comp76902_c0_seq2 transcribed RNA sequence-table1-Flaviviridae-HMM591-703_15.0-ORF28
+seq308	>tsa-GECO01008087.1 TSA: Pinus patula Pipt50k_comp51005_c0_seq1 transcribed RNA sequence-table1-Flaviviridae-HMM1-198_99.0-ORF8
+seq309	>tsa-GECO01010209.1 TSA: Pinus patula Pipt50k_comp65691_c0_seq1 transcribed RNA sequence-table1-Flaviviridae-HMM325-437_25.0-ORF18
+seq310	>tsa-GECO01012178.1 TSA: Pinus patula Piptdf_c59543_g1_i1 transcribed RNA sequence-table1-Flaviviridae-HMM4-247_98.0-ORF10
+seq311	>tsa-GECO01013043.1 TSA: Pinus patula Piptdf_c69401_g1_i1 transcribed RNA sequence-table1-Flaviviridae-HMM409-541_24.0-ORF20
+seq312	>tsa-GECO01013045.1 TSA: Pinus patula Piptdf_c69401_g1_i3 transcribed RNA sequence-table1-Flaviviridae-HMM409-521_21.0-ORF19
+seq313	>tsa-GECO01023662.1 TSA: Pinus patula PiptO23Locus_87054_1_1_gth_ transcribed RNA sequence-table1-Flaviviridae-HMM1-210_99.0-ORF7
+seq314	>tsa-GFFJ01065340.1 (REVERSE SENSE) TSA: Portunus trituberculatus comp104047_c0 transcribed RNA sequence-table4-Flaviviridae-HMM2963-3361_11.0-ORF243
+seq315	>tsa-GDRW01019102.1 TSA: Priapulus caudatus m.37330 transcribed RNA sequence-table1-Flaviviridae-HMM7-152_94.0-ORF7
+seq316	>tsa-GAKZ01047570.1 TSA: Procotyla fluviatilis contig16338 transcribed RNA sequence-table4-Flaviviridae-HMM347-755_35.0-ORF35
+seq317	>tsa-GATZ02003749.1 (REVERSE SENSE) TSA: Sminthurus viridis C114795_a_4_0_l_726 transcribed RNA sequence-table1-Flaviviridae-HMM40-241_83.0-ORF23
+seq318	>tsa-GBGO01107483.1 TSA: Eurytemora affinis comp59813_c0_seq1 transcribed RNA sequence-table4-Flaviviridae-HMM10-160_73.0-ORF13
+seq319	>tsa-GBGO01107484.1 TSA: Eurytemora affinis comp59813_c0_seq2 transcribed RNA sequence-table4-Flaviviridae-HMM10-160_73.0-ORF26
+seq320	>tsa-GBGO01107490.1 TSA: Eurytemora affinis comp59813_c0_seq8 transcribed RNA sequence-table4-Flaviviridae-HMM197-349_38.0-ORF12
+seq321	>tsa-GBGO01107492.1 TSA: Eurytemora affinis comp59813_c0_seq10 transcribed RNA sequence-table4-Flaviviridae-HMM197-349_38.0-ORF25
+seq322	>tsa-GEAN01034917.1 TSA: Eurytemora affinis CUFF.52987.2 transcribed RNA sequence-table4-Flaviviridae-HMM11-160_72.0-ORF47
+seq323	>tsa-GEAN01034918.1 TSA: Eurytemora affinis CUFF.52987.3 transcribed RNA sequence-table4-Flaviviridae-HMM11-160_60.0-ORF48
+seq324	>tsa-GEDW01128960.1 TSA: Watasenia scintillans ws_armtip_92408_g1_i1 transcribed RNA sequence-table6-Flaviviridae-HMM5-199_94.0-ORF8
+seq325	>tsa-GEDZ01165885.1 TSA: Watasenia scintillans ws_comb_97591_c0_seq1 transcribed RNA sequence-table6-Flaviviridae-HMM5-199_94.0-ORF8

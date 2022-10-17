@@ -1,0 +1,936 @@
+seq1	>ref-NC_002066.1 Sacbrood virus complete genome-table6-Iflaviridae-HMM2364-2881_17.0-ORF91
+seq2	>ref-NC_003781.1 Infectious flacherie virus, complete genome-table4-Iflaviridae-HMM2502-3003_15.0-ORF102
+seq3	>ref-NC_004830.2 Deformed wing virus, complete genome-table6-Iflaviridae-HMM2492-3008_16.0-ORF106
+seq4	>ref-NC_006494.1 Varroa destructor virus-1, complete genome-table6-Iflaviridae-HMM2381-2897_17.0-ORF106
+seq5	>ref-NC_007919.3 Nora virus, complete genome-table4-Iflaviridae-HMM1675-2074_18.0-ORF101
+seq6	>ref-NC_009530.1 Brevicoryne brassicae picorna-like virus, complete genome-table6-Iflaviridae-HMM2506-3017_16.0-ORF93
+seq7	>ref-NC_014137.1 Slow bee paralysis virus, complete genome-table6-Iflaviridae-HMM2534-3056_17.0-ORF88
+seq8	>ref-NC_016405.1 Spodoptera exigua iflavirus 1, complete genome-table6-Iflaviridae-HMM2633-3139_14.0-ORF91
+seq9	>ref-NC_021566.1 Nilaparvata lugens honeydew virus-2 genomic RNA, complete genome, isolate: Izumo-table6-Iflaviridae-HMM2646-3189_16.0-ORF113
+seq10	>ref-NC_021567.1 Nilaparvata lugens honeydew virus-3 genomic RNA, complete genome, isolate: Kagoshima-table6-Iflaviridae-HMM2686-3202_16.0-ORF87
+seq11	>ref-NC_022611.1 Halyomorpha halys virus isolate Beltsville, complete genome-table6-Iflaviridae-HMM2525-3052_17.0-ORF94
+seq12	>ref-NC_023627.1 Laodelphax striatella honeydew virus 1 isolate Nanjing, complete genome-table6-Iflaviridae-HMM2607-3136_16.0-ORF105
+seq13	>ref-NC_023022.1 Formica exsecta virus 2 isolate Fex2, complete genome-table6-Iflaviridae-HMM2420-2950_17.0-ORF77
+seq14	>ref-NC_023483.1 Antheraea pernyi iflavirus isolate LnApIV-02, complete genome-table6-Iflaviridae-HMM2525-3041_16.0-ORF101
+seq15	>ref-NC_024016.1 Heliconius erato iflavirus, complete genome-table6-Iflaviridae-HMM2470-2986_17.0-ORF89
+seq16	>ref-NC_024488.1 Drosophila immigrans Nora virus, complete genome-table6-Iflaviridae-HMM1594-2041_21.0-ORF97
+seq17	>ref-NC_024487.1 Drosophila subobscura Nora virus, complete genome-table6-Iflaviridae-HMM1690-2099_19.0-ORF87
+seq18	>ref-NC_024497.1 Lymantria dispar iflavirus 1 isolate Ames, complete genome-table6-Iflaviridae-HMM2473-2989_16.0-ORF104
+seq19	>ref-NC_025788.1 Laodelphax striatellus picorna-like virus 2 isolate LsPV2, complete genome-table6-Iflaviridae-HMM2605-3134_16.0-ORF99
+seq20	>ref-NC_025835.1 Dinocampus coccinellae paralysis virus strain Quebec2013, complete genome-table4-Iflaviridae-HMM2519-3041_17.0-ORF110
+seq21	>ref-NC_026250.1 Thaumetopoea pityocampa iflavirus 1 polyprotein gene, complete cds-table6-Iflaviridae-HMM2493-3008_16.0-ORF98
+seq22	>ref-NC_026733.1 Graminella nigrifrons virus 1 isolate Ohio, complete genome-table6-Iflaviridae-HMM2556-3081_16.0-ORF93
+seq23	>ref-NC_027128.1 La Jolla virus putative polyprotein gene, complete cds-table6-Iflaviridae-HMM2617-3130_16.0-ORF98
+seq24	>ref-NC_027713.1 Bombyx mori iflavirus gene for polyprotein, complete cds, strain: BMI1-table6-Iflaviridae-HMM2505-3021_16.0-ORF117
+seq25	>ref-NC_027917.1 Opsiphanes invirae iflavirus 1, complete genome-table6-Iflaviridae-HMM2673-3177_15.0-ORF103
+seq26	>ref-NC_030841.1 Wabat virus polyprotein, capsid protein, ORF3, and ORF4 genes, complete cds-table4-Iflaviridae-HMM1956-2390_16.0-ORF78
+seq27	>ref-NC_030846.1 Duwamo virus RNA-dependent RNA polymerase, capsid protein, and ORF3 genes, complete cds-table6-Iflaviridae-HMM102-517_28.0-ORF43
+seq28	>ref-NC_031338.1 Moku virus isolate Big Island, complete genome-table6-Iflaviridae-HMM2558-3080_16.0-ORF107
+seq29	>ref-NC_031689.1 Bradson virus strain HN1, complete genome-table4-Iflaviridae-HMM2411-2922_16.0-ORF121
+seq30	>ref-NC_031750.1 Riptortus pedestris virus-1, complete genome-table6-Iflaviridae-HMM2048-2440_11.0-ORF99
+seq31	>ref-NC_031749.1 King virus strain UWV2 polyprotein gene, complete cds-table4-Iflaviridae-HMM2595-3110_16.0-ORF112
+seq32	>ref-NC_032087.1 Euscelidius variegatus virus 1 isolate to-1, complete genome-table6-Iflaviridae-HMM2654-3177_15.0-ORF114
+seq33	>ref-NC_032128.1 Wuhan spider virus 2 strain spider133995 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2675-3203_16.0-ORF98
+seq34	>ref-NC_032218.1 Hubei myriapoda virus 1 strain WGML505798 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2505-3028_17.0-ORF105
+seq35	>ref-NC_032221.1 Hubei picorna-like virus 31 strain QTM26628 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2308-2831_18.0-ORF91
+seq36	>ref-NC_032435.1 Shahe heteroptera virus 2 strain SHWC01c3694 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2441-2953_17.0-ORF95
+seq37	>ref-NC_032564.1 Beihai picorna-like virus 110 strain BHXG26677 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM1524-1914_12.0-ORF108
+seq38	>ref-NC_033127.1 Hubei picorna-like virus 65 strain WHCC118065 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM1476-1826_11.0-ORF94
+seq39	>ref-NC_032751.1 Hubei tick virus 3 strain tick108426 hypothetical protein gene, complete cds-table4-Iflaviridae-HMM2495-3034_17.0-ORF105
+seq40	>ref-NC_033094.1 Hubei tetragnatha maxillosa virus 2 strain QTM20713 hypothetical protein gene, complete cds-table4-Iflaviridae-HMM2502-3024_17.0-ORF99
+seq41	>ref-NC_033150.1 Wenzhou picorna-like virus 47 strain WHCCII11151 hypothetical protein gene, complete cds-table4-Iflaviridae-HMM1561-2002_16.0-ORF91
+seq42	>ref-NC_032994.1 Shuangao insect virus 12 strain insectZJ98124 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2378-2913_18.0-ORF107
+seq43	>ref-NC_032952.1 Shahe heteroptera virus 1 strain SHWC13624 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2535-3068_17.0-ORF98
+seq44	>ref-NC_033180.1 Sanxia water strider virus 7 strain SXSSP2499 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Iflaviridae-HMM1853-2386_21.0-ORF101
+seq45	>ref-NC_033215.1 Wenzhou picorna-like virus 19 strain WZSLuoII97616 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Iflaviridae-HMM1586-1940_16.0-ORF67
+seq46	>ref-NC_033194.1 Sanxia water strider virus 8 strain SXSSP2580 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2479-3000_17.0-ORF97
+seq47	>ref-NC_033131.1 Wenzhou picorna-like virus 5 strain WZSLuoI84329 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Iflaviridae-HMM1298-1716_23.0-ORF70
+seq48	>ref-NC_033189.1 Sanxia water strider virus 21 strain SXSSP2576 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2470-2995_16.0-ORF101
+seq49	>ref-NC_033102.1 Hubei odonate virus 3 strain QTM25153 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2484-2995_16.0-ORF102
+seq50	>ref-NC_032985.1 Hubei picorna-like virus 48 strain spider129651 hypothetical protein gene, complete cds-table4-Iflaviridae-HMM2254-2743_16.0-ORF107
+seq51	>ref-NC_033136.1 Hubei picorna-like virus 43 strain QTM27027 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2711-3148_13.0-ORF109
+seq52	>ref-NC_032770.1 Hubei picorna-like virus 36 strain SCM50248 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2491-2863_11.0-ORF94
+seq53	>ref-NC_033108.1 Hubei picorna-like virus 32 strain QTM25882 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM1944-2471_20.0-ORF72
+seq54	>ref-NC_033046.1 Hubei picorna-like virus 27 strain QCM155345 hypothetical protein gene, complete cds-table4-Iflaviridae-HMM2569-3087_16.0-ORF121
+seq55	>ref-NC_033243.1 Hubei odonate virus 4 strain QTM161803 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2459-2982_17.0-ORF88
+seq56	>ref-NC_032748.1 Hubei picorna-like virus 44 strain WHYY20621 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2542-3050_16.0-ORF102
+seq57	>ref-NC_032756.1 Hubei picorna-like virus 40 strain WHYY23452 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2360-2881_17.0-ORF94
+seq58	>ref-NC_033201.1 Hubei picorna-like virus 37 strain WHLC4784 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2537-3047_16.0-ORF110
+seq59	>ref-NC_033210.1 Hubei picorna-like virus 33 strain QTM27281 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM1458-1976_17.0-ORF97
+seq60	>ref-NC_033099.1 Hubei picorna-like virus 28 strain QTM24820 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2480-3003_17.0-ORF111
+seq61	>ref-NC_033061.1 Hubei odonate virus 2 strain QTM74832 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2616-3128_16.0-ORF94
+seq62	>ref-NC_032769.1 Hubei picorna-like virus 42 strain arthropodmix13971 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Iflaviridae-HMM300-826_61.0-ORF76
+seq63	>ref-NC_032790.1 Hubei picorna-like virus 39 strain SCM51450 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2385-2908_17.0-ORF94
+seq64	>ref-NC_033195.1 Hubei picorna-like virus 35 strain QTM27260 hypothetical protein gene, complete cds-table4-Iflaviridae-HMM2361-2733_12.0-ORF100
+seq65	>ref-NC_033225.1 Hubei picorna-like virus 30 strain QTM27289 hypothetical protein gene, complete cds-table4-Iflaviridae-HMM1374-1884_26.0-ORF67
+seq66	>ref-NC_032979.1 Hubei picorna-like virus 26 strain spider128568 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2406-2918_17.0-ORF79
+seq67	>ref-NC_033160.1 Hubei picorna-like virus 79 strain WHCCII12350 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Iflaviridae-HMM1599-2113_24.0-ORF60
+seq68	>ref-NC_033030.1 Hubei coleoptera virus 1 strain QCM131202 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2459-2974_16.0-ORF106
+seq69	>ref-NC_032800.1 Hubei arthropod virus 1 strain arthropodmix4509 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2434-2956_17.0-ORF86
+seq70	>ref-NC_033014.1 Hubei mosquito virus 1 strain mosHB236488 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2308-2823_17.0-ORF97
+seq71	>ref-NC_033206.1 Hubei odonate virus 5 strain QTM27277 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2395-2903_17.0-ORF90
+seq72	>ref-NC_033238.1 Hubei picorna-like virus 41 strain QTM133099 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2410-2936_17.0-ORF99
+seq73	>ref-NC_033025.1 Hubei picorna-like virus 38 strain spider133826 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2497-3008_16.0-ORF102
+seq74	>ref-NC_033040.1 Hubei picorna-like virus 34 strain QCM148994 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2310-2677_12.0-ORF108
+seq75	>ref-NC_032776.1 Hubei picorna-like virus 29 strain arthropodmix14031 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2592-3104_16.0-ORF102
+seq76	>ref-NC_032764.1 Hubei tick virus 1 strain tick109202 hypothetical protein gene, complete cds-table4-Iflaviridae-HMM2537-3074_17.0-ORF105
+seq77	>ref-NC_032758.1 Hubei tick virus 2 strain tick109131 hypothetical protein gene, complete cds-table4-Iflaviridae-HMM2589-3128_17.0-ORF110
+seq78	>ref-NC_033122.1 Hubei tetragnatha maxillosa virus 3 strain SSZZ2994 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2267-2765_16.0-ORF98
+seq79	>ref-NC_033418.1 Wuhan coneheads virus 1 strain ZCM4592 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2509-3034_17.0-ORF109
+seq80	>ref-NC_033455.1 Wuhan insect virus 13 strain CC64511 hypothetical protein gene, complete cds-table4-Iflaviridae-HMM2504-3030_17.0-ORF87
+seq81	>ref-NC_033462.1 Wuhan fly virus 4 strain fly116586 hypothetical protein gene, complete cds-table6-Iflaviridae-HMM2421-2947_17.0-ORF99
+seq82	>ref-NC_033619.1 Helicoverpa armigera iflavirus strain HBLF2013-1 polyprotein gene, complete cds-table6-Iflaviridae-HMM2513-3030_16.0-ORF100
+seq83	>ref-NC_033823.1 Bat iflavirus clone Bat/CAM/IfaV-P17/2013 polyprotein gene, complete cds-table6-Iflaviridae-HMM2663-3184_16.0-ORF103
+seq84	>ref-NC_034217.1 Pityohyphantes rubrofasciatus iflavirus isolate UW1, complete genome-table6-Iflaviridae-HMM2679-3187_15.0-ORF109
+seq85	>ref-NC_036389.1 Chequa iflavirus isolate A14-49.4, complete genome-table6-Iflaviridae-HMM2516-3025_16.0-ORF103
+seq86	>ref-NC_036585.1 Armigeres iflavirus gene for polyprotein, complete cds, strain: 10P38-310-table4-Iflaviridae-HMM2238-2748_18.0-ORF102
+seq87	>nrnt-KX884323 Wenzhou picorna-like virus 47 strain WZFSL80701 hypothetical protein gene, complete cds.-table4-Iflaviridae-HMM1536-1977_16.0-ORF87
+seq88	>nrnt-KX883914 Bole hyalomma asiaticum virus 1 strain liyanpi109109 hypothetical protein gene, partial cds.-table6-Iflaviridae-HMM2471-3010_17.0-ORF83
+seq89	>nrnt-KY064174 Diabrotica virgifera virgifera virus 1 isolate Pennsylvania, complete genome.-table6-Iflaviridae-HMM2481-2999_16.0-ORF111
+seq90	>nrnt-KX779452 Rolda virus strain UW1 polyprotein gene, partial cds.-table4-Iflaviridae-HMM2273-2695_15.0-ORF92
+seq91	>nrnt-KX580897 Baker virus polyprotein gene, partial cds.-table6-Iflaviridae-HMM531-1033_40.0-ORF48
+seq92	>nrnt-HQ260868 Tomato matilda virus isolate A polyprotein gene, partial cds.-table1-Iflaviridae-HMM1951-2468_20.0-ORF79
+seq93	>nrnt-MG833031 Culex picorna-like virus 1 isolate MZ2014-PV polyprotein gene, complete cds.-table4-Iflaviridae-HMM2577-2963_12.0-ORF120
+seq94	>nrnt-LC094426 Ixodes scapularis iflavirus gene for polyprotein, complete cds, strain: ISE6.-table6-Iflaviridae-HMM2461-3000_17.0-ORF87
+seq95	>nrnt-MG818986 Sogatella furcifera honeydew virus, complete genome.-table6-Iflaviridae-HMM2652-3181_16.0-ORF106
+seq96	>nrnt-MF348195 Nephila clavipes virus 1 isolate SC, complete genome.-table6-Iflaviridae-HMM2599-3132_16.0-ORF104
+seq97	>nrnt-KY969634 Nesidiocoris tenuis iflavirus 1 strain SD, complete genome.-table6-Iflaviridae-HMM1108-1632_29.0-ORF107
+seq98	>nrnt-MF998083 Bee iflavirus 1 isolate BeeIV1_ahae2 polyprotein gene, partial cds.-table6-Iflaviridae-HMM1434-1960_26.0-ORF72
+seq99	>nrnt-MG012488 Tribolium castaneum iflavirus isolate a3 polyprotein gene, partial cds.-table6-Iflaviridae-HMM2517-3039_17.0-ORF99
+seq100	>nrnt-KX578271 Varroa destructor virus 2 isolate VDV-2, complete genome.-table6-Iflaviridae-HMM2574-3100_16.0-ORF92
+seq101	>nrnt-KY020412 Ixodes holocyclus iflavirus isolate 1 polyprotein gene, complete cds.-table6-Iflaviridae-HMM2405-2946_18.0-ORF93
+seq102	>nrnt-KX774633 Lone star tick dicistrovirus isolate RTS10 polyprotein gene, partial cds.-table1-Iflaviridae-HMM1299-1687_22.0-ORF46
+seq103	>nrnt-LC214356 Bombyx mori iflavirus genomic RNA, complete genome, strain: BmIV variant 1.-table6-Iflaviridae-HMM2458-2859_13.0-ORF114
+seq104	>nrnt-KX898495 Xysticus cristatus iflavirus strain B1XCC0 polyprotein gene, partial cds.-table6-Iflaviridae-HMM2566-3074_16.0-ORF96
+seq105	>nrnt-AY534885 Venturia canescens picorna-like virus RNA-dependent RNA polymerase (RdRp) mRNA, partial cds.-table4-Iflaviridae-HMM7-513_94.0-ORF18
+seq106	>nrnt-HQ585111 Picorna-like virus Eptesicus fuscus/P1/InV1/IT/USA/2009 polyprotein gene, partial cds.-table1-Iflaviridae-HMM877-1346_34.0-ORF38
+seq107	>nrnt-KT698837 Diaphorina citri picorna-like virus isolate BR1 polyprotein gene, complete cds.-table6-Iflaviridae-HMM1393-1908_18.0-ORF104
+seq108	>nrnt-HM237361 Sacbrood virus CSBV-LN/China/2009, complete genome.-table6-Iflaviridae-HMM2348-2865_17.0-ORF101
+seq109	>nrnt-AB766259 Nilaparvata lugens honeydew virus-1 genomic RNA, complete genome, isolate: Izumo.-table6-Iflaviridae-HMM2692-3221_16.0-ORF112
+seq110	>nrnt-FJ790487 Nasonia vitripennis virus isolate 2 RNA-dependent RNA polymerase mRNA, partial cds.-table4-Iflaviridae-HMM1-163_40.0-ORF14
+seq111	>nrnt-FJ790486 Nasonia vitripennis virus isolate 1 protease/RNA-dependent RNA polymerase mRNA, partial cds.-table6-Iflaviridae-HMM255-778_65.0-ORF20
+seq112	>nrnt-HQ585109 Picorna-like virus Eptesicus fuscus/P2/InV2/IT/USA/2009 polyprotein-like gene, partial sequence.-table1-Iflaviridae-HMM15-333_89.0-ORF20
+seq113	>nrnt-HQ585107 Picorna-like virus Eptesicus fuscus/P4/InV1/IT/USA/2009 polyprotein-like gene, partial sequence.-table6-Iflaviridae-HMM237-534_54.0-ORF16
+seq114	>tsa-GENP01152076.1 TSA: Acanthopteroctetes unifascia TR171158-c0_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM3-76_83.0-ORF4
+seq115	>tsa-GENT01031329.1 TSA: Acanthopteroctetes unifascia TR50268-c0_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM3-76_83.0-ORF4
+seq116	>tsa-GAZS01034153.1 (REVERSE SENSE) TSA: Acanthoscurria geniculata L2169_T1/2_Turantula_WB transcribed RNA sequence-table1-Iflaviridae-HMM1818-2208_17.0-ORF179
+seq117	>tsa-GAZS01034154.1 (REVERSE SENSE) TSA: Acanthoscurria geniculata L2170_T2/2_Turantula_WB transcribed RNA sequence-table1-Iflaviridae-HMM1818-2208_17.0-ORF179
+seq118	>tsa-GAZS01047891.1 (REVERSE SENSE) TSA: Acanthoscurria geniculata L15907_T1/1_Turantula_WB transcribed RNA sequence-table1-Iflaviridae-HMM2-101_97.0-ORF12
+seq119	>tsa-GAZS01052713.1 TSA: Acanthoscurria geniculata L20729_T1/1_Turantula_WB transcribed RNA sequence-table1-Iflaviridae-HMM6-431_98.0-ORF14
+seq120	>tsa-GAZS01068101.1 (REVERSE SENSE) TSA: Acanthoscurria geniculata L36117_T1/1_Turantula_WB transcribed RNA sequence-table1-Iflaviridae-HMM1-224_98.0-ORF21
+seq121	>tsa-GEXX01107784.1 TSA: Achipteria coleoptrata TR35415_c2_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM529-1027_44.0-ORF33
+seq122	>tsa-GEVE01017653.1 TSA: Actinia tenebrosa comp34578_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-100_96.0-ORF3
+seq123	>tsa-GENX01127025.1 TSA: Agathiphaga queenslandensis TR192741-c0_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM1-89_98.0-ORF2
+seq124	>tsa-GFIW01127736.1 TSA: Agrostis scabra TRINITY_DN139264_c0_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM75-217_64.0-ORF5
+seq125	>tsa-GFIW01220996.1 (REVERSE SENSE) TSA: Agrostis scabra TRINITY_DN245093_c0_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM10-163_93.0-ORF9
+seq126	>tsa-GFIW01241515.1 TSA: Agrostis scabra TRINITY_DN38023_c0_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM1-88_88.0-ORF3
+seq127	>tsa-GFJH01205702.1 TSA: Agrostis stolonifera TRINITY_DN46345_c0_g2_i1 transcribed RNA sequence-table1-Iflaviridae-HMM2-82_94.0-ORF4
+seq128	>tsa-GFQK01153970.1 TSA: Agrostis stolonifera c324615_g1 transcribed RNA sequence-table1-Iflaviridae-HMM1-69_98.0-ORF2
+seq129	>tsa-GBUA01006001.1 TSA: Alysson spinosus C119910_a_4_0_l_537 transcribed RNA sequence-table6-Iflaviridae-HMM1-120_66.0-ORF5
+seq130	>tsa-GBUA01006657.1 (REVERSE SENSE) TSA: Alysson spinosus C122514_a_7_0_l_583 transcribed RNA sequence-table6-Iflaviridae-HMM1-184_94.0-ORF15
+seq131	>tsa-GBUA01010671.1 TSA: Alysson spinosus C141852_a_4_0_l_1383 transcribed RNA sequence-table1-Iflaviridae-HMM328-459_28.0-ORF14
+seq132	>tsa-GBUA01015053.1 (REVERSE SENSE) TSA: Alysson spinosus C63850_a_4_0_l_225 transcribed RNA sequence-table1-Iflaviridae-HMM1-74_98.0-ORF4
+seq133	>tsa-GBUA01017238.1 TSA: Alysson spinosus C68970_a_8_0_l_233 transcribed RNA sequence-table1-Iflaviridae-HMM2-77_97.0-ORF3
+seq134	>tsa-GBUA01017867.1 TSA: Alysson spinosus C70358_a_3_0_l_235 transcribed RNA sequence-table1-Iflaviridae-HMM5-78_93.0-ORF1
+seq135	>tsa-GBUA01027658.1 TSA: Alysson spinosus C94027_a_6_0_l_292 transcribed RNA sequence-table4-Iflaviridae-HMM3-83_83.0-ORF3
+seq136	>tsa-GBUA01029241.1 (REVERSE SENSE) TSA: Alysson spinosus C98886_a_5_0_l_323 transcribed RNA sequence-table1-Iflaviridae-HMM3-106_96.0-ORF6
+seq137	>tsa-GBUA01029321.1 TSA: Alysson spinosus C99112_a_4_0_l_324 transcribed RNA sequence-table1-Iflaviridae-HMM1-108_99.0-ORF4
+seq138	>tsa-GEOH01027756.1 TSA: Ambrosia trifida comp111038_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM6-403_92.0-ORF15
+seq139	>tsa-GEOH01027757.1 (REVERSE SENSE) TSA: Ambrosia trifida comp111038_c1_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM89-183_50.0-ORF15
+seq140	>tsa-GFUZ01001461.1 TSA: Amphizoa insolens c10412_g1_i1 transcribed RNA sequence-table4-Iflaviridae-HMM2808-3318_15.0-ORF121
+seq141	>tsa-GAFE01001753.1 TSA: Anopheles sinensis contig_2387 mRNA sequence-table6-Iflaviridae-HMM1-358_90.0-ORF15
+seq142	>tsa-GAFE01017410.1 (REVERSE SENSE) TSA: Anopheles sinensis contig_21017 mRNA sequence-table6-Iflaviridae-HMM140-297_52.0-ORF20
+seq143	>tsa-GAFE01019899.1 TSA: Anopheles sinensis contig_24088 mRNA sequence-table6-Iflaviridae-HMM27-113_75.0-ORF5
+seq144	>tsa-GAJV01006201.1 (REVERSE SENSE) TSA: Anoplocnemis curvipes Anop_trimmed_contig_6273 transcribed RNA sequence-table1-Iflaviridae-HMM2-122_96.0-ORF11
+seq145	>tsa-GAJV01007693.1 TSA: Anoplocnemis curvipes Anop_trimmed_contig_7777 transcribed RNA sequence-table6-Iflaviridae-HMM1-91_45.0-ORF6
+seq146	>tsa-GAJV01011617.1 (REVERSE SENSE) TSA: Anoplocnemis curvipes Anop_trimmed_contig_11715 transcribed RNA sequence-table1-Iflaviridae-HMM1-111_97.0-ORF10
+seq147	>tsa-GFCX01016261.1 TSA: Antheraea pernyi ApPG_Unigene_BMK.16344 transcribed RNA sequence-table6-Iflaviridae-HMM2525-3041_16.0-ORF105
+seq148	>tsa-GBOJ01018041.1 TSA: Anthidium manicatum C68629_a_52_0_l_9626 transcribed RNA sequence-table6-Iflaviridae-HMM2263-2620_12.0-ORF119
+seq149	>tsa-GAUE02014166.1 TSA: Anurida maritima s1073_L_1184_2_a_227_7_l_1355 transcribed RNA sequence-table6-Iflaviridae-HMM1-407_90.0-ORF18
+seq150	>tsa-GBVE01003049.1 (REVERSE SENSE) TSA: Aphidius colemani C110383_a_64_0_l_9202 transcribed RNA sequence-table6-Iflaviridae-HMM2470-2992_17.0-ORF204
+seq151	>tsa-GALO01042235.1 TSA: Apis mellifera carnica Unigene5667_All transcribed RNA sequence-table6-Iflaviridae-HMM2343-2860_17.0-ORF104
+seq152	>tsa-GAZV01000614.1 TSA: Apis mellifera comp427_c1_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM7-216_95.0-ORF7
+seq153	>tsa-GAZV01005927.1 (REVERSE SENSE) TSA: Apis mellifera comp6508_c2_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM10-110_90.0-ORF7
+seq154	>tsa-GAZV01006555.1 TSA: Apis mellifera comp6931_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-131_98.0-ORF3
+seq155	>tsa-GAZV01006556.1 TSA: Apis mellifera comp6931_c1_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM2-111_97.0-ORF6
+seq156	>tsa-GAZV01006557.1 (REVERSE SENSE) TSA: Apis mellifera comp6931_c2_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-71_98.0-ORF7
+seq157	>tsa-GAZV01033456.1 TSA: Apis mellifera comp13265_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM1124-1641_30.0-ORF59
+seq158	>tsa-GAZV01033457.1 TSA: Apis mellifera comp13265_c0_seq2 transcribed RNA sequence-table6-Iflaviridae-HMM471-988_50.0-ORF37
+seq159	>tsa-GAZV01037971.1 (REVERSE SENSE) TSA: Apis mellifera comp13470_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM2492-3008_16.0-ORF224
+seq160	>tsa-GAZV01051901.1 TSA: Apis mellifera comp27664_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM3-66_94.0-ORF3
+seq161	>tsa-GBTP01017854.1 TSA: Aproceros leucopoda s4742_L_11713_0_a_67_6_l_12150 transcribed RNA sequence-table6-Iflaviridae-HMM2415-2929_17.0-ORF102
+seq162	>tsa-GDQV01134312.1 TSA: Arachnocampa luminosa Alum67867_c2_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM2325-2847_18.0-ORF98
+seq163	>tsa-GABB01016699.1 TSA: Archaeopsylla erinacei contig16730 mRNA sequence-table6-Iflaviridae-HMM7-120_75.0-ORF5
+seq164	>tsa-GAXO01032838.1 (REVERSE SENSE) TSA: Argochrysis armilla comp43475_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-72_98.0-ORF8
+seq165	>tsa-GAXO01037775.1 (REVERSE SENSE) TSA: Argochrysis armilla comp91654_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-87_92.0-ORF8
+seq166	>tsa-GAXO01038400.1 TSA: Argochrysis armilla comp100666_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM3-97_96.0-ORF4
+seq167	>tsa-GBEI01105360.1 TSA: Pontastacus leptodactylus Pl_CLC_107021 transcribed RNA sequence-table6-Iflaviridae-HMM1671-2161_22.0-ORF77
+seq168	>tsa-GAYJ02016399.1 TSA: Atelura formicaria C199345_a_4_0_l_336 transcribed RNA sequence-table1-Iflaviridae-HMM2-110_97.0-ORF2
+seq169	>tsa-GAYJ02024756.1 TSA: Atelura formicaria C229707_a_3_0_l_549 transcribed RNA sequence-table1-Iflaviridae-HMM1-172_93.0-ORF5
+seq170	>tsa-GBRG01227316.1 TSA: Aurelia aurita comp3863954_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM2-60_72.0-ORF4
+seq171	>tsa-GBRG01234886.1 TSA: Aurelia aurita comp4176385_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-90_98.0-ORF4
+seq172	>tsa-GBRG01249759.1 TSA: Aurelia aurita comp6001349_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-67_98.0-ORF2
+seq173	>tsa-GFOA01024157.1 TSA: Bactrocera bryoniae TR13667_c0_g2_i1 transcribed RNA sequence-table6-Iflaviridae-HMM903-1424_35.0-ORF40
+seq174	>tsa-GFOA01024158.1 TSA: Bactrocera bryoniae TR13667_c0_g2_i2 transcribed RNA sequence-table6-Iflaviridae-HMM3-203_75.0-ORF9
+seq175	>tsa-GFOA01060452.1 TSA: Bactrocera bryoniae TR38349_c0_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM11-120_90.0-ORF2
+seq176	>tsa-GAKP01000398.1 TSA: Bactrocera dorsalis comp15339_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM942-1471_33.0-ORF51
+seq177	>tsa-GEEA01026696.1 (REVERSE SENSE) TSA: Bactrocera dorsalis comp65130_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM2508-3025_16.0-ORF225
+seq178	>tsa-GEYS01026344.1 TSA: Bactrocera dorsalis Unigene18929_All transcribed RNA sequence-table1-Iflaviridae-HMM2-319_98.0-ORF8
+seq179	>tsa-GEYS01027101.1 TSA: Bactrocera dorsalis Unigene19689_All transcribed RNA sequence-table1-Iflaviridae-HMM207-321_35.0-ORF9
+seq180	>tsa-GFNT01019663.1 (REVERSE SENSE) TSA: Bactrocera kraussi TR11344_c5_g4_i1 transcribed RNA sequence-table6-Iflaviridae-HMM1677-2199_22.0-ORF144
+seq181	>tsa-GFNT01066356.1 TSA: Bactrocera kraussi TR27062_c0_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM7-201_95.0-ORF6
+seq182	>tsa-GDHF01026589.1 TSA: Bactrocera latifrons TR7405-c0_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM353-882_53.0-ORF33
+seq183	>tsa-GFOR01002013.1 TSA: Bactrocera latifrons TR1462_c0_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM7-179_91.0-ORF10
+seq184	>tsa-GFOR01041752.1 (REVERSE SENSE) TSA: Bactrocera latifrons TR20366_c0_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM11-150_90.0-ORF14
+seq185	>tsa-GFOR01042971.1 TSA: Bactrocera latifrons TR21571_c0_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM2-98_96.0-ORF4
+seq186	>tsa-GFOR01043667.1 TSA: Bactrocera latifrons TR22258_c0_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM1-133_99.0-ORF4
+seq187	>tsa-GFOR01048802.1 TSA: Bactrocera latifrons TR27275_c0_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM52-522_89.0-ORF10
+seq188	>tsa-GAKB01000820.1 TSA: Bactrocera oleae contig00818 transcribed RNA sequence-table6-Iflaviridae-HMM2-422_95.0-ORF14
+seq189	>tsa-GATU02005858.1 TSA: Baetis sp. AD-2013 C128317_a_78_0_l_9761 transcribed RNA sequence-table6-Iflaviridae-HMM1569-2077_16.0-ORF99
+seq190	>tsa-GBQR01016712.1 TSA: Bembix rostrata C74229_a_4_0_l_479 transcribed RNA sequence-table1-Iflaviridae-HMM1-158_98.0-ORF3
+seq191	>tsa-GBQR01021162.1 (REVERSE SENSE) TSA: Bembix rostrata C88649_a_4_0_l_772 transcribed RNA sequence-table6-Iflaviridae-HMM120-256_52.0-ORF15
+seq192	>tsa-GBQR01028892.1 (REVERSE SENSE) TSA: Bembix rostrata s5087_L_7952_0_a_9_3_l_560 transcribed RNA sequence-table6-Iflaviridae-HMM1-115_86.0-ORF9
+seq193	>tsa-GARP01034784.1 (REVERSE SENSE) TSA: Bemisia tabaci comp58369_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM2-80_97.0-ORF6
+seq194	>tsa-GARP01035725.1 (REVERSE SENSE) TSA: Bemisia tabaci comp59733_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM2-76_97.0-ORF7
+seq195	>tsa-GARP01076220.1 TSA: Bemisia tabaci comp33487_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM32-124_73.0-ORF2
+seq196	>tsa-GARP01077156.1 TSA: Bemisia tabaci comp34454_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM2-148_69.0-ORF10
+seq197	>tsa-GARP01082285.1 (REVERSE SENSE) TSA: Bemisia tabaci comp39915_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM2-119_91.0-ORF10
+seq198	>tsa-GAUC01011389.1 TSA: Bemisia tabaci Unitig_11464 transcribed RNA sequence-table1-Iflaviridae-HMM93-203_53.0-ORF6
+seq199	>tsa-GAUC01012425.1 (REVERSE SENSE) TSA: Bemisia tabaci Unitig_12516 transcribed RNA sequence-table6-Iflaviridae-HMM124-640_73.0-ORF44
+seq200	>tsa-GAUC01013303.1 TSA: Bemisia tabaci Unitig_13398 transcribed RNA sequence-table4-Iflaviridae-HMM1-403_79.0-ORF20
+seq201	>tsa-GAUC01013904.1 (REVERSE SENSE) TSA: Bemisia tabaci Unitig_13999 transcribed RNA sequence-table1-Iflaviridae-HMM1-93_97.0-ORF9
+seq202	>tsa-GAYD02053408.1 TSA: Blaberus atropos s13218_L_57537_0_a_37_6_l_9941 transcribed RNA sequence-table6-Iflaviridae-HMM2544-3060_16.0-ORF95
+seq203	>tsa-GFCY01005998.1 TSA: Bombyx mori BmPG_Unigene_BMK.6011 transcribed RNA sequence-table6-Iflaviridae-HMM2618-3134_16.0-ORF123
+seq204	>tsa-GAZU01005605.1 (REVERSE SENSE) TSA: Brachycistis timberlakei comp7202_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM1-92_87.0-ORF11
+seq205	>tsa-GAZU01007982.1 (REVERSE SENSE) TSA: Brachycistis timberlakei comp9036_c1_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM8-145_93.0-ORF11
+seq206	>tsa-GAZU01039735.1 (REVERSE SENSE) TSA: Brachycistis timberlakei comp33424_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM2-124_98.0-ORF10
+seq207	>tsa-GAZU01039765.1 TSA: Brachycistis timberlakei comp33628_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-135_99.0-ORF5
+seq208	>tsa-GBMS01021039.1 (REVERSE SENSE) TSA: Brachygaster minutus C217367_a_31_0_l_8289 transcribed RNA sequence-table6-Iflaviridae-HMM2204-2719_18.0-ORF160
+seq209	>tsa-HAEN01059126.1 (REVERSE SENSE) TSA: Bragasellus peltatus, contig comp44318_c0_seq1, transcribed RNA sequence-table4-Iflaviridae-HMM2448-2972_17.0-ORF232
+seq210	>tsa-HAEN01080384.1 (REVERSE SENSE) TSA: Bragasellus peltatus, contig comp458904_c0_seq1, transcribed RNA sequence-table1-Iflaviridae-HMM202-353_42.0-ORF29
+seq211	>tsa-HAEN01092736.1 TSA: Bragasellus peltatus, contig comp661612_c0_seq1, transcribed RNA sequence-table1-Iflaviridae-HMM5-85_54.0-ORF6
+seq212	>tsa-GAQY01032509.1 (REVERSE SENSE) TSA: Brassica oleracea Locus_32575 transcribed RNA sequence-table1-Iflaviridae-HMM1-66_94.0-ORF7
+seq213	>tsa-GAQY01057004.1 (REVERSE SENSE) TSA: Brassica oleracea Locus_57155 transcribed RNA sequence-table1-Iflaviridae-HMM1-81_91.0-ORF8
+seq214	>tsa-GAQY01057600.1 TSA: Brassica oleracea Locus_57753 transcribed RNA sequence-table1-Iflaviridae-HMM1-100_95.0-ORF2
+seq215	>tsa-GAYM02012071.1 TSA: Calopteryx splendens C49544_a_4_0_l_666 transcribed RNA sequence-table6-Iflaviridae-HMM1-149_74.0-ORF7
+seq216	>tsa-GAYM02017636.1 TSA: Calopteryx splendens C63941_a_13_0_l_2613 transcribed RNA sequence-table4-Iflaviridae-HMM322-842_59.0-ORF32
+seq217	>tsa-GAYM02018575.1 (REVERSE SENSE) TSA: Calopteryx splendens s1605_L_4626_0_a_32_0_l_8546 transcribed RNA sequence-table6-Iflaviridae-HMM1264-1779_18.0-ORF167
+seq218	>tsa-GAYM02019912.1 (REVERSE SENSE) TSA: Calopteryx splendens s2828_L_17889_0_a_15_0_l_1991 transcribed RNA sequence-table6-Iflaviridae-HMM2-351_90.0-ORF47
+seq219	>tsa-GEEY01020381.1 (REVERSE SENSE) TSA: Cephus cinctus Ccin_ant_Roche_itg20925_gig11092_l522_nC1 transcribed RNA sequence-table4-Iflaviridae-HMM8-134_92.0-ORF19
+seq220	>tsa-GEEY01023266.1 (REVERSE SENSE) TSA: Cephus cinctus Ccin_ant_Roche_itg23811_gig13978_l6272_nC1 transcribed RNA sequence-table4-Iflaviridae-HMM1086-1597_30.0-ORF162
+seq221	>tsa-GBVI01016749.1 TSA: Cephus spinipes C75832_a_54_0_l_8301 transcribed RNA sequence-table6-Iflaviridae-HMM2198-2721_18.0-ORF83
+seq222	>tsa-GBVD01025420.1 TSA: Ceraphron sp. AD-2014 s13939_L_37429_0_a_35_6_l_5834 transcribed RNA sequence-table4-Iflaviridae-HMM1263-1785_28.0-ORF65
+seq223	>tsa-GAMC01001920.1 TSA: Ceratitis capitata comp55379_c0_seq1 mRNA sequence-table6-Iflaviridae-HMM2570-3099_16.0-ORF106
+seq224	>tsa-GAMC01020602.1 TSA: Ceratitis capitata comp65809_c0_seq2 mRNA sequence-table6-Iflaviridae-HMM2521-3042_17.0-ORF91
+seq225	>tsa-GAMC01021094.1 TSA: Ceratitis capitata comp65942_c0_seq3 mRNA sequence-table6-Iflaviridae-HMM1442-1963_25.0-ORF69
+seq226	>tsa-GBNS01016733.1 TSA: Cerceris arenaria C97725_a_58_0_l_9643 transcribed RNA sequence-table6-Iflaviridae-HMM2358-2716_12.0-ORF103
+seq227	>tsa-GBOM01001517.1 (REVERSE SENSE) TSA: Chalybion californicum C31837_a_3_0_l_247 transcribed RNA sequence-table1-Iflaviridae-HMM1-81_98.0-ORF6
+seq228	>tsa-GBOM01006811.1 TSA: Chalybion californicum C48765_a_11_0_l_475 transcribed RNA sequence-table6-Iflaviridae-HMM1-135_84.0-ORF6
+seq229	>tsa-GBOM01010228.1 (REVERSE SENSE) TSA: Chalybion californicum C62211_a_7_0_l_989 transcribed RNA sequence-table1-Iflaviridae-HMM2-328_99.0-ORF28
+seq230	>tsa-GFPO01012055.1 TSA: Charybdis japonica comp17660_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM22-245_81.0-ORF10
+seq231	>tsa-GADE01015356.1 TSA: Cherax quadricarinatus Cherquad_hygd_c15357 mRNA sequence-table1-Iflaviridae-HMM1-86_97.0-ORF1
+seq232	>tsa-GADE01016599.1 TSA: Cherax quadricarinatus Cherquad_hygd_c16600 mRNA sequence-table6-Iflaviridae-HMM9-359_96.0-ORF25
+seq233	>tsa-HACB02096523.1 (REVERSE SENSE) TSA: Cherax quadricarinatus, contig c67566_g1_i1, transcribed RNA sequence-table1-Iflaviridae-HMM1-87_91.0-ORF10
+seq234	>tsa-GBFA01016552.1 TSA: Chinavia ubica Locus_2493_Transcript_8/10_Confidence_0.194_Length_656 transcribed RNA sequence-table6-Iflaviridae-HMM3-64_59.0-ORF2
+seq235	>tsa-GBFA01037382.1 TSA: Chinavia ubica Locus_7_Transcript_1/36_Confidence_1.000_Length_338 transcribed RNA sequence-table1-Iflaviridae-HMM4-112_96.0-ORF3
+seq236	>tsa-GBFA01037393.1 (REVERSE SENSE) TSA: Chinavia ubica Locus_7_Transcript_2/36_Confidence_1.000_Length_338 transcribed RNA sequence-table1-Iflaviridae-HMM4-112_96.0-ORF8
+seq237	>tsa-GAGF01025652.1 (REVERSE SENSE) TSA: Chrysopa pallens Unigene28844_dacaoling transcribed RNA sequence-table6-Iflaviridae-HMM819-1340_37.0-ORF95
+seq238	>tsa-GAGF01040796.1 (REVERSE SENSE) TSA: Chrysopa pallens Unigene72384_dacaoling transcribed RNA sequence-table1-Iflaviridae-HMM1-81_96.0-ORF8
+seq239	>tsa-GAXL01004189.1 (REVERSE SENSE) TSA: Chyphotes mellipes comp4675_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-102_98.0-ORF9
+seq240	>tsa-GAXL01004190.1 TSA: Chyphotes mellipes comp4675_c1_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM2-69_94.0-ORF3
+seq241	>tsa-GAXL01045920.1 TSA: Chyphotes mellipes comp37932_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM91-144_36.0-ORF3
+seq242	>tsa-GAXL01053157.1 (REVERSE SENSE) TSA: Chyphotes mellipes comp104343_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-96_98.0-ORF10
+seq243	>tsa-GBUN01018161.1 (REVERSE SENSE) TSA: Cleptes nitidulus s3955_L_7510_1_a_59_9_l_12674 transcribed RNA sequence-table6-Iflaviridae-HMM2364-2889_18.0-ORF240
+seq244	>tsa-GDVG01003945.1 (REVERSE SENSE) TSA: Clitarchus hookeri C46477_a_5_0_l_242 transcribed RNA sequence-table1-Iflaviridae-HMM11-80_86.0-ORF8
+seq245	>tsa-GFVY01123006.1 TSA: Clitarchus hookeri c135495_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM2590-3097_16.0-ORF111
+seq246	>tsa-GFVY01127438.1 (REVERSE SENSE) TSA: Clitarchus hookeri c136861_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM2590-3097_16.0-ORF216
+seq247	>tsa-GBHN01000011.1 (REVERSE SENSE) TSA: Colaphellus bowringi Contig12_AA transcribed RNA sequence-table4-Iflaviridae-HMM2502-3029_17.0-ORF257
+seq248	>tsa-GCIB01131545.1 TSA: Colobanthus quitensis Colobanthus_quitensis_contig_130752_1 transcribed RNA sequence-table1-Iflaviridae-HMM2-113_94.0-ORF4
+seq249	>tsa-GBQM01000135.1 TSA: Colpa sexmaculata C30912_a_63_0_l_205 transcribed RNA sequence-table1-Iflaviridae-HMM1-67_98.0-ORF3
+seq250	>tsa-GBQM01000136.1 (REVERSE SENSE) TSA: Colpa sexmaculata C30914_a_63_0_l_205 transcribed RNA sequence-table1-Iflaviridae-HMM1-67_98.0-ORF4
+seq251	>tsa-GBQM01000146.1 TSA: Colpa sexmaculata C30948_a_63_0_l_205 transcribed RNA sequence-table1-Iflaviridae-HMM2-68_97.0-ORF1
+seq252	>tsa-GBQM01000419.1 TSA: Colpa sexmaculata C31928_a_26_0_l_214 transcribed RNA sequence-table1-Iflaviridae-HMM1-71_98.0-ORF2
+seq253	>tsa-GBQM01000556.1 TSA: Colpa sexmaculata C32426_a_105_0_l_218 transcribed RNA sequence-table1-Iflaviridae-HMM2-72_97.0-ORF3
+seq254	>tsa-GBQM01000616.1 TSA: Colpa sexmaculata C32626_a_63_0_l_220 transcribed RNA sequence-table1-Iflaviridae-HMM1-72_97.0-ORF3
+seq255	>tsa-GBQM01000671.1 TSA: Colpa sexmaculata C32824_a_38_0_l_222 transcribed RNA sequence-table1-Iflaviridae-HMM2-73_97.0-ORF1
+seq256	>tsa-GBQM01000672.1 TSA: Colpa sexmaculata C32826_a_63_0_l_222 transcribed RNA sequence-table1-Iflaviridae-HMM2-73_97.0-ORF1
+seq257	>tsa-GBQM01000897.1 (REVERSE SENSE) TSA: Colpa sexmaculata C33579_a_15_0_l_228 transcribed RNA sequence-table1-Iflaviridae-HMM2-74_96.0-ORF8
+seq258	>tsa-GBQM01002839.1 TSA: Colpa sexmaculata C38535_a_9_0_l_251 transcribed RNA sequence-table1-Iflaviridae-HMM3-82_95.0-ORF2
+seq259	>tsa-GBQM01002896.1 (REVERSE SENSE) TSA: Colpa sexmaculata C38665_a_63_0_l_252 transcribed RNA sequence-table1-Iflaviridae-HMM1-83_98.0-ORF3
+seq260	>tsa-GBQM01004541.1 TSA: Colpa sexmaculata C42916_a_12_0_l_275 transcribed RNA sequence-table1-Iflaviridae-HMM1-91_98.0-ORF3
+seq261	>tsa-GBQM01004628.1 (REVERSE SENSE) TSA: Colpa sexmaculata C43184_a_23_0_l_278 transcribed RNA sequence-table1-Iflaviridae-HMM1-89_95.0-ORF7
+seq262	>tsa-GBQM01004791.1 (REVERSE SENSE) TSA: Colpa sexmaculata C43684_a_24_0_l_283 transcribed RNA sequence-table1-Iflaviridae-HMM1-94_98.0-ORF9
+seq263	>tsa-GBQM01004796.1 (REVERSE SENSE) TSA: Colpa sexmaculata C43694_a_26_0_l_283 transcribed RNA sequence-table1-Iflaviridae-HMM2-93_97.0-ORF8
+seq264	>tsa-GBQM01005556.1 (REVERSE SENSE) TSA: Colpa sexmaculata C45994_a_62_0_l_307 transcribed RNA sequence-table1-Iflaviridae-HMM1-101_99.0-ORF5
+seq265	>tsa-GBQM01006601.1 TSA: Colpa sexmaculata C49167_a_63_0_l_341 transcribed RNA sequence-table6-Iflaviridae-HMM2-73_62.0-ORF5
+seq266	>tsa-GBQM01007052.1 (REVERSE SENSE) TSA: Colpa sexmaculata C50677_a_48_0_l_360 transcribed RNA sequence-table6-Iflaviridae-HMM2-73_63.0-ORF7
+seq267	>tsa-GBQM01007365.1 TSA: Colpa sexmaculata C51557_a_64_0_l_370 transcribed RNA sequence-table1-Iflaviridae-HMM1-122_99.0-ORF5
+seq268	>tsa-GBQM01008116.1 (REVERSE SENSE) TSA: Colpa sexmaculata C53929_a_59_0_l_403 transcribed RNA sequence-table1-Iflaviridae-HMM1-134_99.0-ORF12
+seq269	>tsa-GBQM01008794.1 (REVERSE SENSE) TSA: Colpa sexmaculata C56117_a_62_0_l_437 transcribed RNA sequence-table1-Iflaviridae-HMM2-145_98.0-ORF14
+seq270	>tsa-GBQM01009965.1 (REVERSE SENSE) TSA: Colpa sexmaculata C59875_a_63_0_l_502 transcribed RNA sequence-table6-Iflaviridae-HMM1-111_66.0-ORF15
+seq271	>tsa-GBQM01011301.1 TSA: Colpa sexmaculata C64397_a_66_0_l_601 transcribed RNA sequence-table1-Iflaviridae-HMM1-199_99.0-ORF6
+seq272	>tsa-GBQM01012134.1 TSA: Colpa sexmaculata C67493_a_62_0_l_685 transcribed RNA sequence-table6-Iflaviridae-HMM1-138_68.0-ORF8
+seq273	>tsa-GBQM01012260.1 (REVERSE SENSE) TSA: Colpa sexmaculata C67979_a_51_0_l_700 transcribed RNA sequence-table1-Iflaviridae-HMM46-233_80.0-ORF24
+seq274	>tsa-GBQM01012265.1 TSA: Colpa sexmaculata C68007_a_75_0_l_702 transcribed RNA sequence-table1-Iflaviridae-HMM34-122_62.0-ORF4
+seq275	>tsa-GBQM01014095.1 TSA: Colpa sexmaculata C75135_a_40_0_l_985 transcribed RNA sequence-table1-Iflaviridae-HMM108-327_66.0-ORF12
+seq276	>tsa-GBQM01014563.1 (REVERSE SENSE) TSA: Colpa sexmaculata C76957_a_63_0_l_1083 transcribed RNA sequence-table1-Iflaviridae-HMM2-360_99.0-ORF26
+seq277	>tsa-GBQM01016023.1 (REVERSE SENSE) TSA: Colpa sexmaculata C82943_a_63_0_l_1520 transcribed RNA sequence-table1-Iflaviridae-HMM319-506_36.0-ORF40
+seq278	>tsa-GBQM01020452.1 TSA: Colpa sexmaculata s248_L_289_1_a_64_0_l_1531 transcribed RNA sequence-table1-Iflaviridae-HMM328-509_35.0-ORF10
+seq279	>tsa-GBQM01020505.1 TSA: Colpa sexmaculata s2537_L_3484_0_a_54_5_l_1257 transcribed RNA sequence-table6-Iflaviridae-HMM1-284_81.0-ORF11
+seq280	>tsa-GBQM01021017.1 (REVERSE SENSE) TSA: Colpa sexmaculata s2_L_3_1_a_120_4_l_1553 transcribed RNA sequence-table6-Iflaviridae-HMM2-450_90.0-ORF37
+seq281	>tsa-GBQM01023234.1 (REVERSE SENSE) TSA: Colpa sexmaculata s4_L_3_3_a_48_9_l_7871 transcribed RNA sequence-table6-Iflaviridae-HMM2022-2538_20.0-ORF169
+seq282	>tsa-GBQM01024342.1 (REVERSE SENSE) TSA: Colpa sexmaculata s5_L_3_4_a_134_6_l_967 transcribed RNA sequence-table6-Iflaviridae-HMM30-314_90.0-ORF25
+seq283	>tsa-GBWG01006588.1 (REVERSE SENSE) TSA: Crabro peltarius C46632_a_3_0_l_589 transcribed RNA sequence-table1-Iflaviridae-HMM1-194_98.0-ORF17
+seq284	>tsa-GAXT01070120.1 (REVERSE SENSE) TSA: Crioscolia alcione comp48424_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-81_98.0-ORF7
+seq285	>tsa-GBWH01009265.1 (REVERSE SENSE) TSA: Crossocerus quadrimaculatus C56030_a_11_0_l_2126 transcribed RNA sequence-table6-Iflaviridae-HMM151-678_75.0-ORF42
+seq286	>tsa-GECZ01002085.1 TSA: Cuerna arida TR26187_c2_g2_i2 transcribed RNA sequence-table1-Iflaviridae-HMM48-262_81.0-ORF8
+seq287	>tsa-GECZ01002948.1 TSA: Cuerna arida TR26187_c6_g2_i2 transcribed RNA sequence-table1-Iflaviridae-HMM2-118_98.0-ORF3
+seq288	>tsa-GECZ01005794.1 TSA: Cuerna arida TR26187_c5_g3_i1 transcribed RNA sequence-table1-Iflaviridae-HMM1-120_98.0-ORF4
+seq289	>tsa-GECZ01006385.1 TSA: Cuerna arida TR19786_c0_g3_i4 transcribed RNA sequence-table1-Iflaviridae-HMM107-336_67.0-ORF13
+seq290	>tsa-GECZ01010493.1 TSA: Cuerna arida TR20764_c5_g3_i2 transcribed RNA sequence-table1-Iflaviridae-HMM131-342_61.0-ORF11
+seq291	>tsa-GECZ01011155.1 TSA: Cuerna arida TR20764_c4_g2_i6 transcribed RNA sequence-table1-Iflaviridae-HMM1-165_94.0-ORF7
+seq292	>tsa-GECZ01011542.1 TSA: Cuerna arida TR20051_c0_g1_i5 transcribed RNA sequence-table1-Iflaviridae-HMM4-127_96.0-ORF3
+seq293	>tsa-GECZ01015818.1 TSA: Cuerna arida TR26187_c2_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM2-211_99.0-ORF6
+seq294	>tsa-GECZ01017569.1 TSA: Cuerna arida TR21883_c2_g1_i2 transcribed RNA sequence-table4-Iflaviridae-HMM1677-2196_23.0-ORF72
+seq295	>tsa-GECZ01019740.1 TSA: Cuerna arida TR20764_c5_g2_i1 transcribed RNA sequence-table1-Iflaviridae-HMM2-168_98.0-ORF5
+seq296	>tsa-GECZ01021224.1 TSA: Cuerna arida TR20764_c4_g2_i3 transcribed RNA sequence-table1-Iflaviridae-HMM2-255_95.0-ORF9
+seq297	>tsa-GECZ01023364.1 TSA: Cuerna arida TR26187_c5_g2_i1 transcribed RNA sequence-table1-Iflaviridae-HMM1-110_87.0-ORF5
+seq298	>tsa-GECZ01025640.1 TSA: Cuerna arida TR21883_c2_g1_i1 transcribed RNA sequence-table4-Iflaviridae-HMM2538-3057_16.0-ORF110
+seq299	>tsa-GECZ01026384.1 TSA: Cuerna arida TR20764_c5_g3_i1 transcribed RNA sequence-table1-Iflaviridae-HMM131-229_41.0-ORF10
+seq300	>tsa-GECZ01028636.1 TSA: Cuerna arida TR20764_c5_g2_i3 transcribed RNA sequence-table1-Iflaviridae-HMM26-219_88.0-ORF7
+seq301	>tsa-GECZ01029228.1 TSA: Cuerna arida TR26187_c5_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM1-110_99.0-ORF4
+seq302	>tsa-GECZ01029522.1 TSA: Cuerna arida TR20764_c5_g2_i4 transcribed RNA sequence-table1-Iflaviridae-HMM32-225_85.0-ORF7
+seq303	>tsa-GECZ01030556.1 TSA: Cuerna arida TR19786_c0_g3_i1 transcribed RNA sequence-table1-Iflaviridae-HMM107-349_69.0-ORF11
+seq304	>tsa-GECZ01031135.1 TSA: Cuerna arida TR20764_c5_g2_i2 transcribed RNA sequence-table1-Iflaviridae-HMM215-408_47.0-ORF11
+seq305	>tsa-GECZ01031881.1 TSA: Cuerna arida TR19786_c0_g3_i3 transcribed RNA sequence-table1-Iflaviridae-HMM107-349_69.0-ORF11
+seq306	>tsa-GBTF01006145.1 TSA: Dacnusa sibirica C123691_a_18_0_l_735 transcribed RNA sequence-table6-Iflaviridae-HMM1-200_81.0-ORF9
+seq307	>tsa-GBTF01008832.1 (REVERSE SENSE) TSA: Dacnusa sibirica C135641_a_20_0_l_1232 transcribed RNA sequence-table1-Iflaviridae-HMM115-406_70.0-ORF32
+seq308	>tsa-GBTF01014014.1 (REVERSE SENSE) TSA: Dacnusa sibirica C72461_a_3_0_l_232 transcribed RNA sequence-table1-Iflaviridae-HMM1-77_98.0-ORF7
+seq309	>tsa-GBTF01015422.1 (REVERSE SENSE) TSA: Dacnusa sibirica C76585_a_4_0_l_246 transcribed RNA sequence-table1-Iflaviridae-HMM1-81_97.0-ORF8
+seq310	>tsa-GBCX01006373.1 TSA: Dastarcus helophoroides CL2956.Contig1 transcribed RNA sequence-table1-Iflaviridae-HMM168-320_47.0-ORF8
+seq311	>tsa-GBCX01006374.1 TSA: Dastarcus helophoroides CL2956.Contig2 transcribed RNA sequence-table1-Iflaviridae-HMM168-315_45.0-ORF8
+seq312	>tsa-GBCX01020640.1 TSA: Dastarcus helophoroides Unigene12547 transcribed RNA sequence-table1-Iflaviridae-HMM2-269_99.0-ORF8
+seq313	>tsa-GAFW01012306.1 (REVERSE SENSE) TSA: Dendroctonus ponderosae Dendroctonus_ponderosae_CAP3_Contig12308 transcribed RNA sequence-table6-Iflaviridae-HMM3-426_88.0-ORF32
+seq314	>tsa-GDAR01012296.1 (REVERSE SENSE) TSA: Dendroctonus ponderosae Dpon-CLC-20141217_contig_48380 transcribed RNA sequence-table6-Iflaviridae-HMM2471-2984_16.0-ORF187
+seq315	>tsa-GDAR01025245.1 TSA: Dendroctonus ponderosae Dpon-CLC-20141217_contig_93866 transcribed RNA sequence-table6-Iflaviridae-HMM2016-2542_20.0-ORF84
+seq316	>tsa-GAIF01000626.1 TSA: Dermanyssus gallinae isotig00551 transcribed RNA sequence-table4-Iflaviridae-HMM116-296_55.0-ORF54
+seq317	>tsa-GAIF01001007.1 TSA: Dermanyssus gallinae isotig00537 transcribed RNA sequence-table6-Iflaviridae-HMM49-567_90.0-ORF67
+seq318	>tsa-GAIF01001379.1 TSA: Dermanyssus gallinae isotig00554 transcribed RNA sequence-table6-Iflaviridae-HMM232-398_41.0-ORF52
+seq319	>tsa-GAIF01003237.1 TSA: Dermanyssus gallinae isotig00565 transcribed RNA sequence-table4-Iflaviridae-HMM116-296_55.0-ORF25
+seq320	>tsa-GAIF01004392.1 TSA: Dermanyssus gallinae isotig00532 transcribed RNA sequence-table6-Iflaviridae-HMM49-574_89.0-ORF66
+seq321	>tsa-GAIF01004785.1 TSA: Dermanyssus gallinae isotig00576 transcribed RNA sequence-table4-Iflaviridae-HMM116-262_53.0-ORF23
+seq322	>tsa-GAIF01006144.1 TSA: Dermanyssus gallinae isotig00572 transcribed RNA sequence-table4-Iflaviridae-HMM116-296_55.0-ORF25
+seq323	>tsa-GAIF01006520.1 TSA: Dermanyssus gallinae isotig00561 transcribed RNA sequence-table6-Iflaviridae-HMM49-574_89.0-ORF37
+seq324	>tsa-GAIF01006531.1 TSA: Dermanyssus gallinae isotig00577 transcribed RNA sequence-table6-Iflaviridae-HMM232-380_38.0-ORF25
+seq325	>tsa-GAIF01007608.1 TSA: Dermanyssus gallinae isotig00556 transcribed RNA sequence-table6-Iflaviridae-HMM232-380_38.0-ORF52
+seq326	>tsa-GAIF01007806.1 TSA: Dermanyssus gallinae isotig00569 transcribed RNA sequence-table6-Iflaviridae-HMM49-567_90.0-ORF38
+seq327	>tsa-GAIF01008317.1 TSA: Dermanyssus gallinae isotig00550 transcribed RNA sequence-table6-Iflaviridae-HMM49-567_90.0-ORF60
+seq328	>tsa-GAIF01008477.1 TSA: Dermanyssus gallinae isotig00543 transcribed RNA sequence-table6-Iflaviridae-HMM49-574_89.0-ORF59
+seq329	>tsa-GAIF01008575.1 TSA: Dermanyssus gallinae isotig27968 transcribed RNA sequence-table6-Iflaviridae-HMM40-149_71.0-ORF6
+seq330	>tsa-GAIF01009021.1 TSA: Dermanyssus gallinae isotig00531 transcribed RNA sequence-table6-Iflaviridae-HMM49-574_89.0-ORF66
+seq331	>tsa-GAIF01010894.1 TSA: Dermanyssus gallinae isotig00535 transcribed RNA sequence-table6-Iflaviridae-HMM49-567_90.0-ORF67
+seq332	>tsa-GAIF01011734.1 TSA: Dermanyssus gallinae isotig00530 transcribed RNA sequence-table4-Iflaviridae-HMM116-296_55.0-ORF60
+seq333	>tsa-GAIF01012102.1 TSA: Dermanyssus gallinae isotig00549 transcribed RNA sequence-table6-Iflaviridae-HMM49-567_90.0-ORF60
+seq334	>tsa-GAIF01013224.1 TSA: Dermanyssus gallinae isotig00542 transcribed RNA sequence-table4-Iflaviridae-HMM116-296_55.0-ORF54
+seq335	>tsa-GAIF01013411.1 TSA: Dermanyssus gallinae isotig00544 transcribed RNA sequence-table6-Iflaviridae-HMM49-574_89.0-ORF59
+seq336	>tsa-GAIF01013986.1 TSA: Dermanyssus gallinae isotig00538 transcribed RNA sequence-table6-Iflaviridae-HMM49-567_90.0-ORF67
+seq337	>tsa-GAIF01014305.1 TSA: Dermanyssus gallinae isotig00570 transcribed RNA sequence-table6-Iflaviridae-HMM49-567_90.0-ORF38
+seq338	>tsa-GAIF01014582.1 TSA: Dermanyssus gallinae isotig00529 transcribed RNA sequence-table6-Iflaviridae-HMM49-574_89.0-ORF66
+seq339	>tsa-GAIF01014691.1 TSA: Dermanyssus gallinae isotig00563 transcribed RNA sequence-table6-Iflaviridae-HMM49-574_89.0-ORF37
+seq340	>tsa-GAIF01015621.1 TSA: Dermanyssus gallinae isotig00571 transcribed RNA sequence-table4-Iflaviridae-HMM116-296_55.0-ORF25
+seq341	>tsa-GAIF01016872.1 TSA: Dermanyssus gallinae isotig00559 transcribed RNA sequence-table4-Iflaviridae-HMM116-262_53.0-ORF52
+seq342	>tsa-GAIF01016970.1 TSA: Dermanyssus gallinae isotig00560 transcribed RNA sequence-table6-Iflaviridae-HMM232-380_38.0-ORF45
+seq343	>tsa-GAIF01018786.1 TSA: Dermanyssus gallinae isotig00533 transcribed RNA sequence-table4-Iflaviridae-HMM116-296_55.0-ORF60
+seq344	>tsa-GAIF01019534.1 TSA: Dermanyssus gallinae isotig00564 transcribed RNA sequence-table6-Iflaviridae-HMM49-574_89.0-ORF37
+seq345	>tsa-GAIF01020292.1 TSA: Dermanyssus gallinae isotig00548 transcribed RNA sequence-table4-Iflaviridae-HMM116-296_55.0-ORF54
+seq346	>tsa-GAIF01022130.1 TSA: Dermanyssus gallinae isotig00558 transcribed RNA sequence-table6-Iflaviridae-HMM232-398_41.0-ORF45
+seq347	>tsa-GAIF01024051.1 TSA: Dermanyssus gallinae isotig00536 transcribed RNA sequence-table4-Iflaviridae-HMM116-296_55.0-ORF60
+seq348	>tsa-GAIF01024098.1 TSA: Dermanyssus gallinae isotig00553 transcribed RNA sequence-table4-Iflaviridae-HMM116-280_58.0-ORF58
+seq349	>tsa-GAIF01024117.1 TSA: Dermanyssus gallinae isotig00547 transcribed RNA sequence-table6-Iflaviridae-HMM49-567_90.0-ORF60
+seq350	>tsa-GAIF01024861.1 TSA: Dermanyssus gallinae isotig00557 transcribed RNA sequence-table4-Iflaviridae-HMM116-280_58.0-ORF52
+seq351	>tsa-GAIF01025252.1 TSA: Dermanyssus gallinae isotig00540 transcribed RNA sequence-table4-Iflaviridae-HMM116-296_55.0-ORF60
+seq352	>tsa-GAIF01025992.1 TSA: Dermanyssus gallinae isotig00568 transcribed RNA sequence-table4-Iflaviridae-HMM116-296_55.0-ORF25
+seq353	>tsa-GAIF01026872.1 TSA: Dermanyssus gallinae isotig00575 transcribed RNA sequence-table6-Iflaviridae-HMM232-398_41.0-ORF25
+seq354	>tsa-GAIF01027377.1 TSA: Dermanyssus gallinae isotig00562 transcribed RNA sequence-table4-Iflaviridae-HMM116-296_55.0-ORF25
+seq355	>tsa-GAIF01028000.1 TSA: Dermanyssus gallinae isotig00546 transcribed RNA sequence-table4-Iflaviridae-HMM116-296_55.0-ORF54
+seq356	>tsa-GAIF01028785.1 TSA: Dermanyssus gallinae isotig00539 transcribed RNA sequence-table4-Iflaviridae-HMM116-296_55.0-ORF60
+seq357	>tsa-GAIF01030953.1 TSA: Dermanyssus gallinae isotig00567 transcribed RNA sequence-table6-Iflaviridae-HMM49-567_90.0-ORF38
+seq358	>tsa-GAIF01031643.1 TSA: Dermanyssus gallinae isotig00552 transcribed RNA sequence-table4-Iflaviridae-HMM116-296_55.0-ORF54
+seq359	>tsa-GAIF01031724.1 TSA: Dermanyssus gallinae isotig00534 transcribed RNA sequence-table4-Iflaviridae-HMM116-296_55.0-ORF60
+seq360	>tsa-GAIF01032051.1 TSA: Dermanyssus gallinae isotig00545 transcribed RNA sequence-table4-Iflaviridae-HMM116-296_55.0-ORF54
+seq361	>tsa-GAIF01032624.1 TSA: Dermanyssus gallinae isotig00555 transcribed RNA sequence-table4-Iflaviridae-HMM116-262_53.0-ORF58
+seq362	>tsa-GAIF01033956.1 TSA: Dermanyssus gallinae isotig00566 transcribed RNA sequence-table4-Iflaviridae-HMM116-296_55.0-ORF25
+seq363	>tsa-GAIF01034228.1 TSA: Dermanyssus gallinae isotig00574 transcribed RNA sequence-table4-Iflaviridae-HMM116-280_58.0-ORF23
+seq364	>tsa-GAIF01035022.1 TSA: Dermanyssus gallinae isotig00541 transcribed RNA sequence-table6-Iflaviridae-HMM49-574_89.0-ORF59
+seq365	>tsa-GBSB01007980.1 TSA: Diabrotica virgifera virgifera isotig07681 transcribed RNA sequence-table4-Iflaviridae-HMM537-1055_46.0-ORF105
+seq366	>tsa-GBSB01007981.1 TSA: Diabrotica virgifera virgifera isotig07682 transcribed RNA sequence-table6-Iflaviridae-HMM424-942_51.0-ORF36
+seq367	>tsa-IACE01120231.1 TSA: Diacamma sp. Okinawa-2006a RNA, contig: c66209_g2_i1, transcribed RNA sequence-table6-Iflaviridae-HMM474-1005_50.0-ORF36
+seq368	>tsa-IACE01145403.1 (REVERSE SENSE) TSA: Diacamma sp. Okinawa-2006a RNA, contig: c67434_g2_i1, transcribed RNA sequence-table6-Iflaviridae-HMM3-453_91.0-ORF29
+seq369	>tsa-GELG01001996.1 (REVERSE SENSE) TSA: Diachasmimorpha longicaudata isotig01970 transcribed RNA sequence-table6-Iflaviridae-HMM2521-3042_17.0-ORF214
+seq370	>tsa-GELG01035269.1 (REVERSE SENSE) TSA: Diachasmimorpha longicaudata HWR9CMJ02HXAFB transcribed RNA sequence-table6-Iflaviridae-HMM3-74_95.0-ORF16
+seq371	>tsa-GELG01043549.1 (REVERSE SENSE) TSA: Diachasmimorpha longicaudata HWR9CMJ02IU8N1 transcribed RNA sequence-table6-Iflaviridae-HMM3-75_96.0-ORF13
+seq372	>tsa-GBLP01004050.1 TSA: Diglyphus isaea C115349_a_38_0_l_7024 transcribed RNA sequence-table4-Iflaviridae-HMM1717-2241_22.0-ORF77
+seq373	>tsa-GBLP01004053.1 (REVERSE SENSE) TSA: Diglyphus isaea C115359_a_65_0_l_8957 transcribed RNA sequence-table4-Iflaviridae-HMM2356-2880_18.0-ORF242
+seq374	>tsa-GBMA01005308.1 (REVERSE SENSE) TSA: Diodontus minutus C57947_a_10_0_l_294 transcribed RNA sequence-table1-Iflaviridae-HMM28-94_68.0-ORF7
+seq375	>tsa-GFJI01199266.1 TSA: Echinochloa colona TR4057_c1_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM1-117_96.0-ORF5
+seq376	>tsa-GFJI01416948.1 TSA: Echinochloa colona TR84988_c0_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM4-156_89.0-ORF4
+seq377	>tsa-GAJH01078709.1 TSA: Elaeis guineensis isotig79122 transcribed RNA sequence-table4-Iflaviridae-HMM2-86_78.0-ORF4
+seq378	>tsa-GAEQ01013258.1 (REVERSE SENSE) TSA: Enallagma hageni contig00636 mRNA sequence-table4-Iflaviridae-HMM3-71_41.0-ORF18
+seq379	>tsa-GAEQ01017591.1 TSA: Enallagma hageni contig07519 mRNA sequence-table4-Iflaviridae-HMM1-145_76.0-ORF6
+seq380	>tsa-GEOE01123505.1 (REVERSE SENSE) TSA: Enteucha acetosae TR68990-c0_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM110-312_64.0-ORF23
+seq381	>tsa-GEOE01123506.1 (REVERSE SENSE) TSA: Enteucha acetosae TR68990-c0_g1_i2 transcribed RNA sequence-table6-Iflaviridae-HMM110-249_43.0-ORF26
+seq382	>tsa-GEMZ01025067.1 TSA: Entomophthora muscae comp32024_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-65_96.0-ORF2
+seq383	>tsa-GENA01025067.1 TSA: Entomophthora muscae comp32024_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-65_96.0-ORF2
+seq384	>tsa-GENB01003310.1 TSA: Entomophthora muscae c3007_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM81-249_66.0-ORF8
+seq385	>tsa-GENB01033659.1 TSA: Entomophthora muscae c22851_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM1-86_97.0-ORF2
+seq386	>tsa-GENB01034640.1 TSA: Entomophthora muscae c23886_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM2379-2902_17.0-ORF94
+seq387	>tsa-GENB01036907.1 TSA: Entomophthora muscae c26162_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM2-91_96.0-ORF3
+seq388	>tsa-GENB01043997.1 TSA: Entomophthora muscae c33376_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM1-65_94.0-ORF4
+seq389	>tsa-GENC01009046.1 TSA: Entomophthora muscae c7494_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM5-157_95.0-ORF3
+seq390	>tsa-GENC01010261.1 TSA: Entomophthora muscae c8309_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM1-71_97.0-ORF2
+seq391	>tsa-GENC01039332.1 TSA: Entomophthora muscae c25751_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM1-90_97.0-ORF4
+seq392	>tsa-GENC01048400.1 TSA: Entomophthora muscae c34971_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM1-68_97.0-ORF3
+seq393	>tsa-GEND01011076.1 TSA: Entomophthora muscae c8942_g1_i1 transcribed RNA sequence-table4-Iflaviridae-HMM925-1449_35.0-ORF49
+seq394	>tsa-GEND01015209.1 TSA: Entomophthora muscae c11210_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM4-99_95.0-ORF4
+seq395	>tsa-GEND01043925.1 (REVERSE SENSE) TSA: Entomophthora muscae c29091_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM1-166_99.0-ORF9
+seq396	>tsa-GFBH01087456.1 (REVERSE SENSE) TSA: Eogystia hippophaecolus c81265.graph_c0 transcribed RNA sequence-table6-Iflaviridae-HMM2494-3018_17.0-ORF218
+seq397	>tsa-GAVW02002918.1 (REVERSE SENSE) TSA: Epiophlebia superstes C39603_a_5_0_l_233 transcribed RNA sequence-table1-Iflaviridae-HMM1-77_98.0-ORF7
+seq398	>tsa-GAVW02006505.1 TSA: Epiophlebia superstes C48679_a_4_0_l_277 transcribed RNA sequence-table1-Iflaviridae-HMM1-91_97.0-ORF3
+seq399	>tsa-GAVW02020833.1 TSA: Epiophlebia superstes C91156_a_14_0_l_1453 transcribed RNA sequence-table6-Iflaviridae-HMM3-432_97.0-ORF11
+seq400	>tsa-GBQL01009169.1 (REVERSE SENSE) TSA: Episyron rufipes C67388_a_5_0_l_944 transcribed RNA sequence-table1-Iflaviridae-HMM15-310_93.0-ORF24
+seq401	>tsa-GBYB01006488.1 TSA: Fopius arisanus c22245_g1_i1 transcribed RNA sequence-table4-Iflaviridae-HMM2323-2726_14.0-ORF95
+seq402	>tsa-GAXD01001763.1 (REVERSE SENSE) TSA: Frankliniella occidentalis THRIPS_11_08_2011_01808 transcribed RNA sequence-table6-Iflaviridae-HMM2416-2929_17.0-ORF188
+seq403	>tsa-GAXD01002919.1 (REVERSE SENSE) TSA: Frankliniella occidentalis THRIPS_11_08_2011_02991 transcribed RNA sequence-table6-Iflaviridae-HMM437-950_52.0-ORF74
+seq404	>tsa-GAXD01025410.1 (REVERSE SENSE) TSA: Frankliniella occidentalis THRIPS_11_08_2011_26336 transcribed RNA sequence-table6-Iflaviridae-HMM2416-2929_17.0-ORF183
+seq405	>tsa-GAXD01025411.1 (REVERSE SENSE) TSA: Frankliniella occidentalis THRIPS_11_08_2011_26337 transcribed RNA sequence-table6-Iflaviridae-HMM4-102_74.0-ORF12
+seq406	>tsa-GAXD01025412.1 (REVERSE SENSE) TSA: Frankliniella occidentalis THRIPS_11_08_2011_26338 transcribed RNA sequence-table6-Iflaviridae-HMM2386-2899_17.0-ORF178
+seq407	>tsa-GAIW01009337.1 TSA: Ganaspis sp. G1 comp1359_c0_seq6 transcribed RNA sequence-table4-Iflaviridae-HMM3-133_69.0-ORF8
+seq408	>tsa-GEQD01037029.1 TSA: Garjajewia dershawini c30731_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM2-95_96.0-ORF2
+seq409	>tsa-GBVG01000876.1 TSA: Gasteruption tournieri C104005_a_16_0_l_512 transcribed RNA sequence-table1-Iflaviridae-HMM2-169_98.0-ORF4
+seq410	>tsa-GBVG01003164.1 (REVERSE SENSE) TSA: Gasteruption tournieri C115452_a_3_0_l_768 transcribed RNA sequence-table1-Iflaviridae-HMM177-256_30.0-ORF25
+seq411	>tsa-GBVG01004655.1 (REVERSE SENSE) TSA: Gasteruption tournieri C123754_a_4_0_l_1133 transcribed RNA sequence-table6-Iflaviridae-HMM1-325_85.0-ORF25
+seq412	>tsa-GBVG01005094.1 TSA: Gasteruption tournieri C126328_a_5_0_l_1311 transcribed RNA sequence-table6-Iflaviridae-HMM2-418_95.0-ORF14
+seq413	>tsa-GEAC01033066.1 (REVERSE SENSE) TSA: Gevuina avellana Gavel_contig_33100 transcribed RNA sequence-table1-Iflaviridae-HMM1-67_98.0-ORF6
+seq414	>tsa-GBRX01000755.1 TSA: Glossina palpalis gambiensis GLOS_DVIR_GJ19601.1.1_4580 transcribed RNA sequence-table6-Iflaviridae-HMM10-123_86.0-ORF49
+seq415	>tsa-GBRX01001100.1 (REVERSE SENSE) TSA: Glossina palpalis gambiensis GLOS_DWVGP1.1.2_10393 transcribed RNA sequence-table6-Iflaviridae-HMM2-291_91.0-ORF192
+seq416	>tsa-GBRX01003664.1 (REVERSE SENSE) TSA: Glossina palpalis gambiensis GLOS_POL.1.4_11976 transcribed RNA sequence-table4-Iflaviridae-HMM16-498_87.0-ORF299
+seq417	>tsa-GBRX01004939.1 TSA: Glossina palpalis gambiensis GLOS_BBPLV_GP1.1.6_6383 transcribed RNA sequence-table6-Iflaviridae-HMM1552-2074_24.0-ORF62
+seq418	>tsa-GBRX01005586.1 (REVERSE SENSE) TSA: Glossina palpalis gambiensis GLOS_POL.2.4_9579 transcribed RNA sequence-table6-Iflaviridae-HMM2377-2748_12.0-ORF209
+seq419	>tsa-GBRX01006378.1 TSA: Glossina palpalis gambiensis GLOS_POL.3.4_9204 transcribed RNA sequence-table6-Iflaviridae-HMM2359-2730_12.0-ORF96
+seq420	>tsa-GBRX01006758.1 (REVERSE SENSE) TSA: Glossina palpalis gambiensis GLOS_POLN.1.1_11331 transcribed RNA sequence-table6-Iflaviridae-HMM181-659_66.0-ORF198
+seq421	>tsa-GBRX01008535.1 (REVERSE SENSE) TSA: Glossina palpalis gambiensis GLOS_POL1.1.1_8800 transcribed RNA sequence-table4-Iflaviridae-HMM8-233_83.0-ORF233
+seq422	>tsa-GBRX01010379.1 (REVERSE SENSE) TSA: Glossina palpalis gambiensis GLOS_HBSPV_GP1.1.1_14422 transcribed RNA sequence-table6-Iflaviridae-HMM197-356_44.0-ORF223
+seq423	>tsa-GBRX01010429.1 (REVERSE SENSE) TSA: Glossina palpalis gambiensis GLOS_BBPLV_GP1.2.6_10074 transcribed RNA sequence-table6-Iflaviridae-HMM2565-3083_16.0-ORF193
+seq424	>tsa-GBRX01010462.1 TSA: Glossina palpalis gambiensis GLOS_BBPLV_GP1.3.6_5752 transcribed RNA sequence-table6-Iflaviridae-HMM1144-1557_21.0-ORF63
+seq425	>tsa-GBRX01012160.1 (REVERSE SENSE) TSA: Glossina palpalis gambiensis GLOS_BBPLV_GP1.6.6_8096 transcribed RNA sequence-table6-Iflaviridae-HMM2139-2662_19.0-ORF160
+seq426	>tsa-GBRX01013184.1 TSA: Glossina palpalis gambiensis GLOS_VDV1_GP1.1.1_14025 transcribed RNA sequence-table4-Iflaviridae-HMM440-916_50.0-ORF146
+seq427	>tsa-GBRX01014596.1 (REVERSE SENSE) TSA: Glossina palpalis gambiensis GLOS_contig_015320_9893 transcribed RNA sequence-table6-Iflaviridae-HMM154-606_61.0-ORF190
+seq428	>tsa-GBRX01016148.1 TSA: Glossina palpalis gambiensis GLOS_DWVGP1.2.2_10315 transcribed RNA sequence-table6-Iflaviridae-HMM2609-3070_14.0-ORF105
+seq429	>tsa-GAQX01000731.1 TSA: Graminella nigrifrons GnigEST_792_Length=2227 transcribed RNA sequence-table1-Iflaviridae-HMM647-742_12.0-ORF22
+seq430	>tsa-GAQX01025153.1 TSA: Graminella nigrifrons GnigEST_36329_Length=856 transcribed RNA sequence-table4-Iflaviridae-HMM34-147_64.0-ORF6
+seq431	>tsa-GAQX01025955.1 (REVERSE SENSE) TSA: Graminella nigrifrons GnigEST_37573_Length=885 transcribed RNA sequence-table1-Iflaviridae-HMM208-291_28.0-ORF19
+seq432	>tsa-GAQX01026004.1 (REVERSE SENSE) TSA: Graminella nigrifrons GnigEST_37639_Length=903 transcribed RNA sequence-table1-Iflaviridae-HMM234-299_21.0-ORF21
+seq433	>tsa-GAQX01026340.1 TSA: Graminella nigrifrons GnigEST_38183_Length=654 transcribed RNA sequence-table1-Iflaviridae-HMM22-218_89.0-ORF8
+seq434	>tsa-GAQX01031858.1 (REVERSE SENSE) TSA: Graminella nigrifrons GnigEST_48371_Length=454 transcribed RNA sequence-table1-Iflaviridae-HMM1-145_95.0-ORF12
+seq435	>tsa-GEBQ01000015.1 TSA: Graphocephala atropunctata TR21808_c1_g2_i2 transcribed RNA sequence-table1-Iflaviridae-HMM591-882_32.0-ORF32
+seq436	>tsa-GEBQ01006993.1 TSA: Graphocephala atropunctata TR21808_c1_g2_i1 transcribed RNA sequence-table1-Iflaviridae-HMM590-881_32.0-ORF32
+seq437	>tsa-GEBQ01008975.1 TSA: Graphocephala atropunctata TR21808_c1_g8_i1 transcribed RNA sequence-table4-Iflaviridae-HMM13-231_86.0-ORF9
+seq438	>tsa-GFLC01016269.1 (REVERSE SENSE) TSA: Grateloupia catenata PYDB-2002257-Sinotubimorpha_guangdongensis transcribed RNA sequence-table1-Iflaviridae-HMM6-133_95.0-ORF9
+seq439	>tsa-GAWP02034640.1 (REVERSE SENSE) TSA: Grylloblatta bifratrilecta C209721_a_60_0_l_9862 transcribed RNA sequence-table4-Iflaviridae-HMM2452-2970_17.0-ORF246
+seq440	>tsa-GFDG01000509.1 TSA: Haematobia irritans tr-197733_FR4_579-2642 transcribed RNA sequence-table4-Iflaviridae-HMM1544-2039_24.0-ORF69
+seq441	>tsa-GFDG01000510.1 TSA: Haematobia irritans TrSigP-197733_FR4_579-2642 transcribed RNA sequence-table4-Iflaviridae-HMM1509-2004_24.0-ORF68
+seq442	>tsa-GFAV01011665.1 TSA: Haliclona tubifera c52936_g1_i1 transcribed RNA sequence-table4-Iflaviridae-HMM2-135_12.0-ORF46
+seq443	>tsa-GFAV01011666.1 TSA: Haliclona tubifera c52936_g2_i1 transcribed RNA sequence-table1-Iflaviridae-HMM1-302_34.0-ORF26
+seq444	>tsa-HAHA01054926.1 (REVERSE SENSE) TSA: Haliclystus auricula, contig TRINITY_DN15092_c0_g1_i1, transcribed RNA sequence-table6-Iflaviridae-HMM617-1119_44.0-ORF56
+seq445	>tsa-GDCO01019201.1 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.19201 transcribed RNA sequence-table1-Iflaviridae-HMM2-326_99.0-ORF8
+seq446	>tsa-GDCO01084546.1 (REVERSE SENSE) TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.84546 transcribed RNA sequence-table6-Iflaviridae-HMM2527-3054_17.0-ORF197
+seq447	>tsa-GDCO01154329.1 (REVERSE SENSE) TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.154329 transcribed RNA sequence-table1-Iflaviridae-HMM67-205_66.0-ORF16
+seq448	>tsa-GDCO01171230.1 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.171230 transcribed RNA sequence-table1-Iflaviridae-HMM4-99_95.0-ORF3
+seq449	>tsa-GAZA02092951.1 (REVERSE SENSE) TSA: Haploembia palaui C351241_a_26_0_l_843 transcribed RNA sequence-table6-Iflaviridae-HMM2-197_91.0-ORF18
+seq450	>tsa-GAZA02097299.1 TSA: Haploembia palaui s10597_L_70779_0_a_36_9_l_507 transcribed RNA sequence-table1-Iflaviridae-HMM4-161_93.0-ORF5
+seq451	>tsa-GAZA02097300.1 TSA: Haploembia palaui s10598_L_70779_1_a_22_3_l_825 transcribed RNA sequence-table1-Iflaviridae-HMM4-269_96.0-ORF7
+seq452	>tsa-GEWS01064950.1 (REVERSE SENSE) TSA: Helianthus niveus Sampletranscript21768 transcribed RNA sequence-table4-Iflaviridae-HMM2172-2695_19.0-ORF206
+seq453	>tsa-GBDM01001570.1 TSA: Helicoverpa armigera m.2911 transcribed RNA sequence-table1-Iflaviridae-HMM7-107_91.0-ORF3
+seq454	>tsa-GBDM01002454.1 TSA: Helicoverpa armigera m.4493 transcribed RNA sequence-table1-Iflaviridae-HMM36-148_73.0-ORF4
+seq455	>tsa-GEYB01091142.1 TSA: Hermannia gibba TR34501_c0_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM2622-3120_15.0-ORF113
+seq456	>tsa-GFPE01057741.1 (REVERSE SENSE) TSA: Holacanthella duospinosa c64483_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM2451-2974_17.0-ORF205
+seq457	>tsa-GFPE01080785.1 (REVERSE SENSE) TSA: Holacanthella duospinosa c161659_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM1939-2457_20.0-ORF156
+seq458	>tsa-GAAW01105962.1 TSA: Humulus lupulus comp471459_c0_seq1 mRNA sequence-table4-Iflaviridae-HMM2-461_94.0-ORF18
+seq459	>tsa-GAAW01126841.1 TSA: Humulus lupulus comp930477_c0_seq1 mRNA sequence-table1-Iflaviridae-HMM2-155_97.0-ORF3
+seq460	>tsa-GAAW01131375.1 TSA: Humulus lupulus comp985360_c0_seq1 mRNA sequence-table6-Iflaviridae-HMM116-333_58.0-ORF11
+seq461	>tsa-GBVB01021315.1 (REVERSE SENSE) TSA: Inostemma sp. AD-2014 C206285_a_30_0_l_5423 transcribed RNA sequence-table6-Iflaviridae-HMM1030-1565_33.0-ORF100
+seq462	>tsa-GBVB01026961.1 (REVERSE SENSE) TSA: Inostemma sp. AD-2014 s15108_L_45885_0_a_27_5_l_5151 transcribed RNA sequence-table6-Iflaviridae-HMM1112-1629_30.0-ORF89
+seq463	>tsa-GCRV01052491.1 (REVERSE SENSE) TSA: insect metagenome Unigene39879_All transcribed RNA sequence-table1-Iflaviridae-HMM2-181_91.0-ORF14
+seq464	>tsa-GCRV01052567.1 TSA: insect metagenome Unigene39955_All transcribed RNA sequence-table1-Iflaviridae-HMM8-176_80.0-ORF6
+seq465	>tsa-GCRV01053711.1 (REVERSE SENSE) TSA: insect metagenome Unigene41099_All transcribed RNA sequence-table6-Iflaviridae-HMM1-180_86.0-ORF31
+seq466	>tsa-GCRV01053901.1 TSA: insect metagenome Unigene41289_All transcribed RNA sequence-table1-Iflaviridae-HMM2-136_97.0-ORF6
+seq467	>tsa-GABG01047850.1 TSA: Ipomoea purpurea final_55478 mRNA sequence-table6-Iflaviridae-HMM582-1108_47.0-ORF32
+seq468	>tsa-GALY01004577.1 TSA: Ipomoea purpurea ABCDEF_89555 transcribed RNA sequence-table6-Iflaviridae-HMM71-597_87.0-ORF20
+seq469	>tsa-GCJO01007032.1 TSA: Ixodes ricinus contig_1639 transcribed RNA sequence-table4-Iflaviridae-HMM2-147_90.0-ORF5
+seq470	>tsa-GCJO01013092.1 TSA: Ixodes ricinus contig_219 transcribed RNA sequence-table1-Iflaviridae-HMM72-190_56.0-ORF6
+seq471	>tsa-GCJO01017589.1 TSA: Ixodes ricinus contig_26 transcribed RNA sequence-table6-Iflaviridae-HMM9-323_82.0-ORF10
+seq472	>tsa-GCJO01025258.1 TSA: Ixodes ricinus contig_33 transcribed RNA sequence-table6-Iflaviridae-HMM1-94_62.0-ORF6
+seq473	>tsa-GCJO01036545.1 TSA: Ixodes ricinus contig_433 transcribed RNA sequence-table1-Iflaviridae-HMM1-96_95.0-ORF5
+seq474	>tsa-GCJO01059409.1 TSA: Ixodes ricinus contig_953 transcribed RNA sequence-table1-Iflaviridae-HMM7-90_90.0-ORF2
+seq475	>tsa-GFDU01121880.1 TSA: Lateolabrax maculatus c138995_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM57-335_82.0-ORF11
+seq476	>tsa-GBJM01101870.1 (REVERSE SENSE) TSA: Latrodectus geometricus Lg3tf000022g0s transcribed RNA sequence-table6-Iflaviridae-HMM169-699_71.0-ORF57
+seq477	>tsa-GBJM01106770.1 (REVERSE SENSE) TSA: Latrodectus geometricus Lg0tf017509g0u transcribed RNA sequence-table6-Iflaviridae-HMM1-135_79.0-ORF11
+seq478	>tsa-GBJM01110034.1 (REVERSE SENSE) TSA: Latrodectus geometricus Lg0tf013676g0u transcribed RNA sequence-table1-Iflaviridae-HMM7-168_83.0-ORF11
+seq479	>tsa-GBJM01111101.1 (REVERSE SENSE) TSA: Latrodectus geometricus Lg0tf032644g0u transcribed RNA sequence-table1-Iflaviridae-HMM6-100_94.0-ORF5
+seq480	>tsa-GBJM01128964.1 TSA: Latrodectus geometricus Lg3tf000022g1u transcribed RNA sequence-table1-Iflaviridae-HMM9-144_93.0-ORF4
+seq481	>tsa-GBJM01139111.1 TSA: Latrodectus geometricus Lg0tf006680g0u transcribed RNA sequence-table6-Iflaviridae-HMM2-383_80.0-ORF12
+seq482	>tsa-GBCS01004140.1 TSA: Latrodectus hesperus Contig23873 transcribed RNA sequence-table6-Iflaviridae-HMM2149-2686_19.0-ORF77
+seq483	>tsa-GBCS01004151.1 (REVERSE SENSE) TSA: Latrodectus hesperus Contig9418 transcribed RNA sequence-table6-Iflaviridae-HMM2446-2590_5.0-ORF190
+seq484	>tsa-GBJN01003659.1 TSA: Latrodectus hesperus Lh3tf000022g1s transcribed RNA sequence-table1-Iflaviridae-HMM403-546_26.0-ORF14
+seq485	>tsa-GBJN01053512.1 (REVERSE SENSE) TSA: Latrodectus hesperus Lh1tf000334g2s transcribed RNA sequence-table1-Iflaviridae-HMM1-80_96.0-ORF8
+seq486	>tsa-GBJN01083873.1 (REVERSE SENSE) TSA: Latrodectus hesperus Lh1tf000334g0p transcribed RNA sequence-table6-Iflaviridae-HMM895-1432_35.0-ORF93
+seq487	>tsa-GBJN01107417.1 (REVERSE SENSE) TSA: Latrodectus hesperus Lh3tf000022g4s transcribed RNA sequence-table1-Iflaviridae-HMM10-148_92.0-ORF12
+seq488	>tsa-GBJN01178488.1 (REVERSE SENSE) TSA: Latrodectus hesperus Lh3tf000022g0p transcribed RNA sequence-table6-Iflaviridae-HMM2446-2976_17.0-ORF197
+seq489	>tsa-GANL01001301.1 (REVERSE SENSE) TSA: Latrodectus tredecimguttatus cDNA_1775 transcribed RNA sequence-table6-Iflaviridae-HMM456-988_51.0-ORF62
+seq490	>tsa-GEEF01011404.1 (REVERSE SENSE) TSA: Leptinotarsa decemlineata comp55498_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM1-115_98.0-ORF10
+seq491	>tsa-GEEF01167501.1 TSA: Leptinotarsa decemlineata comp119466_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM2204-2717_18.0-ORF82
+seq492	>tsa-GEEF01176418.1 (REVERSE SENSE) TSA: Leptinotarsa decemlineata comp128063_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM1-117_66.0-ORF16
+seq493	>tsa-GEEF01178075.1 (REVERSE SENSE) TSA: Leptinotarsa decemlineata comp130427_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM3-88_96.0-ORF8
+seq494	>tsa-GAJA01006738.1 TSA: Leptopilina boulardi comp2719_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM862-1260_30.0-ORF47
+seq495	>tsa-GAJC01010128.1 TSA: Leptopilina heterotoma comp483_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM1684-2082_18.0-ORF98
+seq496	>tsa-GAYX01000515.1 TSA: Lolium perenne comp504_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM7-167_91.0-ORF5
+seq497	>tsa-GAYX01000795.1 (REVERSE SENSE) TSA: Lolium perenne comp838_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM4-105_96.0-ORF8
+seq498	>tsa-GAYX01001415.1 (REVERSE SENSE) TSA: Lolium perenne comp1684_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM2-163_98.0-ORF10
+seq499	>tsa-GAYX01005415.1 TSA: Lolium perenne comp5898_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM172-679_74.0-ORF13
+seq500	>tsa-GAYX01017318.1 TSA: Lolium perenne comp15304_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-85_98.0-ORF3
+seq501	>tsa-GAYX01022408.1 (REVERSE SENSE) TSA: Lolium perenne comp18359_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM634-1141_44.0-ORF79
+seq502	>tsa-GAYX01119514.1 TSA: Lolium perenne comp111105_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM111-226_49.0-ORF4
+seq503	>tsa-GAYX01119567.1 TSA: Lolium perenne comp111188_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-82_98.0-ORF2
+seq504	>tsa-GAYX01123003.1 TSA: Lolium perenne comp116946_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-150_97.0-ORF3
+seq505	>tsa-GAYX01158932.1 (REVERSE SENSE) TSA: Lolium perenne comp196795_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-69_98.0-ORF5
+seq506	>tsa-GFCJ01033016.1 TSA: Loxostege sticticalis c49676.graph_c0 transcribed RNA sequence-table6-Iflaviridae-HMM867-1369_33.0-ORF51
+seq507	>tsa-GBHO01002296.1 TSA: Lygus hesperus comp37420_c0_seq5 transcribed RNA sequence-table6-Iflaviridae-HMM1-364_68.0-ORF15
+seq508	>tsa-GBHO01002297.1 TSA: Lygus hesperus comp37420_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM1755-1940_9.0-ORF84
+seq509	>tsa-GBHO01002298.1 TSA: Lygus hesperus comp37420_c0_seq2 transcribed RNA sequence-table6-Iflaviridae-HMM2-156_47.0-ORF10
+seq510	>tsa-GBHO01025748.1 TSA: Lygus hesperus comp29227_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM2-345_76.0-ORF103
+seq511	>tsa-GBHO01037984.1 TSA: Lygus hesperus comp37202_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM2357-2883_17.0-ORF109
+seq512	>tsa-GBRD01000728.1 TSA: Lygus hesperus comp27540_c0_seq3 transcribed RNA sequence-table6-Iflaviridae-HMM1360-1881_25.0-ORF67
+seq513	>tsa-GBRD01001443.1 TSA: Lygus hesperus comp27497_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM1145-1670_29.0-ORF103
+seq514	>tsa-GBRD01003131.1 TSA: Lygus hesperus comp27540_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM1755-2276_21.0-ORF95
+seq515	>tsa-GBRD01010625.1 TSA: Lygus hesperus comp27523_c0_seq3 transcribed RNA sequence-table6-Iflaviridae-HMM2357-2883_17.0-ORF109
+seq516	>tsa-GBRD01010626.1 TSA: Lygus hesperus comp27523_c0_seq2 transcribed RNA sequence-table6-Iflaviridae-HMM1954-2480_20.0-ORF87
+seq517	>tsa-GBRD01010627.1 TSA: Lygus hesperus comp27523_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM1074-1600_30.0-ORF54
+seq518	>tsa-GDHC01010010.1 TSA: Lygus hesperus c90960_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM2414-2940_17.0-ORF108
+seq519	>tsa-GDHC01016197.1 TSA: Lygus hesperus c91272_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM1605-2126_22.0-ORF75
+seq520	>tsa-GDAW01053143.1 (REVERSE SENSE) TSA: Lygus lineolaris c50689_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM2-140_97.0-ORF11
+seq521	>tsa-GDCN01000029.1 (REVERSE SENSE) TSA: Lymantria dispar Ldispar_USDA-ARS_IIBBL.29 transcribed RNA sequence-table1-Iflaviridae-HMM2-87_96.0-ORF9
+seq522	>tsa-GDCN01000030.1 (REVERSE SENSE) TSA: Lymantria dispar Ldispar_USDA-ARS_IIBBL.30 transcribed RNA sequence-table1-Iflaviridae-HMM2-87_96.0-ORF9
+seq523	>tsa-GDCN01000031.1 (REVERSE SENSE) TSA: Lymantria dispar Ldispar_USDA-ARS_IIBBL.31 transcribed RNA sequence-table1-Iflaviridae-HMM2-93_97.0-ORF9
+seq524	>tsa-GDCN01000044.1 (REVERSE SENSE) TSA: Lymantria dispar Ldispar_USDA-ARS_IIBBL.44 transcribed RNA sequence-table6-Iflaviridae-HMM65-123_46.0-ORF10
+seq525	>tsa-GDCN01000045.1 (REVERSE SENSE) TSA: Lymantria dispar Ldispar_USDA-ARS_IIBBL.45 transcribed RNA sequence-table6-Iflaviridae-HMM65-132_50.0-ORF11
+seq526	>tsa-GDCN01000046.1 (REVERSE SENSE) TSA: Lymantria dispar Ldispar_USDA-ARS_IIBBL.46 transcribed RNA sequence-table6-Iflaviridae-HMM65-138_52.0-ORF12
+seq527	>tsa-GDCN01000047.1 (REVERSE SENSE) TSA: Lymantria dispar Ldispar_USDA-ARS_IIBBL.47 transcribed RNA sequence-table6-Iflaviridae-HMM18-90_80.0-ORF10
+seq528	>tsa-GDCN01000048.1 (REVERSE SENSE) TSA: Lymantria dispar Ldispar_USDA-ARS_IIBBL.48 transcribed RNA sequence-table6-Iflaviridae-HMM65-137_52.0-ORF13
+seq529	>tsa-GDCN01000183.1 (REVERSE SENSE) TSA: Lymantria dispar Ldispar_USDA-ARS_IIBBL.183 transcribed RNA sequence-table6-Iflaviridae-HMM223-317_29.0-ORF23
+seq530	>tsa-GDCN01000184.1 (REVERSE SENSE) TSA: Lymantria dispar Ldispar_USDA-ARS_IIBBL.184 transcribed RNA sequence-table6-Iflaviridae-HMM3-104_97.0-ORF12
+seq531	>tsa-GDCN01000895.1 (REVERSE SENSE) TSA: Lymantria dispar Ldispar_USDA-ARS_IIBBL.895 transcribed RNA sequence-table6-Iflaviridae-HMM14-135_89.0-ORF11
+seq532	>tsa-GDCN01000896.1 (REVERSE SENSE) TSA: Lymantria dispar Ldispar_USDA-ARS_IIBBL.896 transcribed RNA sequence-table6-Iflaviridae-HMM1-141_99.0-ORF11
+seq533	>tsa-GEEC01005562.1 (REVERSE SENSE) TSA: Mangifera indica contig45027 transcribed RNA sequence-table1-Iflaviridae-HMM1-99_98.0-ORF9
+seq534	>tsa-GEEC01027433.1 TSA: Mangifera indica contig29818 transcribed RNA sequence-table1-Iflaviridae-HMM2-167_98.0-ORF4
+seq535	>tsa-GEEC01027935.1 TSA: Mangifera indica contig30748 transcribed RNA sequence-table6-Iflaviridae-HMM24-115_71.0-ORF4
+seq536	>tsa-GEEC01032001.1 (REVERSE SENSE) TSA: Mangifera indica contig39870 transcribed RNA sequence-table1-Iflaviridae-HMM5-117_95.0-ORF8
+seq537	>tsa-GEFO01023469.1 TSA: Marchantia polymorpha Transcript_25172 transcribed RNA sequence-table1-Iflaviridae-HMM156-454_65.0-ORF18
+seq538	>tsa-GEFO01024630.1 TSA: Marchantia polymorpha Transcript_9303 transcribed RNA sequence-table4-Iflaviridae-HMM1-126_81.0-ORF6
+seq539	>tsa-GDAQ01005004.1 TSA: Mastigoproctus giganteus dmp100_2011-02-23_c6170 transcribed RNA sequence-table1-Iflaviridae-HMM1-76_83.0-ORF2
+seq540	>tsa-GBOY01005243.1 (REVERSE SENSE) TSA: Mellinus arvensis C37251_a_4_0_l_370 transcribed RNA sequence-table1-Iflaviridae-HMM5-123_95.0-ORF11
+seq541	>tsa-GBOY01010950.1 TSA: Mellinus arvensis C56082_a_8_0_l_974 transcribed RNA sequence-table1-Iflaviridae-HMM153-324_52.0-ORF9
+seq542	>tsa-GBOY01018913.1 (REVERSE SENSE) TSA: Mellinus arvensis s4020_L_8562_1_a_13_9_l_1237 transcribed RNA sequence-table6-Iflaviridae-HMM4-252_85.0-ORF23
+seq543	>tsa-GAWR02018961.1 TSA: Menopon gallinae s197_L_193_0_a_32_7_l_1236 transcribed RNA sequence-table6-Iflaviridae-HMM1-353_90.0-ORF16
+seq544	>tsa-GAWR02018972.1 TSA: Menopon gallinae s198_L_193_1_a_15_5_l_7023 transcribed RNA sequence-table6-Iflaviridae-HMM1776-2282_21.0-ORF74
+seq545	>tsa-GATB02023545.1 TSA: Metallyticus splendidus C161226_a_6_0_l_577 transcribed RNA sequence-table6-Iflaviridae-HMM1-130_67.0-ORF6
+seq546	>tsa-GATB02027363.1 TSA: Metallyticus splendidus C171347_a_3_0_l_695 transcribed RNA sequence-table6-Iflaviridae-HMM2-122_63.0-ORF6
+seq547	>tsa-GATB02040142.1 (REVERSE SENSE) TSA: Metallyticus splendidus C204765_a_5_0_l_3424 transcribed RNA sequence-table6-Iflaviridae-HMM538-1071_46.0-ORF69
+seq548	>tsa-GATB02045445.1 TSA: Metallyticus splendidus C83738_a_3_0_l_236 transcribed RNA sequence-table1-Iflaviridae-HMM2-78_97.0-ORF2
+seq549	>tsa-GACP01005824.1 TSA: Micropterix calthella contig05828 mRNA sequence-table1-Iflaviridae-HMM4-324_98.0-ORF12
+seq550	>tsa-GACP01035082.1 (REVERSE SENSE) TSA: Micropterix calthella contig35124 mRNA sequence-table6-Iflaviridae-HMM1-108_81.0-ORF11
+seq551	>tsa-GAXM01039151.1 (REVERSE SENSE) TSA: Mischocyttarus flavitarsis comp13912_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM2386-2908_17.0-ORF199
+seq552	>tsa-GECQ01066123.1 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.66123 transcribed RNA sequence-table6-Iflaviridae-HMM105-278_62.0-ORF11
+seq553	>tsa-GECQ01266205.1 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.266205 transcribed RNA sequence-table1-Iflaviridae-HMM1-337_97.0-ORF15
+seq554	>tsa-HADN01011303.1 (REVERSE SENSE) TSA: Nematostella vectensis, contig TR7825|c0_g1_i1, transcribed RNA sequence-table6-Iflaviridae-HMM364-832_27.0-ORF122
+seq555	>tsa-HADN01011304.1 (REVERSE SENSE) TSA: Nematostella vectensis, contig TR7825|c0_g2_i1, transcribed RNA sequence-table4-Iflaviridae-HMM364-750_50.0-ORF62
+seq556	>tsa-HADO01027206.1 (REVERSE SENSE) TSA: Nematostella vectensis, contig NvecRef.27069.1, transcribed RNA sequence-table1-Iflaviridae-HMM2-119_96.0-ORF7
+seq557	>tsa-GFKT010005580.1 TSA: Nephila clavipes Nep005_A_body_comp44472_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-84_98.0-ORF1
+seq558	>tsa-GFKT010028459.1 TSA: Nephila clavipes Nep005_A_body_comp84179_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM29-181_80.0-ORF6
+seq559	>tsa-GFKT010033656.1 TSA: Nephila clavipes Nep005_A_body_comp150559_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM3-200_96.0-ORF5
+seq560	>tsa-GFKT010139291.1 (REVERSE SENSE) TSA: Nephila clavipes Nep007_B_body_comp901224_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM142-255_43.0-ORF13
+seq561	>tsa-GFKT010182012.1 TSA: Nephila clavipes Nep007_B_body_comp936458_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM2-69_97.0-ORF2
+seq562	>tsa-GFKT010370614.1 (REVERSE SENSE) TSA: Nephila clavipes Nep008_E_silk_comp184005_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM3-457_94.0-ORF30
+seq563	>tsa-GFKT010376089.1 TSA: Nephila clavipes Nep008_E_silk_comp193304_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM4-78_94.0-ORF4
+seq564	>tsa-GFKT010682328.1 TSA: Nephila clavipes Nep008_F_silk_comp164405_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM2599-3132_16.0-ORF104
+seq565	>tsa-GFKT010719278.1 TSA: Nephila clavipes Nep008_F_silk_comp205460_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM2-92_72.0-ORF3
+seq566	>tsa-GEWZ01012597.1 (REVERSE SENSE) TSA: Nephilengys cruentata 13140 transcribed RNA sequence-table4-Iflaviridae-HMM141-400_59.0-ORF42
+seq567	>tsa-GEWZ01015674.1 TSA: Nephilengys cruentata 16420 transcribed RNA sequence-table1-Iflaviridae-HMM3-104_97.0-ORF3
+seq568	>tsa-GANM01013139.1 TSA: Nilaparvata lugens Unigene23172_All transcribed RNA sequence-table6-Iflaviridae-HMM2429-2972_17.0-ORF96
+seq569	>tsa-GANM01013490.1 TSA: Nilaparvata lugens Unigene23875_All transcribed RNA sequence-table4-Iflaviridae-HMM2676-3205_16.0-ORF125
+seq570	>tsa-GAYF02005562.1 TSA: Nilaparvata lugens C116074_a_11_0_l_279 transcribed RNA sequence-table1-Iflaviridae-HMM2-92_97.0-ORF2
+seq571	>tsa-GAYF02030042.1 (REVERSE SENSE) TSA: Nilaparvata lugens s11936_L_41312_0_a_53_4_l_5263 transcribed RNA sequence-table4-Iflaviridae-HMM1133-1662_31.0-ORF151
+seq572	>tsa-GBQU01020920.1 (REVERSE SENSE) TSA: Nitela sp. AD-2014 C298144_a_3_0_l_818 transcribed RNA sequence-table4-Iflaviridae-HMM11-231_80.0-ORF24
+seq573	>tsa-GAIB01189480.1 TSA: Nothobranchius furzeri Nofu_GRZ_cDNA_3_0170187 transcribed RNA sequence-table1-Iflaviridae-HMM6-143_95.0-ORF3
+seq574	>tsa-GEYJ01076951.1 TSA: Nothrus palustris TR27695_c0_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM1882-2391_20.0-ORF110
+seq575	>tsa-GEYJ01089162.1 (REVERSE SENSE) TSA: Nothrus palustris TR34737_c0_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM1-72_91.0-ORF6
+seq576	>tsa-GASV02020315.1 TSA: Notostira elongata s1022_L_1137_0_a_77_9_l_8346 transcribed RNA sequence-table6-Iflaviridae-HMM1125-1345_16.0-ORF91
+seq577	>tsa-GASV02020316.1 (REVERSE SENSE) TSA: Notostira elongata s1023_L_1137_1_a_90_6_l_1566 transcribed RNA sequence-table6-Iflaviridae-HMM2-392_82.0-ORF36
+seq578	>tsa-GASV02020317.1 TSA: Notostira elongata s1024_L_1137_2_a_66_5_l_8001 transcribed RNA sequence-table6-Iflaviridae-HMM1125-1230_8.0-ORF81
+seq579	>tsa-GAXJ02019692.1 (REVERSE SENSE) TSA: Occasjapyx japonicus C98453_a_21_0_l_7941 transcribed RNA sequence-table6-Iflaviridae-HMM2045-2557_19.0-ORF173
+seq580	>tsa-GDKM01013530.1 TSA: Oryza sativa Indica Group Transcript_13530 transcribed RNA sequence-table6-Iflaviridae-HMM6-141_94.0-ORF6
+seq581	>tsa-GAYC02010589.1 TSA: Osmylus fulvicephalus C51434_a_3_0_l_729 transcribed RNA sequence-table1-Iflaviridae-HMM1-242_99.0-ORF6
+seq582	>tsa-GBLU01000799.1 TSA: Oxybelus bipunctatus C105249_a_61_0_l_8801 transcribed RNA sequence-table4-Iflaviridae-HMM2331-2848_17.0-ORF87
+seq583	>tsa-GBLU01000801.1 TSA: Oxybelus bipunctatus C105263_a_45_0_l_9312 transcribed RNA sequence-table6-Iflaviridae-HMM2407-2930_17.0-ORF104
+seq584	>tsa-GBLU01001580.1 (REVERSE SENSE) TSA: Oxybelus bipunctatus C44027_a_5_0_l_220 transcribed RNA sequence-table1-Iflaviridae-HMM3-72_94.0-ORF6
+seq585	>tsa-GBLU01004303.1 (REVERSE SENSE) TSA: Oxybelus bipunctatus C52931_a_78_0_l_277 transcribed RNA sequence-table1-Iflaviridae-HMM1-89_95.0-ORF8
+seq586	>tsa-GBLU01010446.1 (REVERSE SENSE) TSA: Oxybelus bipunctatus C79958_a_16_0_l_722 transcribed RNA sequence-table6-Iflaviridae-HMM2-148_83.0-ORF12
+seq587	>tsa-GBLU01013493.1 TSA: Oxybelus bipunctatus C99187_a_25_0_l_2259 transcribed RNA sequence-table6-Iflaviridae-HMM211-727_68.0-ORF22
+seq588	>tsa-GBLU01014708.1 TSA: Oxybelus bipunctatus s1986_L_2369_0_a_26_3_l_4464 transcribed RNA sequence-table1-Iflaviridae-HMM1283-1487_13.0-ORF32
+seq589	>tsa-GEQT01022422.1 (REVERSE SENSE) TSA: Pachyschesis branchialis c24318_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM2364-2875_17.0-ORF185
+seq590	>tsa-GEOP01074788.1 (REVERSE SENSE) TSA: Palaephatus nielseni TR76426-c0_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM13-77_82.0-ORF7
+seq591	>tsa-GDQW01002241.1 (REVERSE SENSE) TSA: Panax ginseng c15372_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM5-215_70.0-ORF56
+seq592	>tsa-GCAC01000094.1 TSA: Panonychus ulmi Locus_00103 transcribed RNA sequence-table6-Iflaviridae-HMM2816-3342_15.0-ORF92
+seq593	>tsa-IAAA01005329.1 TSA: Parasteatoda tepidariorum mRNA, contig: comp2410_seq0, transcribed RNA sequence-table6-Iflaviridae-HMM1094-1579_26.0-ORF66
+seq594	>tsa-GCKE01020064.1 (REVERSE SENSE) TSA: Pardosa pseudoannulata Unigene24936_F1 transcribed RNA sequence-table6-Iflaviridae-HMM1-89_75.0-ORF9
+seq595	>tsa-GCKE01020065.1 TSA: Pardosa pseudoannulata Unigene24937_F1 transcribed RNA sequence-table4-Iflaviridae-HMM553-987_43.0-ORF49
+seq596	>tsa-GCKE01027590.1 TSA: Pardosa pseudoannulata Unigene32827_F1 transcribed RNA sequence-table4-Iflaviridae-HMM1-94_73.0-ORF6
+seq597	>tsa-GCVO01011648.1 (REVERSE SENSE) TSA: Pardosa pseudoannulata comp25935_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM28-90_63.0-ORF14
+seq598	>tsa-GCVO01023679.1 (REVERSE SENSE) TSA: Pardosa pseudoannulata comp41571_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM14-85_83.0-ORF7
+seq599	>tsa-GCVO01038325.1 (REVERSE SENSE) TSA: Pardosa pseudoannulata comp54135_c0_seq9 transcribed RNA sequence-table4-Iflaviridae-HMM379-524_27.0-ORF67
+seq600	>tsa-GCVO01038605.1 TSA: Pardosa pseudoannulata comp54334_c0_seq5 transcribed RNA sequence-table4-Iflaviridae-HMM531-676_21.0-ORF24
+seq601	>tsa-GCVO01040764.1 TSA: Pardosa pseudoannulata comp56443_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM2-81_61.0-ORF4
+seq602	>tsa-GCVS01000150.1 TSA: Pardosa pseudoannulata comp344_c0_seq2 transcribed RNA sequence-table4-Iflaviridae-HMM19-89_78.0-ORF3
+seq603	>tsa-GCVS01059777.1 TSA: Pardosa pseudoannulata comp72638_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM88-199_55.0-ORF9
+seq604	>tsa-GCVT01011648.1 (REVERSE SENSE) TSA: Pardosa pseudoannulata comp25935_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM28-90_63.0-ORF14
+seq605	>tsa-GCVT01023679.1 (REVERSE SENSE) TSA: Pardosa pseudoannulata comp41571_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM14-85_83.0-ORF7
+seq606	>tsa-GCVT01038325.1 (REVERSE SENSE) TSA: Pardosa pseudoannulata comp54135_c0_seq9 transcribed RNA sequence-table4-Iflaviridae-HMM379-524_27.0-ORF67
+seq607	>tsa-GCVT01038605.1 TSA: Pardosa pseudoannulata comp54334_c0_seq5 transcribed RNA sequence-table4-Iflaviridae-HMM531-676_21.0-ORF24
+seq608	>tsa-GCVT01040764.1 TSA: Pardosa pseudoannulata comp56443_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM2-81_61.0-ORF4
+seq609	>tsa-GEFV01041714.1 TSA: Paulownia tomentosa comp496637_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-137_95.0-ORF6
+seq610	>tsa-GFVK01000036.1 (REVERSE SENSE) TSA: Paulownia c10011_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM113-563_79.0-ORF45
+seq611	>tsa-GFVK01000037.1 TSA: Paulownia c10011_g2_i1 transcribed RNA sequence-table6-Iflaviridae-HMM1-77_68.0-ORF2
+seq612	>tsa-GFVK01005129.1 TSA: Paulownia c22414_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM2390-2911_17.0-ORF94
+seq613	>tsa-GDQN01005406.1 TSA: Pectinophora gossypiella TR16028_c0_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM2439-2956_17.0-ORF101
+seq614	>tsa-GBQH01016250.1 TSA: Pemphredon lugens C82854_a_4_0_l_3007 transcribed RNA sequence-table1-Iflaviridae-HMM502-998_49.0-ORF28
+seq615	>tsa-GAXS01049398.1 (REVERSE SENSE) TSA: Pepsis grossa comp43255_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM2-86_97.0-ORF7
+seq616	>tsa-GAXS01059968.1 TSA: Pepsis grossa comp132588_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-88_98.0-ORF3
+seq617	>tsa-GEIF01045429.1 TSA: Periplaneta americana Unigene37182_All transcribed RNA sequence-table1-Iflaviridae-HMM2-67_95.0-ORF2
+seq618	>tsa-GEIF01070524.1 (REVERSE SENSE) TSA: Periplaneta americana Unigene59835_All transcribed RNA sequence-table1-Iflaviridae-HMM1-117_99.0-ORF7
+seq619	>tsa-GALN01237125.1 (REVERSE SENSE) TSA: Persicaria minor PMT0000271742 transcribed RNA sequence-table4-Iflaviridae-HMM40-151_73.0-ORF13
+seq620	>tsa-GBRU01073843.1 TSA: Petunia axillaris Locus_66318_Transcript_1/1_Confidence_1.000_Length_1800 transcribed RNA sequence-table4-Iflaviridae-HMM1-467_96.0-ORF18
+seq621	>tsa-GFUQ01071742.1 TSA: Phaeocystis antarctica TR31474:c1_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM1-85_98.0-ORF2
+seq622	>tsa-GEKK01016102.1 (REVERSE SENSE) TSA: Phagocata morgani comp106545_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM8-118_72.0-ORF11
+seq623	>tsa-GFQM01075394.1 TSA: Phelipanche aegyptiaca c266972.graph_c0 transcribed RNA sequence-table4-Iflaviridae-HMM2-110_87.0-ORF4
+seq624	>tsa-GFQM01079485.1 TSA: Phelipanche aegyptiaca c369504.graph_c0 transcribed RNA sequence-table1-Iflaviridae-HMM1-105_96.0-ORF3
+seq625	>tsa-GBWI01001915.1 (REVERSE SENSE) TSA: Philanthus triangulum C35247_a_3_0_l_248 transcribed RNA sequence-table1-Iflaviridae-HMM1-82_98.0-ORF6
+seq626	>tsa-GBWI01009788.1 TSA: Philanthus triangulum C61129_a_27_0_l_713 transcribed RNA sequence-table6-Iflaviridae-HMM2-156_82.0-ORF7
+seq627	>tsa-GBWI01010153.1 (REVERSE SENSE) TSA: Philanthus triangulum C62679_a_3_0_l_776 transcribed RNA sequence-table1-Iflaviridae-HMM122-255_51.0-ORF18
+seq628	>tsa-GBWI01012002.1 TSA: Philanthus triangulum C70988_a_7_0_l_1237 transcribed RNA sequence-table6-Iflaviridae-HMM6-375_89.0-ORF15
+seq629	>tsa-GBWI01014405.1 TSA: Philanthus triangulum C81130_a_4_0_l_2828 transcribed RNA sequence-table1-Iflaviridae-HMM604-942_35.0-ORF21
+seq630	>tsa-GACV01022530.1 TSA: Philopotamus ludificatus contig22594 mRNA sequence-table1-Iflaviridae-HMM2-73_97.0-ORF3
+seq631	>tsa-GEOW01043634.1 (REVERSE SENSE) TSA: Photinus pyralis TR23425_c0_g1_i1 transcribed RNA sequence-table4-Iflaviridae-HMM144-432_63.0-ORF41
+seq632	>tsa-GEOW01043635.1 (REVERSE SENSE) TSA: Photinus pyralis TR23425_c0_g1_i2 transcribed RNA sequence-table1-Iflaviridae-HMM284-572_48.0-ORF46
+seq633	>tsa-GEOW01047267.1 TSA: Photinus pyralis TR24475_c2_g1_i2 transcribed RNA sequence-table6-Iflaviridae-HMM2606-3125_15.0-ORF104
+seq634	>tsa-GEOW01127458.1 TSA: Photinus pyralis TR65802_c0_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM2-100_94.0-ORF4
+seq635	>tsa-GEOW01127459.1 TSA: Photinus pyralis TR65802_c0_g2_i1 transcribed RNA sequence-table1-Iflaviridae-HMM2-96_97.0-ORF4
+seq636	>tsa-GEOW01127460.1 TSA: Photinus pyralis TR65802_c0_g3_i1 transcribed RNA sequence-table1-Iflaviridae-HMM2-100_94.0-ORF4
+seq637	>tsa-GEOW01136537.1 TSA: Photinus pyralis TR71202_c5_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM2554-3075_16.0-ORF105
+seq638	>tsa-GEOW01146763.1 TSA: Photinus pyralis TR76874_c1_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM1-90_98.0-ORF4
+seq639	>tsa-GEOW01146764.1 TSA: Photinus pyralis TR76874_c1_g2_i1 transcribed RNA sequence-table1-Iflaviridae-HMM1-90_98.0-ORF4
+seq640	>tsa-GEOW01153965.1 (REVERSE SENSE) TSA: Photinus pyralis TR80798_c0_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM3-190_81.0-ORF12
+seq641	>tsa-GEZM01003496.1 TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN11997_c0_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM2-167_98.0-ORF6
+seq642	>tsa-GEZM01019172.1 (REVERSE SENSE) TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN17891_c2_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM1-283_83.0-ORF19
+seq643	>tsa-GEZM01019173.1 (REVERSE SENSE) TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN17891_c2_g1_i2 transcribed RNA sequence-table6-Iflaviridae-HMM2-102_63.0-ORF15
+seq644	>tsa-GEZM01019174.1 (REVERSE SENSE) TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN17891_c2_g1_i3 transcribed RNA sequence-table6-Iflaviridae-HMM487-1008_49.0-ORF70
+seq645	>tsa-GEZM01019176.1 (REVERSE SENSE) TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN17891_c2_g1_i4 transcribed RNA sequence-table6-Iflaviridae-HMM2-80_57.0-ORF12
+seq646	>tsa-GEZM01019177.1 (REVERSE SENSE) TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN17891_c2_g1_i5 transcribed RNA sequence-table6-Iflaviridae-HMM5-228_78.0-ORF18
+seq647	>tsa-GEZM01019178.1 (REVERSE SENSE) TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN17891_c2_g3_i1 transcribed RNA sequence-table1-Iflaviridae-HMM2-195_98.0-ORF13
+seq648	>tsa-GEZM01032295.1 TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN12512_c0_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM53-197_72.0-ORF4
+seq649	>tsa-GEZM01035106.1 TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN17756_c0_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM639-1158_37.0-ORF35
+seq650	>tsa-GEZM01054720.1 TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN10767_c0_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM9-108_90.0-ORF3
+seq651	>tsa-GCHX01289573.1 TSA: Picea glauca PG29_BFMXY_Trinity_Pasafly_comp580755_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM3-83_95.0-ORF4
+seq652	>tsa-GEUZ01000006.1 TSA: Pinus lambertiana V_hiseq_c46841_g1_i1_m.19906 transcribed RNA sequence-table6-Iflaviridae-HMM2425-2934_17.0-ORF94
+seq653	>tsa-GFHB01003012.1 (REVERSE SENSE) TSA: Pinus massoniana c174707_g1 transcribed RNA sequence-table1-Iflaviridae-HMM5-106_95.0-ORF9
+seq654	>tsa-GFHB01105594.1 TSA: Pinus massoniana c123306_g1 transcribed RNA sequence-table1-Iflaviridae-HMM2-124_97.0-ORF6
+seq655	>tsa-GAEO01000885.1 (REVERSE SENSE) TSA: Pissodes strobi Pissodes_strobi_Contig885 mRNA sequence-table4-Iflaviridae-HMM4-215_83.0-ORF23
+seq656	>tsa-GAEO01002365.1 (REVERSE SENSE) TSA: Pissodes strobi Pissodes_strobi_Contig2367 mRNA sequence-table4-Iflaviridae-HMM2-291_97.0-ORF27
+seq657	>tsa-GAEO01003481.1 (REVERSE SENSE) TSA: Pissodes strobi Pissodes_strobi_PST022.C21_I03 mRNA sequence-table1-Iflaviridae-HMM1-235_98.0-ORF21
+seq658	>tsa-GAEO01003538.1 (REVERSE SENSE) TSA: Pissodes strobi Pissodes_strobi_PST022.CR_I03 mRNA sequence-table4-Iflaviridae-HMM2-122_94.0-ORF16
+seq659	>tsa-GAXF02037059.1 TSA: Planococcus citri s9801_L_34298_0_a_56_5_l_9417 transcribed RNA sequence-table6-Iflaviridae-HMM2483-2999_16.0-ORF107
+seq660	>tsa-GCZQ01026562.1 (REVERSE SENSE) TSA: Poa infirma CLC24_infirma1trim_(paired)_contig_14538 transcribed RNA sequence-table6-Iflaviridae-HMM777-1292_39.0-ORF82
+seq661	>tsa-GEBH01061271.1 TSA: Poa pratensis IXRNA007_contig_62788 transcribed RNA sequence-table4-Iflaviridae-HMM16-267_88.0-ORF15
+seq662	>tsa-GFUB01205863.1 (REVERSE SENSE) TSA: Podisus maculiventris TRINITY_DN78875_c3_g2_i1 transcribed RNA sequence-table6-Iflaviridae-HMM945-1460_34.0-ORF92
+seq663	>tsa-GFUB01205867.1 (REVERSE SENSE) TSA: Podisus maculiventris TRINITY_DN78875_c6_g1_i1 transcribed RNA sequence-table4-Iflaviridae-HMM1-100_99.0-ORF10
+seq664	>tsa-GFUB01205869.1 (REVERSE SENSE) TSA: Podisus maculiventris TRINITY_DN78875_c8_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM2-67_97.0-ORF6
+seq665	>tsa-GBWE01005823.1 (REVERSE SENSE) TSA: Pompilus cinereus C46573_a_3_0_l_486 transcribed RNA sequence-table1-Iflaviridae-HMM2-156_95.0-ORF11
+seq666	>tsa-GBQI01012972.1 TSA: Prionyx kirbii C91815_a_21_0_l_2317 transcribed RNA sequence-table6-Iflaviridae-HMM178-690_66.0-ORF25
+seq667	>tsa-HAEQ01060979.1 TSA: Proasellus arthrodilus, contig comp65105_c0_seq1, transcribed RNA sequence-table1-Iflaviridae-HMM2-97_96.0-ORF3
+seq668	>tsa-HAEQ01060981.1 TSA: Proasellus arthrodilus, contig comp65105_c0_seq3, transcribed RNA sequence-table1-Iflaviridae-HMM320-730_56.0-ORF20
+seq669	>tsa-HAEQ01060982.1 TSA: Proasellus arthrodilus, contig comp65105_c0_seq4, transcribed RNA sequence-table6-Iflaviridae-HMM320-828_57.0-ORF25
+seq670	>tsa-HAEQ01060983.1 TSA: Proasellus arthrodilus, contig comp65105_c0_seq5, transcribed RNA sequence-table6-Iflaviridae-HMM319-828_57.0-ORF25
+seq671	>tsa-HAEQ01060984.1 TSA: Proasellus arthrodilus, contig comp65105_c0_seq6, transcribed RNA sequence-table6-Iflaviridae-HMM4-80_55.0-ORF4
+seq672	>tsa-HAER01036358.1 TSA: Proasellus cantabricus, contig c30242_g1_i1, transcribed RNA sequence-table6-Iflaviridae-HMM2525-3042_16.0-ORF103
+seq673	>tsa-HAES01082436.1 TSA: Proasellus cavaticus, contig comp63178_c4_seq1, transcribed RNA sequence-table6-Iflaviridae-HMM2518-3033_16.0-ORF103
+seq674	>tsa-HAEU01005909.1 (REVERSE SENSE) TSA: Proasellus coiffaiti, contig comp10945_c0_seq1, transcribed RNA sequence-table1-Iflaviridae-HMM1-84_93.0-ORF9
+seq675	>tsa-HAEU01106771.1 (REVERSE SENSE) TSA: Proasellus coiffaiti, contig comp955791_c0_seq1, transcribed RNA sequence-table1-Iflaviridae-HMM3-93_91.0-ORF5
+seq676	>tsa-HAET01011233.1 TSA: Proasellus coxalis, contig comp18699_c0_seq1, transcribed RNA sequence-table1-Iflaviridae-HMM15-152_79.0-ORF4
+seq677	>tsa-HAEW01077735.1 TSA: Proasellus ebrensis, contig c57491_g1_i1, transcribed RNA sequence-table4-Iflaviridae-HMM23-130_81.0-ORF3
+seq678	>tsa-HAEW01091808.1 TSA: Proasellus ebrensis, contig c71793_g1_i1, transcribed RNA sequence-table1-Iflaviridae-HMM3-110_96.0-ORF2
+seq679	>tsa-HAEV01087940.1 TSA: Proasellus escolai, contig comp110841_c0_seq1, transcribed RNA sequence-table4-Iflaviridae-HMM1291-1807_28.0-ORF53
+seq680	>tsa-HAEV01103636.1 (REVERSE SENSE) TSA: Proasellus escolai, contig comp112349_c1_seq1, transcribed RNA sequence-table6-Iflaviridae-HMM2289-2801_17.0-ORF186
+seq681	>tsa-HAEX01001977.1 TSA: Proasellus grafi, contig c2206_g1_i1, transcribed RNA sequence-table1-Iflaviridae-HMM2-75_96.0-ORF2
+seq682	>tsa-HAEX01015709.1 TSA: Proasellus grafi, contig c17617_g1_i1, transcribed RNA sequence-table6-Iflaviridae-HMM1-115_70.0-ORF9
+seq683	>tsa-HAEX01028094.1 TSA: Proasellus grafi, contig c26151_g1_i1, transcribed RNA sequence-table1-Iflaviridae-HMM5-122_94.0-ORF3
+seq684	>tsa-HAEX01029706.1 (REVERSE SENSE) TSA: Proasellus grafi, contig c26798_g1_i2, transcribed RNA sequence-table1-Iflaviridae-HMM73-203_62.0-ORF17
+seq685	>tsa-HAEX01035790.1 (REVERSE SENSE) TSA: Proasellus grafi, contig c28418_g1_i1, transcribed RNA sequence-table4-Iflaviridae-HMM45-552_85.0-ORF56
+seq686	>tsa-HAEX01065340.1 (REVERSE SENSE) TSA: Proasellus grafi, contig c55718_g1_i1, transcribed RNA sequence-table1-Iflaviridae-HMM3-70_95.0-ORF4
+seq687	>tsa-HAEY01001513.1 (REVERSE SENSE) TSA: Proasellus granadensis, contig comp2425_c0_seq1, transcribed RNA sequence-table6-Iflaviridae-HMM9-213_74.0-ORF21
+seq688	>tsa-HAEY01001514.1 (REVERSE SENSE) TSA: Proasellus granadensis, contig comp2425_c1_seq1, transcribed RNA sequence-table1-Iflaviridae-HMM2-201_97.0-ORF16
+seq689	>tsa-HAEY01005717.1 (REVERSE SENSE) TSA: Proasellus granadensis, contig comp12920_c1_seq1, transcribed RNA sequence-table1-Iflaviridae-HMM7-99_92.0-ORF8
+seq690	>tsa-HAEY01048090.1 TSA: Proasellus granadensis, contig comp68900_c0_seq1, transcribed RNA sequence-table4-Iflaviridae-HMM1-281_90.0-ORF10
+seq691	>tsa-HAEZ01065021.1 TSA: Proasellus hercegovinensis, contig comp92403_c0_seq1, transcribed RNA sequence-table1-Iflaviridae-HMM1-169_94.0-ORF6
+seq692	>tsa-HAEZ01066470.1 TSA: Proasellus hercegovinensis, contig comp92755_c0_seq1, transcribed RNA sequence-table6-Iflaviridae-HMM4-414_75.0-ORF38
+seq693	>tsa-HAEZ01094964.1 (REVERSE SENSE) TSA: Proasellus hercegovinensis, contig comp96387_c1_seq1, transcribed RNA sequence-table1-Iflaviridae-HMM1-74_92.0-ORF7
+seq694	>tsa-HAEZ01094966.1 TSA: Proasellus hercegovinensis, contig comp96387_c3_seq1, transcribed RNA sequence-table1-Iflaviridae-HMM4-81_92.0-ORF3
+seq695	>tsa-HAEZ01094967.1 TSA: Proasellus hercegovinensis, contig comp96387_c4_seq1, transcribed RNA sequence-table1-Iflaviridae-HMM546-805_32.0-ORF17
+seq696	>tsa-HAEZ01102839.1 TSA: Proasellus hercegovinensis, contig comp96987_c0_seq1, transcribed RNA sequence-table6-Iflaviridae-HMM1005-1512_32.0-ORF51
+seq697	>tsa-HAEZ01138343.1 TSA: Proasellus hercegovinensis, contig comp1468146_c0_seq1, transcribed RNA sequence-table1-Iflaviridae-HMM1-62_91.0-ORF2
+seq698	>tsa-HAFA01053891.1 (REVERSE SENSE) TSA: Proasellus ibericus, contig comp69704_c0_seq1, transcribed RNA sequence-table4-Iflaviridae-HMM358-882_58.0-ORF59
+seq699	>tsa-HAFB01032765.1 TSA: Proasellus jaloniacus, contig comp40360_c0_seq1, transcribed RNA sequence-table6-Iflaviridae-HMM218-650_26.0-ORF53
+seq700	>tsa-HAFC01085189.1 TSA: Proasellus karamani, contig comp80716_c0_seq1, transcribed RNA sequence-table1-Iflaviridae-HMM8-190_95.0-ORF5
+seq701	>tsa-HAFC01085190.1 TSA: Proasellus karamani, contig comp80716_c0_seq2, transcribed RNA sequence-table1-Iflaviridae-HMM13-522_96.0-ORF14
+seq702	>tsa-HAFC01085191.1 TSA: Proasellus karamani, contig comp80716_c0_seq3, transcribed RNA sequence-table1-Iflaviridae-HMM2-245_96.0-ORF7
+seq703	>tsa-HAFC01085192.1 TSA: Proasellus karamani, contig comp80716_c0_seq4, transcribed RNA sequence-table1-Iflaviridae-HMM2-245_96.0-ORF6
+seq704	>tsa-HAFC01085193.1 TSA: Proasellus karamani, contig comp80716_c0_seq5, transcribed RNA sequence-table1-Iflaviridae-HMM207-478_56.0-ORF12
+seq705	>tsa-HAFC01085194.1 TSA: Proasellus karamani, contig comp80716_c0_seq6, transcribed RNA sequence-table6-Iflaviridae-HMM2-245_89.0-ORF9
+seq706	>tsa-HAFC01085195.1 TSA: Proasellus karamani, contig comp80716_c0_seq7, transcribed RNA sequence-table1-Iflaviridae-HMM3-80_87.0-ORF2
+seq707	>tsa-HAFC01085196.1 TSA: Proasellus karamani, contig comp80716_c0_seq8, transcribed RNA sequence-table1-Iflaviridae-HMM178-449_60.0-ORF12
+seq708	>tsa-HAFC01104789.1 (REVERSE SENSE) TSA: Proasellus karamani, contig comp441077_c0_seq1, transcribed RNA sequence-table1-Iflaviridae-HMM9-75_88.0-ORF7
+seq709	>tsa-HAFC01151401.1 (REVERSE SENSE) TSA: Proasellus karamani, contig comp1063422_c0_seq1, transcribed RNA sequence-table1-Iflaviridae-HMM7-109_88.0-ORF8
+seq710	>tsa-HAFC01152915.1 TSA: Proasellus karamani, contig comp1086245_c0_seq1, transcribed RNA sequence-table1-Iflaviridae-HMM1-75_92.0-ORF3
+seq711	>tsa-HAFD01005294.1 TSA: Proasellus margalefi, contig comp10461_c0_seq1, transcribed RNA sequence-table1-Iflaviridae-HMM2-106_97.0-ORF4
+seq712	>tsa-HAFE01067285.1 (REVERSE SENSE) TSA: Proasellus meridianus, contig comp68306_c0_seq1, transcribed RNA sequence-table6-Iflaviridae-HMM1523-2038_24.0-ORF145
+seq713	>tsa-HAFF01014566.1 (REVERSE SENSE) TSA: Proasellus ortizi, contig c15985_g1_i1, transcribed RNA sequence-table1-Iflaviridae-HMM12-66_79.0-ORF4
+seq714	>tsa-HAFF01014567.1 TSA: Proasellus ortizi, contig c15985_g2_i1, transcribed RNA sequence-table6-Iflaviridae-HMM2-99_82.0-ORF5
+seq715	>tsa-HAFF01037171.1 TSA: Proasellus ortizi, contig c27975_g1_i1, transcribed RNA sequence-table6-Iflaviridae-HMM2300-2800_17.0-ORF97
+seq716	>tsa-HAFH01004870.1 (REVERSE SENSE) TSA: Proasellus racovitzai, contig comp9919_c1_seq1, transcribed RNA sequence-table1-Iflaviridae-HMM2-67_89.0-ORF5
+seq717	>tsa-HAFH01024592.1 (REVERSE SENSE) TSA: Proasellus racovitzai, contig comp37026_c0_seq1, transcribed RNA sequence-table6-Iflaviridae-HMM3-341_92.0-ORF26
+seq718	>tsa-HAFH01038768.1 TSA: Proasellus racovitzai, contig comp45476_c0_seq1, transcribed RNA sequence-table4-Iflaviridae-HMM5-468_93.0-ORF16
+seq719	>tsa-HAFJ01000065.1 (REVERSE SENSE) TSA: Proasellus solanasi, contig comp93_c0_seq1, transcribed RNA sequence-table1-Iflaviridae-HMM14-86_80.0-ORF7
+seq720	>tsa-HAFJ01018977.1 (REVERSE SENSE) TSA: Proasellus solanasi, contig comp38128_c0_seq1, transcribed RNA sequence-table1-Iflaviridae-HMM1-81_98.0-ORF7
+seq721	>tsa-HAFJ01046271.1 TSA: Proasellus solanasi, contig comp57941_c0_seq1, transcribed RNA sequence-table1-Iflaviridae-HMM2-89_97.0-ORF3
+seq722	>tsa-HAFJ01046272.1 TSA: Proasellus solanasi, contig comp57941_c1_seq1, transcribed RNA sequence-table4-Iflaviridae-HMM2-306_91.0-ORF11
+seq723	>tsa-HAFJ01066921.1 (REVERSE SENSE) TSA: Proasellus solanasi, contig comp61276_c1_seq2, transcribed RNA sequence-table6-Iflaviridae-HMM1210-1721_28.0-ORF108
+seq724	>tsa-HAFJ01075165.1 TSA: Proasellus solanasi, contig comp292104_c0_seq1, transcribed RNA sequence-table6-Iflaviridae-HMM3-157_74.0-ORF6
+seq725	>tsa-HAFJ01109770.1 (REVERSE SENSE) TSA: Proasellus solanasi, contig comp1158741_c0_seq1, transcribed RNA sequence-table1-Iflaviridae-HMM2-85_97.0-ORF8
+seq726	>tsa-GAKZ01014576.1 TSA: Procotyla fluviatilis contig22401 transcribed RNA sequence-table6-Iflaviridae-HMM12-128_83.0-ORF9
+seq727	>tsa-GFOW01005540.1 TSA: Prosopis cineraria CDS_5540 transcribed RNA sequence-table1-Iflaviridae-HMM1-96_95.0-ORF4
+seq728	>tsa-GAVV02009954.1 TSA: Pseudomallada prasinus C168187_a_3_0_l_255 transcribed RNA sequence-table1-Iflaviridae-HMM2-84_97.0-ORF4
+seq729	>tsa-GAXQ01040757.1 TSA: Pseudomasaris vespoides comp52483_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM2-156_98.0-ORF6
+seq730	>tsa-GAXQ01042498.1 (REVERSE SENSE) TSA: Pseudomasaris vespoides comp64823_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-69_97.0-ORF3
+seq731	>tsa-GAXQ01046920.1 (REVERSE SENSE) TSA: Pseudomasaris vespoides comp107069_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM2-73_95.0-ORF5
+seq732	>tsa-GAXQ01050475.1 (REVERSE SENSE) TSA: Pseudomasaris vespoides comp176822_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM3-99_96.0-ORF12
+seq733	>tsa-GAZW02005006.1 TSA: Pseudotsuga menziesii comp432741_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM26-149_82.0-ORF6
+seq734	>tsa-GAZW02007422.1 TSA: Pseudotsuga menziesii comp459176_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-128_99.0-ORF5
+seq735	>tsa-GCDX01001704.1 TSA: Psyttalia concolor Pc_001887 transcribed RNA sequence-table6-Iflaviridae-HMM2466-2989_17.0-ORF96
+seq736	>tsa-GCEQ01005442.1 TSA: Psyttalia lounsburyi Pl_005767 transcribed RNA sequence-table6-Iflaviridae-HMM408-783_46.0-ORF87
+seq737	>tsa-GCEQ01006036.1 (REVERSE SENSE) TSA: Psyttalia lounsburyi Pl_006402 transcribed RNA sequence-table6-Iflaviridae-HMM184-446_49.0-ORF190
+seq738	>tsa-GCEQ01009288.1 (REVERSE SENSE) TSA: Psyttalia lounsburyi Pl_009866 transcribed RNA sequence-table6-Iflaviridae-HMM222-346_35.0-ORF181
+seq739	>tsa-GCEQ01015822.1 (REVERSE SENSE) TSA: Psyttalia lounsburyi Pl_016880 transcribed RNA sequence-table6-Iflaviridae-HMM408-783_46.0-ORF188
+seq740	>tsa-GAYZ02012146.1 TSA: Ranatra linearis C61319_a_5_0_l_361 transcribed RNA sequence-table1-Iflaviridae-HMM4-118_95.0-ORF4
+seq741	>tsa-GECK01052433.1 TSA: Rhodnius prolixus Rpro_Trinity_comp_346_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM2-102_79.0-ORF5
+seq742	>tsa-GECK01062983.1 TSA: Rhodnius prolixus Rpro_Trinity_comp_409872_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-74_98.0-ORF1
+seq743	>tsa-GECK01100099.1 (REVERSE SENSE) TSA: Rhodnius prolixus Rpro_Trinity_comp_674_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM304-655_53.0-ORF50
+seq744	>tsa-GECK01111666.1 TSA: Rhodnius prolixus Rpro_Trinity_comp_782645_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM2-67_95.0-ORF1
+seq745	>tsa-GECK01114170.1 (REVERSE SENSE) TSA: Rhodnius prolixus Rpro_Trinity_comp_806_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM10-73_85.0-ORF6
+seq746	>tsa-GECK01124508.1 (REVERSE SENSE) TSA: Rhodnius prolixus Rpro_Trinity_comp_95_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM1037-1563_31.0-ORF214
+seq747	>tsa-GAXX02002678.1 (REVERSE SENSE) TSA: Rhyacophila fasciata C107177_a_11_0_l_1307 transcribed RNA sequence-table6-Iflaviridae-HMM3-331_83.0-ORF27
+seq748	>tsa-GAXX02019887.1 TSA: Rhyacophila fasciata C73169_a_12_0_l_305 transcribed RNA sequence-table1-Iflaviridae-HMM1-101_99.0-ORF3
+seq749	>tsa-GAXX02029368.1 (REVERSE SENSE) TSA: Rhyacophila fasciata C97705_a_6_0_l_655 transcribed RNA sequence-table6-Iflaviridae-HMM2-169_87.0-ORF20
+seq750	>tsa-GDKL01047737.1 (REVERSE SENSE) TSA: Salvia pomifera Unigene25372_Salvia_pomifera transcribed RNA sequence-table6-Iflaviridae-HMM761-1274_38.0-ORF96
+seq751	>tsa-GFKJ01040751.1 (REVERSE SENSE) TSA: Sargassum fusiforme scaffold-LDRY-2106663-Hizikia_fusifrome transcribed RNA sequence-table1-Iflaviridae-HMM6-142_87.0-ORF14
+seq752	>tsa-GFKM01037211.1 (REVERSE SENSE) TSA: Sargassum horneri scaffold-RWXW-2065302-Sargassum_horneri transcribed RNA sequence-table1-Iflaviridae-HMM1-107_98.0-ORF9
+seq753	>tsa-GAXN01052280.1 (REVERSE SENSE) TSA: Sceliphron caementarium comp29427_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-65_95.0-ORF5
+seq754	>tsa-GAXN01056789.1 TSA: Sceliphron caementarium comp60433_c0_seq1 transcribed RNA sequence-table1-Iflaviridae-HMM1-80_97.0-ORF2
+seq755	>tsa-GBNL01015292.1 TSA: Sceliphron curvatum C86694_a_40_0_l_9254 transcribed RNA sequence-table6-Iflaviridae-HMM2270-2627_12.0-ORF97
+seq756	>tsa-GETN01005942.1 (REVERSE SENSE) TSA: Scirpophaga incertulas YSB_LS_c20767_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM1-277_98.0-ORF24
+seq757	>tsa-GETN01005943.1 (REVERSE SENSE) TSA: Scirpophaga incertulas YSB_LS_c20767_g2_i1 transcribed RNA sequence-table1-Iflaviridae-HMM2-136_97.0-ORF11
+seq758	>tsa-GETN01008150.1 (REVERSE SENSE) TSA: Scirpophaga incertulas YSB_LS_c29075_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM40-152_73.0-ORF12
+seq759	>tsa-GETN01017237.1 TSA: Scirpophaga incertulas YSB_LS_c44348_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM101-624_80.0-ORF20
+seq760	>tsa-GETN01017238.1 TSA: Scirpophaga incertulas YSB_LS_c44348_g1_i2 transcribed RNA sequence-table1-Iflaviridae-HMM1-138_99.0-ORF4
+seq761	>tsa-GETN01017311.1 TSA: Scirpophaga incertulas YSB_LS_c44463_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM1409-1927_17.0-ORF101
+seq762	>tsa-GEIE01046964.1 (REVERSE SENSE) TSA: Sepia pharaonis Unigene32947_All transcribed RNA sequence-table6-Iflaviridae-HMM2437-2960_17.0-ORF179
+seq763	>tsa-GEZA01106049.1 TSA: Silene sartorii c45479_g1_i1 transcribed RNA sequence-table1-Iflaviridae-HMM3-95_95.0-ORF5
+seq764	>tsa-GEZY01007332.1 TSA: Sitophilus oryzae c37548.graph_c0 transcribed RNA sequence-table6-Iflaviridae-HMM2552-3069_16.0-ORF125
+seq765	>tsa-GEOE01123507.1 TSA: Enteucha acetosae TR68990-c0_g2_i1 transcribed RNA sequence-table4-Iflaviridae-HMM2-80_80.0-ORF5
+seq766	>tsa-GFUB01205851.1 (REVERSE SENSE) TSA: Podisus maculiventris TRINITY_DN78875_c10_g1_i1 transcribed RNA sequence-table4-Iflaviridae-HMM4-71_93.0-ORF8
+seq767	>tsa-GFUB01205852.1 (REVERSE SENSE) TSA: Podisus maculiventris TRINITY_DN78875_c11_g1_i1 transcribed RNA sequence-table4-Iflaviridae-HMM1-67_95.0-ORF5
+seq768	>tsa-GAXP01000854.1 TSA: Sphaeropthalma orestes comp606_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM1-120_93.0-ORF7
+seq769	>tsa-GAXP01043374.1 TSA: Sphaeropthalma orestes comp70377_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM2-114_98.0-ORF5
+seq770	>tsa-GAXP01044792.1 TSA: Sphaeropthalma orestes comp80291_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM1-140_86.0-ORF8
+seq771	>tsa-GAXP01048785.1 (REVERSE SENSE) TSA: Sphaeropthalma orestes comp146174_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM1-75_98.0-ORF6
+seq772	>tsa-GBOB01009194.1 TSA: Sphecius convallis C44921_a_3_0_l_746 transcribed RNA sequence-table4-Iflaviridae-HMM1-248_99.0-ORF9
+seq773	>tsa-GAOQ01009121.1 (REVERSE SENSE) TSA: Spodoptera exigua SE_U09272 transcribed RNA sequence-table6-Iflaviridae-HMM14-116_70.0-ORF14
+seq774	>tsa-GAOQ01009983.1 TSA: Spodoptera exigua SE_U10167 transcribed RNA sequence-table6-Iflaviridae-HMM9-77_43.0-ORF10
+seq775	>tsa-GAOQ01011847.1 (REVERSE SENSE) TSA: Spodoptera exigua SE_U12064 transcribed RNA sequence-table4-Iflaviridae-HMM2-59_81.0-ORF14
+seq776	>tsa-GAOQ01012204.1 (REVERSE SENSE) TSA: Spodoptera exigua SE_U12434 transcribed RNA sequence-table6-Iflaviridae-HMM28-317_90.0-ORF30
+seq777	>tsa-GAOQ01012210.1 (REVERSE SENSE) TSA: Spodoptera exigua SE_U12441 transcribed RNA sequence-table4-Iflaviridae-HMM34-266_51.0-ORF43
+seq778	>tsa-GAOQ01013062.1 TSA: Spodoptera exigua SE_U13313 transcribed RNA sequence-table6-Iflaviridae-HMM29-278_86.0-ORF16
+seq779	>tsa-GAOQ01013137.1 TSA: Spodoptera exigua SE_U13391 transcribed RNA sequence-table6-Iflaviridae-HMM2-196_92.0-ORF6
+seq780	>tsa-GAOQ01013253.1 (REVERSE SENSE) TSA: Spodoptera exigua SE_U13510 transcribed RNA sequence-table6-Iflaviridae-HMM33-191_80.0-ORF15
+seq781	>tsa-GAOQ01013505.1 (REVERSE SENSE) TSA: Spodoptera exigua SE_U13773 transcribed RNA sequence-table6-Iflaviridae-HMM97-213_43.0-ORF23
+seq782	>tsa-GAOQ01013580.1 (REVERSE SENSE) TSA: Spodoptera exigua SE_U13850 transcribed RNA sequence-table4-Iflaviridae-HMM47-388_72.0-ORF98
+seq783	>tsa-GAOQ01017663.1 (REVERSE SENSE) TSA: Spodoptera exigua SE_U17979 transcribed RNA sequence-table4-Iflaviridae-HMM66-146_45.0-ORF21
+seq784	>tsa-GAOQ01017699.1 TSA: Spodoptera exigua SE_U18016 transcribed RNA sequence-table4-Iflaviridae-HMM70-167_44.0-ORF26
+seq785	>tsa-GAOQ01018051.1 (REVERSE SENSE) TSA: Spodoptera exigua SE_U18373 transcribed RNA sequence-table6-Iflaviridae-HMM18-142_80.0-ORF16
+seq786	>tsa-GAOQ01018254.1 TSA: Spodoptera exigua SE_U18578 transcribed RNA sequence-table6-Iflaviridae-HMM29-114_66.0-ORF4
+seq787	>tsa-GAOQ01018377.1 TSA: Spodoptera exigua SE_U18704 transcribed RNA sequence-table4-Iflaviridae-HMM3-186_75.0-ORF8
+seq788	>tsa-GAOQ01018676.1 (REVERSE SENSE) TSA: Spodoptera exigua SE_U19014 transcribed RNA sequence-table6-Iflaviridae-HMM642-1148_35.0-ORF94
+seq789	>tsa-GAOQ01020343.1 (REVERSE SENSE) TSA: Spodoptera exigua SE_U20701 transcribed RNA sequence-table4-Iflaviridae-HMM27-127_64.0-ORF36
+seq790	>tsa-GAOQ01020517.1 TSA: Spodoptera exigua SE_U20877 transcribed RNA sequence-table4-Iflaviridae-HMM5-180_82.0-ORF14
+seq791	>tsa-GAOQ01020609.1 TSA: Spodoptera exigua SE_U20970 transcribed RNA sequence-table6-Iflaviridae-HMM8-56_38.0-ORF4
+seq792	>tsa-GAOQ01029589.1 TSA: Spodoptera exigua SE_U30297 transcribed RNA sequence-table4-Iflaviridae-HMM19-102_68.0-ORF6
+seq793	>tsa-GAOQ01035020.1 TSA: Spodoptera exigua SE_U36513 transcribed RNA sequence-table6-Iflaviridae-HMM3-148_95.0-ORF5
+seq794	>tsa-GAOR01008392.1 TSA: Spodoptera exigua SEX-LxN_Contig_19629 transcribed RNA sequence-table4-Iflaviridae-HMM37-251_84.0-ORF7
+seq795	>tsa-GAOR01017506.1 TSA: Spodoptera exigua SEX-LxN_Contig_9540 transcribed RNA sequence-table4-Iflaviridae-HMM43-154_69.0-ORF8
+seq796	>tsa-GARL01030594.1 (REVERSE SENSE) TSA: Spodoptera exigua SEUC25635_TC01 transcribed RNA sequence-table6-Iflaviridae-HMM2513-3030_16.0-ORF197
+seq797	>tsa-GARL01032584.1 TSA: Spodoptera exigua SEUC26732_TC01 transcribed RNA sequence-table6-Iflaviridae-HMM2027-2533_18.0-ORF73
+seq798	>tsa-GARL01093807.1 TSA: Spodoptera exigua SEUC49586_TC01 transcribed RNA sequence-table4-Iflaviridae-HMM5-168_97.0-ORF6
+seq799	>tsa-GARL01093809.1 TSA: Spodoptera exigua SEUC49586_TC03 transcribed RNA sequence-table6-Iflaviridae-HMM6-158_34.0-ORF11
+seq800	>tsa-GARL01093810.1 TSA: Spodoptera exigua SEUC49586_TC04 transcribed RNA sequence-table4-Iflaviridae-HMM6-158_74.0-ORF6
+seq801	>tsa-GARL01094252.1 TSA: Spodoptera exigua SEUC49841_TC01 transcribed RNA sequence-table4-Iflaviridae-HMM3-126_92.0-ORF4
+seq802	>tsa-GARL01094488.1 TSA: Spodoptera exigua SEUC49586_TC06 transcribed RNA sequence-table4-Iflaviridae-HMM6-79_85.0-ORF4
+seq803	>tsa-GARL01095464.1 TSA: Spodoptera exigua SEUC50724_TC01 transcribed RNA sequence-table4-Iflaviridae-HMM2-177_98.0-ORF4
+seq804	>tsa-GARL01095881.1 (REVERSE SENSE) TSA: Spodoptera exigua SEUC51046_TC01 transcribed RNA sequence-table4-Iflaviridae-HMM32-139_75.0-ORF11
+seq805	>tsa-GARL01096029.1 TSA: Spodoptera exigua SEUC50724_TC02 transcribed RNA sequence-table4-Iflaviridae-HMM2-85_92.0-ORF3
+seq806	>tsa-GARL01096030.1 TSA: Spodoptera exigua SEUC50724_TC03 transcribed RNA sequence-table4-Iflaviridae-HMM7-119_93.0-ORF2
+seq807	>tsa-GBJQ01101045.1 (REVERSE SENSE) TSA: Steatoda grossa Sg3tf000022g0s transcribed RNA sequence-table6-Iflaviridae-HMM1-320_88.0-ORF30
+seq808	>tsa-GFDC01016947.1 (REVERSE SENSE) TSA: Steatoda grossa SgML_comp373841_c0 transcribed RNA sequence-table4-Iflaviridae-HMM1-62_70.0-ORF7
+seq809	>tsa-GAZR01000608.1 (REVERSE SENSE) TSA: Stegodyphus mimosarum L608_T1/1_Velvet_V transcribed RNA sequence-table4-Iflaviridae-HMM2-107_92.0-ORF8
+seq810	>tsa-GAUZ02039229.1 TSA: Stenobothrus lineatus C264306_a_14_0_l_1631 transcribed RNA sequence-table4-Iflaviridae-HMM1-420_80.0-ORF21
+seq811	>tsa-GAXR01001621.1 TSA: Stigmatomma oregonense comp1959_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM2-87_80.0-ORF2
+seq812	>tsa-GAXR01005305.1 TSA: Stigmatomma oregonense comp5387_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM164-296_44.0-ORF10
+seq813	>tsa-GAXR01010766.1 TSA: Stigmatomma oregonense comp8509_c1_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM1391-1894_25.0-ORF62
+seq814	>tsa-GAXR01027015.1 (REVERSE SENSE) TSA: Stigmatomma oregonense comp11734_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM1608-2125_23.0-ORF124
+seq815	>tsa-GAXR01030919.1 TSA: Stigmatomma oregonense comp34256_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM1-121_73.0-ORF5
+seq816	>tsa-GAXR01035277.1 (REVERSE SENSE) TSA: Stigmatomma oregonense comp53567_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM1-83_97.0-ORF5
+seq817	>tsa-GAXR01036674.1 TSA: Stigmatomma oregonense comp60081_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM2-119_98.0-ORF5
+seq818	>tsa-GAXR01036824.1 (REVERSE SENSE) TSA: Stigmatomma oregonense comp60770_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM36-127_71.0-ORF8
+seq819	>tsa-GAXR01037917.1 TSA: Stigmatomma oregonense comp67502_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM1-74_98.0-ORF4
+seq820	>tsa-GAXR01039888.1 TSA: Stigmatomma oregonense comp80234_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM1-79_98.0-ORF3
+seq821	>tsa-GAXR01040440.1 TSA: Stigmatomma oregonense comp82597_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM6-95_93.0-ORF3
+seq822	>tsa-GAXR01042124.1 (REVERSE SENSE) TSA: Stigmatomma oregonense comp95360_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM1-78_97.0-ORF8
+seq823	>tsa-GAXR01042629.1 (REVERSE SENSE) TSA: Stigmatomma oregonense comp101547_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM7-105_89.0-ORF6
+seq824	>tsa-GAXR01046232.1 TSA: Stigmatomma oregonense comp154748_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM3-74_71.0-ORF1
+seq825	>tsa-GBNB01002503.1 (REVERSE SENSE) TSA: Stizus continuus C26835_a_4_0_l_277 transcribed RNA sequence-table4-Iflaviridae-HMM1-91_98.0-ORF11
+seq826	>tsa-GAZM02016663.1 TSA: Stylops melittae s517_L_410_0_a_65_7_l_8297 transcribed RNA sequence-table6-Iflaviridae-HMM2193-2715_19.0-ORF84
+seq827	>tsa-GAZM02016674.1 TSA: Stylops melittae s518_L_410_1_a_55_8_l_8559 transcribed RNA sequence-table6-Iflaviridae-HMM2124-2646_19.0-ORF86
+seq828	>tsa-GAZM02016685.1 TSA: Stylops melittae s519_L_410_2_a_73_5_l_7441 transcribed RNA sequence-table4-Iflaviridae-HMM2193-2480_11.0-ORF78
+seq829	>tsa-GAZM02016697.1 TSA: Stylops melittae s520_L_410_3_a_83_8_l_1209 transcribed RNA sequence-table6-Iflaviridae-HMM2-196_76.0-ORF7
+seq830	>tsa-GAKX01005561.1 TSA: Symphylella vulgaris DMPC15307470 transcribed RNA sequence-table4-Iflaviridae-HMM1-140_80.0-ORF8
+seq831	>tsa-GAKX01019661.1 TSA: Symphylella vulgaris DMPC15340228 transcribed RNA sequence-table4-Iflaviridae-HMM107-229_52.0-ORF9
+seq832	>tsa-GBWF01008034.1 (REVERSE SENSE) TSA: Systropha curvicornis C128658_a_58_0_l_10000 transcribed RNA sequence-table6-Iflaviridae-HMM2360-2875_17.0-ORF223
+seq833	>tsa-GBWF01011500.1 (REVERSE SENSE) TSA: Systropha curvicornis C58039_a_3_0_l_243 transcribed RNA sequence-table4-Iflaviridae-HMM1-79_97.0-ORF7
+seq834	>tsa-GDUJ01083877.1 (REVERSE SENSE) TSA: Talitrus saltator comp102826_c0_seq1 transcribed RNA sequence-table4-Iflaviridae-HMM2570-3106_17.0-ORF249
+seq835	>tsa-GFGL01106128.1 (REVERSE SENSE) TSA: Tectona grandis TR35594_c0_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM260-789_64.0-ORF62
+seq836	>tsa-GBEU01009342.1 TSA: Telenomus podisi Locus_440_Transcript_4/12_Confidence_0.315_Length_2533 transcribed RNA sequence-table4-Iflaviridae-HMM2-227_93.0-ORF24
+seq837	>tsa-GBEU01009343.1 TSA: Telenomus podisi Locus_440_Transcript_5/12_Confidence_0.310_Length_2533 transcribed RNA sequence-table4-Iflaviridae-HMM2-227_93.0-ORF22
+seq838	>tsa-GBEU01009344.1 (REVERSE SENSE) TSA: Telenomus podisi Locus_440_Transcript_6/12_Confidence_0.325_Length_2533 transcribed RNA sequence-table6-Iflaviridae-HMM74-214_64.0-ORF45
+seq839	>tsa-GBEU01009345.1 TSA: Telenomus podisi Locus_440_Transcript_7/12_Confidence_0.350_Length_2709 transcribed RNA sequence-table4-Iflaviridae-HMM2-223_97.0-ORF23
+seq840	>tsa-GBEU01009346.1 TSA: Telenomus podisi Locus_440_Transcript_8/12_Confidence_0.310_Length_2440 transcribed RNA sequence-table4-Iflaviridae-HMM2-227_93.0-ORF23
+seq841	>tsa-GBEU01009349.1 TSA: Telenomus podisi Locus_440_Transcript_11/12_Confidence_0.335_Length_2718 transcribed RNA sequence-table4-Iflaviridae-HMM2-227_93.0-ORF23
+seq842	>tsa-GBEU01009350.1 TSA: Telenomus podisi Locus_440_Transcript_12/12_Confidence_0.325_Length_2533 transcribed RNA sequence-table4-Iflaviridae-HMM2-227_93.0-ORF23
+seq843	>tsa-GBNI01006503.1 TSA: Tetralonia malvae C45812_a_4_0_l_258 transcribed RNA sequence-table4-Iflaviridae-HMM1-63_92.0-ORF3
+seq844	>tsa-GBNI01011612.1 TSA: Tetralonia malvae C61591_a_3_0_l_373 transcribed RNA sequence-table4-Iflaviridae-HMM2-124_98.0-ORF5
+seq845	>tsa-GASM01016109.1 (REVERSE SENSE) TSA: Tetramorium bicarinatum Tb16709 transcribed RNA sequence-table4-Iflaviridae-HMM149-340_54.0-ORF24
+seq846	>tsa-GAXI02037733.1 TSA: Tetrodontophora bielanensis s2383_L_2112_0_a_74_4_l_5471 transcribed RNA sequence-table6-Iflaviridae-HMM1219-1740_29.0-ORF57
+seq847	>tsa-GAXC02000588.1 TSA: Thrips palmi C32828_a_4_0_l_217 transcribed RNA sequence-table4-Iflaviridae-HMM1-70_95.0-ORF4
+seq848	>tsa-GAXC02003096.1 TSA: Thrips palmi C39742_a_7_0_l_258 transcribed RNA sequence-table4-Iflaviridae-HMM4-86_95.0-ORF5
+seq849	>tsa-GAXC02005697.1 (REVERSE SENSE) TSA: Thrips palmi C48368_a_3_0_l_352 transcribed RNA sequence-table4-Iflaviridae-HMM2-115_96.0-ORF11
+seq850	>tsa-GAXC02016018.1 TSA: Thrips palmi C83213_a_11_0_l_1906 transcribed RNA sequence-table4-Iflaviridae-HMM163-633_74.0-ORF22
+seq851	>tsa-GAXC02020399.1 TSA: Thrips palmi s3220_L_5041_0_a_42_3_l_4672 transcribed RNA sequence-table6-Iflaviridae-HMM948-1475_33.0-ORF43
+seq852	>tsa-GAXC02020400.1 TSA: Thrips palmi s3221_L_5041_1_a_36_3_l_4658 transcribed RNA sequence-table6-Iflaviridae-HMM948-1475_33.0-ORF43
+seq853	>tsa-GAXC02022104.1 TSA: Thrips palmi s4777_L_11969_0_a_25_9_l_2909 transcribed RNA sequence-table6-Iflaviridae-HMM364-888_54.0-ORF33
+seq854	>tsa-GFVB01107923.1 TSA: Thymallus thymallus TR108002_c2_g1_i1 transcribed RNA sequence-table4-Iflaviridae-HMM15-105_84.0-ORF4
+seq855	>tsa-GBWN01002718.1 (REVERSE SENSE) TSA: Tiphia femorata C43518_a_3_0_l_242 transcribed RNA sequence-table4-Iflaviridae-HMM1-79_97.0-ORF4
+seq856	>tsa-GBZU01002150.1 (REVERSE SENSE) TSA: Tityus serrulatus Contig_23082 transcribed RNA sequence-table4-Iflaviridae-HMM3-94_95.0-ORF10
+seq857	>tsa-GBZU01007661.1 TSA: Tityus serrulatus Contig_19463 transcribed RNA sequence-table4-Iflaviridae-HMM2-200_98.0-ORF6
+seq858	>tsa-GBZU01019801.1 TSA: Tityus serrulatus Locus_3874 transcribed RNA sequence-table6-Iflaviridae-HMM777-1269_36.0-ORF41
+seq859	>tsa-GBZU01020498.1 (REVERSE SENSE) TSA: Tityus serrulatus Locus_231 transcribed RNA sequence-table6-Iflaviridae-HMM835-1293_35.0-ORF233
+seq860	>tsa-GAVA02016710.1 (REVERSE SENSE) TSA: Triarthria setipennis s118_L_98_0_a_124_8_l_6518 transcribed RNA sequence-table4-Iflaviridae-HMM1529-2059_25.0-ORF161
+seq861	>tsa-GDIG01042370.1 TSA: Trichosanthes kirilowii Unigene0042375 transcribed RNA sequence-table4-Iflaviridae-HMM1111-1451_23.0-ORF56
+seq862	>tsa-IAAA01132351.1 TSA: Parasteatoda tepidariorum mRNA, contig: comp111464_seq0, transcribed RNA sequence-table6-Iflaviridae-HMM2-72_97.0-ORF3
+seq863	>tsa-GFBA01017622.1 (REVERSE SENSE) TSA: Tupiocoris notatus TR7937_c0_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM241-767_55.0-ORF72
+seq864	>tsa-GFBA01047158.1 (REVERSE SENSE) TSA: Tupiocoris notatus TR22274_c0_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM2-79_96.0-ORF9
+seq865	>tsa-GETM01093681.1 (REVERSE SENSE) TSA: Varroa jacobsoni comp100021_c0_seq2 transcribed RNA sequence-table6-Iflaviridae-HMM1-97_97.0-ORF8
+seq866	>tsa-GETM01254674.1 (REVERSE SENSE) TSA: Varroa jacobsoni comp124463_c0_seq2 transcribed RNA sequence-table6-Iflaviridae-HMM3-71_95.0-ORF7
+seq867	>tsa-GETM01254675.1 (REVERSE SENSE) TSA: Varroa jacobsoni comp124463_c0_seq3 transcribed RNA sequence-table6-Iflaviridae-HMM2-89_97.0-ORF8
+seq868	>tsa-GETM01254678.1 TSA: Varroa jacobsoni comp124463_c1_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM1-74_87.0-ORF4
+seq869	>tsa-GETM01254679.1 TSA: Varroa jacobsoni comp124463_c1_seq2 transcribed RNA sequence-table6-Iflaviridae-HMM1-74_87.0-ORF4
+seq870	>tsa-GETM01255058.1 TSA: Varroa jacobsoni comp124473_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM195-358_45.0-ORF11
+seq871	>tsa-GETM01255060.1 TSA: Varroa jacobsoni comp124473_c0_seq3 transcribed RNA sequence-table6-Iflaviridae-HMM172-324_45.0-ORF9
+seq872	>tsa-GETM01255061.1 TSA: Varroa jacobsoni comp124473_c0_seq4 transcribed RNA sequence-table6-Iflaviridae-HMM26-189_85.0-ORF6
+seq873	>tsa-GETM01255062.1 TSA: Varroa jacobsoni comp124473_c0_seq5 transcribed RNA sequence-table6-Iflaviridae-HMM26-189_85.0-ORF6
+seq874	>tsa-GETM01255063.1 TSA: Varroa jacobsoni comp124473_c0_seq6 transcribed RNA sequence-table6-Iflaviridae-HMM26-179_82.0-ORF4
+seq875	>tsa-GETM01255631.1 TSA: Varroa jacobsoni comp124515_c3_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM1230-1757_29.0-ORF50
+seq876	>tsa-GETP01214945.1 (REVERSE SENSE) TSA: Varroa jacobsoni comp100021_c0_seq2 transcribed RNA sequence-table6-Iflaviridae-HMM1-97_97.0-ORF8
+seq877	>tsa-GETP01259762.1 (REVERSE SENSE) TSA: Varroa jacobsoni comp124463_c0_seq2 transcribed RNA sequence-table6-Iflaviridae-HMM3-71_95.0-ORF7
+seq878	>tsa-GETP01259763.1 (REVERSE SENSE) TSA: Varroa jacobsoni comp124463_c0_seq3 transcribed RNA sequence-table6-Iflaviridae-HMM2-89_97.0-ORF8
+seq879	>tsa-GETP01259766.1 TSA: Varroa jacobsoni comp124463_c1_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM1-74_87.0-ORF4
+seq880	>tsa-GETP01259767.1 TSA: Varroa jacobsoni comp124463_c1_seq2 transcribed RNA sequence-table6-Iflaviridae-HMM1-74_87.0-ORF4
+seq881	>tsa-GETP01259793.1 TSA: Varroa jacobsoni comp124473_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM195-358_45.0-ORF11
+seq882	>tsa-GETP01259795.1 TSA: Varroa jacobsoni comp124473_c0_seq3 transcribed RNA sequence-table6-Iflaviridae-HMM172-324_45.0-ORF9
+seq883	>tsa-GETP01259796.1 TSA: Varroa jacobsoni comp124473_c0_seq4 transcribed RNA sequence-table6-Iflaviridae-HMM26-189_85.0-ORF6
+seq884	>tsa-GETP01259797.1 TSA: Varroa jacobsoni comp124473_c0_seq5 transcribed RNA sequence-table6-Iflaviridae-HMM26-189_85.0-ORF6
+seq885	>tsa-GETP01259798.1 TSA: Varroa jacobsoni comp124473_c0_seq6 transcribed RNA sequence-table6-Iflaviridae-HMM26-179_82.0-ORF4
+seq886	>tsa-GETP01259999.1 TSA: Varroa jacobsoni comp124515_c3_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM1230-1757_29.0-ORF50
+seq887	>tsa-GAUO02019310.1 TSA: Velia caprai C97785_a_14_0_l_2135 transcribed RNA sequence-table6-Iflaviridae-HMM131-647_72.0-ORF25
+seq888	>tsa-GAUO02019750.1 (REVERSE SENSE) TSA: Velia caprai C98947_a_46_0_l_9297 transcribed RNA sequence-table6-Iflaviridae-HMM2425-2908_16.0-ORF241
+seq889	>tsa-GFWF01006081.1 TSA: Viola verecunda c6461_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM5-235_97.0-ORF9
+seq890	>tsa-GFWF01045117.1 TSA: Viola verecunda c35913_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM2-295_93.0-ORF9
+seq891	>tsa-GEDW01057959.1 TSA: Watasenia scintillans ws_armtip_64063_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM1-192_84.0-ORF7
+seq892	>tsa-GEDZ01039207.1 TSA: Watasenia scintillans ws_comb_51172_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM1-87_95.0-ORF4
+seq893	>tsa-GEDZ01053698.1 TSA: Watasenia scintillans ws_comb_63190_c0_seq1 transcribed RNA sequence-table6-Iflaviridae-HMM1-121_77.0-ORF5
+seq894	>tsa-GAYI02000529.1 (REVERSE SENSE) TSA: Xenophysella greensladeae C137458_a_59_0_l_202 transcribed RNA sequence-table6-Iflaviridae-HMM1-65_95.0-ORF5
+seq895	>tsa-GAYI02001053.1 TSA: Xenophysella greensladeae C139045_a_3_0_l_205 transcribed RNA sequence-table6-Iflaviridae-HMM2-66_95.0-ORF4
+seq896	>tsa-GAYI02004295.1 TSA: Xenophysella greensladeae C148412_a_60_0_l_220 transcribed RNA sequence-table6-Iflaviridae-HMM2-72_95.0-ORF1
+seq897	>tsa-GAYI02009756.1 (REVERSE SENSE) TSA: Xenophysella greensladeae C161530_a_62_0_l_232 transcribed RNA sequence-table6-Iflaviridae-HMM3-74_93.0-ORF7
+seq898	>tsa-GAYI02019028.1 (REVERSE SENSE) TSA: Xenophysella greensladeae C181946_a_57_0_l_243 transcribed RNA sequence-table6-Iflaviridae-HMM2-79_96.0-ORF8
+seq899	>tsa-GAYI02026557.1 TSA: Xenophysella greensladeae C201235_a_63_0_l_273 transcribed RNA sequence-table6-Iflaviridae-HMM1-90_98.0-ORF4
+seq900	>tsa-GAYI02032211.1 TSA: Xenophysella greensladeae C218077_a_105_0_l_327 transcribed RNA sequence-table6-Iflaviridae-HMM2-107_97.0-ORF3
+seq901	>tsa-GAYI02034622.1 (REVERSE SENSE) TSA: Xenophysella greensladeae C225258_a_61_0_l_354 transcribed RNA sequence-table6-Iflaviridae-HMM1-85_89.0-ORF7
+seq902	>tsa-GAYI02039194.1 TSA: Xenophysella greensladeae C239061_a_63_0_l_419 transcribed RNA sequence-table6-Iflaviridae-HMM1-137_97.0-ORF5
+seq903	>tsa-GAYI02055320.1 TSA: Xenophysella greensladeae C294118_a_56_0_l_1503 transcribed RNA sequence-table6-Iflaviridae-HMM279-500_44.0-ORF16
+seq904	>tsa-GAYI02061973.1 TSA: Xenophysella greensladeae s1357_L_1578_0_a_93_8_l_2684 transcribed RNA sequence-table6-Iflaviridae-HMM452-892_49.0-ORF29
+seq905	>tsa-GAYI02061995.1 TSA: Xenophysella greensladeae s1359_L_1578_2_a_95_8_l_2690 transcribed RNA sequence-table6-Iflaviridae-HMM452-896_49.0-ORF29
+seq906	>tsa-GAYI02062162.1 TSA: Xenophysella greensladeae s1374_L_1595_0_a_62_3_l_1086 transcribed RNA sequence-table6-Iflaviridae-HMM79-361_78.0-ORF9
+seq907	>tsa-GAYI02064759.1 (REVERSE SENSE) TSA: Xenophysella greensladeae s1609_L_1912_0_a_49_4_l_585 transcribed RNA sequence-table6-Iflaviridae-HMM1-194_99.0-ORF13
+seq908	>tsa-GAYI02064771.1 (REVERSE SENSE) TSA: Xenophysella greensladeae s1610_L_1912_1_a_51_6_l_369 transcribed RNA sequence-table6-Iflaviridae-HMM1-122_99.0-ORF10
+seq909	>tsa-GAYI02066287.1 (REVERSE SENSE) TSA: Xenophysella greensladeae s2484_L_3150_1_a_133_3_l_402 transcribed RNA sequence-table6-Iflaviridae-HMM2-133_98.0-ORF11
+seq910	>tsa-GAYI02067629.1 (REVERSE SENSE) TSA: Xenophysella greensladeae s3704_L_5168_0_a_113_8_l_619 transcribed RNA sequence-table6-Iflaviridae-HMM1-203_98.0-ORF18
+seq911	>tsa-GAYI02069135.1 TSA: Xenophysella greensladeae s506_L_520_1_a_74_6_l_342 transcribed RNA sequence-table6-Iflaviridae-HMM3-113_97.0-ORF3
+seq912	>tsa-GAYI02069291.1 (REVERSE SENSE) TSA: Xenophysella greensladeae s5210_L_8426_0_a_100_0_l_357 transcribed RNA sequence-table6-Iflaviridae-HMM2-118_98.0-ORF10
+seq913	>tsa-GAYI02069312.1 TSA: Xenophysella greensladeae s522_L_543_1_a_141_8_l_931 transcribed RNA sequence-table6-Iflaviridae-HMM1-310_99.0-ORF9
+seq914	>tsa-GAYI02069322.1 TSA: Xenophysella greensladeae s523_L_543_2_a_122_6_l_762 transcribed RNA sequence-table6-Iflaviridae-HMM37-253_85.0-ORF9
+seq915	>tsa-GAYI02069344.1 TSA: Xenophysella greensladeae s525_L_543_4_a_49_2_l_2173 transcribed RNA sequence-table6-Iflaviridae-HMM447-723_38.0-ORF24
+seq916	>tsa-GAYI02070205.1 TSA: Xenophysella greensladeae s603_L_612_0_a_125_3_l_435 transcribed RNA sequence-table6-Iflaviridae-HMM1-79_92.0-ORF3
+seq917	>tsa-GAYI02070368.1 TSA: Xenophysella greensladeae s6187_L_10752_0_a_77_5_l_541 transcribed RNA sequence-table6-Iflaviridae-HMM1-175_96.0-ORF7
+seq918	>tsa-GAYI02073541.1 TSA: Xenophysella greensladeae s9055_L_19311_0_a_96_1_l_2061 transcribed RNA sequence-table6-Iflaviridae-HMM373-687_45.0-ORF22
+seq919	>tsa-GDGH01007283.1 (REVERSE SENSE) TSA: Zenia insignis c15978.graph_c0 transcribed RNA sequence-table6-Iflaviridae-HMM6-150_96.0-ORF14
+seq920	>tsa-GDGH01084280.1 (REVERSE SENSE) TSA: Zenia insignis c90357.graph_c0 transcribed RNA sequence-table6-Iflaviridae-HMM1-74_98.0-ORF8
+seq921	>tsa-GDGH01086189.1 TSA: Zenia insignis c92135.graph_c0 transcribed RNA sequence-table6-Iflaviridae-HMM2-88_60.0-ORF4
+seq922	>tsa-GDGH01086729.1 TSA: Zenia insignis c9264.graph_c1 transcribed RNA sequence-table6-Iflaviridae-HMM2-89_96.0-ORF3
+seq923	>tsa-GDGH01090395.1 (REVERSE SENSE) TSA: Zenia insignis c96086.graph_c0 transcribed RNA sequence-table6-Iflaviridae-HMM3-67_92.0-ORF8
+seq924	>tsa-GBXI01014067.1 TSA: Bactrocera cucurbitae c16593_g1_i1 transcribed RNA sequence-table6-Iflaviridae-HMM2570-2743_6.0-ORF88
+seq925	>tsa-GAYA02002191.1 TSA: Zorotypus caudelli C212896_a_14_0_l_209 transcribed RNA sequence-table6-Iflaviridae-HMM1-68_97.0-ORF3
+seq926	>tsa-GAYA02017351.1 (REVERSE SENSE) TSA: Zorotypus caudelli C259468_a_3_0_l_299 transcribed RNA sequence-table6-Iflaviridae-HMM24-98_74.0-ORF7
+seq927	>tsa-GAYA02020879.1 TSA: Zorotypus caudelli C271780_a_4_0_l_346 transcribed RNA sequence-table6-Iflaviridae-HMM2-115_98.0-ORF6
+seq928	>tsa-GAYA02035878.1 TSA: Zorotypus caudelli s10459_L_17184_0_a_47_6_l_694 transcribed RNA sequence-table6-Iflaviridae-HMM2-192_82.0-ORF6
+seq929	>tsa-GAYA02035880.1 TSA: Zorotypus caudelli s10460_L_17184_1_a_23_8_l_3524 transcribed RNA sequence-table6-Iflaviridae-HMM623-1136_43.0-ORF34
+seq930	>tsa-GAYA02041101.1 TSA: Zorotypus caudelli s15178_L_34596_0_a_8_6_l_712 transcribed RNA sequence-table6-Iflaviridae-HMM168-234_27.0-ORF5
+seq931	>tsa-GAYA02041102.1 TSA: Zorotypus caudelli s15179_L_34596_1_a_8_2_l_1111 transcribed RNA sequence-table6-Iflaviridae-HMM168-370_54.0-ORF8
+seq932	>tsa-GAYA02041739.1 TSA: Zorotypus caudelli s15752_L_38965_0_a_27_0_l_522 transcribed RNA sequence-table6-Iflaviridae-HMM2-171_97.0-ORF6
+seq933	>tsa-GAYA02042182.1 (REVERSE SENSE) TSA: Zorotypus caudelli s16151_L_43115_0_a_8_7_l_2061 transcribed RNA sequence-table6-Iflaviridae-HMM127-650_76.0-ORF45
+seq934	>tsa-GAYA02042183.1 (REVERSE SENSE) TSA: Zorotypus caudelli s16152_L_43115_1_a_7_6_l_1005 transcribed RNA sequence-table6-Iflaviridae-HMM165-335_50.0-ORF24
+seq935	>tsa-GAYA02043267.1 (REVERSE SENSE) TSA: Zorotypus caudelli s17130_L_49946_0_a_5_4_l_1269 transcribed RNA sequence-table6-Iflaviridae-HMM75-422_82.0-ORF25
+seq936	>tsa-GAYB02008221.1 (REVERSE SENSE) TSA: Zygaena fausta C124347_a_62_0_l_9880 transcribed RNA sequence-table6-Iflaviridae-HMM1418-1936_17.0-ORF203

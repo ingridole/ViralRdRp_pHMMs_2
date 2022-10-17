@@ -1,0 +1,92 @@
+seq1	>ref-NC_030752.1 Wuhan Insect virus 2 strain WHDL02 RNA-dependent RNA polymerase (L) gene, complete cds-table4-Phasmaviridae-HMM650-1291_26.0-ORF84
+seq2	>ref-NC_031312.1 Wuhan Mosquito Virus 2 strain QN2-7 RNA-dependent RNA polymerase (L) gene, complete cds-table6-Phasmaviridae-HMM584-1253_31.0-ORF74
+seq3	>ref-NC_031307.1 Wuhan Mosquito Virus 1 strain WT3-15 RNA-dependent RNA polymerase (L) gene, complete cds-table6-Phasmaviridae-HMM601-1270_31.0-ORF64
+seq4	>ref-NC_031293.1 Wuchang Cockraoch Virus 1 strain WCZL-5 RNA-dependent RNA polymerase (L) gene, complete cds-table6-Phasmaviridae-HMM593-1259_30.0-ORF66
+seq5	>ref-NC_032151.1 Hubei odonate virus 8 strain QTM19232 RNA-dependent RNA polymerase gene, complete cds-table6-Phasmaviridae-HMM566-1232_31.0-ORF78
+seq6	>ref-NC_032135.1 Hubei odonate virus 9 strain QTM74767 RNA-dependent RNA polymerase gene, complete cds-table4-Phasmaviridae-HMM572-1237_31.0-ORF65
+seq7	>ref-NC_034462.1 Kigluaik phantom virus strain G10N RNA-dependent RNA polymerase (RdRp) gene, complete cds-table6-Phasmaviridae-HMM596-1264_30.0-ORF64
+seq8	>nrnt-KX884807 Hubei diptera virus 7 strain SCM173098 RNA-dependent RNA polymerase gene, complete cds.-table6-Phasmaviridae-HMM581-1249_31.0-ORF68
+seq9	>nrnt-KX884805 Hubei diptera virus 6 strain SCM95079 RNA-dependent RNA polymerase gene, complete cds.-table6-Phasmaviridae-HMM573-1240_31.0-ORF71
+seq10	>nrnt-KX884802 Hubei bunya-like virus 8 strain SCM48138 RNA-dependent RNA polymerase gene, complete cds.-table6-Phasmaviridae-HMM595-1260_29.0-ORF84
+seq11	>nrnt-KX884789 Hubei bunya-like virus 9 strain QTM75064 RNA-dependent RNA polymerase gene, complete cds.-table6-Phasmaviridae-HMM510-1182_32.0-ORF71
+seq12	>nrnt-KX884782 Hubei bunya-like virus 10 strain QTM27070 RNA-dependent RNA polymerase gene, complete cds.-table6-Phasmaviridae-HMM299-940_31.0-ORF68
+seq13	>nrnt-MF176353 Culex phasma-like virus strain mosWSgb51997 segment L, complete sequence.-table6-Phasmaviridae-HMM605-1273_31.0-ORF61
+seq14	>nrnt-KT966494 Terena virus strain BrMS-MQ10 segment L putative glycoprotein gene, partial cds.-table1-Phasmaviridae-HMM671-1307_47.0-ORF32
+seq15	>nrnt-MF893255 Notori virus isolate Jap1, partial genome.-table6-Phasmaviridae-HMM838-1262_18.0-ORF88
+seq16	>nrnt-KY354237 Apis bunyavirus 2 isolate RI-A segment 1 RNA-dependent RNA polymerase gene, complete cds.-table6-Phasmaviridae-HMM593-1260_30.0-ORF61
+seq17	>nrnt-KY053854 Ganda bee virus RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table6-Phasmaviridae-HMM580-1245_31.0-ORF65
+seq18	>nrnt-KX272880 Seattle Prectang virus strain UW1 RNA-dependent RNA polymerase gene, partial cds.-table1-Phasmaviridae-HMM569-1233_32.0-ORF46
+seq19	>nrnt-KM817680 Shuangao Insect Virus 2 strain QSA03 RNA-dependent RNA polymerase (L) gene, partial cds.-table4-Phasmaviridae-HMM528-1203_41.0-ORF56
+seq20	>nrnt-KM817675 Sanxia Water Strider Virus 2 strain SXSSP02 RNA-dependent RNA polymerase (L) gene, complete cds.-table6-Phasmaviridae-HMM927-1158_9.0-ORF80
+seq21	>nrnt-KP710246 Ferak virus strain C51-CI-2004 segment L, complete sequence.-table6-Phasmaviridae-HMM855-1276_18.0-ORF83
+seq22	>nrnt-KP710232 Jonchet virus strain B81-CI-2004 segment L, complete sequence.-table6-Phasmaviridae-HMM879-1309_18.0-ORF76
+seq23	>tsa-GAUV02022602.1 (REVERSE SENSE) TSA: Acanthosoma haemorrhoidale C94656_a_62_0_l_6862 transcribed RNA sequence-table6-Phasmaviridae-HMM857-1275_18.0-ORF181
+seq24	>tsa-GBZL01015800.1 TSA: Actias selene Unigene16113_Acsel transcribed RNA sequence-table6-Phasmaviridae-HMM2-63_44.0-ORF6
+seq25	>tsa-GBZL01029399.1 (REVERSE SENSE) TSA: Actias selene Unigene29974_Acsel transcribed RNA sequence-table1-Phasmaviridae-HMM2-248_99.0-ORF14
+seq26	>tsa-GBZL01035792.1 (REVERSE SENSE) TSA: Actias selene Unigene36449_Acsel transcribed RNA sequence-table1-Phasmaviridae-HMM1-84_97.0-ORF4
+seq27	>tsa-GAFE01021468.1 (REVERSE SENSE) TSA: Anopheles sinensis contig_25950 mRNA sequence-table6-Phasmaviridae-HMM1-220_99.0-ORF16
+seq28	>tsa-GAFE01022212.1 TSA: Anopheles sinensis contig_26824 mRNA sequence-table4-Phasmaviridae-HMM4-168_91.0-ORF4
+seq29	>tsa-GDKS01023059.1 TSA: Anopheles sinensis mingan_G9XN94001B6ZXZ transcribed RNA sequence-table1-Phasmaviridae-HMM1-139_99.0-ORF5
+seq30	>tsa-GABB01003426.1 TSA: Archaeopsylla erinacei contig03434 mRNA sequence-table1-Phasmaviridae-HMM4-393_98.0-ORF7
+seq31	>tsa-GABB01008379.1 TSA: Archaeopsylla erinacei contig08399 mRNA sequence-table1-Phasmaviridae-HMM1-102_36.0-ORF11
+seq32	>tsa-GABB01016274.1 TSA: Archaeopsylla erinacei contig16304 mRNA sequence-table1-Phasmaviridae-HMM1-178_94.0-ORF6
+seq33	>tsa-GABB01026668.1 (REVERSE SENSE) TSA: Archaeopsylla erinacei contig26712 mRNA sequence-table1-Phasmaviridae-HMM3-90_77.0-ORF9
+seq34	>tsa-GEOB01125140.1 TSA: Azaleodes micronipha TR66291-c30_g1_i1 transcribed RNA sequence-table6-Phasmaviridae-HMM568-1232_31.0-ORF69
+seq35	>tsa-GDHF01023364.1 TSA: Bactrocera latifrons TR9081-c0_g1_i1 transcribed RNA sequence-table6-Phasmaviridae-HMM583-1250_31.0-ORF71
+seq36	>tsa-GDHF01025049.1 TSA: Bactrocera latifrons TR9081-c0_g1_i2 transcribed RNA sequence-table6-Phasmaviridae-HMM494-1161_32.0-ORF71
+seq37	>tsa-GFOR01006382.1 (REVERSE SENSE) TSA: Bactrocera latifrons TR4628_c0_g1_i1 transcribed RNA sequence-table6-Phasmaviridae-HMM2-155_14.0-ORF86
+seq38	>tsa-GFOR01006737.1 TSA: Bactrocera latifrons TR4886_c0_g1_i1 transcribed RNA sequence-table1-Phasmaviridae-HMM2-216_99.0-ORF6
+seq39	>tsa-GFOR01058103.1 TSA: Bactrocera latifrons TR36376_c0_g1_i1 transcribed RNA sequence-table1-Phasmaviridae-HMM17-344_92.0-ORF5
+seq40	>tsa-GBQF01030202.1 TSA: Bombus rupestris s8260_L_27862_0_a_14_0_l_4305 transcribed RNA sequence-table1-Phasmaviridae-HMM2-644_44.0-ORF22
+seq41	>tsa-GBXH01012553.1 TSA: Cadra cautella EP1_contig_12494 transcribed RNA sequence-table6-Phasmaviridae-HMM584-1248_31.0-ORF63
+seq42	>tsa-GFQL01013716.1 TSA: Carposina sasakii c33011.graph_c0 transcribed RNA sequence-table6-Phasmaviridae-HMM591-1255_30.0-ORF59
+seq43	>tsa-GBPZ01003428.1 TSA: Coelioxys conoidea C112014_a_8_0_l_3197 transcribed RNA sequence-table1-Phasmaviridae-HMM1-663_62.0-ORF16
+seq44	>tsa-GDJO01034815.1 (REVERSE SENSE) TSA: Cotesia glomerata comp113298_c2_seq1 transcribed RNA sequence-table6-Phasmaviridae-HMM569-1233_35.0-ORF120
+seq45	>tsa-GDAR01012020.1 TSA: Dendroctonus ponderosae Dpon-CLC-20141217_contig_44120 transcribed RNA sequence-table1-Phasmaviridae-HMM17-327_94.0-ORF7
+seq46	>tsa-GBSB01011875.1 (REVERSE SENSE) TSA: Diabrotica virgifera virgifera isotig11579 transcribed RNA sequence-table6-Phasmaviridae-HMM12-134_10.0-ORF89
+seq47	>tsa-GBSB01013246.1 (REVERSE SENSE) TSA: Diabrotica virgifera virgifera isotig12951 transcribed RNA sequence-table6-Phasmaviridae-HMM224-319_29.0-ORF46
+seq48	>tsa-GECQ01219713.1 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.219713 transcribed RNA sequence-table6-Phasmaviridae-HMM868-1270_17.0-ORF68
+seq49	>tsa-GECQ01284301.1 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.284301 transcribed RNA sequence-table6-Phasmaviridae-HMM581-1247_31.0-ORF66
+seq50	>tsa-GEDM01004339.1 TSA: Neodiprion lecontei NlFLB_m2673_3prime_part transcribed RNA sequence-table1-Phasmaviridae-HMM558-1148_51.0-ORF30
+seq51	>tsa-GEDM01004340.1 (REVERSE SENSE) TSA: Neodiprion lecontei NlFLB_m2674_complete transcribed RNA sequence-table1-Phasmaviridae-HMM1-107_99.0-ORF5
+seq52	>tsa-GEDM01005575.1 TSA: Neodiprion lecontei NlFLB_m3788_internal transcribed RNA sequence-table1-Phasmaviridae-HMM1-82_11.0-ORF12
+seq53	>tsa-GEES01011068.1 TSA: Neodiprion lecontei Nlec_orf_11068 transcribed RNA sequence-table1-Phasmaviridae-HMM188-571_66.0-ORF17
+seq54	>tsa-GEES01012240.1 TSA: Neodiprion lecontei Nlec_orf_12240 transcribed RNA sequence-table1-Phasmaviridae-HMM1-82_11.0-ORF12
+seq55	>tsa-GEES01042166.1 TSA: Neodiprion lecontei Nlec_orf_42166 transcribed RNA sequence-table1-Phasmaviridae-HMM3-109_97.0-ORF3
+seq56	>tsa-GEES01043229.1 (REVERSE SENSE) TSA: Neodiprion lecontei Nlec_orf_43229 transcribed RNA sequence-table1-Phasmaviridae-HMM1-107_99.0-ORF5
+seq57	>tsa-GEES01062442.1 TSA: Neodiprion lecontei Nlec_orf_62442 transcribed RNA sequence-table1-Phasmaviridae-HMM558-1148_51.0-ORF30
+seq58	>tsa-GEES01071625.1 TSA: Neodiprion lecontei Nlec_orf_71625 transcribed RNA sequence-table1-Phasmaviridae-HMM2-288_80.0-ORF10
+seq59	>tsa-GANM01003342.1 TSA: Nilaparvata lugens Unigene5814_All transcribed RNA sequence-table1-Phasmaviridae-HMM1-120_69.0-ORF5
+seq60	>tsa-GANM01007209.1 TSA: Nilaparvata lugens Unigene12653_All transcribed RNA sequence-table6-Phasmaviridae-HMM611-1280_43.0-ORF54
+seq61	>tsa-GAIB01160397.1 TSA: Nothobranchius furzeri Nofu_GRZ_cDNA_3_0098450 transcribed RNA sequence-table6-Phasmaviridae-HMM15-136_85.0-ORF7
+seq62	>tsa-GAGH01015427.1 TSA: Osmia cornuta osmia_antenne_contig_212_5 transcribed RNA sequence-table1-Phasmaviridae-HMM4-250_98.0-ORF4
+seq63	>tsa-GBUK01005882.1 (REVERSE SENSE) TSA: Osmia cornuta C45966_a_6_0_l_257 transcribed RNA sequence-table1-Phasmaviridae-HMM2-85_97.0-ORF5
+seq64	>tsa-GBUK01029525.1 (REVERSE SENSE) TSA: Osmia cornuta s7650_L_27036_0_a_15_3_l_2595 transcribed RNA sequence-table1-Phasmaviridae-HMM7-549_62.0-ORF45
+seq65	>tsa-GAQJ01015246.1 (REVERSE SENSE) TSA: Ostrinia furnacalis CL6102.Contig1_All transcribed RNA sequence-table1-Phasmaviridae-HMM25-647_96.0-ORF51
+seq66	>tsa-GAQJ01015247.1 TSA: Ostrinia furnacalis CL6102.Contig2_All transcribed RNA sequence-table1-Phasmaviridae-HMM25-689_54.0-ORF37
+seq67	>tsa-GAOP01024009.1 TSA: Pachypsylla venusta comp95160_c1_seq1 transcribed RNA sequence-table6-Phasmaviridae-HMM53-113_32.0-ORF6
+seq68	>tsa-GAOP01024011.1 TSA: Pachypsylla venusta comp95160_c1_seq3 transcribed RNA sequence-table6-Phasmaviridae-HMM53-113_32.0-ORF6
+seq69	>tsa-GACO01000420.1 (REVERSE SENSE) TSA: Priacma serrata contig00423 mRNA sequence-table6-Phasmaviridae-HMM1-268_90.0-ORF24
+seq70	>tsa-GACO01000524.1 (REVERSE SENSE) TSA: Priacma serrata contig00527 mRNA sequence-table6-Phasmaviridae-HMM11-100_41.0-ORF19
+seq71	>tsa-GACO01005492.1 TSA: Priacma serrata contig05507 mRNA sequence-table6-Phasmaviridae-HMM7-202_94.0-ORF9
+seq72	>tsa-GCDX01010846.1 (REVERSE SENSE) TSA: Psyttalia concolor Pc_012033 transcribed RNA sequence-table4-Phasmaviridae-HMM272-935_36.0-ORF154
+seq73	>tsa-GCEQ01006001.1 (REVERSE SENSE) TSA: Psyttalia lounsburyi Pl_006366 transcribed RNA sequence-table6-Phasmaviridae-HMM13-230_28.0-ORF164
+seq74	>tsa-GCEQ01008296.1 TSA: Psyttalia lounsburyi Pl_008811 transcribed RNA sequence-table6-Phasmaviridae-HMM13-230_28.0-ORF59
+seq75	>tsa-GEMJ01055554.1 (REVERSE SENSE) TSA: Rhipidia sejuga c39710.graph_c0_seq1 transcribed RNA sequence-table1-Phasmaviridae-HMM4-132_96.0-ORF9
+seq76	>tsa-GAXN01005105.1 (REVERSE SENSE) TSA: Sceliphron caementarium comp5792_c0_seq1 transcribed RNA sequence-table6-Phasmaviridae-HMM578-764_24.0-ORF65
+seq77	>tsa-GAXN01007804.1 TSA: Sceliphron caementarium comp7680_c0_seq1 transcribed RNA sequence-table6-Phasmaviridae-HMM1-481_34.0-ORF46
+seq78	>tsa-GETN01017721.1 (REVERSE SENSE) TSA: Scirpophaga incertulas YSB_LS_c46509_g1_i1 transcribed RNA sequence-table1-Phasmaviridae-HMM2-263_98.0-ORF16
+seq79	>tsa-GETN01020495.1 TSA: Scirpophaga incertulas YSB_LS_c66952_g1_i1 transcribed RNA sequence-table1-Phasmaviridae-HMM1-120_98.0-ORF2
+seq80	>tsa-GBKZ01005185.1 TSA: Sphecodes albilabris C119385_a_27_0_l_3066 transcribed RNA sequence-table4-Phasmaviridae-HMM568-1020_44.0-ORF28
+seq81	>tsa-GBKZ01005273.1 (REVERSE SENSE) TSA: Sphecodes albilabris C119707_a_27_0_l_3260 transcribed RNA sequence-table6-Phasmaviridae-HMM1-191_17.0-ORF73
+seq82	>tsa-GAXI02038922.1 TSA: Tetrodontophora bielanensis s3465_L_3425_3_a_10_4_l_2408 transcribed RNA sequence-table4-Phasmaviridae-HMM513-800_35.0-ORF26
+seq83	>tsa-GFST01169388.1 TSA: Toxicodendron radicans subsp. radicans TRINITY_DN32239_c0_g1_i1 transcribed RNA sequence-table4-Phasmaviridae-HMM115-226_48.0-ORF9
+seq84	>tsa-GFST01183080.1 (REVERSE SENSE) TSA: Toxicodendron radicans subsp. radicans TRINITY_DN49027_c0_g1_i1 transcribed RNA sequence-table6-Phasmaviridae-HMM28-95_70.0-ORF12
+seq85	>tsa-GFST01183448.1 TSA: Toxicodendron radicans subsp. radicans TRINITY_DN49488_c0_g1_i1 transcribed RNA sequence-table4-Phasmaviridae-HMM2-191_85.0-ORF6
+seq86	>tsa-GFST01183710.1 (REVERSE SENSE) TSA: Toxicodendron radicans subsp. radicans TRINITY_DN49842_c0_g1_i1 transcribed RNA sequence-table4-Phasmaviridae-HMM2-170_95.0-ORF18
+seq87	>tsa-GAYA02007886.1 (REVERSE SENSE) TSA: Zorotypus caudelli C230473_a_3_0_l_237 transcribed RNA sequence-table6-Phasmaviridae-HMM1-78_98.0-ORF7
+seq88	>tsa-GAYA02027570.1 TSA: Zorotypus caudelli C296029_a_3_0_l_521 transcribed RNA sequence-table6-Phasmaviridae-HMM3-138_78.0-ORF6
+seq89	>tsa-GAYA02032350.1 TSA: Zorotypus caudelli C314916_a_4_0_l_971 transcribed RNA sequence-table6-Phasmaviridae-HMM2-193_59.0-ORF11
+seq90	>tsa-GAYA02035334.1 (REVERSE SENSE) TSA: Zorotypus caudelli C326506_a_12_0_l_3615 transcribed RNA sequence-table6-Phasmaviridae-HMM579-1204_51.0-ORF83
+seq91	>tsa-GAYA02051248.1 TSA: Zorotypus caudelli s7211_L_10013_2_a_52_8_l_2194 transcribed RNA sequence-table6-Phasmaviridae-HMM59-179_16.0-ORF28
+seq92	>tsa-GAYA02051250.1 TSA: Zorotypus caudelli s7213_L_10013_4_a_8_8_l_999 transcribed RNA sequence-table6-Phasmaviridae-HMM59-331_81.0-ORF13

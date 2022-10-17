@@ -1,0 +1,227 @@
+seq1	>ref-NC_028243.1 Suffolk virus isolate FI3, complete genome-table6-Chuviridae-HMM547-1024_20.0-ORF78
+seq2	>ref-NC_028265.1 Wuhan Mosquito Virus 8 strain XC2-7, complete genome-table4-Chuviridae-HMM546-1023_21.0-ORF82
+seq3	>ref-NC_028260.1 Changping Tick Virus 2 strain CP1-4, complete genome-table6-Chuviridae-HMM531-1009_21.0-ORF67
+seq4	>ref-NC_028261.1 Changping Tick Virus 3 strain CP1-3, complete genome-table4-Chuviridae-HMM546-1024_21.0-ORF71
+seq5	>ref-NC_028266.1 Wuhan Tick Virus 2 strain X78-1, complete genome-table4-Chuviridae-HMM541-1018_20.0-ORF78
+seq6	>ref-NC_028263.1 Tacheng Tick Virus 4 strain TCRP-1, complete genome-table6-Chuviridae-HMM583-1059_21.0-ORF103
+seq7	>ref-NC_028264.1 Tacheng Tick Virus 5 strain TC254, complete genome-table4-Chuviridae-HMM526-1004_21.0-ORF78
+seq8	>ref-NC_028259.1 Bole Tick Virus 3 strain BL199, complete genome-table6-Chuviridae-HMM535-1013_21.0-ORF67
+seq9	>ref-NC_028482.1 Imjin River virus 1 strain A12.2496/ROK/2012, complete genome-table6-Chuviridae-HMM528-1005_21.0-ORF66
+seq10	>ref-NC_030204.1 Lonestar tick chuvirus 1 isolate RTS21, complete genome-table6-Chuviridae-HMM514-991_20.0-ORF77
+seq11	>ref-NC_031248.1 Wenzhou Crab Virus 3 strain RBX9 glycoprotein (G1), putative nucleoprotein (N), glycoprotein (G2), and polymerase (L) genes, complete cds-table6-Chuviridae-HMM548-1030_22.0-ORF143
+seq12	>ref-NC_031214.1 Shayang Fly Virus 1 strain SYY3-1 glycoprotein (G), putative nucleoprotein (N), and polymerase (L) genes, complete cds-table6-Chuviridae-HMM623-1113_19.0-ORF162
+seq13	>ref-NC_032245.1 Hubei myriapoda virus 8 strain WGML66308 putative glycoprotein, hypothetical protein 1, hypothetical protein 2, and RNA-dependent RNA polymerase genes, complete cds-table6-Chuviridae-HMM600-1077_19.0-ORF143
+seq14	>ref-NC_032414.1 Wenling chuvirus-like virus 2 strain WLJQ104274 RNA-dependent RNA polymerase gene, complete cds-table6-Chuviridae-HMM579-1057_21.0-ORF76
+seq15	>ref-NC_032409.1 Wenling chuvirus-like virus 1 strain WLJQ101487 RNA-dependent RNA polymerase gene, complete cds-table6-Chuviridae-HMM523-1001_21.0-ORF73
+seq16	>ref-NC_032427.1 Beihai barnacle virus 9 strain BHTH10927 putative glycoprotein, hypothetical protein, and RNA-dependent RNA polymerase genes, complete cds-table6-Chuviridae-HMM570-1053_21.0-ORF115
+seq17	>ref-NC_032417.1 Beihai hermit crab virus 3 strain BHJJX21702 putative glycoprotein, hypothetical protein 1, hypothetical protein 2, and RNA-dependent RNA polymerase genes, complete cds-table6-Chuviridae-HMM698-1177_19.0-ORF149
+seq18	>ref-NC_033291.1 Wenling crustacean virus 14 strain WLJQ104130 RNA-dependent RNA polymerase gene, complete cds-table6-Chuviridae-HMM548-1024_21.0-ORF68
+seq19	>ref-NC_032802.1 Wenling crustacean virus 15 strain WLJQ91782 RNA-dependent RNA polymrease, putative glycoprotein, and hypothetical protein genes, complete cds-table6-Chuviridae-HMM610-1094_20.0-ORF66
+seq20	>ref-NC_033293.1 Wenling crustacean virus 13 strain WLJQ104251 RNA-dependent RNA polymerase gene, complete cds-table6-Chuviridae-HMM554-1030_21.0-ORF78
+seq21	>ref-NC_033168.1 Sanxia atyid shrimp virus 4 strain SXXX37205 RNA-dependent RNA polymerase, putative glycoprotein, and hypothetical protein genes, complete cds-table6-Chuviridae-HMM527-1007_21.0-ORF65
+seq22	>ref-NC_032922.1 Hubei coleoptera virus 3 strain QCM109726 putative glycoprotein, hypothetical protein, and RNA-dependent RNA polymerase genes, complete cds-table6-Chuviridae-HMM597-1073_18.0-ORF152
+seq23	>ref-NC_033327.1 Hubei chuvirus-like virus 1 strain QTM26249 RNA-dependent RNA polymerase gene, complete cds-table6-Chuviridae-HMM576-1053_21.0-ORF75
+seq24	>ref-NC_032956.1 Hubei odonate virus 11 strain QTM161788 RNA-dependent RNA polymerase, putative glycoprotein, and hypothetical protein genes, complete cds-table6-Chuviridae-HMM567-1047_20.0-ORF73
+seq25	>ref-NC_033015.1 Hubei chuvirus-like virus 3 strain QTM26698 RNA-dependent RNA polymerase, putative glycoprotein, and hypothetical protein genes, complete cds-table6-Chuviridae-HMM589-1067_20.0-ORF70
+seq26	>ref-NC_033704.1 Xinzhou nematode virus 5 strain XZSJSC65765 hypothetical protein and RNA-dependent RNA polymerase genes, complete cds-table6-Chuviridae-HMM949-1437_19.0-ORF95
+seq27	>nrnt-MG600011 Wenling fish chuvirus-like virus strain XYXMG8676 L protein, putative glycoprotein, and putative nucleoprotein genes, complete cds.-table6-Chuviridae-HMM516-993_22.0-ORF64
+seq28	>nrnt-MG600009 Guangdong red-banded snake chuvirus-like virus strain LPSC27055 L protein, putative glycoprotein, and putative nucleoprotein genes, complete cds.-table6-Chuviridae-HMM531-1008_21.0-ORF75
+seq29	>nrnt-KX884438 Hubei chuvirus-like virus 4 strain SSZZ6973 RNA-dependent RNA polymerase gene, partial cds.-table6-Chuviridae-HMM574-1048_27.0-ORF50
+seq30	>nrnt-KX924630 Chuvirus Mos8Chu0 segment L RNA-directed RNA polymerase gene, complete cds.-table6-Chuviridae-HMM585-888_13.0-ORF75
+seq31	>nrnt-MF893252 Mogami virus isolate Jap1, partial genome.-table4-Chuviridae-HMM629-1118_39.0-ORF120
+seq32	>nrnt-MF360789 Blacklegged tick chuvirus-2 isolate RTS126, complete genome.-table6-Chuviridae-HMM558-1036_21.0-ORF67
+seq33	>nrnt-KY053857 Scaldis River bee virus glycoprotein (G), putative nucleoprotein (N), and RNA-dependent RNA polymerase (L) genes, complete cds.-table6-Chuviridae-HMM727-1205_17.0-ORF158
+seq34	>nrnt-KM817614 Shuangao Insect Virus 5 strain QSA09 polymerase (L) gene, complete cds.-table6-Chuviridae-HMM987-1474_17.0-ORF88
+seq35	>nrnt-KM817613 Shuangao Lacewing Virus strain QSA01 polymerase (L) gene, complete cds.-table4-Chuviridae-HMM418-905_22.0-ORF83
+seq36	>nrnt-KM817612 Shuangao Fly Virus 1 strain QSA06-1 polymerase gene, complete cds; and polymerase gene, partial cds.-table4-Chuviridae-HMM542-1019_26.0-ORF66
+seq37	>nrnt-KM817609 Wuhan Louse Fly Virus 7 strain BFJSC-3 segment 1, complete sequence.-table6-Chuviridae-HMM518-995_21.0-ORF74
+seq38	>nrnt-KM817606 Wuhan Louse Fly Virus 6 strain BFJSC-2 segment 1, complete sequence.-table6-Chuviridae-HMM547-1024_21.0-ORF72
+seq39	>nrnt-KM817604 Wuchang Cockraoch Virus 3 strain WCZL-1 segment 1, complete sequence.-table6-Chuviridae-HMM569-1045_21.0-ORF73
+seq40	>nrnt-KM817601 Wenzhou Crab Virus 2 strain ZCX13 segment 1, complete sequence.-table6-Chuviridae-HMM551-1027_20.0-ORF71
+seq41	>nrnt-KM817597 Lishi Spider Virus 1 strain LSZZ11 segment 1, complete sequence.-table4-Chuviridae-HMM531-1008_21.0-ORF77
+seq42	>tsa-GAYY02039772.1 (REVERSE SENSE) TSA: Acanthocasuarina muellerianae s7199_L_18809_0_a_6_9_l_3327 transcribed RNA sequence-table6-Chuviridae-HMM284-762_43.0-ORF73
+seq43	>tsa-GENP01104042.1 (REVERSE SENSE) TSA: Acanthopteroctetes unifascia TR107128-c0_g1_i2 transcribed RNA sequence-table1-Chuviridae-HMM1-93_45.0-ORF12
+seq44	>tsa-GENP01104044.1 TSA: Acanthopteroctetes unifascia TR107128-c0_g4_i2 transcribed RNA sequence-table1-Chuviridae-HMM220-608_63.0-ORF17
+seq45	>tsa-GENT01055445.1 TSA: Acanthopteroctetes unifascia TR86221-c0_g5_i2 transcribed RNA sequence-table1-Chuviridae-HMM2-159_98.0-ORF5
+seq46	>tsa-GENT01055447.1 TSA: Acanthopteroctetes unifascia TR86221-c0_g8_i2 transcribed RNA sequence-table1-Chuviridae-HMM2-125_51.0-ORF7
+seq47	>tsa-GENT01055448.1 (REVERSE SENSE) TSA: Acanthopteroctetes unifascia TR86221-c0_g9_i3 transcribed RNA sequence-table1-Chuviridae-HMM522-628_16.0-ORF45
+seq48	>tsa-GENT01055449.1 TSA: Acanthopteroctetes unifascia TR86221-c0_g10_i1 transcribed RNA sequence-table1-Chuviridae-HMM2-95_96.0-ORF3
+seq49	>tsa-GENT01055450.1 (REVERSE SENSE) TSA: Acanthopteroctetes unifascia TR86221-c0_g13_i2 transcribed RNA sequence-table1-Chuviridae-HMM1-109_97.0-ORF11
+seq50	>tsa-GENU01020553.1 (REVERSE SENSE) TSA: Acanthopteroctetes unifascia TR22058-c0_g6_i1 transcribed RNA sequence-table1-Chuviridae-HMM183-606_69.0-ORF44
+seq51	>tsa-GFUZ01022464.1 TSA: Amphizoa insolens c965_g1_i1 transcribed RNA sequence-table6-Chuviridae-HMM575-1052_20.0-ORF75
+seq52	>tsa-GAUE02002935.1 TSA: Anurida maritima C53516_a_3_0_l_261 transcribed RNA sequence-table1-Chuviridae-HMM2-86_97.0-ORF2
+seq53	>tsa-GAFS01026308.1 (REVERSE SENSE) TSA: Pontastacus leptodactylus Pastle_hypoyo_c26832 transcribed RNA sequence-table4-Chuviridae-HMM15-111_31.0-ORF49
+seq54	>tsa-GBEI01055004.1 TSA: Pontastacus leptodactylus Pl_CLC_55504 transcribed RNA sequence-table4-Chuviridae-HMM43-253_45.0-ORF21
+seq55	>tsa-GBRG01008994.1 (REVERSE SENSE) TSA: Aurelia aurita comp41025_c0_seq1 transcribed RNA sequence-table1-Chuviridae-HMM2-146_70.0-ORF16
+seq56	>tsa-GAPQ01006713.1 TSA: Bemisia tabaci BT_Q_G_ZJU_Unigene3093 transcribed RNA sequence-table6-Chuviridae-HMM2-77_96.0-ORF5
+seq57	>tsa-GARQ01005704.1 (REVERSE SENSE) TSA: Bemisia tabaci BT_Q_WB_ZJU_comp15484_c0 transcribed RNA sequence-table6-Chuviridae-HMM56-130_56.0-ORF13
+seq58	>tsa-GEZK01050259.1 (REVERSE SENSE) TSA: Bemisia tabaci c166231_g5 transcribed RNA sequence-table6-Chuviridae-HMM152-390_45.0-ORF60
+seq59	>tsa-GEZK01070071.1 (REVERSE SENSE) TSA: Bemisia tabaci c168501_g2 transcribed RNA sequence-table6-Chuviridae-HMM178-357_39.0-ORF105
+seq60	>tsa-GEZK01168604.1 TSA: Bemisia tabaci c154276_g1 transcribed RNA sequence-table6-Chuviridae-HMM75-252_12.0-ORF137
+seq61	>tsa-GBJR01009907.1 TSA: Bombyx mori Bm_nscaf2948_002_1 transcribed RNA sequence-table4-Chuviridae-HMM2-86_12.0-ORF22
+seq62	>tsa-GFCY01019164.1 TSA: Bombyx mori BmPG_Unigene_BMK.19226 transcribed RNA sequence-table6-Chuviridae-HMM1-54_73.0-ORF3
+seq63	>tsa-GBMS01017743.1 (REVERSE SENSE) TSA: Brachygaster minutus C198369_a_4_0_l_851 transcribed RNA sequence-table6-Chuviridae-HMM13-99_48.0-ORF14
+seq64	>tsa-GEUD01049381.1 (REVERSE SENSE) TSA: Callosobruchus maculatus TR11866-c0_g5_i1 transcribed RNA sequence-table1-Chuviridae-HMM10-171_93.0-ORF15
+seq65	>tsa-GEUD01107809.1 (REVERSE SENSE) TSA: Callosobruchus maculatus TR11866-c0_g6_i1 transcribed RNA sequence-table1-Chuviridae-HMM10-121_90.0-ORF12
+seq66	>tsa-GEUD01119499.1 (REVERSE SENSE) TSA: Callosobruchus maculatus TR11866-c0_g1_i1 transcribed RNA sequence-table1-Chuviridae-HMM10-171_93.0-ORF15
+seq67	>tsa-GBXE01000123.1 (REVERSE SENSE) TSA: Carcinus maenas comp140_c0_seq1 transcribed RNA sequence-table1-Chuviridae-HMM1-99_97.0-ORF9
+seq68	>tsa-GBXE01186419.1 (REVERSE SENSE) TSA: Carcinus maenas comp128780_c0_seq1 transcribed RNA sequence-table1-Chuviridae-HMM1-96_96.0-ORF9
+seq69	>tsa-GFQL01056308.1 (REVERSE SENSE) TSA: Carposina sasakii c65444.graph_c0 transcribed RNA sequence-table1-Chuviridae-HMM2-78_92.0-ORF8
+seq70	>tsa-GFLU01001331.1 TSA: Cepaea nemoralis c24165_g1_i1 transcribed RNA sequence-table1-Chuviridae-HMM2-137_98.0-ORF5
+seq71	>tsa-GBPN01013971.1 (REVERSE SENSE) TSA: Chelostoma florisomne C96984_a_25_0_l_5883 transcribed RNA sequence-table6-Chuviridae-HMM607-1085_42.0-ORF150
+seq72	>tsa-GAJS01055887.1 TSA: Chilo suppressalis Unigene57733_All transcribed RNA sequence-table1-Chuviridae-HMM27-195_75.0-ORF9
+seq73	>tsa-GFVY01031600.1 (REVERSE SENSE) TSA: Clitarchus hookeri c57629_g1_i1 transcribed RNA sequence-table6-Chuviridae-HMM620-1100_19.0-ORF328
+seq74	>tsa-GFVY01053808.1 TSA: Clitarchus hookeri c90289_g1_i1 transcribed RNA sequence-table6-Chuviridae-HMM620-1100_19.0-ORF149
+seq75	>tsa-GADH01038430.1 TSA: Corydalinae sp. KMRSPBM-2012 contig41097 mRNA sequence-table6-Chuviridae-HMM29-89_51.0-ORF6
+seq76	>tsa-GDJO01002064.1 TSA: Cotesia glomerata comp61853_c5_seq1 transcribed RNA sequence-table1-Chuviridae-HMM80-555_50.0-ORF33
+seq77	>tsa-GDJO01003689.1 (REVERSE SENSE) TSA: Cotesia glomerata comp75225_c0_seq1 transcribed RNA sequence-table4-Chuviridae-HMM556-1031_21.0-ORF266
+seq78	>tsa-GBWH01004985.1 TSA: Crossocerus quadrimaculatus C38006_a_4_0_l_520 transcribed RNA sequence-table1-Chuviridae-HMM2-171_98.0-ORF6
+seq79	>tsa-GECZ01028366.1 TSA: Cuerna arida TR14376_c0_g1_i1 transcribed RNA sequence-table1-Chuviridae-HMM40-200_11.0-ORF39
+seq80	>tsa-GDQH01018908.1 (REVERSE SENSE) TSA: Danio rerio CG2_NonNorm_contig_18919 transcribed RNA sequence-table4-Chuviridae-HMM546-900_38.0-ORF94
+seq81	>tsa-GDQQ01026387.1 TSA: Danio rerio CG2_Norm_contig_26399 transcribed RNA sequence-table4-Chuviridae-HMM534-679_21.0-ORF22
+seq82	>tsa-GECN01049359.1 (REVERSE SENSE) TSA: Diachasma alloeum Dall_Trinity_78813_c0_g1_i1 transcribed RNA sequence-table1-Chuviridae-HMM1-335_99.0-ORF35
+seq83	>tsa-GECN01101076.1 TSA: Diachasma alloeum Dall_Trinity_119882_c0_g1_i1 transcribed RNA sequence-table6-Chuviridae-HMM93-569_26.0-ORF61
+seq84	>tsa-GECN01122782.1 (REVERSE SENSE) TSA: Diachasma alloeum Dall_Trinity_133558_c0_g1_i1 transcribed RNA sequence-table1-Chuviridae-HMM2-129_44.0-ORF25
+seq85	>tsa-GBPP01002733.1 (REVERSE SENSE) TSA: Dioxys cincta C111711_a_20_0_l_14108 transcribed RNA sequence-table6-Chuviridae-HMM610-1088_18.0-ORF342
+seq86	>tsa-GARO01006190.1 (REVERSE SENSE) TSA: Echinogammarus veneris Echinogammarus_veneris_contig_4592_2 transcribed RNA sequence-table1-Chuviridae-HMM66-542_68.0-ORF58
+seq87	>tsa-GBPW01010829.1 (REVERSE SENSE) TSA: Epeolus variegatus C74130_a_10_0_l_791 transcribed RNA sequence-table6-Chuviridae-HMM44-223_79.0-ORF21
+seq88	>tsa-HAFM01008594.1 TSA: Gammarus pulex, contig Locus_4719_Transcript_1/1, transcribed RNA sequence-table1-Chuviridae-HMM1-150_98.0-ORF6
+seq89	>tsa-GAWP02036307.1 (REVERSE SENSE) TSA: Grylloblatta bifratrilecta s11500_L_44437_0_a_37_5_l_5994 transcribed RNA sequence-table1-Chuviridae-HMM359-837_23.0-ORF136
+seq90	>tsa-GAJP01002922.1 (REVERSE SENSE) TSA: Hyalella azteca contig05147 transcribed RNA sequence-table1-Chuviridae-HMM6-192_68.0-ORF16
+seq91	>tsa-GAJQ01003060.1 TSA: Hyalella azteca contig06941 transcribed RNA sequence-table1-Chuviridae-HMM5-224_38.0-ORF12
+seq92	>tsa-GAJQ01014851.1 TSA: Hyalella azteca contig18900 transcribed RNA sequence-table1-Chuviridae-HMM2-100_96.0-ORF3
+seq93	>tsa-GEHV01091016.1 (REVERSE SENSE) TSA: Hyalella azteca TR39651:c0_g3_i1 transcribed RNA sequence-table6-Chuviridae-HMM549-1028_22.0-ORF168
+seq94	>tsa-GEQH01005169.1 TSA: Hyalellopsis grisea c12925_g2_i1 transcribed RNA sequence-table1-Chuviridae-HMM28-88_68.0-ORF3
+seq95	>tsa-GEQH01016349.1 (REVERSE SENSE) TSA: Hyalellopsis grisea c38968_g1_i1 transcribed RNA sequence-table1-Chuviridae-HMM2-150_98.0-ORF15
+seq96	>tsa-GEQH01025429.1 (REVERSE SENSE) TSA: Hyalellopsis grisea c53166_g1_i1 transcribed RNA sequence-table1-Chuviridae-HMM1-84_98.0-ORF9
+seq97	>tsa-GEQI01041533.1 TSA: Hyalellopsis setosa c79943_g1_i1 transcribed RNA sequence-table4-Chuviridae-HMM1-262_17.0-ORF52
+seq98	>tsa-GEQI01041534.1 (REVERSE SENSE) TSA: Hyalellopsis setosa c79943_g2_i1 transcribed RNA sequence-table6-Chuviridae-HMM554-692_19.0-ORF59
+seq99	>tsa-GEQI01041535.1 TSA: Hyalellopsis setosa c79943_g3_i1 transcribed RNA sequence-table1-Chuviridae-HMM1-86_98.0-ORF2
+seq100	>tsa-HAAI01001657.1 TSA: Hyas araneus, contig HaIso01657, transcribed RNA sequence-table1-Chuviridae-HMM44-394_88.0-ORF10
+seq101	>tsa-HAAI01016862.1 TSA: Hyas araneus, contig HaCtg18142, transcribed RNA sequence-table1-Chuviridae-HMM2-138_70.0-ORF7
+seq102	>tsa-HACH01032123.1 (REVERSE SENSE) TSA: Hyas araneus, contig c30007_g1_i1, transcribed RNA sequence-table6-Chuviridae-HMM584-1063_20.0-ORF342
+seq103	>tsa-GBDO01010141.1 TSA: Kerria lacca L_16060_T_1/1_C_1.000_L_2995 transcribed RNA sequence-table6-Chuviridae-HMM17-380_67.0-ORF15
+seq104	>tsa-GBDO01024939.1 TSA: Kerria lacca L_5137_T_1/3_C_0.667_L_5568 transcribed RNA sequence-table4-Chuviridae-HMM59-185_62.0-ORF20
+seq105	>tsa-GBDO01028615.1 TSA: Kerria lacca L_5137_T_2/3_C_0.500_L_5456 transcribed RNA sequence-table4-Chuviridae-HMM59-185_62.0-ORF20
+seq106	>tsa-GBDO01031390.1 TSA: Kerria lacca L_5137_T_3/3_C_0.667_L_6165 transcribed RNA sequence-table4-Chuviridae-HMM59-185_62.0-ORF20
+seq107	>tsa-GBDP01012195.1 TSA: Kerria lacca L_7155_T_1/1_C_1.000_L_2994 transcribed RNA sequence-table6-Chuviridae-HMM17-380_64.0-ORF15
+seq108	>tsa-GBDP01027661.1 (REVERSE SENSE) TSA: Kerria lacca L_5302_T_1/2_C_1.000_L_6393 transcribed RNA sequence-table4-Chuviridae-HMM59-185_62.0-ORF128
+seq109	>tsa-GBDP01048205.1 (REVERSE SENSE) TSA: Kerria lacca L_5302_T_2/2_C_1.000_L_6298 transcribed RNA sequence-table4-Chuviridae-HMM59-185_62.0-ORF125
+seq110	>tsa-GBDY01010905.1 TSA: Kerria lacca L_4620_T_1/1_C_1.000_L_1650 transcribed RNA sequence-table6-Chuviridae-HMM17-380_74.0-ORF12
+seq111	>tsa-GBDY01013513.1 (REVERSE SENSE) TSA: Kerria lacca L_11141_T_1/1_C_1.000_L_1174 transcribed RNA sequence-table6-Chuviridae-HMM17-161_85.0-ORF30
+seq112	>tsa-GBDY01017904.1 TSA: Kerria lacca L_7340_T_2/2_C_1.000_L_4204 transcribed RNA sequence-table4-Chuviridae-HMM59-185_62.0-ORF17
+seq113	>tsa-GBDY01018499.1 TSA: Kerria lacca L_7340_T_1/2_C_1.000_L_4224 transcribed RNA sequence-table4-Chuviridae-HMM59-185_62.0-ORF17
+seq114	>tsa-GBCS01025850.1 (REVERSE SENSE) TSA: Latrodectus hesperus ceph_comp58696_c1_seq1 transcribed RNA sequence-table1-Chuviridae-HMM2-92_96.0-ORF6
+seq115	>tsa-GBJN01175928.1 (REVERSE SENSE) TSA: Latrodectus hesperus Lh0tf040097g0u transcribed RNA sequence-table1-Chuviridae-HMM2-92_96.0-ORF6
+seq116	>tsa-GEEF01018641.1 (REVERSE SENSE) TSA: Leptinotarsa decemlineata comp69041_c1_seq1 transcribed RNA sequence-table1-Chuviridae-HMM196-244_19.0-ORF19
+seq117	>tsa-GEEF01186203.1 (REVERSE SENSE) TSA: Leptinotarsa decemlineata comp141801_c0_seq1 transcribed RNA sequence-table1-Chuviridae-HMM2-90_91.0-ORF8
+seq118	>tsa-GEEF01193317.1 (REVERSE SENSE) TSA: Leptinotarsa decemlineata comp151876_c0_seq1 transcribed RNA sequence-table1-Chuviridae-HMM1-77_97.0-ORF8
+seq119	>tsa-GBFE01000538.1 TSA: Locusta migratoria comp511199_c0 transcribed RNA sequence-table1-Chuviridae-HMM2-98_96.0-ORF3
+seq120	>tsa-GBFE01002414.1 (REVERSE SENSE) TSA: Locusta migratoria comp365604_c0 transcribed RNA sequence-table1-Chuviridae-HMM2-107_96.0-ORF12
+seq121	>tsa-GBDZ01002847.1 (REVERSE SENSE) TSA: Locusta migratoria manilensis a3059;131 transcribed RNA sequence-table6-Chuviridae-HMM565-1041_21.0-ORF167
+seq122	>tsa-GCGJ01041788.1 TSA: Locusta migratoria manilensis Unigene26228_test2_name transcribed RNA sequence-table1-Chuviridae-HMM248-724_47.0-ORF37
+seq123	>tsa-GDIO01032353.1 (REVERSE SENSE) TSA: Locusta migratoria manilensis Unigene29252_All transcribed RNA sequence-table6-Chuviridae-HMM565-1041_21.0-ORF166
+seq124	>tsa-GAUM02006899.1 TSA: Machilis hrabei C127536_a_3_0_l_244 transcribed RNA sequence-table1-Chuviridae-HMM1-79_97.0-ORF1
+seq125	>tsa-GEVD01048954.1 (REVERSE SENSE) TSA: Meccus pallidipennis Tpalli_004899300 transcribed RNA sequence-table6-Chuviridae-HMM557-1034_16.0-ORF220
+seq126	>tsa-GBQN01003256.1 TSA: Megachile willughbiella C113295_a_35_0_l_7530 transcribed RNA sequence-table6-Chuviridae-HMM565-1043_19.0-ORF86
+seq127	>tsa-GCPB01002620.1 (REVERSE SENSE) TSA: Megastigmus spermotrophus contig3037 transcribed RNA sequence-table6-Chuviridae-HMM227-314_27.0-ORF182
+seq128	>tsa-GCPB01086163.1 (REVERSE SENSE) TSA: Megastigmus spermotrophus contig190939 transcribed RNA sequence-table6-Chuviridae-HMM227-314_27.0-ORF45
+seq129	>tsa-GBLA01016358.1 (REVERSE SENSE) TSA: Nomada lathburiana C90001_a_30_0_l_13340 transcribed RNA sequence-table6-Chuviridae-HMM633-1111_23.0-ORF344
+seq130	>tsa-GENQ01024039.1 (REVERSE SENSE) TSA: Ophryotrocha diadema FC_dicembre2013_draft_c24071 transcribed RNA sequence-table4-Chuviridae-HMM1-162_80.0-ORF19
+seq131	>tsa-GAWY01017226.1 TSA: Oropsylla silantiewi comp21434_c0_seq1 transcribed RNA sequence-table4-Chuviridae-HMM566-1043_18.0-ORF127
+seq132	>tsa-GAGH01082499.1 TSA: Osmia cornuta osmia_antenne_contig_963_5 transcribed RNA sequence-table1-Chuviridae-HMM405-883_33.0-ORF43
+seq133	>tsa-GBUK01000901.1 (REVERSE SENSE) TSA: Osmia cornuta C103702_a_11_0_l_4926 transcribed RNA sequence-table6-Chuviridae-HMM17-183_10.0-ORF115
+seq134	>tsa-GBUK01019089.1 TSA: Osmia cornuta C88332_a_6_0_l_1019 transcribed RNA sequence-table1-Chuviridae-HMM51-339_84.0-ORF11
+seq135	>tsa-GBLU01021883.1 (REVERSE SENSE) TSA: Oxybelus bipunctatus s8462_L_21035_0_a_50_6_l_14386 transcribed RNA sequence-table6-Chuviridae-HMM585-1063_18.0-ORF353
+seq136	>tsa-GBYW01011198.1 (REVERSE SENSE) TSA: Pacifastacus leniusculus comp17919_c0_seq2 transcribed RNA sequence-table1-Chuviridae-HMM10-119_91.0-ORF11
+seq137	>tsa-GBYW01017388.1 (REVERSE SENSE) TSA: Pacifastacus leniusculus comp27565_c0_seq1 transcribed RNA sequence-table1-Chuviridae-HMM72-192_62.0-ORF16
+seq138	>tsa-GBYW01017390.1 TSA: Pacifastacus leniusculus comp27565_c0_seq3 transcribed RNA sequence-table1-Chuviridae-HMM88-208_57.0-ORF5
+seq139	>tsa-GBYW01024681.1 (REVERSE SENSE) TSA: Pacifastacus leniusculus comp34465_c0_seq1 transcribed RNA sequence-table1-Chuviridae-HMM12-157_27.0-ORF39
+seq140	>tsa-GBYW01024682.1 (REVERSE SENSE) TSA: Pacifastacus leniusculus comp34465_c0_seq2 transcribed RNA sequence-table1-Chuviridae-HMM1-258_40.0-ORF48
+seq141	>tsa-GAUH02007190.1 TSA: Panorpa vulgaris C65237_a_7_0_l_344 transcribed RNA sequence-table6-Chuviridae-HMM36-99_61.0-ORF4
+seq142	>tsa-GAXH02014259.1 TSA: Parides eurimedes C77689_a_4_0_l_371 transcribed RNA sequence-table1-Chuviridae-HMM9-120_90.0-ORF4
+seq143	>tsa-GBQH01005895.1 TSA: Pemphredon lugens C44020_a_3_0_l_340 transcribed RNA sequence-table1-Chuviridae-HMM2-112_97.0-ORF4
+seq144	>tsa-GDAF01031517.1 (REVERSE SENSE) TSA: Perinereis aibuhitensis comp324242_c0_seq1 transcribed RNA sequence-table1-Chuviridae-HMM2-142_98.0-ORF16
+seq145	>tsa-GAWS02040986.1 (REVERSE SENSE) TSA: Periplaneta americana C226836_a_19_0_l_2384 transcribed RNA sequence-table1-Chuviridae-HMM482-794_39.0-ORF74
+seq146	>tsa-GAWS02045322.1 (REVERSE SENSE) TSA: Periplaneta americana s13225_L_58769_0_a_41_0_l_8545 transcribed RNA sequence-table6-Chuviridae-HMM2-172_12.0-ORF149
+seq147	>tsa-GEIF01004763.1 TSA: Periplaneta americana CL2736.Contig1_All transcribed RNA sequence-table6-Chuviridae-HMM530-1008_21.0-ORF71
+seq148	>tsa-GEIF01004764.1 TSA: Periplaneta americana CL2736.Contig2_All transcribed RNA sequence-table6-Chuviridae-HMM530-1008_21.0-ORF71
+seq149	>tsa-GEIF01004765.1 TSA: Periplaneta americana CL2736.Contig3_All transcribed RNA sequence-table6-Chuviridae-HMM530-1008_21.0-ORF71
+seq150	>tsa-GEIF01004766.1 TSA: Periplaneta americana CL2736.Contig4_All transcribed RNA sequence-table6-Chuviridae-HMM530-1008_21.0-ORF70
+seq151	>tsa-GEIF01047815.1 (REVERSE SENSE) TSA: Periplaneta americana Unigene39385_All transcribed RNA sequence-table1-Chuviridae-HMM5-111_94.0-ORF9
+seq152	>tsa-GEIF01058231.1 TSA: Periplaneta americana Unigene48770_All transcribed RNA sequence-table1-Chuviridae-HMM1-69_98.0-ORF3
+seq153	>tsa-GFCQ01018750.1 TSA: Periplaneta americana TRINITY_DN189188_c0_g4_i10 transcribed RNA sequence-table6-Chuviridae-HMM530-1008_21.0-ORF73
+seq154	>tsa-GFUB01037426.1 TSA: Podisus maculiventris TRINITY_DN43978_c0_g1_i1 transcribed RNA sequence-table1-Chuviridae-HMM16-136_82.0-ORF4
+seq155	>tsa-GBKG01001970.1 TSA: Polydesmus angustus contig04799 transcribed RNA sequence-table6-Chuviridae-HMM13-184_58.0-ORF7
+seq156	>tsa-GDRW01001314.1 TSA: Priapulus caudatus m.3314 transcribed RNA sequence-table4-Chuviridae-HMM2-116_97.0-ORF5
+seq157	>tsa-GDRW01022005.1 TSA: Priapulus caudatus m.47816 transcribed RNA sequence-table1-Chuviridae-HMM5-115_94.0-ORF3
+seq158	>tsa-HAEP01029915.1 TSA: Proasellus assaforensis, contig comp38291_c0_seq1, transcribed RNA sequence-table6-Chuviridae-HMM1-171_97.0-ORF5
+seq159	>tsa-HAEP01029916.1 TSA: Proasellus assaforensis, contig comp38291_c0_seq2, transcribed RNA sequence-table6-Chuviridae-HMM1-337_58.0-ORF18
+seq160	>tsa-HAEP01029917.1 TSA: Proasellus assaforensis, contig comp38291_c0_seq3, transcribed RNA sequence-table4-Chuviridae-HMM1-337_49.0-ORF23
+seq161	>tsa-HAEP01088927.1 TSA: Proasellus assaforensis, contig comp1119522_c0_seq1, transcribed RNA sequence-table1-Chuviridae-HMM15-79_80.0-ORF1
+seq162	>tsa-HAES01082265.1 (REVERSE SENSE) TSA: Proasellus cavaticus, contig comp63166_c0_seq1, transcribed RNA sequence-table4-Chuviridae-HMM565-1045_21.0-ORF194
+seq163	>tsa-HAES01082266.1 (REVERSE SENSE) TSA: Proasellus cavaticus, contig comp63166_c0_seq2, transcribed RNA sequence-table4-Chuviridae-HMM565-1045_25.0-ORF161
+seq164	>tsa-HAES01084808.1 TSA: Proasellus cavaticus, contig comp63312_c1_seq1, transcribed RNA sequence-table6-Chuviridae-HMM469-946_22.0-ORF66
+seq165	>tsa-HAEU01000187.1 TSA: Proasellus coiffaiti, contig comp190_c0_seq1, transcribed RNA sequence-table1-Chuviridae-HMM1-80_97.0-ORF2
+seq166	>tsa-HAEU01000188.1 TSA: Proasellus coiffaiti, contig comp190_c1_seq1, transcribed RNA sequence-table1-Chuviridae-HMM1-122_97.0-ORF1
+seq167	>tsa-HAEU01067700.1 TSA: Proasellus coiffaiti, contig comp62585_c1_seq2, transcribed RNA sequence-table6-Chuviridae-HMM578-939_38.0-ORF28
+seq168	>tsa-HAEU01067701.1 TSA: Proasellus coiffaiti, contig comp62585_c1_seq3, transcribed RNA sequence-table6-Chuviridae-HMM578-1058_21.0-ORF70
+seq169	>tsa-HAET01024430.1 TSA: Proasellus coxalis, contig comp32296_c0_seq1, transcribed RNA sequence-table1-Chuviridae-HMM1-170_98.0-ORF3
+seq170	>tsa-HAET01024431.1 (REVERSE SENSE) TSA: Proasellus coxalis, contig comp32296_c0_seq2, transcribed RNA sequence-table1-Chuviridae-HMM3-171_36.0-ORF36
+seq171	>tsa-HAEW01019924.1 TSA: Proasellus ebrensis, contig c20545_g1_i1, transcribed RNA sequence-table1-Chuviridae-HMM40-165_75.0-ORF4
+seq172	>tsa-HAEW01049184.1 (REVERSE SENSE) TSA: Proasellus ebrensis, contig c35253_g1_i1, transcribed RNA sequence-table1-Chuviridae-HMM1-176_99.0-ORF18
+seq173	>tsa-HAEW01049186.1 TSA: Proasellus ebrensis, contig c35253_g2_i2, transcribed RNA sequence-table1-Chuviridae-HMM8-159_20.0-ORF23
+seq174	>tsa-HAEW01049191.1 TSA: Proasellus ebrensis, contig c35253_g2_i7, transcribed RNA sequence-table1-Chuviridae-HMM2-192_24.0-ORF25
+seq175	>tsa-HAEX01036705.1 (REVERSE SENSE) TSA: Proasellus grafi, contig c28539_g1_i1, transcribed RNA sequence-table6-Chuviridae-HMM301-778_24.0-ORF161
+seq176	>tsa-HAEX01036707.1 (REVERSE SENSE) TSA: Proasellus grafi, contig c28539_g1_i3, transcribed RNA sequence-table4-Chuviridae-HMM301-778_55.0-ORF71
+seq177	>tsa-HAFD01003998.1 TSA: Proasellus margalefi, contig comp7963_c0_seq1, transcribed RNA sequence-table1-Chuviridae-HMM1-145_99.0-ORF5
+seq178	>tsa-HAFD01005662.1 (REVERSE SENSE) TSA: Proasellus margalefi, contig comp11254_c0_seq1, transcribed RNA sequence-table1-Chuviridae-HMM1-88_98.0-ORF8
+seq179	>tsa-HAFD01052288.1 TSA: Proasellus margalefi, contig comp52106_c0_seq3, transcribed RNA sequence-table1-Chuviridae-HMM140-242_41.0-ORF9
+seq180	>tsa-HAFD01052289.1 TSA: Proasellus margalefi, contig comp52106_c0_seq4, transcribed RNA sequence-table1-Chuviridae-HMM73-175_56.0-ORF7
+seq181	>tsa-HAFD01052292.1 TSA: Proasellus margalefi, contig comp52106_c0_seq7, transcribed RNA sequence-table1-Chuviridae-HMM5-253_96.0-ORF10
+seq182	>tsa-HAFD01052293.1 TSA: Proasellus margalefi, contig comp52106_c0_seq8, transcribed RNA sequence-table1-Chuviridae-HMM1-91_26.0-ORF12
+seq183	>tsa-HAFD01052296.1 TSA: Proasellus margalefi, contig comp52106_c0_seq11, transcribed RNA sequence-table1-Chuviridae-HMM1-80_82.0-ORF4
+seq184	>tsa-HAFD01052297.1 TSA: Proasellus margalefi, contig comp52106_c0_seq12, transcribed RNA sequence-table1-Chuviridae-HMM1-91_50.0-ORF6
+seq185	>tsa-HAFD01052298.1 TSA: Proasellus margalefi, contig comp52106_c0_seq13, transcribed RNA sequence-table6-Chuviridae-HMM49-130_60.0-ORF12
+seq186	>tsa-HAFD01084786.1 TSA: Proasellus margalefi, contig comp444006_c0_seq1, transcribed RNA sequence-table1-Chuviridae-HMM272-349_21.0-ORF10
+seq187	>tsa-HAFD01089715.1 TSA: Proasellus margalefi, contig comp596283_c0_seq1, transcribed RNA sequence-table1-Chuviridae-HMM1-122_99.0-ORF1
+seq188	>tsa-HAFD01091732.1 (REVERSE SENSE) TSA: Proasellus margalefi, contig comp683199_c0_seq1, transcribed RNA sequence-table1-Chuviridae-HMM3-68_95.0-ORF5
+seq189	>tsa-HAFD01093703.1 TSA: Proasellus margalefi, contig comp803116_c0_seq1, transcribed RNA sequence-table1-Chuviridae-HMM1-133_80.0-ORF7
+seq190	>tsa-HAFD01093881.1 (REVERSE SENSE) TSA: Proasellus margalefi, contig comp822506_c0_seq1, transcribed RNA sequence-table6-Chuviridae-HMM1-80_97.0-ORF7
+seq191	>tsa-HAFD01094162.1 TSA: Proasellus margalefi, contig comp833415_c0_seq1, transcribed RNA sequence-table1-Chuviridae-HMM4-107_96.0-ORF3
+seq192	>tsa-HAFE01028082.1 (REVERSE SENSE) TSA: Proasellus meridianus, contig comp50795_c0_seq1, transcribed RNA sequence-table1-Chuviridae-HMM303-499_38.0-ORF39
+seq193	>tsa-HAFE01058214.1 TSA: Proasellus meridianus, contig comp67021_c0_seq1, transcribed RNA sequence-table4-Chuviridae-HMM143-620_26.0-ORF43
+seq194	>tsa-HAFE01058215.1 TSA: Proasellus meridianus, contig comp67021_c0_seq2, transcribed RNA sequence-table6-Chuviridae-HMM547-1024_21.0-ORF67
+seq195	>tsa-HAFE01096493.1 TSA: Proasellus meridianus, contig comp441847_c0_seq1, transcribed RNA sequence-table1-Chuviridae-HMM6-84_90.0-ORF4
+seq196	>tsa-HAFE01118645.1 (REVERSE SENSE) TSA: Proasellus meridianus, contig comp782894_c0_seq1, transcribed RNA sequence-table1-Chuviridae-HMM1-101_94.0-ORF10
+seq197	>tsa-HAFG01113764.1 TSA: Proasellus parvulus, contig comp90466_c0_seq1, transcribed RNA sequence-table4-Chuviridae-HMM1-181_13.0-ORF48
+seq198	>tsa-HAFG01113765.1 (REVERSE SENSE) TSA: Proasellus parvulus, contig comp90466_c1_seq1, transcribed RNA sequence-table6-Chuviridae-HMM524-826_36.0-ORF81
+seq199	>tsa-HAFH01051628.1 TSA: Proasellus racovitzai, contig comp48837_c0_seq1, transcribed RNA sequence-table6-Chuviridae-HMM536-1015_21.0-ORF74
+seq200	>tsa-HAFI01049773.1 (REVERSE SENSE) TSA: Proasellus rectus, contig comp64675_c0_seq1, transcribed RNA sequence-table1-Chuviridae-HMM3-171_32.0-ORF40
+seq201	>tsa-HAFI01049774.1 TSA: Proasellus rectus, contig comp64675_c1_seq1, transcribed RNA sequence-table1-Chuviridae-HMM1-253_99.0-ORF5
+seq202	>tsa-HAFI01049775.1 TSA: Proasellus rectus, contig comp64675_c2_seq1, transcribed RNA sequence-table6-Chuviridae-HMM69-121_42.0-ORF4
+seq203	>tsa-HAFJ01068385.1 TSA: Proasellus solanasi, contig comp61374_c1_seq1, transcribed RNA sequence-table4-Chuviridae-HMM397-876_23.0-ORF74
+seq204	>tsa-HAFJ01069340.1 TSA: Proasellus solanasi, contig comp61448_c0_seq1, transcribed RNA sequence-table6-Chuviridae-HMM581-1058_21.0-ORF76
+seq205	>tsa-HAFJ01074206.1 TSA: Proasellus solanasi, contig comp265704_c0_seq1, transcribed RNA sequence-table1-Chuviridae-HMM1-112_94.0-ORF3
+seq206	>tsa-HAFK01031626.1 (REVERSE SENSE) TSA: Proasellus spelaeus, contig comp29080_c0_seq1, transcribed RNA sequence-table6-Chuviridae-HMM555-1032_21.0-ORF175
+seq207	>tsa-GEGF01045594.1 (REVERSE SENSE) TSA: Rhacophorus omeimontis comp189696_c0 transcribed RNA sequence-table1-Chuviridae-HMM254-627_58.0-ORF55
+seq208	>tsa-GEEZ01004532.1 (REVERSE SENSE) TSA: Rhipicephalus microplus MTc4603 transcribed RNA sequence-table4-Chuviridae-HMM15-165_90.0-ORF16
+seq209	>tsa-GEEZ01036495.1 TSA: Rhipicephalus microplus MTc39372 transcribed RNA sequence-table4-Chuviridae-HMM17-140_82.0-ORF6
+seq210	>tsa-GELJ01034703.1 (REVERSE SENSE) TSA: Rhipicephalus microplus c26734_g1_i1 transcribed RNA sequence-table1-Chuviridae-HMM1-146_98.0-ORF16
+seq211	>tsa-GELJ01064989.1 (REVERSE SENSE) TSA: Rhipicephalus microplus c57693_g1_i1 transcribed RNA sequence-table1-Chuviridae-HMM2-99_97.0-ORF10
+seq212	>tsa-GEEE01006270.1 TSA: Schistocephalus solidus ssol_TR113532_c0_g1_i1 transcribed RNA sequence-table6-Chuviridae-HMM509-986_22.0-ORF76
+seq213	>tsa-GEEE01008921.1 TSA: Schistocephalus solidus ssol_TR126156_c0_g1_i1 transcribed RNA sequence-table4-Chuviridae-HMM508-985_28.0-ORF65
+seq214	>tsa-GEXF01001060.1 (REVERSE SENSE) TSA: Sepioloidea lineolata comp1216_c0_seq1 transcribed RNA sequence-table1-Chuviridae-HMM1-116_99.0-ORF11
+seq215	>tsa-GEXF01001061.1 TSA: Sepioloidea lineolata comp1216_c1_seq1 transcribed RNA sequence-table1-Chuviridae-HMM4-79_94.0-ORF3
+seq216	>tsa-GEXF01088723.1 (REVERSE SENSE) TSA: Sepioloidea lineolata comp70329_c0_seq1 transcribed RNA sequence-table1-Chuviridae-HMM6-83_92.0-ORF4
+seq217	>tsa-GEXF01098533.1 (REVERSE SENSE) TSA: Sepioloidea lineolata comp80808_c0_seq1 transcribed RNA sequence-table1-Chuviridae-HMM2-140_94.0-ORF13
+seq218	>tsa-GAZS01053525.1 TSA: Acanthoscurria geniculata L21541_T1/1_Turantula_WB transcribed RNA sequence-table4-Chuviridae-HMM1-175_99.0-ORF8
+seq219	>tsa-GEOV01077227.1 (REVERSE SENSE) TSA: Tegeticula yuccasella TR70698-c0_g12_i1 transcribed RNA sequence-table4-Chuviridae-HMM32-192_71.0-ORF24
+seq220	>tsa-GASQ02007740.1 TSA: Tetrix subulata C126040_a_5_0_l_2220 transcribed RNA sequence-table4-Chuviridae-HMM109-584_64.0-ORF27
+seq221	>tsa-GASQ02008813.1 TSA: Tetrix subulata C60091_a_10_0_l_203 transcribed RNA sequence-table4-Chuviridae-HMM4-65_91.0-ORF3
+seq222	>tsa-GAWX02025782.1 TSA: Trialeurodes vaporariorum C182698_a_11_0_l_3326 transcribed RNA sequence-table4-Chuviridae-HMM425-902_43.0-ORF45
+seq223	>tsa-GECJ01034693.1 (REVERSE SENSE) TSA: Trichinella pseudospiralis Seq97284 transcribed RNA sequence-table6-Chuviridae-HMM39-275_33.0-ORF75
+seq224	>tsa-GBUQ01014714.1 TSA: Trichopria drosophilae C61166_a_45_0_l_5211 transcribed RNA sequence-table6-Chuviridae-HMM38-515_27.0-ORF56
+seq225	>tsa-GBRM01100443.1 TSA: Elysia timida Eti022653_seq1 transcribed RNA sequence-table6-Chuviridae-HMM51-215_18.0-ORF98
+seq226	>tsa-GBRM01100444.1 TSA: Elysia timida Eti022653_seq2 transcribed RNA sequence-table6-Chuviridae-HMM51-215_18.0-ORF98
+seq227	>tsa-GAYA02017338.1 (REVERSE SENSE) TSA: Zorotypus caudelli C259414_a_3_0_l_298 transcribed RNA sequence-table6-Chuviridae-HMM6-98_92.0-ORF12

@@ -1,0 +1,82 @@
+seq1	>ref-NC_003412.1 Euprosterna elaeasa virus, complete genome-table6-Permutotetraviridae-HMM123-608_36.0-ORF34
+seq2	>ref-NC_012958.1 Drosophila A virus, complete genome-table6-Permutotetraviridae-HMM169-636_38.0-ORF32
+seq3	>ref-NC_028381.1 Aphis glycines virus 2 isolate AGV 1-IA replicase, putative readthrough protein, and coat protein genes, complete cds-table4-Permutotetraviridae-HMM159-631_39.0-ORF31
+seq4	>ref-NC_028489.1 Daeseongdong virus 2 strain A12.2549/ROK/2012, complete genome-table6-Permutotetraviridae-HMM227-632_25.0-ORF39
+seq5	>ref-NC_030845.1 Egaro virus RNA-dependent RNA polymerase and coat protein genes, complete cds-table6-Permutotetraviridae-HMM79-552_46.0-ORF37
+seq6	>ref-NC_032122.1 Beihai permutotetra-like virus 2 strain HOU234589 RdRp and putative capsid protein genes, complete cds-table6-Permutotetraviridae-HMM148-599_45.0-ORF34
+seq7	>ref-NC_033196.1 Sanxia water strider virus 19 strain SXSSP2568 RdRp and hypothetical protein genes, complete cds-table4-Permutotetraviridae-HMM172-641_34.0-ORF30
+seq8	>ref-NC_033188.1 Sanxia permutotetra-like virus 1 strain SXSSP2461 RdRp and hypothetical protein genes, complete cds-table6-Permutotetraviridae-HMM169-631_41.0-ORF31
+seq9	>ref-NC_033078.1 Beihai sphaeromadae virus 4 strain BHTSS17969 RdRp and putative capsid protein genes, complete cds-table6-Permutotetraviridae-HMM228-625_29.0-ORF44
+seq10	>ref-NC_033114.1 Hubei permutotetra-like virus 6 strain QCM123521 RdRp and putative capsid protein genes, complete cds-table6-Permutotetraviridae-HMM242-655_32.0-ORF44
+seq11	>ref-NC_033121.1 Hubei permutotetra-like virus 2 strain QTM26624 RdRp, hypothetical protein 1, and hypothetical protein 2 genes, complete cds-table6-Permutotetraviridae-HMM134-603_44.0-ORF35
+seq12	>ref-NC_033132.1 Hubei permutotetra-like virus 7 strain QTM27196 RdRp and hypothetical protein genes, complete cds-table6-Permutotetraviridae-HMM211-626_33.0-ORF31
+seq13	>ref-NC_033179.1 Hubei permutotetra-like virus 3 strain spider127212 RdRp and hypothetical protein genes, complete cds-table6-Permutotetraviridae-HMM173-634_28.0-ORF46
+seq14	>ref-NC_033105.1 Hubei permutotetra-like virus 1 strain mosZJ32939 RdRp, hypothetical protein 1, and hypothetical protein 2 genes, complete cds-table6-Permutotetraviridae-HMM177-651_43.0-ORF33
+seq15	>ref-NC_033251.1 Hubei permutotetra-like virus 9 strain ZCM21318 RdRp and hypothetical protein genes, complete cds-table4-Permutotetraviridae-HMM175-647_34.0-ORF26
+seq16	>ref-NC_033233.1 Hubei permutotetra-like virus 5 strain WHYY24053 RdRp and hypothetical protein genes, complete cds-table6-Permutotetraviridae-HMM156-620_42.0-ORF36
+seq17	>ref-NC_033097.1 Hubei permutotetra-like virus 11 strain mosHB234479 RdRp and putative capsid protein genes, complete cds-table6-Permutotetraviridae-HMM166-634_29.0-ORF55
+seq18	>ref-NC_033216.1 Hubei permutotetra-like virus 8 strain WHSWHC54546 RdRp, putative capsid protein, and hypothetical protein genes, complete cds-table4-Permutotetraviridae-HMM150-655_40.0-ORF42
+seq19	>ref-NC_033140.1 Hubei permutotetra-like virus 4 strain QTM26287 RdRp, putative capsid protein, and hypothetical protein genes, complete cds-table4-Permutotetraviridae-HMM139-611_41.0-ORF35
+seq20	>ref-NC_033245.1 Hubei permutotetra-like virus 10 strain ZCM16232 RdRp and putative capsid protein genes, complete cds-table6-Permutotetraviridae-HMM142-598_45.0-ORF34
+seq21	>ref-NC_033470.1 Wuhan house centipede virus 9 strain arthropodmix13921 hypothetical protein gene, complete cds-table6-Permutotetraviridae-HMM176-651_44.0-ORF29
+seq22	>nrnt-KX883447 Beihai permutotetra-like virus 1 strain SCJXSX31686 RdRp gene, partial cds.-table6-Permutotetraviridae-HMM251-665_38.0-ORF30
+seq23	>nrnt-KX883439 Shuangao permutotetra-like virus 1 strain insectZJ82042 RdRp gene, partial cds.-table1-Permutotetraviridae-HMM146-610_66.0-ORF21
+seq24	>nrnt-KX580893 Defiwi virus RNA-dependent RNA polymerase gene, partial cds.-table4-Permutotetraviridae-HMM138-584_41.0-ORF33
+seq25	>nrnt-KX580892 Niehaus virus polyprotein gene, partial cds.-table4-Permutotetraviridae-HMM118-579_31.0-ORF42
+seq26	>nrnt-MF094134 Sarawak virus strain SWK-M26, complete genome.-table1-Permutotetraviridae-HMM150-607_43.0-ORF40
+seq27	>nrnt-AF282930 Thosea asigna virus RNA-dependent RNA polymerase (RdRp) gene, complete cds; and capsid protein gene, partial cds.-table4-Permutotetraviridae-HMM136-619_37.0-ORF48
+seq28	>nrnt-KP714070 Newfield virus putative replicase gene, complete cds.-table6-Permutotetraviridae-HMM159-622_44.0-ORF38
+seq29	>tsa-GAYY02035503.1 TSA: Acanthocasuarina muellerianae s3338_L_5923_1_a_92_4_l_1646 transcribed RNA sequence-table6-Permutotetraviridae-HMM242-548_55.0-ORF11
+seq30	>tsa-GAYY02037914.1 TSA: Acanthocasuarina muellerianae s5520_L_11777_0_a_31_7_l_444 transcribed RNA sequence-table1-Permutotetraviridae-HMM3-146_97.0-ORF5
+seq31	>tsa-GBSU01004473.1 TSA: Aphis glycines contig_4586 transcribed RNA sequence-table4-Permutotetraviridae-HMM117-589_42.0-ORF30
+seq32	>tsa-GBSU01004474.1 TSA: Aphis glycines contig_4587 transcribed RNA sequence-table4-Permutotetraviridae-HMM117-589_41.0-ORF30
+seq33	>tsa-GARB01000581.1 (REVERSE SENSE) TSA: Athetis lepigone T3_582 transcribed RNA sequence-table6-Permutotetraviridae-HMM155-622_31.0-ORF74
+seq34	>tsa-GARC01021157.1 (REVERSE SENSE) TSA: Athetis lepigone T2_22354 transcribed RNA sequence-table6-Permutotetraviridae-HMM169-636_31.0-ORF75
+seq35	>tsa-GARG01028760.1 TSA: Athetis lepigone T1_29540 transcribed RNA sequence-table4-Permutotetraviridae-HMM5-405_31.0-ORF30
+seq36	>tsa-GAKP01002870.1 TSA: Bactrocera dorsalis comp22454_c0_seq1 transcribed RNA sequence-table6-Permutotetraviridae-HMM181-647_41.0-ORF38
+seq37	>tsa-GAPE01022247.1 (REVERSE SENSE) TSA: Meligethes aeneus Locus_5181_Contig1 transcribed RNA sequence-table6-Permutotetraviridae-HMM50-515_44.0-ORF62
+seq38	>tsa-GFBD01062793.1 TSA: Camponotus fellah comp66352_c0_seq1 transcribed RNA sequence-table6-Permutotetraviridae-HMM134-607_37.0-ORF40
+seq39	>tsa-IABS01034532.1 TSA: Crematogaster osakensis mRNA, contig: comp70045_c0_seq1.m.240836, transcribed RNA sequence-table6-Permutotetraviridae-HMM154-605_45.0-ORF37
+seq40	>tsa-GBLP01002581.1 (REVERSE SENSE) TSA: Diglyphus isaea C110049_a_4_0_l_1897 transcribed RNA sequence-table1-Permutotetraviridae-HMM90-553_73.0-ORF43
+seq41	>tsa-GFBH01042206.1 (REVERSE SENSE) TSA: Eogystia hippophaecolus c33782.graph_c0 transcribed RNA sequence-table4-Permutotetraviridae-HMM125-614_32.0-ORF97
+seq42	>tsa-GAXW02039336.1 (REVERSE SENSE) TSA: Euroleon nostras s9201_L_36118_0_a_43_9_l_4239 transcribed RNA sequence-table6-Permutotetraviridae-HMM161-614_44.0-ORF83
+seq43	>tsa-GBYB01003435.1 TSA: Fopius arisanus c22924_g1_i1 transcribed RNA sequence-table4-Permutotetraviridae-HMM214-642_27.0-ORF46
+seq44	>tsa-GAJC01011263.1 (REVERSE SENSE) TSA: Leptopilina heterotoma comp1376_c0_seq1 transcribed RNA sequence-table6-Permutotetraviridae-HMM156-622_44.0-ORF100
+seq45	>tsa-GBHO01007127.1 TSA: Lygus hesperus comp33313_c0_seq1 transcribed RNA sequence-table4-Permutotetraviridae-HMM181-668_37.0-ORF31
+seq46	>tsa-GBRD01015027.1 TSA: Lygus hesperus comp27487_c0_seq1 transcribed RNA sequence-table4-Permutotetraviridae-HMM178-665_37.0-ORF33
+seq47	>tsa-GDHC01020870.1 TSA: Lygus hesperus c85840_g1_i1 transcribed RNA sequence-table6-Permutotetraviridae-HMM139-626_37.0-ORF31
+seq48	>tsa-GATC02021657.1 (REVERSE SENSE) TSA: Nemophora degeerella C83886_a_3_0_l_228 transcribed RNA sequence-table1-Permutotetraviridae-HMM1-75_98.0-ORF9
+seq49	>tsa-GBGD01000213.1 TSA: Panstrongylus megistus Pm-24015 mRNA sequence-table4-Permutotetraviridae-HMM141-613_42.0-ORF35
+seq50	>tsa-GFUB01124046.1 (REVERSE SENSE) TSA: Podisus maculiventris TRINITY_DN69362_c0_g1_i1 transcribed RNA sequence-table4-Permutotetraviridae-HMM146-620_35.0-ORF89
+seq51	>tsa-GDKW01003875.1 TSA: Rhodnius neglectus Rn-13797 mRNA sequence-table1-Permutotetraviridae-HMM135-515_73.0-ORF21
+seq52	>tsa-GECK01053785.1 (REVERSE SENSE) TSA: Rhodnius prolixus Rpro_Trinity_comp_3565_c0_seq1 transcribed RNA sequence-table6-Permutotetraviridae-HMM186-644_33.0-ORF84
+seq53	>tsa-GECK01083756.1 (REVERSE SENSE) TSA: Rhodnius prolixus Rpro_Trinity_comp_54724_c0_seq1 transcribed RNA sequence-table1-Permutotetraviridae-HMM1-336_93.0-ORF35
+seq54	>tsa-GECK01085327.1 (REVERSE SENSE) TSA: Rhodnius prolixus Rpro_Trinity_comp_5615_c0_seq1 transcribed RNA sequence-table1-Permutotetraviridae-HMM7-271_30.0-ORF79
+seq55	>tsa-GECK01104920.1 TSA: Rhodnius prolixus Rpro_Trinity_comp_73136_c0_seq1 transcribed RNA sequence-table1-Permutotetraviridae-HMM32-113_71.0-ORF5
+seq56	>tsa-GECK01119981.1 (REVERSE SENSE) TSA: Rhodnius prolixus Rpro_Trinity_comp_8838_c0_seq1 transcribed RNA sequence-table6-Permutotetraviridae-HMM169-369_53.0-ORF25
+seq57	>tsa-GECK01121149.1 TSA: Rhodnius prolixus Rpro_Trinity_comp_9053_c0_seq1 transcribed RNA sequence-table6-Permutotetraviridae-HMM170-653_34.0-ORF41
+seq58	>tsa-GDUJ01036132.1 TSA: Talitrus saltator comp80543_c0_seq1 transcribed RNA sequence-table6-Permutotetraviridae-HMM232-652_40.0-ORF31
+seq59	>tsa-GEMB01003160.1 TSA: Triatoma infestans Transcript_3166 transcribed RNA sequence-table4-Permutotetraviridae-HMM18-434_62.0-ORF21
+seq60	>tsa-GEMB01003161.1 TSA: Triatoma infestans Transcript_3167 transcribed RNA sequence-table4-Permutotetraviridae-HMM193-570_46.0-ORF21
+seq61	>tsa-GEMB01006930.1 TSA: Triatoma infestans Transcript_6962 transcribed RNA sequence-table4-Permutotetraviridae-HMM4-124_75.0-ORF4
+seq62	>tsa-GFMC01004505.1 (REVERSE SENSE) TSA: Triatoma infestans TINF_isotig04784 transcribed RNA sequence-table4-Permutotetraviridae-HMM4-95_95.0-ORF9
+seq63	>tsa-GEMB01006931.1 TSA: Triatoma infestans Transcript_6963 transcribed RNA sequence-table6-Permutotetraviridae-HMM33-164_77.0-ORF5
+seq64	>ref-NC_004169.1 Drosophila x virus segment B, complete sequence-table6-Birnaviridae-HMM349-720_34.0-ORF33
+seq65	>ref-NC_004176.1 Yellowtail ascites virus segment B, complete sequence-table6-Birnaviridae-HMM185-684_54.0-ORF26
+seq66	>ref-NC_005983.1 Blotched snakehead virus, complete genome-table6-Birnaviridae-HMM186-685_54.0-ORF27
+seq67	>ref-NC_004179.1 Infectious bursal disease virus segment B, complete sequence-table6-Birnaviridae-HMM178-682_56.0-ORF28
+seq68	>ref-NC_001916.1 Infectious pancreatic necrosis virus segment B, complete sequence-table6-Birnaviridae-HMM192-691_54.0-ORF32
+seq69	>ref-NC_016517.1 Espirito Santo virus segment B, complete genome-table4-Birnaviridae-HMM356-705_33.0-ORF41
+seq70	>ref-NC_028253.1 Tasmanian aquabirnavirus isolate TABV 98-00208 segment B, complete sequence-table6-Birnaviridae-HMM173-672_57.0-ORF28
+seq71	>ref-NC_030244.1 Victorian trout aquabirnavirus isolate VTAB 10-04677 segment B, complete sequence-table6-Birnaviridae-HMM173-672_57.0-ORF29
+seq72	>nrnt-MG599938 Wenling japanese topeshark birnavirus strain RBCSG7740 RNA-dependent RNA polymerase gene, complete cds.-table6-Birnaviridae-HMM183-675_56.0-ORF20
+seq73	>nrnt-KY548520 Infectious pancreatic necrosis virus isolate 94/01 VP1 gene, complete cds.-table6-Birnaviridae-HMM192-690_54.0-ORF29
+seq74	>nrnt-KU754528 Eridge virus segment B putative replicase gene, complete cds.-table6-Birnaviridae-HMM346-715_34.0-ORF34
+seq75	>nrnt-FM995221 Rotifer birnavirus strain Palavas segment B, genomic RNA.-table4-Birnaviridae-HMM185-717_49.0-ORF38
+seq76	>nrnt-GQ342963 Drosophila melanogaster birnavirus SW-2009a strain DBV segment B, complete sequence.-table6-Birnaviridae-HMM192-714_51.0-ORF32
+seq77	>nrnt-AJ920336 Tellina virus 1 gene for RNA-dependant RNA polymerase, genomic RNA.-table4-Birnaviridae-HMM191-721_56.0-ORF26
+seq78	>nrnt-KX883001 Hubei birna-like virus strain SZmix18962 RNA-dependent RNA polymerase gene, complete cds.-table4-Birnaviridae-HMM184-696_53.0-ORF8
+seq79	>nrnt-KX883000 Jingmen birna-like virus strain JMYJCC68862 RNA-dependent RNA polymerase gene, complete cds.-table6-Birnaviridae-HMM357-697_34.0-ORF26
+seq80	>tsa-GBGO01030594.1 TSA: Eurytemora affinis comp41031_c0_seq1 transcribed RNA sequence-table6-Birnaviridae-HMM201-703_44.0-ORF41
+seq81	>tsa-GCAC01001516.1 TSA: Panonychus ulmi Locus_00184 transcribed RNA sequence-table4-Birnaviridae-HMM201-705_60.0-ORF29
+seq82	>tsa-GCAC01001531.1 TSA: Panonychus ulmi Locus_00185 transcribed RNA sequence-table4-Birnaviridae-HMM201-705_60.0-ORF29

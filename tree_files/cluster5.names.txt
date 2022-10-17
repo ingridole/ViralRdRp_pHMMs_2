@@ -1,0 +1,558 @@
+seq1	>ref-NC_004421.1 Aichivirus B genomic RNA, complete genome, strain:U-1-table4-Picornaviridae-HMM2064-2518_17.0-ORF49
+seq2	>ref-NC_006553.1 Avian sapelovirus, complete genome-table6-Picornaviridae-HMM2093-2543_17.0-ORF90
+seq3	>ref-NC_004451.1 Simian sapelovirus 1, complete genome-table6-Picornaviridae-HMM2025-2475_18.0-ORF84
+seq4	>ref-NC_003985.1 Porcine teschovirus 1, complete genome-table6-Picornaviridae-HMM1860-2299_19.0-ORF79
+seq5	>ref-NC_003983.1 Equine rhinitis B virus 1, complete genome-table6-Picornaviridae-HMM2249-2686_16.0-ORF95
+seq6	>ref-NC_003982.1 Equine rhinitis A virus, complete genome-table6-Picornaviridae-HMM1822-2272_19.0-ORF81
+seq7	>ref-NC_001489.1 Hepatitis A virus, complete genome-table6-Picornaviridae-HMM1779-2251_20.0-ORF90
+seq8	>ref-NC_003976.2 Ljungan virus, complete genome-table6-Picornaviridae-HMM1848-2302_19.0-ORF90
+seq9	>ref-NC_002058.3 Poliovirus, complete genome-table6-Picornaviridae-HMM1784-2229_19.0-ORF73
+seq10	>ref-NC_001366.1 Theilovirus, complete genome-table4-Picornaviridae-HMM1961-2410_18.0-ORF71
+seq11	>ref-NC_001430.1 Human enterovirus D, complete genome-table6-Picornaviridae-HMM1776-2220_19.0-ORF81
+seq12	>ref-NC_001490.1 Human rhinovirus 14, complete genome-table6-Picornaviridae-HMM1769-2213_19.0-ORF76
+seq13	>ref-NC_001472.1 Human enterovirus B, complete genome-table6-Picornaviridae-HMM1783-2229_19.0-ORF81
+seq14	>ref-NC_001897.1 Human parechovirus, genome-table6-Picornaviridae-HMM1841-2295_19.0-ORF84
+seq15	>ref-NC_003988.1 Simian enterovirus A, complete genome-table4-Picornaviridae-HMM1784-2225_19.0-ORF91
+seq16	>ref-NC_001918.1 Aichi virus, complete genome-table6-Picornaviridae-HMM2015-2468_18.0-ORF56
+seq17	>ref-NC_001612.1 Human enterovirus A, complete genome-table6-Picornaviridae-HMM1796-2241_19.0-ORF77
+seq18	>ref-NC_001617.1 Human rhinovirus 89, complete genome-table6-Picornaviridae-HMM1735-2179_20.0-ORF72
+seq19	>ref-NC_001479.1 Encephalomyocarditis virus, complete genome-table6-Picornaviridae-HMM1957-2404_18.0-ORF80
+seq20	>ref-NC_001859.1 Bovine enterovirus, complete genome-table4-Picornaviridae-HMM1759-2203_20.0-ORF76
+seq21	>ref-NC_003990.1 Avian encephalomyelitis virus, complete genome-table6-Picornaviridae-HMM1739-2201_20.0-ORF79
+seq22	>ref-NC_004004.1 Foot-and-mouth disease virus - type O, complete genome-table6-Picornaviridae-HMM1899-2352_19.0-ORF94
+seq23	>ref-NC_004441.1 Porcine enterovirus 9 strain UKG/410/73 polyprotein gene, complete cds-table6-Picornaviridae-HMM1763-2208_19.0-ORF79
+seq24	>ref-NC_003987.1 Porcine sapelovirus 1, complete genome-table4-Picornaviridae-HMM1890-2338_19.0-ORF82
+seq25	>ref-NC_008714.1 Possum enterovirus W1, complete genome-table6-Picornaviridae-HMM1730-2175_20.0-ORF80
+seq26	>ref-NC_008250.2 Duck hepatitis A virus 1 strain R85952, complete genome-table6-Picornaviridae-HMM1846-2279_18.0-ORF77
+seq27	>ref-NC_009448.2 Saffold virus, complete genome-table4-Picornaviridae-HMM1897-2346_18.0-ORF88
+seq28	>ref-NC_009996.1 Human rhinovirus C, complete genome-table6-Picornaviridae-HMM1768-2210_19.0-ORF69
+seq29	>ref-NC_009891.1 Seal picornavirus type 1, complete genome-table6-Picornaviridae-HMM1671-2106_20.0-ORF63
+seq30	>ref-NC_010415.1 Enterovirus J strain 1631, complete genome-table6-Picornaviridae-HMM1814-2260_19.0-ORF89
+seq31	>ref-NC_010810.1 Human TMEV-like cardiovirus, complete genome-table4-Picornaviridae-HMM1894-2343_18.0-ORF90
+seq32	>ref-NC_010354.1 Bovine rhinitis B virus, complete genome-table4-Picornaviridae-HMM1874-2327_19.0-ORF89
+seq33	>ref-NC_011829.1 Porcine kobuvirus swine/S-1-HUN/2007/Hungary, complete genome-table6-Picornaviridae-HMM2067-2520_17.0-ORF72
+seq34	>ref-NC_011349.1 Seneca valley virus, complete genome-table6-Picornaviridae-HMM1747-2196_20.0-ORF75
+seq35	>ref-NC_013695.1 Enterovirus J strain N203, complete genome-table6-Picornaviridae-HMM1778-2224_19.0-ORF82
+seq36	>ref-NC_012801.1 Human cosavirus B1, complete genome-table6-Picornaviridae-HMM1711-2160_20.0-ORF85
+seq37	>ref-NC_012986.1 Salivirus A isolate 02394-01, complete genome-table6-Picornaviridae-HMM1993-2444_18.0-ORF66
+seq38	>ref-NC_012800.1 Cosavirus A strain HCoSV-A1 polyprotein gene, complete cds-table6-Picornaviridae-HMM1772-2221_19.0-ORF80
+seq39	>ref-NC_012798.1 Human cosavirus E1, complete genome-table6-Picornaviridae-HMM1709-2158_20.0-ORF65
+seq40	>ref-NC_012802.1 Human cosavirus D1, complete genome-table6-Picornaviridae-HMM1836-2284_19.0-ORF82
+seq41	>ref-NC_012957.1 Salivirus NG-J1, complete genome-table6-Picornaviridae-HMM1997-2449_18.0-ORF62
+seq42	>ref-NC_014412.1 Turdivirus 2, complete genome-table6-Picornaviridae-HMM1818-2272_19.0-ORF81
+seq43	>ref-NC_014413.1 Turdivirus 3, complete genome-table6-Picornaviridae-HMM1891-2346_19.0-ORF79
+seq44	>ref-NC_014411.1 Turdivirus 1, complete genome-table6-Picornaviridae-HMM2104-2564_17.0-ORF74
+seq45	>ref-NC_015941.1 Bat picornavirus 2, complete genome-table6-Picornaviridae-HMM1952-2414_18.0-ORF80
+seq46	>ref-NC_015626.1 Pigeon picornavirus B, complete genome-table6-Picornaviridae-HMM1979-2421_18.0-ORF80
+seq47	>ref-NC_015934.1 Bat picornavirus 3, complete genome-table4-Picornaviridae-HMM1896-2343_18.0-ORF69
+seq48	>ref-NC_015936.1 Mouse kobuvirus M-5/USA/2010, complete genome-table6-Picornaviridae-HMM2078-2531_17.0-ORF52
+seq49	>ref-NC_015940.1 Bat picornavirus 1, complete genome-table6-Picornaviridae-HMM1934-2393_18.0-ORF85
+seq50	>ref-NC_016156.1 Feline picornavirus, complete genome-table6-Picornaviridae-HMM1989-2436_18.0-ORF68
+seq51	>ref-NC_016964.1 Canine picornavirus, complete genome-table6-Picornaviridae-HMM2012-2460_17.0-ORF88
+seq52	>ref-NC_016403.1 Quail picornavirus QPV1/HUN/2010, complete genome-table4-Picornaviridae-HMM2030-2487_17.0-ORF92
+seq53	>ref-NC_016769.1 Porcine kobuvirus SH-W-CHN/2010/China, complete genome-table6-Picornaviridae-HMM2067-2520_17.0-ORF69
+seq54	>ref-NC_018400.1 Turkey gallivirus, complete genome-table6-Picornaviridae-HMM2035-2496_18.0-ORF87
+seq55	>ref-NC_018668.1 Bovine hungarovirus 1 strain BHUV1/2008/HUN, complete genome-table6-Picornaviridae-HMM1839-2281_19.0-ORF81
+seq56	>ref-NC_018506.1 Bluegill picornavirus isolate 04-032, complete genome-table6-Picornaviridae-HMM1923-2393_19.0-ORF92
+seq57	>ref-NC_018226.1 Swine pasivirus 1, complete genome-table6-Picornaviridae-HMM1756-2187_19.0-ORF71
+seq58	>ref-NC_021201.1 Turkey hepatitis virus 2993D polyprotein gene, complete cds-table6-Picornaviridae-HMM2358-2816_15.0-ORF88
+seq59	>ref-NC_021220.1 Enterovirus F strain BEV-261 polyprotein gene, complete cds-table6-Picornaviridae-HMM1738-2183_20.0-ORF79
+seq60	>ref-NC_021178.1 Canine picodicistrovirus strain 209, complete genome-table6-Picornaviridae-HMM968-1425_30.0-ORF90
+seq61	>ref-NC_021482.1 Sebokele virus 1 ORF1 gene for polyprotein, genomic RNA, strain 1-table4-Picornaviridae-HMM1794-2247_19.0-ORF94
+seq62	>ref-NC_022332.1 Eel picornavirus 1 strain F15/05, complete genome-table6-Picornaviridae-HMM1851-2307_19.0-ORF89
+seq63	>ref-NC_022802.1 Feline sakobuvirus A isolate FFUP1, complete genome-table4-Picornaviridae-HMM1913-2366_18.0-ORF54
+seq64	>ref-NC_023422.1 Caprine kobuvirus isolate 12Q108, complete genome-table4-Picornaviridae-HMM2080-2533_17.0-ORF42
+seq65	>ref-NC_023162.1 Carp picornavirus 1 isolate F37/06, complete genome-table4-Picornaviridae-HMM1765-2236_20.0-ORF64
+seq66	>ref-NC_023437.1 Fathead minnow picornavirus strain 09-283, complete genome-table4-Picornaviridae-HMM1813-2286_19.0-ORF76
+seq67	>ref-NC_023858.1 Melegrivirus A, complete genome-table6-Picornaviridae-HMM2361-2819_15.0-ORF96
+seq68	>ref-NC_023987.1 Mosavirus A2 strain SZAL6-MoV/2011/HUN, complete genome-table4-Picornaviridae-HMM2151-2613_17.0-ORF72
+seq69	>ref-NC_024070.1 Rosavirus 2 strain GA7403, complete genome-table6-Picornaviridae-HMM2036-2496_18.0-ORF81
+seq70	>ref-NC_023857.1 Chicken megrivirus strain chicken/CHK-IV-CHV/2013/HUN, complete genome-table4-Picornaviridae-HMM2318-2776_16.0-ORF93
+seq71	>ref-NC_023985.1 Duck picornavirus GL/12, complete genome-table6-Picornaviridae-HMM2248-2683_15.0-ORF99
+seq72	>ref-NC_023861.1 Sicinivirus 1 strain UCC001, complete genome-table4-Picornaviridae-HMM2424-2881_15.0-ORF70
+seq73	>ref-NC_024073.1 Enterovirus sp. isolate CPML_8109/08, complete genome-table6-Picornaviridae-HMM1779-2225_19.0-ORF76
+seq74	>ref-NC_023988.1 Tortoise Rafivirus A isolate UF4, complete genome-table6-Picornaviridae-HMM1902-2350_18.0-ORF77
+seq75	>ref-NC_023984.1 Human cosavirus isolate Cosavirus_Amsterdam_1994, complete genome-table6-Picornaviridae-HMM1708-2156_20.0-ORF82
+seq76	>ref-NC_024120.1 Duck megrivirus strain LY, complete genome-table6-Picornaviridae-HMM2457-2917_15.0-ORF92
+seq77	>ref-NC_024769.1 Chicken picornavirus 5 isolate 27C, complete genome-table4-Picornaviridae-HMM2422-2880_15.0-ORF88
+seq78	>ref-NC_024768.1 Chicken picornavirus 4 isolate 5C, complete genome-table6-Picornaviridae-HMM2289-2747_16.0-ORF95
+seq79	>ref-NC_024765.1 Chicken picornavirus 1 isolate 55C, complete genome-table6-Picornaviridae-HMM2213-2670_16.0-ORF55
+seq80	>ref-NC_024767.1 Chicken picornavirus 3 isolate 45C, complete genome-table6-Picornaviridae-HMM1772-2213_19.0-ORF74
+seq81	>ref-NC_024770.1 Chicken gallivirus 1 isolate 518C, complete genome-table4-Picornaviridae-HMM2037-2499_18.0-ORF83
+seq82	>ref-NC_024766.1 Chicken picornavirus 2 isolate 44C, complete genome-table4-Picornaviridae-HMM1793-2223_19.0-ORF92
+seq83	>ref-NC_025114.1 Salivirus FHB, complete genome-table6-Picornaviridae-HMM1944-2395_18.0-ORF70
+seq84	>ref-NC_025432.1 Chicken orivirus 1 strain chicken/Pf-CHK1/2013/HUN, complete genome-table6-Picornaviridae-HMM1560-1965_19.0-ORF71
+seq85	>ref-NC_025675.1 Norway rat hunnivirus isolate NrHuV/NYC-E21 polyprotein gene, complete cds-table6-Picornaviridae-HMM1883-2324_18.0-ORF90
+seq86	>ref-NC_025961.1 Cosavirus JMY-2014 isolate Cosa-CHN, complete genome-table4-Picornaviridae-HMM1729-2178_20.0-ORF77
+seq87	>ref-NC_025890.1 Tortoise picornavirus strain 14-04, complete genome-table6-Picornaviridae-HMM1809-2258_19.0-ORF65
+seq88	>ref-NC_026249.1 Bovine picornavirus isolate TCH6 polyprotein gene, complete cds-table4-Picornaviridae-HMM1850-2303_19.0-ORF49
+seq89	>ref-NC_026315.1 Lesavirus 1 isolate Mis101308/2012, complete genome-table4-Picornaviridae-HMM1815-2253_19.0-ORF85
+seq90	>ref-NC_026316.1 Lesavirus 2 isolate Nai108015/2012, complete genome-table4-Picornaviridae-HMM1782-2225_19.0-ORF89
+seq91	>ref-NC_026470.1 African bat icavirus A isolate PREDICT-06105, complete genome-table6-Picornaviridae-HMM1868-2322_19.0-ORF83
+seq92	>ref-NC_026921.1 Falcovirus A1 strain kestrel/VOVE0622/2013/HUN, complete genome-table6-Picornaviridae-HMM1906-2366_18.0-ORF81
+seq93	>ref-NC_027054.1 Porcine kobuvirus isolate JS-02a-CHN/2014/China, complete genome-table6-Picornaviridae-HMM2037-2490_18.0-ORF73
+seq94	>ref-NC_027214.1 Ampivirus A1 strain NEWT/2013/HUN, complete genome-table6-Picornaviridae-HMM2291-2806_17.0-ORF101
+seq95	>ref-NC_027818.1 Phopivirus strain NewEngland_USA/2011, complete genome-table6-Picornaviridae-HMM1823-2292_20.0-ORF88
+seq96	>ref-NC_027918.1 Kobuvirus cattle/Kagoshima-2-24-KoV/2015/JPN genomic RNA, complete genome, strain: Kagoshima-2-24-KoV/2015/JPN-table6-Picornaviridae-HMM2187-2643_17.0-ORF67
+seq97	>ref-NC_027919.1 Kobuvirus cattle/Kagoshima-1-22-KoV/2014/JPN genomic RNA, nearly complete genome, strain: Kagoshima-1-22-KoV/2014/JPN-table6-Picornaviridae-HMM2166-2621_17.0-ORF64
+seq98	>ref-NC_028366.1 Bat hepatovirus isolate M32Eidhel2010 polyprotein gene, complete cds-table6-Picornaviridae-HMM1789-2260_20.0-ORF80
+seq99	>ref-NC_028364.1 Shrew hepatovirus KS121232Sorara2012 polyprotein gene, complete cds-table4-Picornaviridae-HMM1787-2259_20.0-ORF96
+seq100	>ref-NC_028380.1 Chicken sicinivirus JSY, complete genome-table6-Picornaviridae-HMM2421-2878_15.0-ORF81
+seq101	>ref-NC_028363.1 Rodent hepatovirus RMU101637Micarv2010 polyprotein gene, complete cds-table6-Picornaviridae-HMM1843-2312_20.0-ORF73
+seq102	>ref-NC_028365.1 Hedgehog hepatovirus Igel8Erieur2014 polyprotein gene, complete cds-table4-Picornaviridae-HMM1775-2246_20.0-ORF81
+seq103	>ref-NC_028479.1 Rabbit picornavirus strain Rabbit01/2013/HUN, complete genome-table6-Picornaviridae-HMM2139-2589_17.0-ORF71
+seq104	>ref-NC_028964.1 Gallivirus Pf-CHK1/GV, complete genome-table4-Picornaviridae-HMM2038-2500_18.0-ORF76
+seq105	>ref-NC_028981.1 Tupaia hepatovirus A isolate TN1, complete genome-table6-Picornaviridae-HMM1820-2289_20.0-ORF72
+seq106	>ref-NC_028970.1 Avisivirus Pf-CHK1/AsV, complete genome-table6-Picornaviridae-HMM1734-2175_19.0-ORF74
+seq107	>ref-NC_029854.1 Yak enterovirus strain SWUN-AB001, complete genome-table6-Picornaviridae-HMM1726-2170_20.0-ORF78
+seq108	>ref-NC_029905.1 Enterovirus SEV-gx, complete genome-table6-Picornaviridae-HMM1908-2353_18.0-ORF79
+seq109	>ref-NC_030454.1 Human enterovirus strain V13-0285, partial genome-table6-Picornaviridae-HMM1789-2234_19.0-ORF77
+seq110	>ref-NC_031105.1 Rosavirus B strain RNCW0602091R polyprotein gene, complete cds-table6-Picornaviridae-HMM2029-2489_17.0-ORF82
+seq111	>ref-NC_031106.1 Rosavirus C strain RATLC11A polyprotein gene, complete cds-table6-Picornaviridae-HMM2076-2536_18.0-ORF92
+seq112	>ref-NC_031686.1 Corey virus strain UWV, complete genome-table6-Picornaviridae-HMM2403-2750_11.0-ORF87
+seq113	>ref-NC_032126.1 Livupivirus A strain newt/II-5-Pilis/2014/HUN, complete genome-table6-Picornaviridae-HMM1928-2381_18.0-ORF81
+seq114	>ref-NC_032495.1 Beihai paphia shell virus 4 strain BWBFG40859 hypothetical protein gene, complete cds-table6-Picornaviridae-HMM2394-2895_16.0-ORF110
+seq115	>ref-NC_032592.1 Beihai picorna-like virus 124 strain BHBJDX18598 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Picornaviridae-HMM1245-1717_26.0-ORF57
+seq116	>ref-NC_032591.1 Beihai picorna-like virus 50 strain BHZC37234 hypothetical protein gene, complete cds-table6-Picornaviridae-HMM1138-1500_14.0-ORF65
+seq117	>ref-NC_032627.1 Beihai picorna-like virus 106 strain BHZY60875 hypothetical protein gene, complete cds-table6-Picornaviridae-HMM1584-1913_10.0-ORF116
+seq118	>ref-NC_033157.1 Hubei picorna-like virus 58 strain SSZZ391 hypothetical protein gene, complete cds-table6-Picornaviridae-HMM1518-1932_13.0-ORF81
+seq119	>ref-NC_033107.1 Wenzhou picorna-like virus 43 strain WZSBei69573 hypothetical protein gene, complete cds-table4-Picornaviridae-HMM1698-2145_20.0-ORF86
+seq120	>ref-NC_032818.1 Wenling picorna-like virus 7 strain WLJQ102051 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Picornaviridae-HMM1136-1529_25.0-ORF34
+seq121	>ref-NC_032894.1 Shahe picorna-like virus 13 strain SHWC13556 hypothetical protein gene, complete cds-table6-Picornaviridae-HMM2127-2620_18.0-ORF91
+seq122	>ref-NC_032990.1 Hubei picorna-like virus 63 strain insectZJ97544 hypothetical protein gene, complete cds-table6-Picornaviridae-HMM1400-1807_13.0-ORF97
+seq123	>ref-NC_033026.1 Hubei picorna-like virus 52 strain QCM127295 hypothetical protein gene, complete cds-table6-Picornaviridae-HMM2419-2607_4.0-ORF120
+seq124	>ref-NC_032840.1 Biomphalaria virus 3, complete genome-table6-Picornaviridae-HMM2170-2381_7.0-ORF125
+seq125	>ref-NC_033045.1 Hubei picorna-like virus 62 strain spider133936 hypothetical protein gene, complete cds-table6-Picornaviridae-HMM1404-1810_13.0-ORF96
+seq126	>ref-NC_033695.1 Enterovirus AN12 genomic RNA, complete genome, strain: AN12-table6-Picornaviridae-HMM1744-2189_20.0-ORF82
+seq127	>ref-NC_033793.1 Goose megrivirus isolate HN56, complete genome-table6-Picornaviridae-HMM2685-3145_13.0-ORF97
+seq128	>ref-NC_033820.1 Bat sapelovirus clone Bat/CAM/Sap-P24/2013 polyprotein gene, complete cds-table6-Picornaviridae-HMM2035-2485_17.0-ORF84
+seq129	>ref-NC_033819.1 Bat crohivirus clone Bat/CAM/CroV-P25/2013 polyprotein gene, complete cds-table6-Picornaviridae-HMM1810-2256_19.0-ORF81
+seq130	>ref-NC_033818.1 Bat kunsagivirus clone Bat/CAM/KuV-P2/2013 polyprotein gene, complete cds-table6-Picornaviridae-HMM1776-2202_18.0-ORF75
+seq131	>ref-NC_034206.1 Bakunsa virus, complete genome-table6-Picornaviridae-HMM1961-2397_17.0-ORF79
+seq132	>ref-NC_034245.1 Bovine rhinovirus 1 strain SD-1, complete genome-table4-Picornaviridae-HMM1816-2269_19.0-ORF65
+seq133	>ref-NC_034267.1 Enterovirus goat/JL14, complete genome-table6-Picornaviridae-HMM1771-2216_19.0-ORF74
+seq134	>ref-NC_034381.1 Miniopterus schreibersii picornavirus 1, complete genome-table4-Picornaviridae-HMM1867-2322_19.0-ORF76
+seq135	>ref-NC_034385.1 Human cosavirus F strain PK5006 polyprotein gene, complete cds-table6-Picornaviridae-HMM1738-2187_20.0-ORF71
+seq136	>ref-NC_034453.1 Ferret parechovirus isolate MpPeV1 polyprotein gene, complete cds-table6-Picornaviridae-HMM1785-2238_20.0-ORF73
+seq137	>ref-NC_034617.1 Harrier picornavirus 1 strain harrier/MR-01/HUN/2014, complete genome-table6-Picornaviridae-HMM2066-2544_18.0-ORF87
+seq138	>ref-NC_034971.1 Canine kobuvirus isolate SMCD-59, complete genome-table6-Picornaviridae-HMM2008-2461_17.0-ORF53
+seq139	>ref-NC_035198.1 Aimelvirus 2 strain gpai002, complete genome-table4-Picornaviridae-HMM1825-2277_19.0-ORF72
+seq140	>ref-NC_035779.1 Falcon picornavirus, complete genome-table6-Picornaviridae-HMM1885-2338_19.0-ORF98
+seq141	>ref-NC_036588.1 Passerivirus sp. strain waxbill/DB01/HUN/2014, complete genome-table6-Picornaviridae-HMM2242-2701_16.0-ORF103
+seq142	>nrnt-AP014892 Diatom colony associated dsRNA virus 2 genomic RNA, complete genome.-table6-Picornaviridae-HMM318-510_28.0-ORF46
+seq143	>nrnt-D88669 Bryopsis mitochondria-associated dsRNA genes for capsid protein, RNA-dependent RNA polymerase, complete and partial cds.-table4-Picornaviridae-HMM350-520_20.0-ORF55
+seq144	>nrnt-KX884234 Wenling partiti-like virus 7 strain WLJQ82808 RdRp gene, complete cds.-table6-Picornaviridae-HMM157-340_39.0-ORF15
+seq145	>nrnt-KX883270 Wenzhou noda-like virus 5 strain WZFSL73727 hypothetical protein gene, partial cds.-table4-Picornaviridae-HMM794-995_17.0-ORF38
+seq146	>nrnt-MG599878 Western African lungfish astro-like virus strain FZFYG149406 hypothetical protein, RNA-dependent RNA polymerase, and hypothetical protein genes, complete cds.-table6-Picornaviridae-HMM373-625_23.0-ORF98
+seq147	>nrnt-MG599876 Guangdong catfish astro-like virus strain GDDSYS282 RNA-dependent RNA polymerase gene, complete cds.-table6-Picornaviridae-HMM2084-2346_10.0-ORF80
+seq148	>nrnt-MG599873 Wuhan astro-like virus strain DSYS3171 hypothetical protein, RNA-dependent RNA polymerase, and hypothetical protein genes, complete cds.-table6-Picornaviridae-HMM1633-1874_11.0-ORF83
+seq149	>nrnt-KX673245 Basavirus sp. isolate 16845_94, complete genome.-table6-Picornaviridae-HMM1290-1751_16.0-ORF76
+seq150	>ref-NC_026314 Rabovirus A isolate Berlin/Jan2011/0572, complete genome.-table6-Picornaviridae-HMM1949-2395_18.0-ORF80
+seq151	>nrnt-MG888045 Mischivirus B strain Algeria/2017/Bejaia polyprotein gene, partial cds.-table4-Picornaviridae-HMM1791-2246_20.0-ORF57
+seq152	>nrnt-MF175074 Murine kobuvirus 1 isolate MKV1/NYC/2014/M014/0146, partial genome.-table6-Picornaviridae-HMM2020-2473_17.0-ORF65
+seq153	>nrnt-KY855435 Marmot mosavirus strain HT8, complete genome.-table4-Picornaviridae-HMM2168-2629_17.0-ORF70
+seq154	>nrnt-KY855434 Marmot cardiovirus strain HT7, partial genome.-table4-Picornaviridae-HMM1594-2042_21.0-ORF73
+seq155	>nrnt-KY855433 Marmot sapelovirus 2 strain HT6, complete genome.-table6-Picornaviridae-HMM1994-2443_18.0-ORF87
+seq156	>nrnt-KY855432 Marmot sapelovirus 1 strain HT5, complete genome.-table4-Picornaviridae-HMM1982-2428_18.0-ORF84
+seq157	>nrnt-MF172923 Rodent Cardiovirus isolate 1, complete genome.-table6-Picornaviridae-HMM1933-2380_18.0-ORF74
+seq158	>nrnt-MG846486 Sicinivirus sp. strain RS/BR/2015/5S polyprotein gene, complete cds.-table6-Picornaviridae-HMM2456-2913_15.0-ORF87
+seq159	>nrnt-MG846483 Sicinivirus sp. strain RS/BR/2015/1R-1 polyprotein gene, complete cds.-table6-Picornaviridae-HMM2414-2871_15.0-ORF88
+seq160	>nrnt-MG846482 Sicinivirus sp. strain RS/BR/2015/3R polyprotein gene, complete cds.-table4-Picornaviridae-HMM2436-2893_15.0-ORF76
+seq161	>nrnt-MG846480 Sicinivirus sp. strain RS/BR/2015/2S-1 polyprotein gene, partial cds.-table6-Picornaviridae-HMM2437-2823_13.0-ORF87
+seq162	>nrnt-MG600098 Wenling pleuronectiformes picornavirus strain XDXMG712 polyprotein gene, partial cds.-table6-Picornaviridae-HMM582-1039_43.0-ORF33
+seq163	>nrnt-MG600073 Beihai wrasse picornavirus strain LXMC183013 polyprotein gene, partial cds.-table6-Picornaviridae-HMM1138-1591_27.0-ORF56
+seq164	>nrnt-MG600071 Beihai pentapodus picornavirus strain LXMC175911 polyprotein gene, partial cds.-table6-Picornaviridae-HMM984-1436_31.0-ORF44
+seq165	>nrnt-MG600106 Chinese softshell turtle picornavirus 1 strain WHJYGF74978 polyprotein gene, complete cds.-table6-Picornaviridae-HMM2459-2927_15.0-ORF84
+seq166	>nrnt-MG600105 Guangxi changeable lizard picornavirus 2 strain GXSXC128559 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1823-2274_19.0-ORF87
+seq167	>nrnt-MG600101 Wenling hoplichthys picornavirus strain XYXMC41402 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1963-2419_18.0-ORF77
+seq168	>nrnt-MG600100 Wenling brown-lined puffer picornavirus strain XTXMC52140 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1886-2333_18.0-ORF81
+seq169	>nrnt-MG600097 Wenling scaldfish picornavirus 2 strain XDXMC61459 polyprotein gene, complete cds.-table4-Picornaviridae-HMM2025-2479_18.0-ORF78
+seq170	>nrnt-MG600096 Wenling scaldfish picornavirus 1 strain XDXMC49056 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1970-2428_18.0-ORF96
+seq171	>nrnt-MG600095 Wenling crossorhombus picornavirus strain XDXMC21480 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1873-2334_18.0-ORF96
+seq172	>nrnt-MG600092 Wenling bighead beaked sandfish picornavirus strain XQTMC45688 polyprotein gene, complete cds.-table4-Picornaviridae-HMM1814-2286_19.0-ORF69
+seq173	>nrnt-MG600090 Hainan gekko similignum picornavirus strain LPXYC222841 polyprotein gene, complete cds.-table4-Picornaviridae-HMM1906-2353_18.0-ORF86
+seq174	>nrnt-MG600087 Zhejiang banded bullfrog picornavirus strain LPWG5926 polyprotein gene, partial cds.-table6-Picornaviridae-HMM1916-2373_18.0-ORF80
+seq175	>nrnt-MG600086 Hainan black-spectacled toad picornavirus strain HKCCC24180 polyprotein gene, partial cds.-table6-Picornaviridae-HMM1944-2401_18.0-ORF77
+seq176	>nrnt-MG600082 Guangdong red-banded snake picornavirus strain LPSG10844 polyprotein gene, complete cds.-table4-Picornaviridae-HMM1812-2268_19.0-ORF81
+seq177	>nrnt-MG600080 Wenling thamnaconus septentrionalis picornavirus strain LQMMT1208 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1786-2242_20.0-ORF76
+seq178	>nrnt-MG600078 Wenling fish picornavirus 1 strain XYHYC180303 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1879-2340_19.0-ORF72
+seq179	>nrnt-MG600077 Wenling rattails picornavirus strain XYHYC192101 polyprotein gene, complete cds.-table4-Picornaviridae-HMM2082-2541_17.0-ORF64
+seq180	>nrnt-MG600070 Wenling banjofish picornavirus 1 strain LXMC34076 polyprotein gene, complete cds.-table4-Picornaviridae-HMM1950-2409_18.0-ORF64
+seq181	>nrnt-MG600067 Wuhan sharpbelly picornavirus 1 strain DSYC20078 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1884-2336_19.0-ORF76
+seq182	>nrnt-MG600066 Wuhan carp picornavirus strain DSYC18088 polyprotein gene, complete cds.-table6-Picornaviridae-HMM2006-2462_18.0-ORF79
+seq183	>nrnt-MG600065 Beihai conger picornavirus strain BHFishC188617 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1863-2317_19.0-ORF74
+seq184	>nrnt-MG600110 Chinese broad-headed pond turtle picornavirus 2 strain WHWGGF75534 polyprotein gene, complete cds.-table4-Picornaviridae-HMM1975-2434_18.0-ORF103
+seq185	>nrnt-MG600108 Chinese broad-headed pond turtle picornavirus 1 strain WHWGC151314 polyprotein gene, complete cds.-table6-Picornaviridae-HMM2333-2800_16.0-ORF81
+seq186	>nrnt-MG600104 Guangxi changeable lizard picornavirus 1 strain GXSXC128972 polyprotein gene, complete cds.-table6-Picornaviridae-HMM2178-2644_17.0-ORF95
+seq187	>nrnt-MG600103 Guangdong fish caecilians picornavirus strain GDYYC83005 polyprotein gene, complete cds.-table4-Picornaviridae-HMM2029-2488_18.0-ORF102
+seq188	>nrnt-MG600102 Western African lungfish picornavirus strain FZFYF120546 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1789-2247_20.0-ORF90
+seq189	>nrnt-MG600099 Yancheng osbecks grenadier anchovy picornavirus strain XFXMC15460 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1997-2452_18.0-ORF87
+seq190	>nrnt-MG600093 Wenling sharpspine skate picornavirus strain DHBYCGS18742 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1935-2377_18.0-ORF89
+seq191	>nrnt-MG600091 Guangdong chinese water skink picornavirus strain ZGLXR119682 polyprotein gene, complete cds.-table6-Picornaviridae-HMM2027-2486_18.0-ORF79
+seq192	>nrnt-MG600089 Hainan oriental leaf-toed gecko picornavirus strain LPXYC213122 polyprotein gene, complete cds.-table6-Picornaviridae-HMM2029-2489_18.0-ORF85
+seq193	>nrnt-MG600088 Guangxi chinese leopard gecko picornavirus strain LPXYC178088 polyprotein gene, complete cds.-table4-Picornaviridae-HMM2014-2479_18.0-ORF93
+seq194	>nrnt-MG600085 Fujian spotted paddle-tail newt picornavirus strain BHNC6391 hypothetical protein and polyprotein genes, complete cds.-table6-Picornaviridae-HMM2437-2912_16.0-ORF105
+seq195	>nrnt-MG600084 Yili teratoscincus roborowskii picornavirus 2 strain LPWC210215 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1814-2269_20.0-ORF88
+seq196	>nrnt-MG600083 Yili teratoscincus roborowskii picornavirus 1 strain LPWC175499 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1933-2391_19.0-ORF87
+seq197	>nrnt-MG600079 Wenling lepidotrigla picornavirus strain YXMC111438 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1817-2275_20.0-ORF79
+seq198	>nrnt-MG600076 Wenling triplecross lizardfish picornavirus strain XYHYC185246 polyprotein gene, complete cds.-table6-Picornaviridae-HMM2120-2576_17.0-ORF84
+seq199	>nrnt-MG600075 Wenling jack mackerels picornavirus strain LXMC375591 polyprotein gene, complete cds.-table4-Picornaviridae-HMM1940-2410_19.0-ORF61
+seq200	>nrnt-MG600074 Wenling chelidoperca picornavirus strain LXMC188591 polyprotein gene, complete cds.-table6-Picornaviridae-HMM2047-2523_18.0-ORF89
+seq201	>nrnt-MG600069 Wuhan sharpbelly picornavirus 3 strain DSYC47507 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1863-2348_20.0-ORF93
+seq202	>nrnt-MG600068 Wuhan sharpbelly picornavirus 2 strain DSYC36136 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1840-2317_20.0-ORF89
+seq203	>nrnt-MH043135 Echovirus E7 isolate 98-60628, complete genome.-table6-Picornaviridae-HMM1795-2241_19.0-ORF76
+seq204	>nrnt-MG650158 Enterovirus E strain BJ101, complete genome.-table6-Picornaviridae-HMM1883-2327_18.0-ORF72
+seq205	>nrnt-MG958646 Enterovirus G isolate 990/UK-NI, complete genome.-table4-Picornaviridae-HMM1780-2224_19.0-ORF72
+seq206	>nrnt-MG559674 Hepatovirus sp. isolate HepV-bat3206/Hipposideros_armiger/2011 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1787-2258_20.0-ORF83
+seq207	>nrnt-MG950179 Human rhinovirus C56 strain USA/2017/CA-RGDS-1003, complete genome.-table6-Picornaviridae-HMM1767-2209_20.0-ORF79
+seq208	>nrnt-MF947440 Kobuvirus sp. strain 16715x56 polyprotein gene, partial cds.-table1-Picornaviridae-HMM1767-2117_16.0-ORF64
+seq209	>nrnt-MF947431 Kobuvirus sp. strain 16715x38 polyprotein gene, partial cds.-table1-Picornaviridae-HMM1443-1887_23.0-ORF67
+seq210	>nrnt-AB647321 Echovirus E3 genomic RNA, complete genome, strain: OC10-532.-table6-Picornaviridae-HMM1795-2241_19.0-ORF83
+seq211	>nrnt-MF405436 Penguin megrivirus isolate KGI-Bel-P5/2015, complete genome.-table6-Picornaviridae-HMM2327-2787_16.0-ORF90
+seq212	>nrnt-KY312545 Picornaviridae sp. isolate yc-6, complete genome.-table4-Picornaviridae-HMM1761-2194_19.0-ORF86
+seq213	>nrnt-KY312544 Picornaviridae sp. isolate yc-5, complete genome.-table6-Picornaviridae-HMM2017-2448_17.0-ORF82
+seq214	>nrnt-KY312543 Picornaviridae sp. isolate yc-4 polyprotein gene, partial cds.-table6-Picornaviridae-HMM1804-2151_16.0-ORF77
+seq215	>nrnt-KY312542 Picornaviridae sp. isolate yc-3, complete genome.-table6-Picornaviridae-HMM1944-2251_13.0-ORF75
+seq216	>nrnt-KY312541 Picornaviridae sp. isolate yc-2 polyprotein gene, partial cds.-table6-Picornaviridae-HMM1738-2171_19.0-ORF86
+seq217	>nrnt-KY312540 Picornaviridae sp. isolate yc-1, complete genome.-table4-Picornaviridae-HMM1796-2251_19.0-ORF83
+seq218	>nrnt-MF358731 Goose picornavirus 1 strain goose/NLSZK2/HUN/2013, complete genome.-table4-Picornaviridae-HMM2046-2495_17.0-ORF79
+seq219	>nrnt-KY792585 Echovirus E19 isolate PDV_BLR_IN, complete genome.-table6-Picornaviridae-HMM1797-2243_19.0-ORF81
+seq220	>nrnt-MG725874 Foot-and-mouth disease virus - type A isolate A/NIG/3/15, complete genome.-table4-Picornaviridae-HMM1968-2421_18.0-ORF50
+seq221	>nrnt-KU379646 Echovirus E33 strain YNA12/CHN/2013, complete genome.-table6-Picornaviridae-HMM1784-2230_19.0-ORF79
+seq222	>nrnt-MF521674 Enterovirus B69 isolate 15_491 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1788-2233_19.0-ORF83
+seq223	>nrnt-KY432472 Pelodiscus sinensis picornavirus 1 strain CNSR2011, complete genome.-table4-Picornaviridae-HMM1941-2404_19.0-ORF99
+seq224	>nrnt-KY432938 Picornavirales sp. isolate RtAs-PicoV/XJ2016 polyprotein gene, partial cds.-table6-Picornaviridae-HMM72-527_83.0-ORF18
+seq225	>nrnt-KY432937 Picornavirales sp. isolate RtNn-PicoV/SAX2016 polyprotein gene, complete cds.-table6-Picornaviridae-HMM259-706_61.0-ORF22
+seq226	>nrnt-KY432935 Picornavirales sp. isolate RtNn-PicoV/HuB2015-3 polyprotein gene, complete cds.-table6-Picornaviridae-HMM2017-2464_17.0-ORF78
+seq227	>nrnt-KY432933 Picornavirales sp. isolate RtNn-PicoV/HuB2015-1 polyprotein gene, complete cds.-table6-Picornaviridae-HMM2001-2449_18.0-ORF89
+seq228	>nrnt-KY432932 Picornavirales sp. isolate RtMruf-PicoV/JL2014-3 polyprotein gene, complete cds.-table6-Picornaviridae-HMM2038-2485_17.0-ORF94
+seq229	>nrnt-KY432931 Picornavirales sp. isolate RtMruf-PicoV/JL2014-2 polyprotein gene, complete cds.-table4-Picornaviridae-HMM1966-2419_18.0-ORF46
+seq230	>nrnt-KY432930 Picornavirales sp. isolate RtMruf-PicoV/JL2014-1 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1947-2394_18.0-ORF69
+seq231	>nrnt-KY432929 Picornavirales sp. isolate RtMrut-PicoV/JL2014-2 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1881-2336_19.0-ORF88
+seq232	>nrnt-KY432928 Picornavirales sp. isolate RtMrut-PicoV/JL2014-1 polyprotein gene, complete cds.-table6-Picornaviridae-HMM2162-2609_16.0-ORF76
+seq233	>nrnt-KY432927 Picornavirales sp. isolate RtCb-PicoV/HeB2014 polyprotein gene, complete cds.-table6-Picornaviridae-HMM2060-2507_17.0-ORF88
+seq234	>nrnt-KY432926 Picornavirales sp. isolate RtMp-PicoV/YN2014 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1905-2352_18.0-ORF78
+seq235	>nrnt-KY432924 Picornavirales sp. isolate RtRn-PicoV/YN2014 polyprotein gene, complete cds.-table4-Picornaviridae-HMM1955-2409_18.0-ORF88
+seq236	>nrnt-MG214257 Coxsackievirus A2 strain CVA2-SHZH13-01, complete genome.-table6-Picornaviridae-HMM1902-2347_18.0-ORF86
+seq237	>nrnt-KY322674 Foot-and-mouth disease virus - type O isolate SKR/6/2014, complete genome.-table6-Picornaviridae-HMM1912-2365_18.0-ORF100
+seq238	>nrnt-KX610685 Echovirus E9 strain UW1, complete genome.-table6-Picornaviridae-HMM1804-2249_19.0-ORF78
+seq239	>nrnt-KT452742 Bat hepatovirus SMG18520Minmav2014 polyprotein gene, complete cds.-table4-Picornaviridae-HMM1841-2311_20.0-ORF84
+seq240	>nrnt-KT452735 Rodent hepatovirus CIV459Lopsik2004 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1845-2311_19.0-ORF84
+seq241	>nrnt-KT452730 Bat hepatovirus BUO2BF86Colafr2010 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1746-2217_21.0-ORF83
+seq242	>nrnt-KT452685 Rodent hepatovirus KEF121Sigmas2012 polyprotein gene, complete cds.-table4-Picornaviridae-HMM1756-2225_20.0-ORF98
+seq243	>nrnt-MF113376 Enterovirus G isolate GER/F9-6/12-02-2013 polyprotein gene, partial cds.-table1-Picornaviridae-HMM1190-1561_23.0-ORF44
+seq244	>nrnt-MG148341 Rhinovirus C isolate CO03302015 polyprotein mRNA, complete cds.-table6-Picornaviridae-HMM1741-2183_20.0-ORF73
+seq245	>nrnt-MF188967 Hedgehog dicipivirus strain hedgehog/H14/2015/HUN, complete genome.-table6-Picornaviridae-HMM1131-1597_28.0-ORF97
+seq246	>nrnt-MF806525 Human rhinovirus C47 isolate CA-RGDS-1001, complete genome.-table6-Picornaviridae-HMM1760-2202_19.0-ORF64
+seq247	>nrnt-JQ864242 Boone cardiovirus 1 isolate BCV-1 polyprotein gene, complete cds.-table4-Picornaviridae-HMM1877-2325_19.0-ORF85
+seq248	>nrnt-MF775367 Human rhinovirus C53 strain USA/2015-20994, complete genome.-table4-Picornaviridae-HMM1749-2192_20.0-ORF83
+seq249	>nrnt-MF775365 Rhinovirus C strain USA/WI/2014-20992 polyprotein gene, partial cds.-table4-Picornaviridae-HMM1750-2159_18.0-ORF90
+seq250	>nrnt-MF678824 Foot-and-mouth disease virus - type SAT 1 isolate SAT1/NIG/2/15, complete genome.-table6-Picornaviridae-HMM1952-2405_18.0-ORF89
+seq251	>nrnt-KX774483 Echovirus E25 strain E25/ZE-wly/Zhejiang/CHN/2005, complete genome.-table6-Picornaviridae-HMM1795-2241_19.0-ORF73
+seq252	>nrnt-KY214435 Porcine enterovirus b/BEL/15V010 isolate 15V010 polyprotein gene, complete cds; and Torovirus insertion gene, partial cds.-table4-Picornaviridae-HMM1989-2433_18.0-ORF92
+seq253	>nrnt-KJ641698 Bat picornavirus isolate BtMf-PicoV-1/SAX2011 polyprotein gene, complete cds.-table4-Picornaviridae-HMM1701-2127_19.0-ORF71
+seq254	>nrnt-KJ641697 Bat picornavirus isolate BtNv-PicoV/SC2013 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1833-2282_19.0-ORF72
+seq255	>nrnt-KJ641696 Bat picornavirus isolate BtVs-PicoV/SC2013 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1950-2396_18.0-ORF72
+seq256	>nrnt-KJ641694 Bat picornavirus isolate BtRs-PicoV/YN2010 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1899-2347_18.0-ORF76
+seq257	>nrnt-KJ641693 Bat picornavirus isolate BtRh-PicoV/SC2013 polyprotein gene, complete cds.-table4-Picornaviridae-HMM1894-2341_18.0-ORF75
+seq258	>nrnt-KJ641691 Bat picornavirus isolate BtMf-PicoV-2/GD2012 polyprotein gene, partial cds.-table6-Picornaviridae-HMM1878-2330_18.0-ORF66
+seq259	>nrnt-KJ641689 Bat picornavirus isolate BtMa-PicoV/FJ2012 polyprotein gene, partial cds.-table4-Picornaviridae-HMM1699-2144_20.0-ORF72
+seq260	>nrnt-KJ641687 Bat picornavirus isolate BtMf-PicoV/FJ2012 polyprotein gene, complete cds.-table6-Picornaviridae-HMM2005-2400_16.0-ORF79
+seq261	>nrnt-KJ641686 Bat picornavirus isolate BtMr-PicoV/JX2010 polyprotein gene, partial cds.-table6-Picornaviridae-HMM1978-2427_18.0-ORF71
+seq262	>nrnt-KJ641685 Bat picornavirus isolate BtRf-PicoV-1/YN2012 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1727-2176_20.0-ORF66
+seq263	>nrnt-KJ641684 Bat picornavirus isolate BtRf-PicoV-2/YN2012 polyprotein gene, partial cds.-table6-Picornaviridae-HMM1404-1842_23.0-ORF66
+seq264	>nrnt-JQ814852 Ia io picornavirus 1, complete genome.-table6-Picornaviridae-HMM1920-2375_18.0-ORF71
+seq265	>nrnt-LC279542 Coxsackievirus A20 genomic RNA, complete genome, strain: CAM1976.-table4-Picornaviridae-HMM1819-2263_19.0-ORF90
+seq266	>nrnt-KX494871 Human rhinovirus B91 isolate ZJ2015_001, complete genome.-table6-Picornaviridae-HMM1796-2240_19.0-ORF77
+seq267	>nrnt-KY983589 Human rhinovirus C11 strain SC3107, complete sequence.-table6-Picornaviridae-HMM1762-2204_20.0-ORF76
+seq268	>nrnt-KY761948 Enterovirus G isolate EVG 08/NC_USA/2015, complete genome.-table6-Picornaviridae-HMM1960-2405_18.0-ORF86
+seq269	>nrnt-KY369878 Human rhinovirus C43 strain SC174, complete genome.-table4-Picornaviridae-HMM1738-2180_20.0-ORF77
+seq270	>nrnt-KX060810 Echovirus E20 strain 812/YN/CHN/2010, complete genome.-table6-Picornaviridae-HMM1784-2231_19.0-ORF80
+seq271	>nrnt-KX424991 Echovirus E6 strain E6/2011/Iran/Ahvaz, complete genome.-table6-Picornaviridae-HMM1856-2302_18.0-ORF85
+seq272	>nrnt-KY189319 Rhinovirus C strain SCH-108 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1765-2207_20.0-ORF76
+seq273	>nrnt-KY498017 Enterovirus G strain EVG/Porcine/USA/Texas2/2014/G1-PLpro, complete genome.-table4-Picornaviridae-HMM2000-2444_18.0-ORF85
+seq274	>nrnt-KY684757 Human rhinovirus B3 strain SC2220, complete genome.-table4-Picornaviridae-HMM1806-2249_19.0-ORF88
+seq275	>nrnt-KY512802 Canine picornavirus isolate A128thr polyprotein gene, complete cds.-table4-Picornaviridae-HMM1785-2237_20.0-ORF89
+seq276	>nrnt-KY432299 Bovine rhinitis B virus isolate BRBV_SWE1 polyprotein gene, complete cds.-table4-Picornaviridae-HMM1847-2300_19.0-ORF95
+seq277	>nrnt-KX171334 Enterovirus B106 isolate AKS-AWT-AFP2F/XJ/CHN/2011, complete genome.-table6-Picornaviridae-HMM1793-2238_19.0-ORF76
+seq278	>nrnt-KR871677 Rhinovirus A isolate PUMCH13478/2013 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1748-2192_20.0-ORF74
+seq279	>nrnt-KY369299 Goose megrivirus isolate W18, complete genome.-table6-Picornaviridae-HMM2582-3042_14.0-ORF87
+seq280	>nrnt-KX545380 Human cosavirus isolate Cosavirus-zj-1, complete genome.-table6-Picornaviridae-HMM1717-2166_20.0-ORF76
+seq281	>nrnt-KU707902 Enterovirus B83 isolate 246/YN/CHN/08, complete genome.-table6-Picornaviridae-HMM1747-2193_20.0-ORF86
+seq282	>nrnt-JN837686 Rhinovirus C strain HRV-C45_p1084_s3920_2000 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1801-2243_19.0-ORF76
+seq283	>nrnt-JQ245968 Human rhinovirus C strain HRV-C02_p1264_s3775_1999 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1706-2148_20.0-ORF64
+seq284	>nrnt-JX074053 Human rhinovirus B strain HRV-B92_p1044_sR122_2007 polyprotein gene, partial cds.-table4-Picornaviridae-HMM1828-2222_17.0-ORF91
+seq285	>nrnt-JQ994496 Human rhinovirus A strain HRV-A38_p1266_s3799_1999 polyprotein gene, partial cds.-table4-Picornaviridae-HMM1812-2244_19.0-ORF84
+seq286	>nrnt-JN562722 Human rhinovirus A strain HRV-A16_p1032_sR3162_2009 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1720-2164_20.0-ORF70
+seq287	>nrnt-JN541267 Human rhinovirus C strain HRV-C36_p1093_sR548_2008 polyprotein gene, partial cds.-table6-Picornaviridae-HMM1755-2194_20.0-ORF75
+seq288	>nrnt-KY369885 Human rhinovirus A22 strain SC1029, complete genome.-table4-Picornaviridae-HMM1794-2237_19.0-ORF83
+seq289	>nrnt-KY369877 Human rhinovirus C11 strain SC1065, complete genome.-table4-Picornaviridae-HMM1738-2179_20.0-ORF87
+seq290	>nrnt-KT319121 Human parechovirus 17 strain M36/CI/2014 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1841-2296_19.0-ORF76
+seq291	>nrnt-KX156159 Picornaviridae sp. rodent/Mc/PicoV/Tibet2015 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1909-2356_18.0-ORF93
+seq292	>nrnt-KX156158 Picornaviridae sp. rodent/Ee/PicoV/NX2015 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1901-2349_18.0-ORF87
+seq293	>nrnt-KX156157 Picornaviridae sp. rodent/Rn/PicoV/SX2015_2 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1891-2333_18.0-ORF81
+seq294	>nrnt-KX156156 Picornaviridae sp. rodent/RL/PicoV/FJ2015 polyprotein gene, complete cds.-table6-Picornaviridae-HMM2162-2622_17.0-ORF88
+seq295	>nrnt-KX156155 Picornaviridae sp. rodent/CK/PicoV/Tibet2014 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1787-2231_19.0-ORF94
+seq296	>nrnt-KX156153 Picornaviridae sp. rodent/Ds/PicoV/IM2014 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1773-2222_20.0-ORF83
+seq297	>nrnt-KT879931 Human parechovirus 5 isolate 174Chzj98, complete genome.-table4-Picornaviridae-HMM1770-2120_15.0-ORF92
+seq298	>nrnt-KT879930 Human parechovirus 1 isolate 164Chzj909, complete genome.-table4-Picornaviridae-HMM1764-2202_19.0-ORF90
+seq299	>nrnt-KT879926 Human parechovirus 1 isolate 121Chzj091, complete genome.-table6-Picornaviridae-HMM1763-2218_20.0-ORF77
+seq300	>nrnt-KT879920 Human parechovirus 19 isolate 67Chzj11, complete genome.-table6-Picornaviridae-HMM1741-2180_19.0-ORF83
+seq301	>nrnt-KT879916 Human parechovirus 17 isolate 27Chzj76, complete genome.-table6-Picornaviridae-HMM1752-2207_20.0-ORF77
+seq302	>nrnt-KX783432 Rosavirus C strain NCGX12IN polyprotein gene, complete cds.-table6-Picornaviridae-HMM2066-2526_18.0-ORF90
+seq303	>nrnt-KX783429 Rosavirus C strain RRTPC2A polyprotein gene, complete cds.-table6-Picornaviridae-HMM2125-2585_17.0-ORF90
+seq304	>nrnt-AB252582 Human parechovirus 6 genomic RNA, complete genome, strain: NII561-2000.-table6-Picornaviridae-HMM1751-2206_20.0-ORF86
+seq305	>nrnt-KU977108 Poecivirus BCCH-449 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1801-2269_20.0-ORF82
+seq306	>nrnt-LC133331 Ljungan virus genomic RNA, nearly complete genome, strain: Fuz1.-table4-Picornaviridae-HMM1848-2302_19.0-ORF80
+seq307	>nrnt-KT581587 Enterovirus J strain Sev-nj1, complete genome.-table6-Picornaviridae-HMM1767-2213_20.0-ORF76
+seq308	>nrnt-HM228882 Bat kobuvirus TM003k 3D gene, partial cds.-table4-Picornaviridae-HMM1-396_94.0-ORF11
+seq309	>nrnt-EU840857 Human rhinovirus 82 polyprotein gene, partial cds.-table1-Picornaviridae-HMM204-587_65.0-ORF12
+seq310	>nrnt-EU840834 Human rhinovirus 59 polyprotein gene, partial cds.-table1-Picornaviridae-HMM204-565_63.0-ORF15
+seq311	>nrnt-EU840819 Human rhinovirus 43 polyprotein gene, partial cds.-table1-Picornaviridae-HMM203-552_62.0-ORF10
+seq312	>nrnt-KU574638 Coxsackievirus A9 isolate EV-B CV-A9/EBMSV0003/THA/2010 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1756-2201_20.0-ORF75
+seq313	>nrnt-DQ875932 Human rhinovirus C strain NY-074 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1728-2170_20.0-ORF72
+seq314	>nrnt-KM077140 Enterovirus A71 strain Hau1, complete genome.-table4-Picornaviridae-HMM1838-2282_19.0-ORF88
+seq315	>nrnt-KU172420 Enterovirus E strain bovine enterovirus strain MexKSU/5, complete genome.-table6-Picornaviridae-HMM1760-2205_19.0-ORF86
+seq316	>nrnt-KX260139 Equine rhinitis B virus strain 396, complete genome.-table6-Picornaviridae-HMM2254-2708_16.0-ORF105
+seq317	>nrnt-KX348031 Rhinovirus C isolate 18455_35 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1732-2174_20.0-ORF75
+seq318	>nrnt-LC113907 Swine picornavirus Tottori-WOL gene for polyprotein, complete cds.-table6-Picornaviridae-HMM1763-2204_19.0-ORF74
+seq319	>nrnt-KP890664 Rhinovirus C isolate 8097-MY-11, complete genome.-table4-Picornaviridae-HMM1786-2228_19.0-ORF79
+seq320	>nrnt-KJ675507 Rhinovirus C isolate 3430-MY-10, complete genome.-table4-Picornaviridae-HMM1745-2188_20.0-ORF78
+seq321	>nrnt-KJ675506 Rhinovirus C isolate 8713-MY-10, complete genome.-table6-Picornaviridae-HMM1776-2218_19.0-ORF76
+seq322	>nrnt-KJ675505 Rhinovirus C isolate 1570-MY-10, complete genome.-table4-Picornaviridae-HMM1811-2253_19.0-ORF88
+seq323	>nrnt-KT229612 Hepatovirus A isolate 3ID, complete genome.-table6-Picornaviridae-HMM1801-2270_20.0-ORF92
+seq324	>nrnt-EU840732 Human rhinovirus C strain CL-QJ274218 polyprotein gene, partial cds.-table1-Picornaviridae-HMM717-837_14.0-ORF26
+seq325	>nrnt-KJ701249 Human enterovirus isolate GAB_653 polyprotein gene, partial cds.-table6-Picornaviridae-HMM1778-2073_14.0-ORF65
+seq326	>nrnt-KJ701248 Human enterovirus 107 isolate GAB_98 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1793-2239_19.0-ORF75
+seq327	>nrnt-KT353723 Echovirus E3 strain 2-E6-TW, complete genome.-table6-Picornaviridae-HMM1795-2241_19.0-ORF80
+seq328	>nrnt-JX476171 Coxsackievirus B3 isolate NIV094331LV26, complete genome.-table6-Picornaviridae-HMM1786-2232_19.0-ORF85
+seq329	>nrnt-KJ418244 Enterovirus B isolate GAB130 polyprotein gene, partial cds.-table1-Picornaviridae-HMM1737-2180_20.0-ORF62
+seq330	>nrnt-KT452729 Bat hepatovirus isolate FO1AF48Rhilan2010 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1733-2203_21.0-ORF87
+seq331	>nrnt-KT452644 Rodent hepatovirus isolate KS111230Crimig2011 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1785-2255_20.0-ORF70
+seq332	>nrnt-KT880670 Phacovirus Pf-CHK1/PhV, complete genome.-table6-Picornaviridae-HMM2079-2536_17.0-ORF74
+seq333	>nrnt-KT880667 Orivirus Pf-CHK1/OrV-A2, complete genome.-table6-Picornaviridae-HMM1571-1973_19.0-ORF69
+seq334	>nrnt-KF958311 Rhinovirus C isolate 2536, complete genome.-table4-Picornaviridae-HMM1805-2247_19.0-ORF84
+seq335	>nrnt-KT006374 Enterovirus B strain T75, complete genome.-table6-Picornaviridae-HMM1784-2230_19.0-ORF78
+seq336	>nrnt-KT265911 Enterovirus G isolate 714418/CaoLanh_VN/2012-02-21, partial genome.-table4-Picornaviridae-HMM1777-2221_19.0-ORF77
+seq337	>nrnt-KP984753 Enterovirus C96 strain T49-XZ-CHN-2005, complete genome.-table6-Picornaviridae-HMM1780-2225_19.0-ORF70
+seq338	>nrnt-KP289440 Echovirus E14 isolate E14/P843/2013/China, complete genome.-table6-Picornaviridae-HMM1774-2220_20.0-ORF79
+seq339	>nrnt-KP289433 Coxsackievirus B4 isolate CV-B4/P11/2013/China, complete genome.-table6-Picornaviridae-HMM1784-2230_19.0-ORF80
+seq340	>nrnt-KP289364 Coxsackievirus A5 isolate CV-A5/P99/2013/China, complete genome.-table6-Picornaviridae-HMM1793-2238_19.0-ORF71
+seq341	>nrnt-LC006971 Bovine picornavirus genomic RNA, complete genome, strain: Bo-11-39/2009/JPN.-table4-Picornaviridae-HMM1965-2416_18.0-ORF85
+seq342	>nrnt-LC036582 Bovine picornavirus genomic RNA, complete genome, strain: Bo-12-38/2009/JPN.-table6-Picornaviridae-HMM1991-2442_18.0-ORF79
+seq343	>nrnt-KP676985 UNVERIFIED: Coxsackievirus A4 strain CVA4/FT/CHN/07 genomic sequence.-table6-Picornaviridae-HMM1803-2248_19.0-ORF78
+seq344	>nrnt-KR815992 Coxsackievirus A6 isolate 12743/GZ/CHN/2013, complete genome.-table6-Picornaviridae-HMM1803-2248_19.0-ORF72
+seq345	>nrnt-KM362429 Human rhinovirus A39 strain ATCC VR-340, complete genome.-table4-Picornaviridae-HMM1810-2253_19.0-ORF90
+seq346	>nrnt-EU789367 Simian sapelovirus 2 strain VRDL1 polyprotein gene, complete cds.-table6-Picornaviridae-HMM2034-2483_18.0-ORF79
+seq347	>nrnt-KP892662 Encephalomyocarditis virus strain MM polyprotein gene, complete cds.-table6-Picornaviridae-HMM1877-2324_18.0-ORF77
+seq348	>nrnt-JQ916918 Bat picornavirus isolate BtPV/BB89-95/Rhi_eur/BGR/2008 polyprotein gene, partial cds.-table4-Picornaviridae-HMM1-249_86.0-ORF9
+seq349	>nrnt-KP233830 Coxsackievirus B5 isolate 3936/09, complete genome.-table4-Picornaviridae-HMM1771-2216_20.0-ORF85
+seq350	>nrnt-KC893553 Duck hepatitis A virus isolate 12-01, complete genome.-table6-Picornaviridae-HMM1835-2271_18.0-ORF83
+seq351	>nrnt-KP345888 Dromedary camel enterovirus strain 20CC, complete genome.-table6-Picornaviridae-HMM1743-2187_19.0-ORF81
+seq352	>nrnt-KM986843 Human parechovirus 3 strain VGHKS-2007, complete genome.-table6-Picornaviridae-HMM1724-2179_20.0-ORF79
+seq353	>nrnt-KP282614 Human rhinovirus C54 isolate D3490 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1837-2279_19.0-ORF72
+seq354	>nrnt-AB501332 Echovirus E13 gene for polyprotein, complete cds, strain: S3(1)-1.-table6-Picornaviridae-HMM1789-2235_19.0-ORF77
+seq355	>nrnt-AB920345 Human cosavirus A gene for polyprotein, complete cds, strain: 10928/2012/JPN.-table4-Picornaviridae-HMM1823-2272_19.0-ORF66
+seq356	>nrnt-KJ950883 Rat picornavirus isolate RPV/NYC-B10 polyprotein gene, partial cds.-table6-Picornaviridae-HMM1956-2354_16.0-ORF78
+seq357	>nrnt-KM361529 Enterovirus sp. isolate CU42 polyprotein gene, partial cds.-table6-Picornaviridae-HMM1763-2103_16.0-ORF68
+seq358	>nrnt-KF874626 Enterovirus B73 isolate 088/SD/CHN/04, complete genome.-table6-Picornaviridae-HMM1789-2235_19.0-ORF83
+seq359	>nrnt-KM273014 Enterovirus C isolate 5-05 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1771-2216_19.0-ORF73
+seq360	>nrnt-KM273013 Enterovirus B93 isolate 38-03 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1793-2239_19.0-ORF78
+seq361	>nrnt-GU568096 Rhinovirus B isolate BCH214, complete genome.-table6-Picornaviridae-HMM1827-2271_19.0-ORF78
+seq362	>nrnt-KJ934637 Kobuvirus SZAL6-KoV/2011/HUN, complete genome.-table6-Picornaviridae-HMM2003-2456_18.0-ORF66
+seq363	>nrnt-KF979332 Chicken picornavirus 1 isolate 100C, complete genome.-table6-Picornaviridae-HMM2185-2642_16.0-ORF72
+seq364	>nrnt-KJ755190 Enterovirus B81 isolate 99298c/XZ/CHN/1999, complete genome.-table6-Picornaviridae-HMM1792-2237_19.0-ORF81
+seq365	>nrnt-JX982259 Human enterovirus C104 strain Pavia262-11228, complete genome.-table4-Picornaviridae-HMM1828-2272_19.0-ORF85
+seq366	>nrnt-LK021688 Enterovirus A120 complete genome, strain MAD-2741-11.-table6-Picornaviridae-HMM1793-2238_19.0-ORF79
+seq367	>nrnt-KF823815 Genet fecal theilovirus isolate S15 polyprotein gene, partial cds; and L* peptide gene, complete cds.-table6-Picornaviridae-HMM1954-2100_6.0-ORF60
+seq368	>nrnt-AB769164 Coxsackievirus A24 genomic RNA, complete genome, strain: CA24v/Ishigaki/29/2011.-table6-Picornaviridae-HMM1776-2221_19.0-ORF80
+seq369	>nrnt-JX678288 Human enterovirus C118 isolate CQ5185, complete genome.-table6-Picornaviridae-HMM1784-2228_19.0-ORF88
+seq370	>nrnt-KJ420748 Enterovirus sp. isolate CPML_3961/08, complete genome.-table6-Picornaviridae-HMM1787-2233_19.0-ORF79
+seq371	>nrnt-KF311743 Human coxsackievirus B5 strain ChZJ-1, complete genome.-table6-Picornaviridae-HMM1790-2235_19.0-ORF74
+seq372	>nrnt-KF688606 Rhinovirus C strain human/Australia/SG1/2008, partial genome.-table6-Picornaviridae-HMM1772-2214_19.0-ORF74
+seq373	>nrnt-HF948065 Human coxsackievirus B5 partial gene for polyprotein, VP1 to 3Dpol region, strain BOL36_ITA_08.-table1-Picornaviridae-HMM1172-1366_14.0-ORF40
+seq374	>nrnt-HF948103 Echovirus E14 partial gene for polyprotein, VP1 to 3Dpol region, strain E14_CF225059_FRA08.-table1-Picornaviridae-HMM1187-1381_14.0-ORF47
+seq375	>nrnt-HF948084 Human coxsackievirus B3 partial gene for polyprotein, VP1 to 3Dpol region, strain CVB3_CF3109_FRA01.-table1-Picornaviridae-HMM1170-1364_14.0-ORF51
+seq376	>nrnt-JX017380 Human coxsackievirus B5 isolate 20CSF, complete genome.-table6-Picornaviridae-HMM1786-2232_19.0-ORF84
+seq377	>nrnt-KC811837 Pigeon mesivirus 2 strain pigeon/GALII5-PiMeV/2011/HUN, complete genome.-table6-Picornaviridae-HMM2440-2899_15.0-ORF88
+seq378	>nrnt-KC310738 Encephalomyocarditis virus isolate Sing-M105-02, partial genome.-table6-Picornaviridae-HMM1889-2336_18.0-ORF77
+seq379	>nrnt-KC292019 Enterovirus B87 isolate LY02/SD/CHN/2000, complete genome.-table6-Picornaviridae-HMM1793-2239_19.0-ORF74
+seq380	>nrnt-KC935379 Kunsagivirus 1 strain roller/SZAL6-KuV/2011/HUN, complete genome.-table4-Picornaviridae-HMM1957-2384_17.0-ORF66
+seq381	>nrnt-KC465954 Turkey avisivirus strain turkey/M176-TuASV/2011/HUN polyprotein gene, complete cds.-table6-Picornaviridae-HMM1825-2266_18.0-ORF95
+seq382	>nrnt-KC614703 Turkey avisivirus isolate USA-IN1, complete genome.-table6-Picornaviridae-HMM1738-2178_19.0-ORF81
+seq383	>nrnt-FJ007373 Enterovirus J strain POo-1, complete genome.-table4-Picornaviridae-HMM1771-2215_20.0-ORF88
+seq384	>nrnt-AF326764 Simian enterovirus 46 strain OM22 (P15), complete genome.-table6-Picornaviridae-HMM1793-2238_19.0-ORF73
+seq385	>nrnt-AF326761 Simian enterovirus SV43 strain OM112t (P12), complete genome.-table6-Picornaviridae-HMM1820-2265_19.0-ORF89
+seq386	>nrnt-AF326759 Simian enterovirus SV4 strain 1715 UWB, complete genome.-table6-Picornaviridae-HMM1757-2201_20.0-ORF79
+seq387	>nrnt-AF326754 Simian enterovirus SV19 strain M19s (P2), complete genome.-table4-Picornaviridae-HMM1770-2214_20.0-ORF89
+seq388	>nrnt-AF326751 Simian agent 5 strain B165, complete genome.-table6-Picornaviridae-HMM1888-2334_18.0-ORF83
+seq389	>nrnt-AF326750 Baboon enterovirus strain A13, complete genome.-table6-Picornaviridae-HMM1781-2227_19.0-ORF86
+seq390	>nrnt-GU942820 Human coxsackievirus A7 isolate 275/58, complete genome.-table6-Picornaviridae-HMM1762-2207_19.0-ORF69
+seq391	>nrnt-JX898907 Human enterovirus 85 strain HTPS-MKLH04F/XJ/CHN/2011, complete genome.-table6-Picornaviridae-HMM1995-2441_18.0-ORF81
+seq392	>nrnt-JA838385 Sequence 1 from Patent EP2268800.-table6-Picornaviridae-HMM1753-2195_19.0-ORF75
+seq393	>nrnt-EF186077 Human rhinovirus C3 strain HRV-QPM, complete genome.-table6-Picornaviridae-HMM1815-2257_19.0-ORF75
+seq394	>nrnt-JX257003 Encephalomyocarditis virus type 2 isolate RD 1338 (D28/05) polyprotein gene, complete cds.-table6-Picornaviridae-HMM1902-2349_18.0-ORF75
+seq395	>nrnt-HQ917060 Bovine enterovirus type 2 strain BHM26, complete genome.-table6-Picornaviridae-HMM1766-2211_19.0-ORF74
+seq396	>nrnt-HM153767 Ovine hungarovirus OHUV1/2009/HUN, complete genome.-table6-Picornaviridae-HMM1861-2300_19.0-ORF84
+seq397	>nrnt-JX644073 Human enterovirus 80 isolate HZ01/SD/CHN/2004, complete genome.-table6-Picornaviridae-HMM1807-2253_19.0-ORF88
+seq398	>nrnt-JX627573 WUHARV Sapelovirus 1 polyprotein gene, complete cds.-table6-Picornaviridae-HMM2032-2482_18.0-ORF73
+seq399	>nrnt-JX291115 Human rhinovirus C isolate JAL-1, complete genome.-table6-Picornaviridae-HMM1710-2152_20.0-ORF74
+seq400	>nrnt-JQ277724 Ovine enterovirus strain ovine/TB4-OEV/2009/HUN, complete genome.-table4-Picornaviridae-HMM1733-2178_20.0-ORF81
+seq401	>nrnt-GQ415051 Human rhinovirus A isolate hrv-A101, complete genome.-table4-Picornaviridae-HMM1746-2188_20.0-ORF80
+seq402	>nrnt-FJ445186 Human rhinovirus 27 strain ATCC VR-1137, complete genome.-table4-Picornaviridae-HMM1767-2211_20.0-ORF92
+seq403	>nrnt-FJ445183 Human rhinovirus 78 strain ATCC VR-1188, complete genome.-table4-Picornaviridae-HMM1819-2262_19.0-ORF87
+seq404	>nrnt-FJ445170 Human rhinovirus 95 strain ATCC VR-1301, complete genome.-table4-Picornaviridae-HMM1759-2202_20.0-ORF88
+seq405	>nrnt-FJ445169 Human rhinovirus 92 strain ATCC VR-1293, complete genome.-table6-Picornaviridae-HMM1794-2238_19.0-ORF78
+seq406	>nrnt-FJ445163 Human rhinovirus 85 strain ATCC VR-1195, complete genome.-table4-Picornaviridae-HMM1813-2256_19.0-ORF90
+seq407	>nrnt-FJ445152 Human rhinovirus 71 strain ATCC VR-1181, complete genome.-table4-Picornaviridae-HMM1754-2196_20.0-ORF81
+seq408	>nrnt-FJ445149 Human rhinovirus 67 strain ATCC VR-1177, complete genome.-table4-Picornaviridae-HMM1805-2248_19.0-ORF83
+seq409	>nrnt-FJ445146 Human rhinovirus 63 strain ATCC VR-1173, complete genome.-table6-Picornaviridae-HMM1725-2169_20.0-ORF72
+seq410	>nrnt-FJ445134 Human rhinovirus 49 isolate F04, complete genome.-table4-Picornaviridae-HMM1810-2253_19.0-ORF93
+seq411	>nrnt-FJ445132 Human rhinovirus 45 strain ATCC VR-1155, complete genome.-table6-Picornaviridae-HMM1823-2267_19.0-ORF72
+seq412	>nrnt-FJ445118 Human rhinovirus 18 strain ATCC VR-1128, complete genome.-table6-Picornaviridae-HMM1913-2356_18.0-ORF67
+seq413	>nrnt-JN205461 Human rhinovirus C strain WA823M02, complete genome.-table4-Picornaviridae-HMM1736-2178_20.0-ORF86
+seq414	>nrnt-JN867757 Human cosavirus E/D strain NG385 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1701-2149_20.0-ORF77
+seq415	>nrnt-JN867756 Human cosavirus A20 strain NG263 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1699-2148_20.0-ORF68
+seq416	>nrnt-JN807387 Porcine enterovirus 15 strain wild boar/WBD/2011/HUN polyprotein gene, complete cds.-table6-Picornaviridae-HMM1740-2185_20.0-ORF74
+seq417	>nrnt-JF424824 Picornavirus chicken/CHK1/USA/2010 polyprotein gene, partial cds.-table6-Picornaviridae-HMM507-968_47.0-ORF26
+seq418	>nrnt-AF465518 Human echovirus 2 strain Cornelis, complete genome.-table6-Picornaviridae-HMM1862-2308_19.0-ORF80
+seq419	>nrnt-AF499641 Human coxsackievirus A19 strain 8663, complete genome.-table6-Picornaviridae-HMM1768-2213_19.0-ORF80
+seq420	>nrnt-AF499639 Human coxsackievirus A17 strain G12, complete genome.-table4-Picornaviridae-HMM1825-2269_19.0-ORF85
+seq421	>nrnt-JN572116 Feline picornavirus strain 127F, complete genome.-table4-Picornaviridae-HMM1892-2339_18.0-ORF83
+seq422	>nrnt-FR727145 Pigeon picornavirus A, complete P3 region and 3' UTR, strain 03/603-7, genomic RNA.-table4-Picornaviridae-HMM443-885_49.0-ORF36
+seq423	>nrnt-JF973687 Mouse Mosavirus strain Mosa.M-7 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1818-2280_20.0-ORF73
+seq424	>nrnt-JF905564 Human enterovirus 76 strain 04360/SD/CHN/2004/EV76, complete genome.-table6-Picornaviridae-HMM1804-2248_19.0-ORF79
+seq425	>nrnt-EF067924 Duck hepatitis virus 1 strain 90D, complete genome.-table6-Picornaviridae-HMM1828-2260_18.0-ORF81
+seq426	>nrnt-JF317017 Human rhinovirus C isolate LZY101, complete genome.-table6-Picornaviridae-HMM1766-2208_19.0-ORF71
+seq427	>nrnt-JF317014 Human rhinovirus C isolate LZY79, complete genome.-table6-Picornaviridae-HMM1743-2185_20.0-ORF65
+seq428	>nrnt-JF317013 Human rhinovirus C isolate LZ269, complete genome.-table6-Picornaviridae-HMM1718-2160_20.0-ORF74
+seq429	>nrnt-JF965515 Human rhinovirus 103 strain WA327E/09 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1735-2178_20.0-ORF69
+seq430	>nrnt-JA325215 Sequence 6 from Patent EP2274447.-table1-Picornaviridae-HMM477-757_36.0-ORF20
+seq431	>nrnt-JA280131 Sequence 2 from Patent WO2011007339.-table6-Picornaviridae-HMM1895-2348_18.0-ORF92
+seq432	>nrnt-HM775882 Human echovirus 5 isolate Kor06-ECV5-253cn, complete genome.-table6-Picornaviridae-HMM1797-2243_19.0-ORF76
+seq433	>nrnt-AX937986 Sequence 1 from Patent WO03091386.-table6-Picornaviridae-HMM1890-2345_19.0-ORF83
+seq434	>nrnt-EU854568 Ljungan virus 64-7855 polyprotein mRNA, complete cds.-table6-Picornaviridae-HMM1919-2374_19.0-ORF85
+seq435	>nrnt-AY843300 Human enterovirus 82 strain USA/CA64-10390, complete genome.-table6-Picornaviridae-HMM1796-2242_19.0-ORF82
+seq436	>nrnt-AY843299 Human enterovirus 81 strain USA/CA68-10389, complete genome.-table6-Picornaviridae-HMM1763-2209_19.0-ORF78
+seq437	>nrnt-AY843297 Human enterovirus 79 strain USA/CA79-10384, complete genome.-table6-Picornaviridae-HMM1843-2289_19.0-ORF80
+seq438	>nrnt-FJ175661 Foot-and-mouth disease virus - type O isolate Israel 07-6378, complete genome.-table6-Picornaviridae-HMM1909-2362_18.0-ORF103
+seq439	>nrnt-EU542581 Rat theilovirus 1 strain RTV-1, complete genome.-table4-Picornaviridae-HMM1878-2327_18.0-ORF91
+seq440	>nrnt-EF174469 Human coxsackievirus B2 isolate KOR 04-279, complete genome.-table6-Picornaviridae-HMM1788-2234_19.0-ORF89
+seq441	>nrnt-HM777023 Human echovirus 18 isolate Kor05-ECV18-054cn, complete genome.-table6-Picornaviridae-HMM1790-2236_19.0-ORF79
+seq442	>nrnt-GQ865517 Human enterovirus 109 isolate NICA08-4327, complete genome.-table6-Picornaviridae-HMM1823-2267_19.0-ORF70
+seq443	>nrnt-GU550508 Human enterovirus 97 strain 99188/SD/CHN/1999/EV97, complete genome.-table6-Picornaviridae-HMM1784-2230_19.0-ORF78
+seq444	>nrnt-AY773285 Human enterovirus 90 isolate F950027, complete genome.-table6-Picornaviridae-HMM1799-2244_19.0-ORF76
+seq445	>nrnt-AB426610 Human enterovirus 79 genomic RNA, complete genome, strain: NH95-0601.-table6-Picornaviridae-HMM1795-2241_19.0-ORF80
+seq446	>nrnt-FV537077 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Picornaviridae-HMM2012-2456_17.0-ORF113
+seq447	>nrnt-FV537075 Modified Microbial Nucleic Acid.-table6-Picornaviridae-HMM29-468_92.0-ORF86
+seq448	>nrnt-FV537005 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Picornaviridae-HMM2201-2394_7.0-ORF98
+seq449	>nrnt-FV537001 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Picornaviridae-HMM1999-2443_17.0-ORF115
+seq450	>nrnt-FV536999 Modified Microbial Nucleic Acid.-table6-Picornaviridae-HMM28-456_92.0-ORF82
+seq451	>nrnt-FV536997 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Picornaviridae-HMM1984-2430_18.0-ORF115
+seq452	>nrnt-FV536995 Modified Microbial Nucleic Acid.-table6-Picornaviridae-HMM122-567_76.0-ORF84
+seq453	>nrnt-FV536993 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Picornaviridae-HMM1999-2443_17.0-ORF102
+seq454	>nrnt-FV536991 Modified Microbial Nucleic Acid.-table6-Picornaviridae-HMM169-545_68.0-ORF92
+seq455	>nrnt-FV536929 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Picornaviridae-HMM2234-2677_16.0-ORF105
+seq456	>nrnt-FV536927 Modified Microbial Nucleic Acid.-table6-Picornaviridae-HMM1433-1857_22.0-ORF106
+seq457	>nrnt-FV536921 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Picornaviridae-HMM2217-2659_16.0-ORF105
+seq458	>nrnt-FV536919 Modified Microbial Nucleic Acid.-table6-Picornaviridae-HMM42-465_88.0-ORF116
+seq459	>nrnt-FV536913 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Picornaviridae-HMM2223-2666_16.0-ORF111
+seq460	>nrnt-FV536911 Modified Microbial Nucleic Acid.-table6-Picornaviridae-HMM418-847_47.0-ORF110
+seq461	>nrnt-AF311938 Human echovirus 30 strain Bastianni, complete genome.-table6-Picornaviridae-HMM1957-2403_18.0-ORF91
+seq462	>nrnt-GQ223229 Human rhinovirus A isolate N13, complete genome.-table6-Picornaviridae-HMM1748-2192_20.0-ORF70
+seq463	>nrnt-GQ223228 Human rhinovirus C isolate N10, complete genome.-table6-Picornaviridae-HMM1754-2196_19.0-ORF71
+seq464	>nrnt-GQ223227 Human rhinovirus C isolate N4, complete genome.-table4-Picornaviridae-HMM1807-2249_19.0-ORF85
+seq465	>nrnt-EU151450 Swine vesicular disease virus strain SVDV Itl. 1-92 polyprotein mRNA, complete cds.-table6-Picornaviridae-HMM1779-2224_19.0-ORF87
+seq466	>nrnt-DQ995644 Human coxsackievirus A13 strain USA/Ca98-10615, complete genome.-table6-Picornaviridae-HMM1781-2226_19.0-ORF83
+seq467	>nrnt-EF015030 Human coxsackievirus A21 strain BAN00-10552 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1776-2221_19.0-ORF75
+seq468	>nrnt-EF015028 Human coxsackievirus A21 strain GUT88-10687 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1770-2215_19.0-ORF77
+seq469	>nrnt-EF015026 Human coxsackievirus A21 strain USA-Az94-10621 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1928-2373_18.0-ORF79
+seq470	>nrnt-EF015008 Human enterovirus 99 strain BAN00-10461 polyprotein gene, complete cds.-table4-Picornaviridae-HMM1778-2222_19.0-ORF92
+seq471	>nrnt-DQ916376 Human enterovirus 94 isolate E210, complete genome.-table6-Picornaviridae-HMM1785-2230_19.0-ORF79
+seq472	>nrnt-DQ473510 Human rhinovirus 75, complete genome.-table6-Picornaviridae-HMM1748-2192_20.0-ORF68
+seq473	>nrnt-DQ473506 Human rhinovirus 46, complete genome.-table1-Picornaviridae-HMM1727-2169_20.0-ORF70
+seq474	>nrnt-DQ473493 Human rhinovirus 15, complete genome.-table4-Picornaviridae-HMM1752-2195_20.0-ORF78
+seq475	>nrnt-DQ473491 Human rhinovirus 41, complete genome.-table4-Picornaviridae-HMM1752-2195_20.0-ORF87
+seq476	>nrnt-DQ473490 Human rhinovirus 4, complete genome.-table6-Picornaviridae-HMM1767-2211_19.0-ORF68
+seq477	>nrnt-AY843306 Human enterovirus 88 strain BAN01-10398, complete genome.-table6-Picornaviridae-HMM1860-2306_19.0-ORF80
+seq478	>nrnt-AY843302 Human enterovirus 77 strain USA/TX97-10394, complete genome.-table6-Picornaviridae-HMM1791-2236_19.0-ORF74
+seq479	>nrnt-AY593849 Foot-and-mouth disease virus SAT 2 isolate sat2-3kenya-21, complete genome.-table4-Picornaviridae-HMM1950-2403_18.0-ORF53
+seq480	>nrnt-AY421767 Human coxsackievirus A10 strain Kowalik, complete genome.-table6-Picornaviridae-HMM1764-2209_19.0-ORF75
+seq481	>nrnt-AY421766 Human coxsackievirus A8 strain Donovan, complete genome.-table6-Picornaviridae-HMM1791-2236_19.0-ORF81
+seq482	>nrnt-AF029859 Echovirus 1 (strain Farouk / ATCC VR-1038) polyprotein precursor, gene, complete cds.-table6-Picornaviridae-HMM1785-2231_19.0-ORF77
+seq483	>nrnt-AF123432 Bovine enterovirus isolate K2577, complete genome.-table4-Picornaviridae-HMM1764-2207_20.0-ORF70
+seq484	>nrnt-AF055846 Echovirus 23 strain CT86-6760, complete genome.-table6-Picornaviridae-HMM1756-2211_20.0-ORF85
+seq485	>nrnt-AY302560 Enterovirus 69 strain Toluca-1 complete genome.-table6-Picornaviridae-HMM1899-2345_18.0-ORF74
+seq486	>nrnt-AY302550 Human echovirus 26 strain Coronel complete genome.-table6-Picornaviridae-HMM1794-2240_19.0-ORF77
+seq487	>nrnt-AY302543 Human echovirus 17 strain CHHE-29 complete genome.-table6-Picornaviridae-HMM1992-2438_18.0-ORF76
+seq488	>nrnt-AY302542 Human echovirus 16 strain Harrington complete genome.-table6-Picornaviridae-HMM1797-2243_19.0-ORF73
+seq489	>nrnt-AY302540 Human echovirus 14 strain Tow complete genome.-table6-Picornaviridae-HMM1774-2220_19.0-ORF79
+seq490	>nrnt-EF015886 Human enterovirus 96 strain BAN00-10488, complete genome.-table6-Picornaviridae-HMM1809-2254_19.0-ORF74
+seq491	>nrnt-DQ409190 Foot-and-mouth disease virus - type C isolate C-S8p460d951, complete genome.-table6-Picornaviridae-HMM1615-2068_21.0-ORF93
+seq492	>nrnt-AY556070 Enterovirus 75 strain USA/OK85-10362, complete genome.-table6-Picornaviridae-HMM1794-2239_19.0-ORF81
+seq493	>nrnt-AY556057 Enterovirus 74 strain USA/CA75-10213, complete genome.-table6-Picornaviridae-HMM1789-2235_19.0-ORF79
+seq494	>nrnt-AY426531 Human enterovirus 68 strain Fermon, complete genome.-table6-Picornaviridae-HMM1769-2213_19.0-ORF75
+seq495	>nrnt-EU716175 Human parechovirus 8 isolate BR/217/2006, complete genome.-table6-Picornaviridae-HMM1742-2197_20.0-ORF92
+seq496	>nrnt-EF667344 Human enterovirus 92 strain RJG7, complete genome.-table6-Picornaviridae-HMM1844-2289_19.0-ORF73
+seq497	>nrnt-EF667343 Simian enterovirus 46 strain RNM5, complete genome.-table6-Picornaviridae-HMM1833-2278_19.0-ORF77
+seq498	>nrnt-EF634316 Human echovirus 11 strain D207, complete genome.-table6-Picornaviridae-HMM1860-2306_19.0-ORF79
+seq499	>nrnt-CXA9CG Human coxsackievirus A9 genomic RNA, complete genome, strain: Griggs.-table6-Picornaviridae-HMM1802-2248_19.0-ORF75
+seq500	>nrnt-EF582386 Human rhinovirus C strain 025, complete genome.-table4-Picornaviridae-HMM1830-2272_19.0-ORF85
+seq501	>nrnt-DQ902712 Human enterovirus 84 isolate CIV2003-10603, complete genome.-table6-Picornaviridae-HMM1793-2238_19.0-ORF85
+seq502	>nrnt-EF173415 Human rhinovirus 12, complete genome.-table6-Picornaviridae-HMM1746-2189_20.0-ORF70
+seq503	>nrnt-AM235750 Human parechovirus 4 complete genome, genomic RNA, strain T75-4077.-table6-Picornaviridae-HMM1761-2216_20.0-ORF86
+seq504	>nrnt-X77708 Echovirus type 12, prototype Travis complete RNA genome.-table6-Picornaviridae-HMM1852-2298_18.0-ORF86
+seq505	>nrnt-X84981 Echovirus 9 (strain Hill), complete genome.-table6-Picornaviridae-HMM1794-2240_19.0-ORF80
+seq506	>nrnt-AJ293918 Human poliovirus type 3 complete genome, live-attenuated strain USOL-D-bac, genomic RNA.-table6-Picornaviridae-HMM1796-2240_19.0-ORF72
+seq507	>nrnt-AF363455 Porcine enterovirus 10 strain LP 54 polyprotein gene, complete cds.-table6-Picornaviridae-HMM1766-2211_19.0-ORF86
+seq508	>nrnt-AF230973 Enterovirus Yanbian 96-83csf, complete genome.-table4-Picornaviridae-HMM32-302_80.0-ORF91
+seq509	>nrnt-X80059 Echo Virus 11 genomic DNA.-table6-Picornaviridae-HMM1846-2292_19.0-ORF82
+seq510	>tsa-GCNT01013248.1 TSA: Acanthogobius hasta CL5460.Contig1_All transcribed RNA sequence-table4-Picornaviridae-HMM349-604_34.0-ORF26
+seq511	>tsa-GFCK01035597.1 TSA: Alosa pseudoharengus c172260_g1_i1 transcribed RNA sequence-table6-Picornaviridae-HMM2-281_95.0-ORF10
+seq512	>tsa-GFCK01189915.1 (REVERSE SENSE) TSA: Alosa pseudoharengus c171098_g1_i1 transcribed RNA sequence-table1-Picornaviridae-HMM4-124_96.0-ORF12
+seq513	>tsa-GAYJ02042604.1 TSA: Atelura formicaria s18246_L_58722_0_a_56_6_l_5717 transcribed RNA sequence-table4-Picornaviridae-HMM363-682_16.0-ORF58
+seq514	>tsa-HADU01018453.1 (REVERSE SENSE) TSA: Bombina bombina, contig Contig13450, transcribed RNA sequence-table4-Picornaviridae-HMM10-164_93.0-ORF18
+seq515	>tsa-GEML01170039.1 TSA: Channa argus TRINITY_DN122778_c1_g1_i1 transcribed RNA sequence-table4-Picornaviridae-HMM326-577_34.0-ORF77
+seq516	>tsa-GBFA01001887.1 TSA: Chinavia ubica Locus_110776_Transcript_2/2_Confidence_0.750_Length_624 transcribed RNA sequence-table1-Picornaviridae-HMM23-197_84.0-ORF4
+seq517	>tsa-GELM01018420.1 TSA: Corynactis australis comp150672_c0_seq1 transcribed RNA sequence-table1-Picornaviridae-HMM4-108_91.0-ORF4
+seq518	>tsa-GBKA01003922.1 TSA: Ctenopharyngodon idella comp47162_c0 transcribed RNA sequence-table6-Picornaviridae-HMM5-388_95.0-ORF11
+seq519	>tsa-GEUQ01001951.1 TSA: Ctenopharyngodon idella c130138_g1 transcribed RNA sequence-table4-Picornaviridae-HMM1-191_81.0-ORF8
+seq520	>tsa-GDQH01022974.1 TSA: Danio rerio CG2_NonNorm_contig_22985 transcribed RNA sequence-table4-Picornaviridae-HMM1642-2094_20.0-ORF51
+seq521	>tsa-GDQQ01062284.1 (REVERSE SENSE) TSA: Danio rerio CG2_Norm_contig_62311 transcribed RNA sequence-table4-Picornaviridae-HMM391-843_49.0-ORF59
+seq522	>tsa-GFIL01030882.1 TSA: Danio rerio FDR_POLG.2.2 transcribed RNA sequence-table4-Picornaviridae-HMM1823-2266_19.0-ORF70
+seq523	>tsa-GBRM01028801.1 TSA: Elysia timida Eti039236_seq1 transcribed RNA sequence-table1-Picornaviridae-HMM358-515_27.0-ORF19
+seq524	>tsa-GAXW02021749.1 (REVERSE SENSE) TSA: Euroleon nostras C165768_a_16_0_l_5793 transcribed RNA sequence-table1-Picornaviridae-HMM1659-1915_13.0-ORF164
+seq525	>tsa-GBGO01016934.1 (REVERSE SENSE) TSA: Eurytemora affinis comp25424_c0_seq1 transcribed RNA sequence-table1-Picornaviridae-HMM1-376_98.0-ORF32
+seq526	>tsa-GBGO01016935.1 TSA: Eurytemora affinis comp25424_c0_seq2 transcribed RNA sequence-table1-Picornaviridae-HMM16-235_93.0-ORF8
+seq527	>tsa-GBGO01113798.1 TSA: Eurytemora affinis comp63531_c0_seq1 transcribed RNA sequence-table1-Picornaviridae-HMM1-143_99.0-ORF5
+seq528	>tsa-GFCV01125467.1 (REVERSE SENSE) TSA: Gammarus chevreuxi TRINITY_DN111745_c0_g1_i1 transcribed RNA sequence-table1-Picornaviridae-HMM2-121_92.0-ORF6
+seq529	>tsa-GALT01002306.1 (REVERSE SENSE) TSA: gut metagenome Locus22750v1rpkm23.42 transcribed RNA sequence-table6-Picornaviridae-HMM268-435_30.0-ORF39
+seq530	>tsa-GFAV01006143.1 TSA: Haliclona tubifera c40912_g1_i1 transcribed RNA sequence-table1-Picornaviridae-HMM279-498_43.0-ORF8
+seq531	>tsa-HAHA01040156.1 (REVERSE SENSE) TSA: Haliclystus auricula, contig TRINITY_DN34290_c0_g1_i1, transcribed RNA sequence-table1-Picornaviridae-HMM14-156_91.0-ORF15
+seq532	>tsa-HAHB01121323.1 (REVERSE SENSE) TSA: Haliclystus sanjuanensis, contig Hsan.121323, transcribed RNA sequence-table1-Picornaviridae-HMM18-157_88.0-ORF11
+seq533	>tsa-GEYR01000316.1 (REVERSE SENSE) TSA: Haliotis midae Contig_316_Coverage_54.45 transcribed RNA sequence-table1-Picornaviridae-HMM38-390_88.0-ORF32
+seq534	>tsa-GEHJ01002907.1 TSA: Ictalurus punctatus comp2829_c0_seq1 transcribed RNA sequence-table1-Picornaviridae-HMM2-218_99.0-ORF9
+seq535	>tsa-GEHJ01002908.1 (REVERSE SENSE) TSA: Ictalurus punctatus comp2829_c1_seq1 transcribed RNA sequence-table1-Picornaviridae-HMM43-259_83.0-ORF24
+seq536	>tsa-HACN01007857.1 (REVERSE SENSE) TSA: Lepidonotothen nudifrons, contig comp24274_c0_seq1, transcribed RNA sequence-table6-Picornaviridae-HMM679-1142_39.0-ORF99
+seq537	>tsa-GBDG01061503.1 TSA: Maylandia zebra comp10524_c0_seq1 transcribed RNA sequence-table4-Picornaviridae-HMM277-564_41.0-ORF30
+seq538	>tsa-GEMC01070170.1 TSA: Nasturtium officinale c41402_g1_i1 transcribed RNA sequence-table1-Picornaviridae-HMM1-100_82.0-ORF3
+seq539	>tsa-GAIB01005120.1 TSA: Nothobranchius furzeri Nofu_GRZ_cDNA_3_0007211 transcribed RNA sequence-table6-Picornaviridae-HMM730-1055_27.0-ORF40
+seq540	>tsa-GFRY01060916.1 TSA: Notospermus geniculatus TRINITY_DN199115_c0_g2_i1 transcribed RNA sequence-table1-Picornaviridae-HMM541-980_28.0-ORF49
+seq541	>tsa-GFIP01032861.1 TSA: Pantodon buchholzi C2PB_LVGP1.1.1 transcribed RNA sequence-table6-Picornaviridae-HMM1262-1717_26.0-ORF64
+seq542	>tsa-GCVQ01017122.1 TSA: Pimephales promelas TR21167_c0_g2_i1 transcribed RNA sequence-table6-Picornaviridae-HMM184-482_49.0-ORF72
+seq543	>tsa-GCVQ01017123.1 TSA: Pimephales promelas TR21167_c0_g2_i2 transcribed RNA sequence-table4-Picornaviridae-HMM267-565_42.0-ORF87
+seq544	>tsa-GCVQ01017124.1 TSA: Pimephales promelas TR21167_c0_g2_i3 transcribed RNA sequence-table6-Picornaviridae-HMM272-570_42.0-ORF72
+seq545	>tsa-GCVQ01017126.1 TSA: Pimephales promelas TR21167_c0_g2_i5 transcribed RNA sequence-table6-Picornaviridae-HMM184-482_53.0-ORF70
+seq546	>tsa-GCVQ01017127.1 TSA: Pimephales promelas TR21167_c0_g2_i6 transcribed RNA sequence-table4-Picornaviridae-HMM267-565_46.0-ORF86
+seq547	>tsa-GCVQ01017129.1 TSA: Pimephales promelas TR21167_c0_g2_i8 transcribed RNA sequence-table4-Picornaviridae-HMM267-565_46.0-ORF87
+seq548	>tsa-GCVQ01017130.1 TSA: Pimephales promelas TR21167_c0_g2_i9 transcribed RNA sequence-table6-Picornaviridae-HMM184-482_48.0-ORF73
+seq549	>tsa-GEGH01000105.1 (REVERSE SENSE) TSA: Polypedates megacephalus comp55633_c0 transcribed RNA sequence-table6-Picornaviridae-HMM1856-2319_19.0-ORF169
+seq550	>tsa-GFLZ01055660.1 TSA: Potamopyrgus antipodarum cds.comp299480_c0_seq1_m.253046 transcribed RNA sequence-table1-Picornaviridae-HMM3-92_78.0-ORF6
+seq551	>tsa-HAEU01115466.1 TSA: Proasellus coiffaiti, contig comp1239794_c0_seq1, transcribed RNA sequence-table1-Picornaviridae-HMM2-77_92.0-ORF2
+seq552	>tsa-HAEU01124447.1 (REVERSE SENSE) TSA: Proasellus coiffaiti, contig comp1887245_c0_seq1, transcribed RNA sequence-table1-Picornaviridae-HMM1-61_89.0-ORF5
+seq553	>tsa-IAAC01071124.1 TSA: Protobothrops mucrosquamatus RNA, contig: c61112_g1_i1, isolate: PMUCROS, transcribed RNA sequence-table1-Picornaviridae-HMM2-72_97.0-ORF3
+seq554	>tsa-GAVV02009294.1 (REVERSE SENSE) TSA: Pseudomallada prasinus C166451_a_3_0_l_252 transcribed RNA sequence-table1-Picornaviridae-HMM1-83_98.0-ORF10
+seq555	>tsa-GFMT01042300.1 TSA: Rhinella marina Rm183267t1 transcribed RNA sequence-table4-Picornaviridae-HMM6-336_94.0-ORF13
+seq556	>tsa-GFDQ01003614.1 TSA: Sturnus vulgaris TRINITY_DN29556_c0_g1_i1 transcribed RNA sequence-table6-Picornaviridae-HMM1-168_81.0-ORF11
+seq557	>tsa-GFDQ01013267.1 TSA: Sturnus vulgaris TRINITY_DN41383_c0_g1_i1 transcribed RNA sequence-table4-Picornaviridae-HMM2-111_93.0-ORF5
+seq558	>tsa-GAEH01003181.1 TSA: Ruditapes philippinarum isotig17585_isogroup06052 mRNA sequence-table6-Picornaviridae-HMM8-114_92.0-ORF10

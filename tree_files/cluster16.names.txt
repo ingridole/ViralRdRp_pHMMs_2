@@ -1,0 +1,218 @@
+seq1	>ref-NC_003790.1 Chicken astrovirus, complete genome-table4-Astroviridae-HMM53-511_86.0-ORF53
+seq2	>ref-NC_004579.1 Mink astrovirus, complete genome-table4-Astroviridae-HMM72-539_35.0-ORF57
+seq3	>ref-NC_002469.1 Ovine astrovirus, complete genome-table6-Astroviridae-HMM76-547_85.0-ORF42
+seq4	>ref-NC_005790.1 Turkey astrovirus 2, complete genome-table4-Astroviridae-HMM75-537_35.0-ORF77
+seq5	>ref-NC_002470.1 Turkey astrovirus, complete genome-table4-Astroviridae-HMM77-535_37.0-ORF78
+seq6	>ref-NC_001943.1 Human astrovirus, complete genome-table6-Astroviridae-HMM66-526_85.0-ORF46
+seq7	>ref-NC_011400.1 Astrovirus MLB1, complete genome-table6-Astroviridae-HMM51-507_77.0-ORF35
+seq8	>ref-NC_012437.1 Duck astrovirus C-NGB, complete genome-table6-Astroviridae-HMM66-530_74.0-ORF60
+seq9	>ref-NC_013443.1 HMO Astrovirus A, complete genome-table6-Astroviridae-HMM78-548_77.0-ORF44
+seq10	>ref-NC_013060.1 Astrovirus VA1, complete genome-table6-Astroviridae-HMM78-548_76.0-ORF38
+seq11	>ref-NC_015935.1 Mouse astrovirus M-52/USA/2008, complete genome-table6-Astroviridae-HMM90-556_82.0-ORF38
+seq12	>ref-NC_016155.1 Astrovirus MLB2, complete genome-table6-Astroviridae-HMM51-507_77.0-ORF39
+seq13	>ref-NC_016896.1 Astrovirus wild boar/WBAstV-1/2011/HUN, complete genome-table6-Astroviridae-HMM81-536_72.0-ORF35
+seq14	>ref-NC_019027.1 Astrovirus VA4 isolate VA4/human/Nepal/s5363, complete genome-table6-Astroviridae-HMM78-548_77.0-ORF43
+seq15	>ref-NC_019028.1 Astrovirus MLB3 isolate MLB3/human/Vellore/26564/2004, complete genome-table6-Astroviridae-HMM51-507_77.0-ORF35
+seq16	>ref-NC_018702.1 Murine astrovirus, complete genome-table6-Astroviridae-HMM78-532_76.0-ORF40
+seq17	>ref-NC_019026.1 Astrovirus VA3 isolate VA3/human/Vellore/28054/2005, complete genome-table6-Astroviridae-HMM78-548_77.0-ORF43
+seq18	>ref-NC_019494.1 Porcine astrovirus 3 isolate US-MO123, complete genome-table6-Astroviridae-HMM81-551_84.0-ORF44
+seq19	>ref-NC_022249.1 Feline astrovirus 2 strain 1637F, complete genome-table6-Astroviridae-HMM63-523_73.0-ORF44
+seq20	>ref-NC_023630.1 Bovine astrovirus B76-2/HK, complete genome-table6-Astroviridae-HMM96-548_70.0-ORF33
+seq21	>ref-NC_023674.1 Porcine astrovirus 2 strain 43/USA, complete genome-table6-Astroviridae-HMM98-550_70.0-ORF35
+seq22	>ref-NC_023631.1 Bovine astrovirus B18/HK, complete genome-table6-Astroviridae-HMM96-548_70.0-ORF37
+seq23	>ref-NC_023636.1 Porcine astrovirus 5 isolate AstV5-US-IA122, complete genome-table6-Astroviridae-HMM83-533_74.0-ORF36
+seq24	>ref-NC_023675.1 Porcine astrovirus 4 strain 35/USA, complete genome-table6-Astroviridae-HMM52-506_75.0-ORF35
+seq25	>ref-NC_023629.1 Bovine astrovirus B76/HK, complete genome-table6-Astroviridae-HMM96-548_58.0-ORF40
+seq26	>ref-NC_023632.1 Bovine astrovirus B170/HK, complete genome-table6-Astroviridae-HMM96-548_62.0-ORF38
+seq27	>ref-NC_024701.1 Feline astrovirus D1 isolate FAstV-D1, complete genome-table6-Astroviridae-HMM85-552_71.0-ORF41
+seq28	>ref-NC_024498.1 Bovine astrovirus CH13, complete genome-table4-Astroviridae-HMM82-556_83.0-ORF43
+seq29	>ref-NC_024297.1 Bovine astrovirus strain BAstV-GX7/CHN/2014, complete genome-table6-Astroviridae-HMM96-548_70.0-ORF33
+seq30	>ref-NC_024472.1 Human astrovirus BF34, complete genome-table6-Astroviridae-HMM76-546_76.0-ORF43
+seq31	>ref-NC_025346.1 Rabbit astrovirus TN/2208/2010, complete genome-table6-Astroviridae-HMM80-540_77.0-ORF43
+seq32	>ref-NC_025379.1 Mamastrovirus 3 isolate PAstV-GX1, complete genome-table6-Astroviridae-HMM954-1414_31.0-ORF42
+seq33	>ref-NC_026814.1 Canine astrovirus strain Gillingham/2012/UK, complete genome-table6-Astroviridae-HMM67-527_85.0-ORF36
+seq34	>ref-NC_027426.1 Astrovirus Er/SZAL6/HUN/2011, complete genome-table6-Astroviridae-HMM81-539_63.0-ORF41
+seq35	>ref-NC_027711.1 Dromedary astrovirus isolate DcAstV-274, complete genome-table6-Astroviridae-HMM70-522_73.0-ORF38
+seq36	>ref-NC_030922.1 Mamastrovirus 1 genomic RNA, complete genome, isolate: V1347-table6-Astroviridae-HMM967-1427_31.0-ORF46
+seq37	>ref-NC_032439.1 Beihai astro-like virus strain BHWZXX13371 putative protease, RNA-dependent RNA polymerase, and putative capsid genes, complete cds-table6-Astroviridae-HMM69-469_76.0-ORF44
+seq38	>ref-NC_032893.1 Changjiang astro-like virus strain CJLX30757 putative protease, hypothetical protein, RNA-dependent RNA polymerase, and putative capsid protein genes, complete cds-table6-Astroviridae-HMM154-535_62.0-ORF35
+seq39	>ref-NC_033792.1 Qinghai Himalayan marmot astrovirus 1 isolate HHMAstV1, complete genome-table6-Astroviridae-HMM66-531_73.0-ORF44
+seq40	>ref-NC_033821.1 Qinghai Himalayan marmot astrovirus 2 isolate HHMAstV2, complete genome-table6-Astroviridae-HMM70-531_78.0-ORF46
+seq41	>ref-NC_034567.1 Goose astrovirus isolate FLX, complete sequence-table4-Astroviridae-HMM101-563_82.0-ORF55
+seq42	>ref-NC_034974.1 Mamastrovirus 2 isolate K321, complete genome-table6-Astroviridae-HMM70-522_75.0-ORF33
+seq43	>ref-NC_036583.1 Rodent astrovirus isolate GX-006, complete genome-table6-Astroviridae-HMM55-509_74.0-ORF39
+seq44	>nrnt-MF772821 Goose astrovirus strain AAstV/Goose/CHN/2017/SD01, partial genome.-table4-Astroviridae-HMM118-581_35.0-ORF72
+seq45	>nrnt-MF175073 Murine astrovirus 2 isolate MAV2/NYC/2014/M007/0090, partial genome.-table4-Astroviridae-HMM122-585_77.0-ORF33
+seq46	>nrnt-KY855439 Marmot astrovirus 3 strain HT12, complete genome.-table6-Astroviridae-HMM54-508_74.0-ORF39
+seq47	>nrnt-KY855437 Marmot astrovirus 1 strain HT10, complete genome.-table6-Astroviridae-HMM70-531_73.0-ORF47
+seq48	>nrnt-MH028405 Avian nephritis virus 2 strain AVE52/ANV2, complete genome.-table4-Astroviridae-HMM122-580_76.0-ORF48
+seq49	>nrnt-MG599912 Zhejiang gunthers frog astrovirus strain TQSWC31946 ORF1ab gene, complete cds; and capsid protein gene, partial cds.-table4-Astroviridae-HMM114-492_68.0-ORF47
+seq50	>nrnt-MG599904 Guangdong chinese water snake astrovirus strain LPSF9635 ORF1ab gene, partial cds; and capsid protein gene, complete cds.-table4-Astroviridae-HMM158-549_64.0-ORF42
+seq51	>nrnt-MG599899 Wenling righteye flounders astrovirus strain XYHYG25184 ORF1ab gene, complete cds; and capsid protein gene, partial cds.-table6-Astroviridae-HMM89-496_60.0-ORF45
+seq52	>nrnt-MG599895 Wenling rattails astrovirus 2 strain XYHYC187426 ORF1ab gene, partial cds; and capsid protein gene, complete cds.-table6-Astroviridae-HMM86-498_77.0-ORF46
+seq53	>nrnt-MG599888 Wenzhou pacific spadenose shark astrovirus 3 strain DWXCSC2095 ORF1ab gene, partial cds; and capsid protein gene, complete cds.-table6-Astroviridae-HMM54-459_74.0-ORF36
+seq54	>nrnt-MG599886 Dongbei arctic lamprey astrovirus 3 strain QSMC2427 ORF1ab gene, partial cds; and capsid protein gene, complete cds.-table6-Astroviridae-HMM94-501_54.0-ORF40
+seq55	>nrnt-MG599935 Nanhai ghost shark astrovirus 2 strain NHYJC33085 ORF1b and capsid protein genes, partial cds.-table6-Astroviridae-HMM23-393_62.0-ORF16
+seq56	>nrnt-MG599934 Nanhai ghost shark astrovirus 1 strain NHYJC32427 ORF1b gene, partial cds; and capsid protein gene, complete cds.-table6-Astroviridae-HMM1-400_81.0-ORF18
+seq57	>nrnt-MG599931 Beihai tree frog astrovirus strain GDSWC169064 ORF1ab gene, partial cds; and capsid protein gene, complete cds.-table6-Astroviridae-HMM89-546_35.0-ORF57
+seq58	>nrnt-MG599922 Wenling bighead beaked sandfish astrovirus strain XQTMC51418 ORF1ab gene, partial cds; and capsid protein gene, complete cds.-table4-Astroviridae-HMM86-495_68.0-ORF30
+seq59	>nrnt-MG599920 Guangdong chinese water skink astrovirus strain ZGLXR62176 ORF1ab and capsid protein genes, partial cds.-table4-Astroviridae-HMM225-602_53.0-ORF54
+seq60	>nrnt-MG599919 Hainan oriental leaf-toed gecko astrovirus 2 strain LPXYC178500 ORF1b and capsid protein genes, complete cds.-table4-Astroviridae-HMM66-531_87.0-ORF24
+seq61	>nrnt-MG599918 Hainan oriental leaf-toed gecko astrovirus 1 strain LPXYC174317 ORF1ab gene, partial cds; and capsid protein gene, complete cds.-table6-Astroviridae-HMM82-544_81.0-ORF44
+seq62	>nrnt-MG599917 Hainan gekko similignum astrovirus strain LPXYC188631 ORF1a gene, partial cds; and ORF1b and capsid protein genes, complete cds.-table6-Astroviridae-HMM131-594_32.0-ORF67
+seq63	>nrnt-MG599916 Zhejiang chinese fire belly newt astrovirus 2 strain DFRYG3998 ORF1ab gene, partial cds; and capsid protein gene, complete cds.-table6-Astroviridae-HMM131-592_77.0-ORF22
+seq64	>nrnt-MG599909 Hainan marbled pigmy frog astrovirus 2 strain HJWCGF4863 ORF1ab gene, partial cds; and capsid protein gene, complete cds.-table4-Astroviridae-HMM128-504_64.0-ORF41
+seq65	>nrnt-MG599907 Yili teratoscincus roborowskii astrovirus strain LPWC210211 ORF1ab gene, partial cds; and capsid protein gene, complete cds.-table6-Astroviridae-HMM171-548_46.0-ORF48
+seq66	>nrnt-MG599906 Hainan leptobrachium hainanense astrovirus strain LPWC162729 ORF1ab gene, partial cds; and capsid protein gene, complete cds.-table6-Astroviridae-HMM108-489_62.0-ORF40
+seq67	>nrnt-MG599905 Guangdong sanke astrovirus strain LPSF12373 ORF1ab gene, partial cds; and capsid protein gene, complete cds.-table4-Astroviridae-HMM176-563_60.0-ORF40
+seq68	>nrnt-MG599900 Wenling japanese thread-sail fish astrovirus strain XYHYG25325 ORF1ab gene, partial cds; and capsid protein gene, complete cds.-table6-Astroviridae-HMM91-507_76.0-ORF22
+seq69	>nrnt-MG599896 Wenling rattails astrovirus 3 strain XYHYC189285 ORF1a gene, partial cds; and ORF1b and capsid protein genes, complete cds.-table4-Astroviridae-HMM72-470_74.0-ORF16
+seq70	>nrnt-MG599894 Wenling snipefish astrovirus strain XYHYC165335 ORF1ab and capsid protein genes, partial cds.-table6-Astroviridae-HMM89-482_44.0-ORF31
+seq71	>nrnt-MG599891 Dongbei arctic lamprey astrovirus 1 strain QSMS31209 ORF1ab gene, complete cds; and capsid protein gene, partial cds.-table4-Astroviridae-HMM97-516_76.0-ORF51
+seq72	>nrnt-MG599889 Wenzhou pacific spadenose shark astrovirus 2 strain RGYQSMGReov43317 ORF1ab gene, partial cds; and capsid protein gene, complete cds.-table4-Astroviridae-HMM101-527_75.0-ORF38
+seq73	>nrnt-MG599884 Wenling perciformes astrovirus 2 strain LXMC185503 ORF1a and ORF1b genes, complete cds; and capsid protein gene, partial cds.-table4-Astroviridae-HMM101-511_75.0-ORF51
+seq74	>nrnt-MG599880 Wuhan japanese halfbeak astrovirus strain DSYS1394 ORF1a gene, partial cds; ORF1b gene, complete cds; and capsid protein gene, partial cds.-table4-Astroviridae-HMM104-488_65.0-ORF22
+seq75	>nrnt-MG599936 Wenling japanese topeshark astrovirus strain RBCSC17455 ORF1ab and capsid protein genes, complete cds.-table4-Astroviridae-HMM90-480_66.0-ORF41
+seq76	>nrnt-MG599933 Guangxi changeable lizard astrovirus strain GXSXC128985 ORF1ab and capsid protein genes, complete cds.-table4-Astroviridae-HMM303-686_48.0-ORF42
+seq77	>nrnt-MG599932 Beihai tree frog astrovirus strain GDSWC170753 ORF1ab and capsid protein genes, complete cds.-table6-Astroviridae-HMM75-455_56.0-ORF44
+seq78	>nrnt-MG599930 Yancheng grey stingfish astrovirus strain XYXMC57263 ORF1ab and capsid protein genes, complete cds.-table6-Astroviridae-HMM100-503_62.0-ORF51
+seq79	>nrnt-MG599928 Wenling yellow-striped sandperch astrovirus strain XLXMC35036 ORF1ab and capsid protein genes, complete cds.-table4-Astroviridae-HMM84-508_79.0-ORF49
+seq80	>nrnt-MG599926 Beihai fish astrovirus 1 strain XDXMG13821 ORF1ab and capsid protein genes, complete cds.-table6-Astroviridae-HMM68-475_67.0-ORF53
+seq81	>nrnt-MG599925 Wenling crossorhombus astrovirus 2 strain XDXMC21452 ORF1ab and capsid protein genes, complete cds.-table4-Astroviridae-HMM73-489_74.0-ORF61
+seq82	>nrnt-MG599924 Wenling crossorhombus astrovirus 1 strain XDXMC21409 ORF1ab and capsid protein genes, complete cds.-table4-Astroviridae-HMM74-489_78.0-ORF46
+seq83	>nrnt-MG599923 Wenling plagiopsetta astrovirus strain XDXMC10209 ORF1ab and capsid protein genes, complete cds.-table4-Astroviridae-HMM68-471_67.0-ORF48
+seq84	>nrnt-MG599921 Wenling longspine snipefish astrovirus strain XQTMC49337 ORF1ab and capsid protein genes, complete cds.-table6-Astroviridae-HMM67-472_32.0-ORF66
+seq85	>nrnt-MG599915 Zhejiang chinese fire belly newt astrovirus 3 strain DFRYG3979V2 ORF1ab and capsid protein genes, complete cds.-table4-Astroviridae-HMM153-530_55.0-ORF45
+seq86	>nrnt-MG599914 Zhejiang chinese fire belly newt astrovirus 1 strain DFRYG3979V1 ORF1ab and capsid protein genes, complete cds.-table4-Astroviridae-HMM161-538_55.0-ORF45
+seq87	>nrnt-MG599911 Huanan hylidae astrovirus strain HNYWC54030 ORF1ab and capsid protein genes, complete cds.-table4-Astroviridae-HMM128-516_61.0-ORF43
+seq88	>nrnt-MG599910 Hainan black-spectacled toad astrovirus 2 strain HKCCC7872 ORF1ab and capsid protein genes, complete cds.-table6-Astroviridae-HMM57-521_81.0-ORF40
+seq89	>nrnt-MG599908 Hainan marbled pigmy frog astrovirus 1 strain HJWCGF4813 ORF1ab and capsid protein genes, complete cds.-table6-Astroviridae-HMM80-458_65.0-ORF42
+seq90	>nrnt-MG599903 Wuhan asiatic toad astrovirus strain WHHM73969 ORF1ab and capsid protein genes, complete cds.-table6-Astroviridae-HMM78-466_67.0-ORF46
+seq91	>nrnt-MG599901 Wenling lepidotrigla astrovirus strain YXMC64648 ORF1ab and capsid protein genes, complete cds.-table4-Astroviridae-HMM74-484_65.0-ORF58
+seq92	>nrnt-MG599898 Wenling rattails astrovirus 5 strain XYHYC190343 polyprotein gene, complete cds.-table4-Astroviridae-HMM105-517_35.0-ORF53
+seq93	>nrnt-MG599897 Wenling rattails astrovirus 4 strain XYHYC192174 ORF1a, ORF1b, and capsid protein genes, complete cds.-table4-Astroviridae-HMM288-705_57.0-ORF39
+seq94	>nrnt-MG599893 Wenling rattails astrovirus 1 strain XYHYC191403 ORF1ab and capsid protein genes, complete cds.-table6-Astroviridae-HMM95-492_69.0-ORF53
+seq95	>nrnt-MG599892 Dongbei arctic lamprey astrovirus 4 strain QSMS17426 ORF1a, ORF1b, and capsid protein genes, complete cds.-table4-Astroviridae-HMM76-484_75.0-ORF53
+seq96	>nrnt-MG599890 Dongbei arctic lamprey astrovirus 2 strain QSMS18873 ORF1ab and capsid protein genes, complete cds.-table6-Astroviridae-HMM149-579_73.0-ORF54
+seq97	>nrnt-MG599887 Dongtou red stingray astrovirus strain DTHH2075 ORF1ab and capsid protein genes, complete cds.-table4-Astroviridae-HMM89-484_68.0-ORF46
+seq98	>nrnt-MG599883 Beihai cephalopholis spiloparaea astrovirus strain LXMC182963 hypothetical protein, ORF1ab, and capsid protein genes, complete cds.-table4-Astroviridae-HMM217-610_33.0-ORF52
+seq99	>nrnt-MG599882 Wenling banjofish astrovirus strain LXMC75461 ORF1a, ORF1b, and capsid protein genes, complete cds.-table4-Astroviridae-HMM84-479_43.0-ORF42
+seq100	>ref-NC_034975 California sea lion astrovirus 2 RNA-dependent RNA polymerase gene, partial cds; and capsid protein gene, complete cds.-table6-Astroviridae-HMM1-324_81.0-ORF11
+seq101	>nrnt-EU847145 Mamastrovirus 16 isolate AFCD11 polyprotein 1AB gene, partial cds; and capsid protein precursor, gene, complete cds.-table4-Astroviridae-HMM1-246_88.0-ORF9
+seq102	>nrnt-EU847144 Mamastrovirus 14 isolate AFCD57 polyprotein 1AB gene, partial cds; and capsid protein precursor, gene, complete cds.-table6-Astroviridae-HMM1-247_70.0-ORF11
+seq103	>nrnt-FJ890355 Bottlenose dolphin astrovirus 1 RNA-dependent RNA polymerase gene, partial cds; and capsid protein gene, complete cds.-table6-Astroviridae-HMM2-468_96.0-ORF19
+seq104	>nrnt-FJ890354 Steller sea lion astrovirus 1 RNA-dependent RNA polymerase and capsid protein genes, partial cds.-table4-Astroviridae-HMM1-245_54.0-ORF13
+seq105	>nrnt-FJ890351 Mamastrovirus 11 RNA-dependent RNA polymerase gene, partial cds; and capsid protein gene, complete cds.-table6-Astroviridae-HMM1-249_71.0-ORF10
+seq106	>nrnt-EU847155 Mamastrovirus 18 isolate AFCD337 polyprotein 1AB and polyprotein 1a genes, partial cds; and capsid protein precursor, gene, complete cds.-table6-Astroviridae-HMM77-547_81.0-ORF21
+seq107	>nrnt-EU847154 Bat astrovirus 1 isolate WCF214 polyprotein 1AB gene, partial cds.-table6-Astroviridae-HMM83-549_84.0-ORF25
+seq108	>nrnt-EU847152 Bat astrovirus 1 isolate AFCD74 polyprotein 1AB gene, partial cds.-table4-Astroviridae-HMM100-565_82.0-ORF26
+seq109	>nrnt-EU847151 Bat astrovirus 1 isolate AFCD77 polyprotein 1AB gene, partial cds.-table4-Astroviridae-HMM91-556_83.0-ORF28
+seq110	>nrnt-EU847150 Bat astrovirus 1 isolate AFCD82 polyprotein 1AB gene, partial cds.-table6-Astroviridae-HMM84-549_84.0-ORF24
+seq111	>nrnt-EU847149 Bat astrovirus 1 isolate WCF4 polyprotein 1AB gene, partial cds.-table4-Astroviridae-HMM90-555_83.0-ORF25
+seq112	>nrnt-EU847147 Bat astrovirus 1 isolate WCF98 polyprotein 1AB gene, partial cds.-table6-Astroviridae-HMM73-537_86.0-ORF21
+seq113	>nrnt-EU847146 Bat astrovirus 1 isolate WCF140 polyprotein 1AB gene, partial cds.-table6-Astroviridae-HMM74-539_86.0-ORF20
+seq114	>nrnt-KY412126 Porcine astrovirus 2 strain GXNN144/2014 RNA-dependent RNA polymerase gene, partial cds; and capsid protein gene, complete cds.-table6-Astroviridae-HMM1-108_32.0-ORF4
+seq115	>nrnt-KY412124 Porcine astrovirus 2 strain GXBS5/2013 RNA-dependent RNA polymerase gene, partial cds; and capsid protein gene, complete cds.-table6-Astroviridae-HMM1-130_57.0-ORF2
+seq116	>nrnt-KT946735 Rodent astrovirus isolate HN-014, partial genome.-table6-Astroviridae-HMM55-509_74.0-ORF38
+seq117	>nrnt-KT946734 Rodent astrovirus isolate HK-1998F, complete genome.-table4-Astroviridae-HMM110-573_77.0-ORF36
+seq118	>nrnt-KT946731 Rodent astrovirus isolate HK-CWRN1RV, complete genome.-table6-Astroviridae-HMM57-511_74.0-ORF36
+seq119	>nrnt-KT946730 Rodent astrovirus isolate HK-25315A, complete genome.-table6-Astroviridae-HMM58-512_65.0-ORF43
+seq120	>nrnt-LT898434 Mamastrovirus 3 isolate PAstV/GER/L00855-K14_14-04/2014 genome assembly, complete genome: monopartite.-table6-Astroviridae-HMM70-522_73.0-ORF33
+seq121	>nrnt-KY214438 Porcine astrovirus 2/BEL/15V010 isolate 15V010 ORF1, ORF1ab, and ORF2 genes, complete cds.-table6-Astroviridae-HMM70-522_73.0-ORF42
+seq122	>nrnt-KY933399 Mamastrovirus 3 isolate U460 polyprotein, nonstructural protein, and capsid protein genes, partial cds.-table6-Astroviridae-HMM81-552_84.0-ORF34
+seq123	>nrnt-KY933398 Mamastrovirus 4 isolate K456 polyprotein, nonstructural protein, and capsid protein genes, complete cds.-table6-Astroviridae-HMM52-506_75.0-ORF38
+seq124	>nrnt-KY940077 Mamastrovirus 2 isolate U083, complete genome.-table6-Astroviridae-HMM70-522_73.0-ORF34
+seq125	>nrnt-KY940075 Mamastrovirus 4 isolate K451, partial genome.-table6-Astroviridae-HMM53-507_75.0-ORF35
+seq126	>nrnt-LC201615 Porcine astrovirus 5 genes for ORF1ab, ORF1a, ORF2, complete cds, strain: PoAstV5/JPN/HgTa2-1-3/2015.-table6-Astroviridae-HMM79-529_75.0-ORF39
+seq127	>nrnt-LC201613 Porcine astrovirus 4 genes for ORF1ab, ORF1a, ORF2, complete cds, strain: PoAstV4/JPN/Ishi-Ya7-1/2015.-table6-Astroviridae-HMM52-506_75.0-ORF40
+seq128	>nrnt-LC201609 Porcine astrovirus 4 genes for ORF1ab, ORF1a, ORF2, complete cds, strain: PoAstV4/JPN/MoI2-1-1/2015.-table6-Astroviridae-HMM52-506_75.0-ORF39
+seq129	>nrnt-LC201606 Porcine astrovirus 4 genes for ORF1ab, ORF1a, ORF2, complete cds, strain: PoAstV4/JPN/HgTa2-1-1/2015.-table6-Astroviridae-HMM52-506_75.0-ORF38
+seq130	>nrnt-LC201605 Porcine astrovirus 4 genes for ORF1ab, ORF1a, ORF2, complete cds, strain: PoAstV4/JPN/HkKa2-1/2015.-table6-Astroviridae-HMM52-506_75.0-ORF37
+seq131	>nrnt-LC201601 Porcine astrovirus 4 genes for ORF1ab, ORF1a, ORF2, complete cds, strain: PoAstV4/JPN/Bu4-6-1/2014.-table6-Astroviridae-HMM52-506_75.0-ORF36
+seq132	>nrnt-LC201594 Porcine astrovirus 2 genes for ORF1ab, ORF1a, ORF2, complete cds, strain: PoAstV2/JPN/Iba-464-4-1/2015.-table6-Astroviridae-HMM98-550_58.0-ORF41
+seq133	>nrnt-LC201593 Porcine astrovirus 2 genes for ORF1ab, ORF1a, ORF2, complete cds, strain: PoAstV2/JPN/Ishi-Im3/2015.-table6-Astroviridae-HMM70-522_64.0-ORF38
+seq134	>nrnt-LC201592 Porcine astrovirus 2 genes for ORF1ab, ORF1a, ORF2, complete cds, strain: PoAstV2/JPN/Ishi-Ya8/2015.-table6-Astroviridae-HMM98-550_69.0-ORF34
+seq135	>nrnt-LC201591 Porcine astrovirus 2 genes for ORF1ab, ORF1a, ORF2, complete cds, strain: PoAstV2/JPN/Ishi-Ya7-2/2015.-table6-Astroviridae-HMM70-522_61.0-ORF31
+seq136	>nrnt-LC201590 Porcine astrovirus 2 genes for ORF1ab, ORF1a, ORF2, complete cds, strain: PoAstV2/JPN/Ishi-Ya6/2015.-table6-Astroviridae-HMM70-522_73.0-ORF36
+seq137	>nrnt-LC201589 Porcine astrovirus 2 genes for ORF1ab, ORF1a, ORF2, complete cds, strain: PoAstV2/JPN/Ishi-Ya4/2015.-table6-Astroviridae-HMM98-550_69.0-ORF37
+seq138	>nrnt-LC201588 Porcine astrovirus 2 genes for ORF1ab, ORF1a, ORF2, complete cds, strain: PoAstV2/JPN/HgYa2-3/2015.-table6-Astroviridae-HMM70-522_64.0-ORF41
+seq139	>nrnt-LC201587 Porcine astrovirus 2 genes for ORF1ab, ORF1a, ORF2, complete cds, strain: PoAstV2/JPN/HgOg2-4/2015.-table6-Astroviridae-HMM70-522_60.0-ORF30
+seq140	>nrnt-KT956903 Bovine astrovirus isolate CH15, partial genome.-table6-Astroviridae-HMM87-558_83.0-ORF38
+seq141	>nrnt-KX033447 Mamastrovirus 3 strain WBAstV/CH/2015, complete genome.-table6-Astroviridae-HMM52-506_75.0-ORF39
+seq142	>nrnt-KX599354 Canine astrovirus strain HUN/2012/8 ORF1b gene, partial cds; and ORF2 gene, complete cds.-table6-Astroviridae-HMM1-250_70.0-ORF8
+seq143	>nrnt-KX599352 Canine astrovirus strain HUN/2012/126, complete genome.-table6-Astroviridae-HMM58-518_79.0-ORF43
+seq144	>nrnt-KX060809 Porcine astrovirus 4 strain CH/JXZS/2014, complete genome.-table6-Astroviridae-HMM95-549_70.0-ORF38
+seq145	>nrnt-JF491430 Human astrovirus 3 isolate Rus-Nsc04-H355 putative serine protease gene, complete cds; putative RNA-dependent RNA polymerase gene, partial cds; and capsid precursor protein gene, complete cds.-table6-Astroviridae-HMM66-526_86.0-ORF43
+seq146	>nrnt-KX645667 Mamastrovirus sp. strain MAstV-13/LAP11-A0091 RdRp gene, partial cds; and capsid protein gene, complete cds.-table6-Astroviridae-HMM1-227_61.0-ORF9
+seq147	>nrnt-KT963071 Bovine astrovirus strain MAstV/Bov/ITA/2012/715 RNA-dependent RNA polymerase (ORF1) gene, partial cds; and capsid protein (ORF2) gene, complete cds.-table6-Astroviridae-HMM1-245_70.0-ORF9
+seq148	>nrnt-KT963070 Water buffalo astrovirus strain MAstV/Buf/ITA/2013/750 RNA-dependent RNA polymerase (ORF1ab) gene, partial cds; and capsid protein (ORF2) gene, complete cds.-table6-Astroviridae-HMM1-246_58.0-ORF10
+seq149	>nrnt-KT963069 Water buffalo astrovirus strain MAstV/Buf/ITA/2013/619 RNA-dependent RNA polymerase (ORF1ab) gene, partial cds; and capsid protein (ORF2) gene, complete cds.-table6-Astroviridae-HMM1-245_69.0-ORF6
+seq150	>nrnt-JN420359 California sea lion astrovirus 11 isolate 9822 nonstructural protein gene, complete cds; putative RNA-dependent RNA polymerase gene, partial cds; and capsid precursor protein gene, complete cds.-table6-Astroviridae-HMM66-526_85.0-ORF41
+seq151	>nrnt-JN420356 California sea lion astrovirus 9 isolate 1234 nonstructural protein gene, complete cds; putative RNA-dependent RNA polymerase gene, partial cds; and capsid precursor protein gene, complete cds.-table4-Astroviridae-HMM83-543_84.0-ORF48
+seq152	>nrnt-JN420352 California sea lion astrovirus 5 isolate 1148 nonstructural protein gene, complete cds; and putative RNA-dependent RNA polymerase and capsid precursor protein genes, partial cds.-table6-Astroviridae-HMM62-522_86.0-ORF40
+seq153	>nrnt-JN420351 California sea lion astrovirus 4 isolate 1136 nonstructural protein gene, complete cds; putative RNA-dependent RNA polymerase gene, partial cds; and capsid precursor protein gene, complete cds.-table4-Astroviridae-HMM81-541_84.0-ORF40
+seq154	>nrnt-HQ916315 Bovine astrovirus B34/HK nsp1ab and nsp1a genes, partial cds; and capsid protein precursor, gene, complete cds.-table6-Astroviridae-HMM70-522_64.0-ORF25
+seq155	>nrnt-HQ668143 Minke whale astrovirus 2 strain MH03-629 RNA-dependent RNA polymerase gene, partial cds; and capsid precursor and ORFX genes, complete cds.-table4-Astroviridae-HMM1-237_94.0-ORF6
+seq156	>nrnt-HQ668129 Bottlenose dolphin astrovirus 3 strain Tt23 RNA-dependent RNA polymerase gene, partial cds; and capsid precursor and ORFX genes, complete cds.-table6-Astroviridae-HMM1-237_77.0-ORF8
+seq157	>nrnt-HM756259 Astrovirus swine/PoAstV12-4/Canada/2006 RNA polymerase gene, partial cds; and capsid gene, complete cds.-table6-Astroviridae-HMM1-165_63.0-ORF4
+seq158	>nrnt-HM447046 Astrovirus deer/CcAstV-2/DNK/2010 RNA-dependent RNA polymerase gene, partial cds; and capsid protein gene, complete cds.-table6-Astroviridae-HMM2-233_69.0-ORF6
+seq159	>nrnt-HM447045 Astrovirus deer/CcAstV-1/DNK/2010 RNA-dependent RNA polymerase gene, partial cds; and capsid protein gene, complete cds.-table6-Astroviridae-HMM2-233_70.0-ORF5
+seq160	>nrnt-HM450381 Astrovirus rat/RS118/HKG/2007 ORF1a (ORF1a) and ORF1b (ORF1b) genes, partial cds; and ORF2 (ORF2) gene, complete cds.-table4-Astroviridae-HMM70-533_83.0-ORF23
+seq161	>nrnt-HM237363 Human astrovirus 6 isolate Katano, complete genome.-table6-Astroviridae-HMM66-526_86.0-ORF43
+seq162	>nrnt-HM045005 Astrovirus dogfaeces/Bari/2008 RNA-dependent polymerase (ORF1b) gene, partial cds; and capsid protein (ORF2) gene, complete cds.-table6-Astroviridae-HMM2-233_93.0-ORF7
+seq163	>nrnt-FJ571067 Bat astrovirus Tm/Guangxi/LD71/2007 non-structural polyprotein 1AB (pol) gene, partial cds; and capsid protein precursor (ORF2) gene, complete cds.-table6-Astroviridae-HMM71-541_78.0-ORF14
+seq164	>nrnt-FJ571065 Bat astrovirus Tm/Guangxi/LD38/2007 non-structural polyprotein 1AB (pol) gene, partial cds; and capsid protein precursor (ORF2) gene, complete cds.-table4-Astroviridae-HMM51-521_78.0-ORF16
+seq165	>nrnt-KU764486 Porcine astrovirus 4 isolate 15-12, complete genome.-table6-Astroviridae-HMM52-506_75.0-ORF39
+seq166	>nrnt-JF414802 Chicken astrovirus isolate GA2011, complete genome.-table6-Astroviridae-HMM58-525_34.0-ORF73
+seq167	>nrnt-KP982872 Porcine astrovirus 2 isolate Bel-12R021, complete genome.-table6-Astroviridae-HMM80-532_63.0-ORF33
+seq168	>nrnt-KT886453 Chicken astrovirus isolate CAstV/Poland/G059/2014 nonstructural polyprotein gene, partial cds; and RNA-dependent RNA polymerase and capsid precursor protein genes, complete cds.-table6-Astroviridae-HMM58-525_35.0-ORF67
+seq169	>nrnt-KJ495993 Porcine astrovirus 4 clone PFP-25_Subtype_4 ORF1ab gene, partial cds; and ORF2 gene, complete cds.-table6-Astroviridae-HMM1-234_71.0-ORF7
+seq170	>nrnt-KJ495987 Porcine astrovirus 2 clone KDC-6 ORF1ab gene, partial cds; and ORF2 gene, complete cds.-table6-Astroviridae-HMM1-279_73.0-ORF8
+seq171	>nrnt-KT003292 UNVERIFIED: Bat astrovirus Myl/YN/hsac2 capsid protein-like (ORF2) gene, partial sequence.-table6-Astroviridae-HMM2-236_44.0-ORF17
+seq172	>nrnt-KT003291 Bat astrovirus Hil/GX/bszt12 capsid protein (ORF2) gene, partial cds.-table6-Astroviridae-HMM2-245_81.0-ORF7
+seq173	>nrnt-KP747574 Mamastrovirus 3 isolate AstV-LL-2, complete genome.-table6-Astroviridae-HMM69-519_82.0-ORF36
+seq174	>nrnt-KP747573 Mamastrovirus 3 isolate AstV-LL-1, complete genome.-table6-Astroviridae-HMM70-522_64.0-ORF37
+seq175	>nrnt-LC047787 Bovine astrovirus genomic RNA, nearly complete genome, strain: BoAstV/JPN/Ishikawa24-6/2013.-table6-Astroviridae-HMM70-522_72.0-ORF38
+seq176	>nrnt-LC047800 Bovine astrovirus genomic RNA, nearly complete genome, strain: BoAstV/JPN/Kagoshima2-38/2015.-table6-Astroviridae-HMM58-509_73.0-ORF34
+seq177	>nrnt-LC047798 Bovine astrovirus genomic RNA, nearly complete genome, strain: BoAstV/JPN/Kagoshima2-3-2/2015.-table6-Astroviridae-HMM58-509_73.0-ORF33
+seq178	>nrnt-LC047797 Bovine astrovirus genomic RNA, nearly complete genome, strain: BoAstV/JPN/Kagoshima2-3-1/2015.-table6-Astroviridae-HMM70-522_72.0-ORF37
+seq179	>nrnt-LC047794 Bovine astrovirus genomic RNA, nearly complete genome, strain: BoAstV/JPN/Hokkaido12-27.-table6-Astroviridae-HMM70-522_72.0-ORF38
+seq180	>nrnt-LC047793 Bovine astrovirus genomic RNA, nearly complete genome, strain: BoAstV/JPN/Hokkaido12-25/2009.-table6-Astroviridae-HMM66-516_83.0-ORF35
+seq181	>nrnt-LC047792 Bovine astrovirus genomic RNA, nearly complete genome, strain: BoAstV/JPN/Hokkaido12-18/2009.-table6-Astroviridae-HMM96-548_70.0-ORF31
+seq182	>nrnt-LC047790 Bovine astrovirus genomic RNA, nearly complete genome, strain: BoAstV/JPN/Hokkaido11-55/2009.-table6-Astroviridae-HMM58-509_76.0-ORF38
+seq183	>nrnt-KM254166 Astrovirus HK-2014 isolate AstroQ45/2013 non-structural polyprotein and structural polyprotein genes, partial cds.-table4-Astroviridae-HMM53-511_84.0-ORF44
+seq184	>nrnt-KR868722 Dromedary astrovirus isolate DcAstV-64, complete genome.-table6-Astroviridae-HMM70-522_73.0-ORF37
+seq185	>nrnt-JX624774 Duck astrovirus strain YP2, complete genome.-table6-Astroviridae-HMM66-531_80.0-ORF56
+seq186	>nrnt-KP264970 Bovine astrovirus isolate BSRI-1 ORF1ab (nsp1ab), nsp1a (nsp1ab), and capsid precursor, genes, complete cds.-table6-Astroviridae-HMM98-549_69.0-ORF33
+seq187	>nrnt-KP404151 Canine astrovirus strain Huntingdon/2014/UK capsid precursor, gene, complete cds.-table6-Astroviridae-HMM1-57_80.0-ORF2
+seq188	>nrnt-KM985702 Avian nephritis virus isolate VIC-6a non-structural polyprotein gene, partial cds; and capsid protein gene, complete cds.-table4-Astroviridae-HMM53-511_86.0-ORF38
+seq189	>nrnt-KM985700 Avian nephritis virus isolate VIC-5b non-structural polyprotein gene, partial cds; and capsid protein gene, complete cds.-table4-Astroviridae-HMM1-285_91.0-ORF11
+seq190	>nrnt-KM985695 Avian nephritis virus isolate NSW-4b non-structural polyprotein gene, partial cds; and capsid protein-like gene, complete sequence.-table4-Astroviridae-HMM1-285_86.0-ORF11
+seq191	>nrnt-KM985691 Avian nephritis virus isolate NSW-1b non-structural polyprotein gene, partial cds; and capsid protein gene, complete cds.-table4-Astroviridae-HMM1-285_90.0-ORF10
+seq192	>nrnt-KM822593 Yak astrovirus isolate S8, complete genome.-table6-Astroviridae-HMM70-522_63.0-ORF42
+seq193	>nrnt-KM587711 (REVERSE SENSE) Astrovirus Pygoscelis/DT/2012 RDRP gene, partial cds.-table1-Astroviridae-HMM60-358_81.0-ORF35
+seq194	>nrnt-KJ571486 Porcupine astrovirus Hb/LP084/Guangxi ORF1ab and ORF1a genes, partial cds; and ORF2 gene, complete cds.-table4-Astroviridae-HMM214-666_67.0-ORF39
+seq195	>nrnt-KJ020899 Duck astrovirus CPH, complete genome.-table6-Astroviridae-HMM63-529_85.0-ORF44
+seq196	>nrnt-KC915035 Mamastrovirus 1 strain ITA/2003/PA73 RNA-dependent RNA polymerase (ORF1b) gene, partial cds; and capsid protein precursor (ORF2) gene, complete cds.-table6-Astroviridae-HMM1-248_96.0-ORF9
+seq197	>nrnt-KF753807 Duck astrovirus strain SL5, complete genome.-table4-Astroviridae-HMM75-536_36.0-ORF75
+seq198	>nrnt-KF157967 Human astrovirus 5 strain Hu/Budapest/HUN5186/2012/HUN nonstructural protein (ORF1a) and nonstructural protein (ORF1b) genes, partial cds; and capsid protein (ORF2) gene, complete cds.-table6-Astroviridae-HMM66-526_85.0-ORF34
+seq199	>nrnt-KC692365 Fox astrovirus isolate fox 5 non-structural polyprotein gene, partial cds; and RNA-dependent RNA polymerase and capsid protein genes, complete cds.-table6-Astroviridae-HMM94-531_64.0-ORF36
+seq200	>nrnt-AB037272 Mamastrovirus 3 gene for capsid protein precursor, complete cds.-table6-Astroviridae-HMM1-99_61.0-ORF3
+seq201	>nrnt-JQ307838 Astrovirus CDB-2012 isolate 301-6 RNA polymerase (ORF1b) gene, partial cds; and capsid protein (ORF2) gene, complete cds.-table4-Astroviridae-HMM1-282_25.0-ORF35
+seq202	>nrnt-JN582327 Chicken astrovirus isolate 11672 polymerase gene, partial cds; and capsid protein gene, complete cds.-table6-Astroviridae-HMM5-233_22.0-ORF26
+seq203	>nrnt-GU562296 Porcine astrovirus PAstV-2/2007/HUN RNA-dependent RNA polymerase gene, partial cds; and capsid gene, complete cds.-table6-Astroviridae-HMM1-345_78.0-ORF14
+seq204	>nrnt-HQ647383 Porcine astrovirus isolate JWH-1 RNA-dependent RNA polymerase-like gene, partial sequence; and capsid protein-like gene, complete sequence.-table6-Astroviridae-HMM95-372_59.0-ORF10
+seq205	>nrnt-GU376736 Dog astrovirus isolate SH capsid protein gene, complete cds.-table6-Astroviridae-HMM2-143_68.0-ORF3
+seq206	>nrnt-FR727149 Wood pigeon astrovirus partial RNA-dependent RNA polymerase and capsid protein precursor, strain 06/15660-1, genomic RNA.-table4-Astroviridae-HMM1-320_31.0-ORF35
+seq207	>nrnt-FR727148 Feral pigeon astrovirus partial RNA-dependent RNA polymerase and capsid protein precursor, strain 03/603-5, genomic RNA.-table4-Astroviridae-HMM1-300_30.0-ORF31
+seq208	>nrnt-FR727147 Feral pigeon astrovirus partial RNA-dependent RNA polymerase and capsid protein precursor, strain 03/594-9, genomic RNA.-table4-Astroviridae-HMM1-298_30.0-ORF22
+seq209	>nrnt-FR727146 Feral pigeon astrovirus partial RNA-dependent RNA polymerase and capsid protein precursor, strain 03/594-6, genomic RNA.-table4-Astroviridae-HMM1-314_31.0-ORF30
+seq210	>nrnt-HM029238 Avian nephritis virus 1 from China, complete genome.-table4-Astroviridae-HMM53-511_86.0-ORF59
+seq211	>nrnt-GU985458 Mink astrovirus isolate SMS-AstV, complete genome.-table6-Astroviridae-HMM84-551_35.0-ORF66
+seq212	>nrnt-FV536969 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Astroviridae-HMM995-1455_20.0-ORF97
+seq213	>nrnt-FV536967 Modified Microbial Nucleic Acid.-table6-Astroviridae-HMM19-291_93.0-ORF46
+seq214	>nrnt-HUANSSPS Human astrovirus serotype 2, complete sequence of genomic RNA.-table6-Astroviridae-HMM66-526_86.0-ORF49
+seq215	>tsa-GAZS01044204.1 TSA: Acanthoscurria geniculata L12220_T1/1_Turantula_WB transcribed RNA sequence-table6-Astroviridae-HMM78-532_74.0-ORF43
+seq216	>tsa-GAZS01057829.1 TSA: Acanthoscurria geniculata L25845_T1/1_Turantula_WB transcribed RNA sequence-table4-Astroviridae-HMM157-620_73.0-ORF25
+seq217	>tsa-GFNJ01000497.1 TSA: Oreobates cruralis Unigene141520_c1_g2_i1_Oreobates_cruralis transcribed RNA sequence-table4-Astroviridae-HMM61-522_47.0-ORF71
+seq218	>tsa-GFNJ01010816.1 TSA: Oreobates cruralis Unigene141520_c1_g9_i1_Oreobates_cruralis transcribed RNA sequence-table4-Astroviridae-HMM8-149_23.0-ORF22

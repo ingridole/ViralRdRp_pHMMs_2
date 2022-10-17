@@ -1,0 +1,21 @@
+seq1	>ref-NC_013462.1 Rosellinia necatrix megabirnavirus 1/W779 segment L1, complete genome-table4-Megabirnaviridae-HMM400-885_40.0-ORF90
+seq2	>ref-NC_013999.1 Phlebiopsis gigantea mycovirus dsRNA 1, complete genome-table4-Megabirnaviridae-HMM786-1278_30.0-ORF96
+seq3	>ref-NC_027221.1 Sclerotinia sclerotiorum megabirnavirus 1 isolate SX466 segment L1, complete sequence-table4-Megabirnaviridae-HMM490-965_37.0-ORF97
+seq4	>ref-NC_027529.1 Rhizoctonia solani RNA virus HN008, complete genome-table4-Megabirnaviridae-HMM1672-2157_19.0-ORF86
+seq5	>ref-NC_028921.1 Thelephora terrestris virus 1 isolate Lasovice, complete genome-table6-Megabirnaviridae-HMM812-1307_30.0-ORF95
+seq6	>ref-NC_029125.1 Rosellinia necatrix megabirnavirus 2-W8 segment 1, complete sequence-table4-Megabirnaviridae-HMM464-945_38.0-ORF89
+seq7	>nrnt-LC333756 Rosellinia necatrix megabirnavirus 3 genes for putative coat protein, RNA-dependent RNA polymerase, complete cds, contig: Pool-3_333.-table4-Megabirnaviridae-HMM535-1008_35.0-ORF74
+seq8	>nrnt-MF375886 Entoleuca megabirnavirus 1 coat protein and replicase genes, complete cds.-table4-Megabirnaviridae-HMM464-937_37.0-ORF72
+seq9	>nrnt-KU291946 Ceratobasidium megabirnavirus-like isolate contig 2 RNA-dependent RNA polymerase gene, partial cds.-table1-Megabirnaviridae-HMM11-246_66.0-ORF14
+seq10	>nrnt-KU291938 Ceratobasidium virus B isolate Murdoch-5 hypothetical protein and RNA-dependent RNA polymerase genes, partial cds.-table6-Megabirnaviridae-HMM577-1067_37.0-ORF68
+seq11	>nrnt-KT601119 Pleosporales megabirnavirus 1 segment RNA1 133 kDa protein and 122 kDa protein genes, complete cds.-table4-Megabirnaviridae-HMM395-874_40.0-ORF84
+seq12	>nrnt-AB429556 Lentinula edodes mycovirus HKB gene for hypothetical protein, putative RNA-dependent RNA polymerase, complete cds.-table6-Megabirnaviridae-HMM815-1180_23.0-ORF115
+seq13	>nrnt-KU291943 Ceratobasidium mycovirus-like isolate contig 6 RNA-dependent RNA polymerase gene, partial cds.-table1-Megabirnaviridae-HMM1-157_39.0-ORF17
+seq14	>nrnt-KU291940 Ceratobasidium mycovirus-like isolate contig 2 RNA-dependent RNA polymerase gene, partial cds.-table1-Megabirnaviridae-HMM17-365_64.0-ORF19
+seq15	>nrnt-KU291925 Pterostylis sanguinea virus A isolate Murdoch-7 coat protein gene, complete cds; and RNA-dependent RNA polymerase gene, partial cds.-table6-Megabirnaviridae-HMM992-1311_24.0-ORF102
+seq16	>nrnt-KM657432 Rhizoctonia fumigata mycovirus isolate C-314 hypothetical protein and putative RNA-dependent RNA polymerase genes, complete cds.-table6-Megabirnaviridae-HMM537-1018_35.0-ORF96
+seq17	>nrnt-AB646992 Lentinula edodes mycovirus HKA hyp, RdRP genes for hypothetical protein, putative RNA-dependent RNA polymerase, complete and partial cds, isolate: HKA.-table6-Megabirnaviridae-HMM789-1155_28.0-ORF103
+seq18	>ref-NC_016760.1 Rosellinia necatrix quadrivirus 1 segment 3, complete genome-table4-Quadriviridae-HMM568-1073_38.0-ORF42
+seq19	>nrnt-AB744679 Rosellinia necatrix quadrivirus 1 P3 gene for RNA dependent RNA polymerase, complete cds, segment: 3.-table4-Quadriviridae-HMM567-1072_37.0-ORF42
+seq20	>nrnt-AM085135 Amasya cherry disease-associated mycovirus RdRp gene for RNA-dependent RNA polymerase 2, genomic RNA.-table6-Quadriviridae-HMM619-1130_35.0-ORF48
+seq21	>nrnt-AM085134 Amasya cherry disease-associated mycovirus RdRp gene for putative RNA-dependent RNA polymerase 1, genomic RNA.-table6-Quadriviridae-HMM614-1125_35.0-ORF52

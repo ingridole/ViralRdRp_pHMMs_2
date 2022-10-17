@@ -1,0 +1,74 @@
+seq1	>ref-NC_002766.1 Beet chlorosis virus, complete genome-table6-Luteoviridae-HMM142-608_58.0-ORF36
+seq2	>ref-NC_002198.2 Cereal yellow dwarf virus-RPS, complete genome-table4-Luteoviridae-HMM218-677_65.0-ORF24
+seq3	>ref-NC_004756.1 Beet western yellows virus, complete genome-table6-Luteoviridae-HMM147-608_57.0-ORF32
+seq4	>ref-NC_003629.1 Pea enation mosaic virus-1, complete genome-table4-Luteoviridae-HMM143-621_73.0-ORF39
+seq5	>ref-NC_004751.1 Cereal yellow dwarf virus-RPV, complete genome-table6-Luteoviridae-HMM182-642_69.0-ORF30
+seq6	>ref-NC_006265.1 Carrot red leaf virus, complete genome-table4-Luteoviridae-HMM180-640_70.0-ORF30
+seq7	>ref-NC_003688.1 Cucurbit aphid-borne yellows virus, complete genome-table4-Luteoviridae-HMM321-785_58.0-ORF27
+seq8	>ref-NC_003743.1 Turnip yellows virus, complete genome-table6-Luteoviridae-HMM106-566_60.0-ORF42
+seq9	>ref-NC_001747.1 Potato leafroll virus, complete genome-table4-Luteoviridae-HMM155-619_70.0-ORF34
+seq10	>ref-NC_003491.1 Beet mild yellowing virus, complete genome-table6-Luteoviridae-HMM148-612_59.0-ORF37
+seq11	>ref-NC_000874.1 Sugarcane yellow leaf virus complete genome-table6-Luteoviridae-HMM95-560_72.0-ORF28
+seq12	>ref-NC_008249.1 Chickpea chlorotic stunt virus, complete genome-table6-Luteoviridae-HMM107-571_74.0-ORF29
+seq13	>ref-NC_010809.1 Melon aphid-borne yellows virus, complete genome-table6-Luteoviridae-HMM142-602_33.0-ORF45
+seq14	>ref-NC_010732.1 Tobacco vein distorting virus, complete genome-table6-Luteoviridae-HMM115-576_32.0-ORF57
+seq15	>ref-NC_011543.1 Poinsettia cryptic virus, complete genome-table6-Luteoviridae-HMM96-559_64.0-ORF38
+seq16	>ref-NC_012931.1 Wheat yellow dwarf virus-GPV, complete genome-table4-Luteoviridae-HMM161-623_72.0-ORF23
+seq17	>ref-NC_014545.1 Cotton leafroll dwarf virus, complete genome-table4-Luteoviridae-HMM155-620_72.0-ORF32
+seq18	>ref-NC_015050.1 Pepper vein yellows virus genomic RNA, complete genome-table6-Luteoviridae-HMM153-613_72.0-ORF32
+seq19	>ref-NC_016038.1 Brassica yellows virus, complete genome-table4-Luteoviridae-HMM175-635_70.0-ORF27
+seq20	>ref-NC_018571.2 Suakwa aphid-borne yellows virus isolate SABYV-TW19, complete genome-table6-Luteoviridae-HMM116-579_72.0-ORF32
+seq21	>ref-NC_021484.1 Maize yellow dwarf virus-RMV, complete genome-table6-Luteoviridae-HMM98-562_72.0-ORF31
+seq22	>ref-NC_021564.1 Citrus vein enation virus, isolate VE-1, complete genome-table6-Luteoviridae-HMM188-666_71.0-ORF35
+seq23	>ref-NC_025435.1 Strawberry polerovirus 1 isolate AB5301, complete genome-table4-Luteoviridae-HMM189-662_69.0-ORF32
+seq24	>ref-NC_025837.1 Sauropus yellowing virus isolate THSP1-B P0, P1-P2 fusion protein, P1, P3-P5 readthrough protein, P3, and P4 genes, complete cds-table6-Luteoviridae-HMM157-619_70.0-ORF28
+seq25	>ref-NC_027703.1 Luffa aphid-borne yellows virus isolate TH24, complete genome-table4-Luteoviridae-HMM149-613_70.0-ORF30
+seq26	>ref-NC_028793.1 Phasey bean mild yellows virus isolate NSWCP15, complete genome-table6-Luteoviridae-HMM112-578_62.0-ORF33
+seq27	>ref-NC_029691.1 Ixeridium yellow mottle virus 1 isolate Bonghwa, complete genome-table6-Luteoviridae-HMM136-600_67.0-ORF37
+seq28	>ref-NC_029906.1 Barley virus G isolate Gimje, complete genome-table6-Luteoviridae-HMM103-562_61.0-ORF36
+seq29	>ref-NC_029993.1 Alfalfa enamovirus-1 isolate Manfredi, complete genome-table4-Luteoviridae-HMM150-628_75.0-ORF36
+seq30	>ref-NC_030225.1 Pepo aphid-borne yellows virus isolate RSA BB Marrow, complete genome-table4-Luteoviridae-HMM136-599_74.0-ORF35
+seq31	>ref-NC_031747.1 White clover mottle virus genomic RNA, complete genome, strain: CD-table6-Luteoviridae-HMM102-566_64.0-ORF36
+seq32	>ref-NC_032224.1 Hubei polero-like virus 1 strain WHCC118254 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Luteoviridae-HMM126-585_68.0-ORF31
+seq33	>ref-NC_033229.1 Hubei polero-like virus 2 strain QTM26674 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, hypothetical protein 4, and hypothetical protein 5 genes, complete cds-table6-Luteoviridae-HMM107-579_61.0-ORF31
+seq34	>ref-NC_033018.1 Changjiang polero-like virus 1 strain CJLX30310 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table4-Luteoviridae-HMM137-599_74.0-ORF24
+seq35	>ref-NC_034207.1 African eggplant yellowing virus isolate eMA4, complete genome-table6-Luteoviridae-HMM167-628_32.0-ORF49
+seq36	>ref-NC_034246.1 Cowpea polerovirus 1 isolate BE167, complete genome-table6-Luteoviridae-HMM113-580_76.0-ORF31
+seq37	>ref-NC_034247.1 Cowpea polerovirus 2 isolate BE179, complete genome-table6-Luteoviridae-HMM114-576_70.0-ORF29
+seq38	>ref-NC_034265.1 Tobacco virus 2, complete genome-table6-Luteoviridae-HMM128-587_75.0-ORF34
+seq39	>ref-NC_034836.1 Grapevine enamovirus-1 isolate SE-BR, partial genome-table4-Luteoviridae-HMM207-675_69.0-ORF43
+seq40	>ref-NC_035451.1 Wheat leaf yellowing-associated virus isolate JN-U3, complete genome-table6-Luteoviridae-HMM101-562_71.0-ORF30
+seq41	>nrnt-KX882900 Hubei sobemo-like virus 17 strain WGML125344 hypothetical protein 1 gene, complete cds; and hypothetical protein 2 gene, partial cds.-table6-Luteoviridae-HMM195-247_12.0-ORF25
+seq42	>nrnt-KX882891 Sanxia water strider virus 11 strain SXSSP2582 hypothetical protein 1 and hypothetical protein 2 genes, complete cds.-table6-Luteoviridae-HMM180-246_13.0-ORF35
+seq43	>nrnt-KM048318 Ixodes scapularis associated virus 1 isolate K13, partial genome.-table4-Luteoviridae-HMM168-239_12.0-ORF23
+seq44	>nrnt-NC_037052 Pepper enamovirus isolate R1 ORF0, replicase polyprotein, coat protein, and ORF5 genes, complete cds.-table6-Luteoviridae-HMM749-1221_38.0-ORF30
+seq45	>nrnt-LC217994 Cucurbit aphid-borne yellows virus genomic RNA, complete genome, isolate: JMB1.-table6-Luteoviridae-HMM133-598_58.0-ORF31
+seq46	>nrnt-MF141069 Norway luteo-like virus 3 isolate NOR/A2/Bronnoya/2014 RNA-dependent RNA-polymerase gene, complete cds.-table4-Luteoviridae-HMM240-314_13.0-ORF12
+seq47	>nrnt-LN865080 Lettuce yellows virus partial sequence, isolate MarIo5.-table6-Luteoviridae-HMM1-257_57.0-ORF13
+seq48	>nrnt-KX650867 Brassica yellows virus isolate Xch-Wh nonfunctional P1, nonfunctional P1-2, and nonfunctional coat protein genes, complete sequence.-table6-Luteoviridae-HMM101-406_51.0-ORF29
+seq49	>nrnt-FJ460218 Cucumber aphid-borne yellows virus isolate CuABYV-HN RdRp protein (RdRp) and coat protein (CP) genes, partial cds.-table6-Luteoviridae-HMM1-174_49.0-ORF9
+seq50	>nrnt-KU291106 Maize yellow mosaic virus isolate Yunnan10, complete genome.-table6-Luteoviridae-HMM102-554_79.0-ORF30
+seq51	>nrnt-KT960997 UNVERIFIED: Sugarcane yellow leaf virus isolate Sorg3_3, complete genome.-table6-Luteoviridae-HMM23-291_72.0-ORF32
+seq52	>nrnt-KT960996 UNVERIFIED: Sugarcane yellow leaf virus isolate Sorg2_2, complete genome.-table4-Luteoviridae-HMM117-210_42.0-ORF25
+seq53	>nrnt-KC505249 Cassava Polero-like virus isolate CM5460-10 ORF1 gene, partial cds; ORF2 gene, complete cds; and ORF3/ORF4 gene, partial cds.-table6-Luteoviridae-HMM119-578_75.0-ORF22
+seq54	>nrnt-JF803842 Cotton bunchy top virus RdRp gene, partial cds; coat protein and movement protein genes, complete cds; and aphid transmission protein gene, partial cds.-table6-Luteoviridae-HMM1-180_68.0-ORF7
+seq55	>nrnt-JF507725 Chickpea chlorotic stunt virus strain CHN, complete genome.-table6-Luteoviridae-HMM115-579_33.0-ORF42
+seq56	>nrnt-HM804472 Beet western yellows virus strain BJ genotype B, complete genome.-table6-Luteoviridae-HMM131-592_68.0-ORF29
+seq57	>tsa-GFAL01060378.1 TSA: Allium chinense c94560_g1 transcribed RNA sequence-table4-Luteoviridae-HMM119-580_77.0-ORF33
+seq58	>tsa-GDFQ01101608.1 (REVERSE SENSE) TSA: Brassica napus comp70163_c0_seq1 transcribed RNA sequence-table4-Luteoviridae-HMM113-574_77.0-ORF106
+seq59	>tsa-GDCY01003555.1 TSA: Endphyte metagenome, transcribed RNA sequence-table4-Luteoviridae-HMM86-551_82.0-ORF15
+seq60	>tsa-GBGO01020472.1 TSA: Eurytemora affinis comp30118_c0_seq1 transcribed RNA sequence-table1-Luteoviridae-HMM64-130_22.0-ORF13
+seq61	>tsa-GAYX01010943.1 (REVERSE SENSE) TSA: Lolium perenne comp10257_c0_seq1 transcribed RNA sequence-table4-Luteoviridae-HMM145-610_73.0-ORF102
+seq62	>tsa-GAYX01010994.1 TSA: Lolium perenne comp10296_c0_seq1 transcribed RNA sequence-table4-Luteoviridae-HMM145-610_73.0-ORF29
+seq63	>tsa-GACB01002640.1 TSA: Lotus corniculatus CL1213.Contig1 mRNA sequence-table4-Luteoviridae-HMM194-672_71.0-ORF33
+seq64	>tsa-GECQ01325285.1 TSA: Murgantia histrionica HBug_USDA-ARS_IIBBL.325285 transcribed RNA sequence-table1-Luteoviridae-HMM1-164_99.0-ORF6
+seq65	>tsa-GFNR01017741.1 (REVERSE SENSE) TSA: Paspalum notatum sex_isotig17719 transcribed RNA sequence-table4-Luteoviridae-HMM8-471_84.0-ORF41
+seq66	>tsa-HAEV01103957.1 (REVERSE SENSE) TSA: Proasellus escolai, contig comp112374_c0_seq1, transcribed RNA sequence-table4-Luteoviridae-HMM190-251_19.0-ORF62
+seq67	>tsa-HAEV01103959.1 (REVERSE SENSE) TSA: Proasellus escolai, contig comp112374_c0_seq3, transcribed RNA sequence-table4-Luteoviridae-HMM190-251_19.0-ORF68
+seq68	>tsa-HAEV01103961.1 (REVERSE SENSE) TSA: Proasellus escolai, contig comp112374_c0_seq5, transcribed RNA sequence-table6-Luteoviridae-HMM185-246_12.0-ORF65
+seq69	>tsa-HAEV01103964.1 (REVERSE SENSE) TSA: Proasellus escolai, contig comp112374_c0_seq8, transcribed RNA sequence-table6-Luteoviridae-HMM185-246_12.0-ORF60
+seq70	>tsa-HAFG01105726.1 TSA: Proasellus parvulus, contig comp90084_c0_seq1, transcribed RNA sequence-table6-Luteoviridae-HMM231-292_12.0-ORF36
+seq71	>tsa-HAFG01115645.1 TSA: Proasellus parvulus, contig comp90549_c0_seq1, transcribed RNA sequence-table6-Luteoviridae-HMM191-252_11.0-ORF15
+seq72	>tsa-HAFG01115646.1 TSA: Proasellus parvulus, contig comp90549_c0_seq2, transcribed RNA sequence-table6-Luteoviridae-HMM191-252_11.0-ORF25
+seq73	>tsa-GETQ01001283.1 TSA: Rhagoletis pomonella c2658_g1_i2 transcribed RNA sequence-table1-Luteoviridae-HMM4-130_81.0-ORF5
+seq74	>tsa-GBNQ01009293.1 (REVERSE SENSE) TSA: Smicromyrme rufipes C54308_a_3_0_l_371 transcribed RNA sequence-table1-Luteoviridae-HMM26-86_48.0-ORF14

@@ -1,0 +1,94 @@
+seq1	>ref-NC_002024.2 Alfalfa mosaic virus RNA 2, complete sequence-table4-Bromoviridae-HMM323-767_52.0-ORF30
+seq2	>ref-NC_003465.1 Apple mosaic virus RNA 2 putative polymerase gene, complete cds-table6-Bromoviridae-HMM370-815_48.0-ORF33
+seq3	>ref-NC_003452.1 American plum line pattern virus RNA2, complete genome-table6-Bromoviridae-HMM266-710_59.0-ORF22
+seq4	>ref-NC_003568.1 Elm mottle virus RNA 2, complete sequence-table6-Bromoviridae-HMM245-692_51.0-ORF23
+seq5	>ref-NC_003809.1 Spinach latent virus putative polymerase and putative 2b protein genes, complete cds-table6-Bromoviridae-HMM227-673_50.0-ORF27
+seq6	>ref-NC_003834.1 Tulare apple mosaic virus RNA2, complete sequence-table6-Bromoviridae-HMM227-674_52.0-ORF24
+seq7	>ref-NC_004363.1 Prunus necrotic ringspot virus RNA 2, complete genome-table6-Bromoviridae-HMM310-755_51.0-ORF33
+seq8	>ref-NC_003541.1 Cowpea chlorotic mottle virus RNA 2, complete sequence-table6-Bromoviridae-HMM301-741_47.0-ORF32
+seq9	>ref-NC_003650.1 Pelargonium zonate spot virus RNA 2, complete genome-table6-Bromoviridae-HMM256-687_60.0-ORF16
+seq10	>ref-NC_003674.1 Olive latent virus 2 RNA 2, complete sequence-table4-Bromoviridae-HMM345-769_51.0-ORF28
+seq11	>ref-NC_004007.1 Broad bean mottle virus RNA 2, complete sequence-table6-Bromoviridae-HMM304-741_51.0-ORF29
+seq12	>ref-NC_003547.1 Citrus leaf rugose virus RNA 2, complete sequence-table4-Bromoviridae-HMM249-696_50.0-ORF27
+seq13	>ref-NC_003838.1 Tomato aspermy virus RNA 2, complete sequence-table4-Bromoviridae-HMM339-779_50.0-ORF28
+seq14	>ref-NC_004121.1 Spring beauty latent virus RNA 2, complete sequence-table4-Bromoviridae-HMM309-747_50.0-ORF28
+seq15	>ref-NC_002027.1 Brome mosaic virus RNA 2, complete sequence-table4-Bromoviridae-HMM286-729_50.0-ORF33
+seq16	>ref-NC_005849.1 Parietaria mottle virus RNA 2, complete genome-table4-Bromoviridae-HMM264-712_52.0-ORF25
+seq17	>ref-NC_006065.1 Humulus japonicus latent virus, complete genome-table4-Bromoviridae-HMM374-820_50.0-ORF29
+seq18	>ref-NC_006567.1 Fragaria chiloensis latent virus RNA 2, complete genome-table6-Bromoviridae-HMM334-777_51.0-ORF20
+seq19	>ref-NC_007000.2 Cassia yellow blotch virus RNA2, complete sequence-table6-Bromoviridae-HMM285-724_48.0-ORF26
+seq20	>ref-NC_002039.1 Peanut stunt virus RNA 2, complete sequence-table6-Bromoviridae-HMM318-760_51.0-ORF27
+seq21	>ref-NC_002035.1 Cucumber mosaic virus RNA 2, complete sequence-table4-Bromoviridae-HMM333-774_48.0-ORF33
+seq22	>ref-NC_003842.1 Tobacco streak virus putative viral polymerase and putative 2b protein genes, complete cds-table4-Bromoviridae-HMM263-711_48.0-ORF29
+seq23	>ref-NC_008707.1 Strawberry necrotic shock virus RNA 2, complete genome-table4-Bromoviridae-HMM259-707_52.0-ORF28
+seq24	>ref-NC_008037.1 Prune dwarf virus RNA 2, complete sequence-table4-Bromoviridae-HMM304-749_55.0-ORF27
+seq25	>ref-NC_009538.1 Citrus variegation virus RNA2, complete sequence-table6-Bromoviridae-HMM245-692_52.0-ORF23
+seq26	>ref-NC_012135.1 Gayfeather mild mottle virus RNA 2, complete genome-table6-Bromoviridae-HMM339-779_47.0-ORF29
+seq27	>ref-NC_011554.1 Blackberry chlorotic ringspot virus RNA2, complete genome-table4-Bromoviridae-HMM260-708_52.0-ORF27
+seq28	>ref-NC_011809.1 Asparagus virus 2 RNA 2, complete genome-table6-Bromoviridae-HMM245-692_52.0-ORF22
+seq29	>ref-NC_013267.1 Melandrium yellow fleck virus RNA2, complete genome-table6-Bromoviridae-HMM309-749_50.0-ORF30
+seq30	>ref-NC_013133.1 Japanese holly fern mottle virus RNA1, complete genome-table6-Bromoviridae-HMM1443-1884_22.0-ORF60
+seq31	>ref-NC_018403.1 Amazon lily mild mottle virus 2a gene for replication protein 2a, complete cds, strain: Japan-table6-Bromoviridae-HMM232-664_55.0-ORF20
+seq32	>ref-NC_022128.1 Ageratum latent virus isolate 1998 segment RNA 2, complete sequence-table4-Bromoviridae-HMM260-708_55.0-ORF23
+seq33	>ref-NC_022251.1 Blueberry shock virus RNA 2, complete sequence-table4-Bromoviridae-HMM310-755_54.0-ORF33
+seq34	>ref-NC_025478.1 Lilac leaf chlorosis virus segment RNA-2, host Syringa vulgaris, genomic RNA-table4-Bromoviridae-HMM370-815_50.0-ORF31
+seq35	>ref-NC_025483.1 Cassava Ivorian bacilliform virus strain SCRI-CV1 putative polymerase mRNA, complete cds-table6-Bromoviridae-HMM243-675_58.0-ORF19
+seq36	>ref-NC_027929.1 Privet ringsport virus isolate Win-01 segment RNA2, complete sequence-table4-Bromoviridae-HMM267-715_52.0-ORF28
+seq37	>ref-NC_031341.1 Privet leaf blotch-associated virus segment RNA1-table6-Bromoviridae-HMM1305-1742_24.0-ORF62
+seq38	>nrnt-MF372912 (REVERSE SENSE) Maize pteridovirus 1 isolate SSF4 polyprotein gene, partial cds.-table4-Bromoviridae-HMM1410-1851_23.0-ORF157
+seq39	>nrnt-MG800790 Peanut virus C isolate US2397 segment RNA2, complete sequence.-table4-Bromoviridae-HMM269-717_45.0-ORF36
+seq40	>nrnt-MG201992 Cape gooseberry ilarvirus 1 isolate Marinilla segment RNA2, complete sequence.-table4-Bromoviridae-HMM258-706_55.0-ORF28
+seq41	>nrnt-MF688614 Sambucus virus S isolate B15 segment RNA2, complete sequence.-table4-Bromoviridae-HMM308-748_50.0-ORF31
+seq42	>nrnt-LC108994 Apple necrotic mosaic virus genomic RNA, segment RNA2, complete sequence.-table6-Bromoviridae-HMM315-761_49.0-ORF31
+seq43	>nrnt-FJ607141 Bacopa chlorosis virus segment RNA 2 p2 protein (BaCVs2gp1) gene, partial cds; and 2b protein (BaCVs2gp2) gene, complete cds.-table4-Bromoviridae-HMM7-355_73.0-ORF13
+seq44	>nrnt-KX196165 Viola white distortion associated virus isolate UK ORF 2a gene, partial cds.-table4-Bromoviridae-HMM314-758_54.0-ORF30
+seq45	>nrnt-KU558988 Cucumber mosaic virus isolate Rom segment RNA2, complete sequence.-table4-Bromoviridae-HMM330-771_49.0-ORF23
+seq46	>nrnt-KT779205 Tomato necrotic streak virus isolate 13-382 segment RNA2, complete sequence.-table6-Bromoviridae-HMM249-696_49.0-ORF22
+seq47	>nrnt-JX463335 Tobacco streak virus isolate 1973 segment RNA 2, complete sequence.-table4-Bromoviridae-HMM257-705_53.0-ORF28
+seq48	>nrnt-JX513899 Grapevine virus S isolate GVS 3138-01 segment RNA2 RNA-dependent RNA polymerase (RDRP) gene, partial cds.-table1-Bromoviridae-HMM251-688_63.0-ORF19
+seq49	>nrnt-AY429430 Peanut stunt virus segment RNA2, complete sequence.-table4-Bromoviridae-HMM312-753_50.0-ORF33
+seq50	>nrnt-U33146 Peanut stunt virus 2a protein (2a) gene, complete cds.-table4-Bromoviridae-HMM296-738_49.0-ORF31
+seq51	>nrnt-EU919669 Lilac ring mottle virus polymerase and 2b protein genes, complete cds.-table4-Bromoviridae-HMM214-660_55.0-ORF23
+seq52	>nrnt-BD209866 Improved methods and materials for transformation.-table4-Bromoviridae-HMM468-911_42.0-ORF57
+seq53	>nrnt-BD209865 (REVERSE SENSE) Improved methods and materials for transformation.-table4-Bromoviridae-HMM433-876_43.0-ORF233
+seq54	>nrnt-AX589455 Sequence 5 from Patent WO02083886.-table4-Bromoviridae-HMM59-180_38.0-ORF16
+seq55	>nrnt-AX589451 Sequence 1 from Patent WO02083886.-table4-Bromoviridae-HMM283-578_41.0-ORF25
+seq56	>nrnt-AJ304394 Cucumber mosaic virus 2a gene for replicase and 2b gene for 2b protein, isolate LBO, genomic RNA 2.-table4-Bromoviridae-HMM314-755_50.0-ORF23
+seq57	>tsa-GAPQ01014747.1 TSA: Bemisia tabaci BT_Q_G_ZJU_Unigene11184 transcribed RNA sequence-table6-Bromoviridae-HMM69-264_45.0-ORF15
+seq58	>tsa-GBLE01024403.1 TSA: Brachymeria minuta s10034_L_28710_0_a_22_3_l_2243 transcribed RNA sequence-table4-Bromoviridae-HMM303-518_39.0-ORF23
+seq59	>tsa-GAJS01036089.1 TSA: Chilo suppressalis Unigene37911_All transcribed RNA sequence-table1-Bromoviridae-HMM1-61_89.0-ORF3
+seq60	>tsa-GDKE01015509.1 TSA: Cuscuta gronovii cg_c13966 transcribed RNA sequence-table6-Bromoviridae-HMM27-138_80.0-ORF10
+seq61	>tsa-GDKE01017375.1 (REVERSE SENSE) TSA: Cuscuta gronovii cg_c18708 transcribed RNA sequence-table1-Bromoviridae-HMM85-191_51.0-ORF25
+seq62	>tsa-GDKE01022560.1 TSA: Cuscuta gronovii cg_c35791 transcribed RNA sequence-table6-Bromoviridae-HMM98-162_31.0-ORF11
+seq63	>tsa-GDKE01025493.1 (REVERSE SENSE) TSA: Cuscuta gronovii cg_c480 transcribed RNA sequence-table1-Bromoviridae-HMM86-356_75.0-ORF30
+seq64	>tsa-GDKE01027232.1 TSA: Cuscuta gronovii cg_c55104 transcribed RNA sequence-table6-Bromoviridae-HMM59-110_26.0-ORF8
+seq65	>tsa-GDKE01029366.1 (REVERSE SENSE) TSA: Cuscuta gronovii cg_c7 transcribed RNA sequence-table4-Bromoviridae-HMM1-165_55.0-ORF29
+seq66	>tsa-GDKE01030869.1 (REVERSE SENSE) TSA: Cuscuta gronovii cg_c9524 transcribed RNA sequence-table6-Bromoviridae-HMM95-190_45.0-ORF24
+seq67	>tsa-GDKD01021252.1 (REVERSE SENSE) TSA: Cuscuta reflexa cr_c177 transcribed RNA sequence-table4-Bromoviridae-HMM314-755_56.0-ORF64
+seq68	>tsa-GDKD01029779.1 TSA: Cuscuta reflexa cr_c40454 transcribed RNA sequence-table6-Bromoviridae-HMM12-94_61.0-ORF6
+seq69	>tsa-GDKD01035375.1 TSA: Cuscuta reflexa cr_c550 transcribed RNA sequence-table6-Bromoviridae-HMM41-433_85.0-ORF31
+seq70	>tsa-GDKD01037389.1 TSA: Cuscuta reflexa cr_c60685 transcribed RNA sequence-table6-Bromoviridae-HMM3-200_89.0-ORF9
+seq71	>tsa-GBDN01023436.1 TSA: Dahlia pinnata Locus_27747_Transcript_1/1_Confidence_1.000_Length_2876 transcribed RNA sequence-table4-Bromoviridae-HMM251-699_48.0-ORF32
+seq72	>tsa-GEPY01036973.1 TSA: Eulimnogammarus czerskii c62732_g2_i1 transcribed RNA sequence-table1-Bromoviridae-HMM17-125_85.0-ORF3
+seq73	>tsa-GALQ01045490.1 (REVERSE SENSE) TSA: gut metagenome Locus390v1rpkm421.37 transcribed RNA sequence-table1-Bromoviridae-HMM7-90_92.0-ORF7
+seq74	>tsa-GALQ01083523.1 (REVERSE SENSE) TSA: gut metagenome Locus351v1rpkm447.09 transcribed RNA sequence-table1-Bromoviridae-HMM16-72_77.0-ORF8
+seq75	>tsa-GALT01083862.1 (REVERSE SENSE) TSA: gut metagenome Locus526v1rpkm303.20 transcribed RNA sequence-table1-Bromoviridae-HMM2-66_95.0-ORF6
+seq76	>tsa-GFPE01069843.1 (REVERSE SENSE) TSA: Holacanthella duospinosa c114147_g1_i1 transcribed RNA sequence-table1-Bromoviridae-HMM2-122_90.0-ORF10
+seq77	>tsa-GFPE01073448.1 (REVERSE SENSE) TSA: Holacanthella duospinosa c124493_g1_i1 transcribed RNA sequence-table1-Bromoviridae-HMM3-112_96.0-ORF11
+seq78	>tsa-GFPE01082103.1 (REVERSE SENSE) TSA: Holacanthella duospinosa c164547_g1_i1 transcribed RNA sequence-table1-Bromoviridae-HMM113-319_64.0-ORF26
+seq79	>tsa-GAAW01025667.1 TSA: Humulus lupulus comp40457_c1_seq1 mRNA sequence-table6-Bromoviridae-HMM70-516_73.0-ORF19
+seq80	>tsa-GDAT01000374.1 (REVERSE SENSE) TSA: Lolium perenne Contig374 transcribed RNA sequence-table1-Bromoviridae-HMM28-113_70.0-ORF12
+seq81	>tsa-GAFF01137455.1 TSA: Medicago sativa comp71830_c0_seq1 mRNA sequence-table4-Bromoviridae-HMM326-770_54.0-ORF32
+seq82	>tsa-GAFF01137456.1 TSA: Medicago sativa comp71830_c0_seq2 mRNA sequence-table4-Bromoviridae-HMM2-271_84.0-ORF14
+seq83	>tsa-GAFF01137457.1 TSA: Medicago sativa comp71830_c0_seq3 mRNA sequence-table4-Bromoviridae-HMM1-164_77.0-ORF8
+seq84	>tsa-GBVK01007965.1 (REVERSE SENSE) TSA: Melitta haemorrhoidalis C53677_a_6_0_l_338 transcribed RNA sequence-table1-Bromoviridae-HMM1-111_98.0-ORF10
+seq85	>tsa-GCVO01035482.1 (REVERSE SENSE) TSA: Pardosa pseudoannulata comp51997_c0_seq2 transcribed RNA sequence-table4-Bromoviridae-HMM127-218_40.0-ORF25
+seq86	>tsa-GCVT01035482.1 (REVERSE SENSE) TSA: Pardosa pseudoannulata comp51997_c0_seq2 transcribed RNA sequence-table4-Bromoviridae-HMM127-218_40.0-ORF25
+seq87	>tsa-GFFQ01112471.1 TSA: Phlox roemeriana Roem@c47579_g1_i1 transcribed RNA sequence-table6-Bromoviridae-HMM9-159_83.0-ORF5
+seq88	>tsa-GBPO01005418.1 TSA: Pison atrum C33661_a_3_0_l_309 transcribed RNA sequence-table1-Bromoviridae-HMM2-102_98.0-ORF3
+seq89	>tsa-HAEW01052722.1 TSA: Proasellus ebrensis, contig c35795_g2_i3, transcribed RNA sequence-table1-Bromoviridae-HMM8-101_86.0-ORF4
+seq90	>tsa-GAIA01025339.1 (REVERSE SENSE) TSA: Salicornia europaea Unigene27217_Se200S transcribed RNA sequence-table1-Bromoviridae-HMM1-109_99.0-ORF11
+seq91	>tsa-GAIA01040266.1 TSA: Salicornia europaea Unigene45224_Se200S transcribed RNA sequence-table1-Bromoviridae-HMM2-91_97.0-ORF2
+seq92	>tsa-GAIA01066098.1 TSA: Salicornia europaea Unigene79312_Se200S transcribed RNA sequence-table1-Bromoviridae-HMM137-207_33.0-ORF7
+seq93	>tsa-GAMI01043832.1 (REVERSE SENSE) TSA: Salicornia europaea Unigene48901_SeCKR transcribed RNA sequence-table1-Bromoviridae-HMM1-82_96.0-ORF9
+seq94	>tsa-GAMI01053187.1 (REVERSE SENSE) TSA: Salicornia europaea Unigene61517_SeCKR transcribed RNA sequence-table1-Bromoviridae-HMM3-67_90.0-ORF7

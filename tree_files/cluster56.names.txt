@@ -1,0 +1,37 @@
+seq1	>ref-NC_030692.1 Borna disease virus 2, complete genome-table6-Bornaviridae-HMM416-942_29.0-ORF91
+seq2	>ref-NC_024296.1 Canary bornavirus 3, complete sequence-table4-Bornaviridae-HMM407-933_29.0-ORF98
+seq3	>ref-NC_030690.1 Canary bornavirus 1, complete genome-table6-Bornaviridae-HMM403-928_29.0-ORF95
+seq4	>ref-NC_030688.1 Parrot bornavirus 4, complete genome-table6-Bornaviridae-HMM402-928_30.0-ORF90
+seq5	>ref-NC_030691.1 Aquatic bird bornavirus 2, complete cds-table6-Bornaviridae-HMM429-955_29.0-ORF93
+seq6	>ref-NC_030701.1 Variegated squirrel bornavirus 1, complete genome-table6-Bornaviridae-HMM445-971_29.0-ORF90
+seq7	>ref-NC_030885.1 Parrot bornavirus 5 viral cRNA, complete genome, isolate: 2011/Japan-table6-Bornaviridae-HMM416-942_28.0-ORF102
+seq8	>ref-NC_030689.1 Parrot bornavirus 7, complete cds-table6-Bornaviridae-HMM402-927_29.0-ORF96
+seq9	>ref-NC_030687.1 Parrot bornavirus 1, complete sequence-table6-Bornaviridae-HMM402-928_29.0-ORF89
+seq10	>ref-NC_029642.1 Aquatic bird bornavirus 1, complete genome-table6-Bornaviridae-HMM447-973_28.0-ORF90
+seq11	>ref-NC_001607.1 Borna disease virus 1, complete sequence-table6-Bornaviridae-HMM416-942_29.0-ORF93
+seq12	>ref-NC_027892.1 Canary bornavirus 2, complete cds-table6-Bornaviridae-HMM416-942_29.0-ORF84
+seq13	>ref-NC_028106.1 Parrot bornavirus 2, complete genome-table4-Bornaviridae-HMM407-933_29.0-ORF94
+seq14	>ref-NC_024778.1 Loveridges garter snake virus 1 strain 251327, complete genome-table6-Bornaviridae-HMM430-957_29.0-ORF82
+seq15	>nrnt-MF135781 Southwest carpet python virus, complete genome.-table6-Bornaviridae-HMM408-919_28.0-ORF95
+seq16	>nrnt-MF135780 Jungle carpet python virus, complete genome.-table4-Bornaviridae-HMM450-943_27.0-ORF109
+seq17	>nrnt-MG599939 Wuhan sharpbelly bornavirus strain DSYS4497 nucleoprotein gene, partial cds; and hypothetical protein, glycoprotein, hypothetical protein, and L protein genes, complete cds.-table6-Bornaviridae-HMM402-896_27.0-ORF91
+seq18	>nrnt-KF680099 Estrildid finch bornavirus 1 isolate VS-4707 nucleoprotein (N), X protein (X), phosphoprotein (P), matrix protein (M), and glycoprotein (G) genes, complete cds; and viral polymerase (L) gene, partial cds.-table6-Bornaviridae-HMM429-686_37.0-ORF58
+seq19	>tsa-GAOZ01035422.1 (REVERSE SENSE) TSA: Myotis ricketti comp130930_c0_seq1 transcribed RNA sequence-table4-Bornaviridae-HMM77-146_45.0-ORF15
+seq20	>tsa-GFCN01235265.1 TSA: Sminthopsis crassicaudata TRINITY_DN71875_c2_g1_i1 transcribed RNA sequence-table6-Bornaviridae-HMM1-84_56.0-ORF10
+seq21	>tsa-GEDN01117240.1 (REVERSE SENSE) TSA: Sarcophilus harrisii comp128166_c2_seq1 transcribed RNA sequence-table6-Bornaviridae-HMM26-119_65.0-ORF24
+seq22	>tsa-GFCN01188941.1 (REVERSE SENSE) TSA: Sminthopsis crassicaudata TRINITY_DN90274_c0_g1_i1 transcribed RNA sequence-table6-Bornaviridae-HMM198-322_35.0-ORF161
+seq23	>ref-NC_006051.1 (REVERSE SENSE) Lettuce ring necrosis virus RNA 1, complete genome-table4-Ophioviridae-HMM504-925_18.0-ORF225
+seq24	>ref-NC_006314.1 (REVERSE SENSE) Citrus psorosis virus RNA1, complete genome-table6-Ophioviridae-HMM561-983_16.0-ORF197
+seq25	>ref-NC_036635.1 (REVERSE SENSE) Blueberry mosaic associated virus segment RNA1, complete sequence-table6-Ophioviridae-HMM576-995_17.0-ORF206
+seq26	>ref-NC_030871.1 Fusarium poae negative-stranded virus 1 genomic RNA, complete genome-table4-Ophioviridae-HMM560-869_12.0-ORF94
+seq27	>nrnt-MF176351 Wilkie ophio-like virus 1 strain mosWSCP109667 RdRp gene, partial cds.-table4-Ophioviridae-HMM682-994_15.0-ORF45
+seq28	>nrnt-KP900919 (REVERSE SENSE) Rhizoctonia solani negative-stranded virus 1 isolate DK13-1 RNA-dependent RNA polymerase gene, partial cds.-table4-Ophioviridae-HMM528-871_14.0-ORF208
+seq29	>nrnt-KP900920 (REVERSE SENSE) Rhizoctonia solani negative-stranded virus 2 isolate 248-36 RNA-dependent RNA polymerase gene, complete cds.-table6-Ophioviridae-HMM565-858_12.0-ORF190
+seq30	>nrnt-KP900903 (REVERSE SENSE) Rhizoctonia solani negative-stranded virus 3 isolate DK13-3 RNA-dependent RNA polymerase gene, complete cds.-table4-Ophioviridae-HMM553-864_12.0-ORF221
+seq31	>tsa-GBXE01083101.1 (REVERSE SENSE) TSA: Carcinus maenas comp82076_c0_seq1 transcribed RNA sequence-table6-Ophioviridae-HMM679-1085_16.0-ORF160
+seq32	>tsa-GFHX01001053.1 (REVERSE SENSE) TSA: Dactylorhiza fuchsii fB1855_comp74993_c0_seq1 transcribed RNA sequence-table1-Ophioviridae-HMM1-85_97.0-ORF7
+seq33	>tsa-GFHX01047678.1 TSA: Dactylorhiza fuchsii fB1855_comp178969_c0_seq1 transcribed RNA sequence-table1-Ophioviridae-HMM16-93_82.0-ORF2
+seq34	>tsa-GBME01012478.1 TSA: Panurgus dentipes C57225_a_7_0_l_904 transcribed RNA sequence-table1-Ophioviridae-HMM111-300_63.0-ORF7
+seq35	>tsa-GFHZ01113201.1 TSA: Saccharum SUG_denovo_0305472 transcribed RNA sequence-table1-Ophioviridae-HMM1-150_99.0-ORF3
+seq36	>tsa-GFLP01303515.1 TSA: Saccharum hybrid cultivar SUGdenovo-0305472 transcribed RNA sequence-table1-Ophioviridae-HMM1-150_99.0-ORF3
+seq37	>tsa-GEDP01196066.1 (REVERSE SENSE) TSA: Triticum polonicum comp165878_c1 transcribed RNA sequence-table6-Ophioviridae-HMM327-694_16.0-ORF180

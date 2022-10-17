@@ -1,0 +1,36 @@
+seq1	>ref-NC_005167.1 Golden shiner reovirus segment 2, complete sequence-table6-Spinareovirinae_1-HMM136-841_54.0-ORF34
+seq2	>ref-NC_007583.1 Chum salmon reovirus CS segment 2, complete sequence-table4-Spinareovirinae_1-HMM136-841_54.0-ORF35
+seq3	>ref-NC_010585.1 American grass carp reovirus segment 2, complete sequence-table6-Spinareovirinae_1-HMM136-841_54.0-ORF33
+seq4	>ref-NC_014238.1 Broome virus segment L3, complete genome-table4-Spinareovirinae_1-HMM136-837_54.0-ORF40
+seq5	>ref-NC_015878.1 Baboon orthoreovirus segment L2, complete genome-table6-Spinareovirinae_1-HMM132-832_55.0-ORF40
+seq6	>ref-NC_015127.1 Avian orthoreovirus segment L2, complete genome-table6-Spinareovirinae_1-HMM133-834_54.0-ORF46
+seq7	>ref-NC_020447.1 Melaka orthoreovirus segment L2, complete sequence-table6-Spinareovirinae_1-HMM134-835_54.0-ORF48
+seq8	>ref-NC_023819.1 Bush viper reovirus segment L3, complete sequence-table6-Spinareovirinae_1-HMM134-831_54.0-ORF45
+seq9	>ref-NC_013225.1 Mammalian orthoreovirus 3 segment L1, complete genome-table4-Spinareovirinae_1-HMM130-831_55.0-ORF50
+seq10	>ref-NC_025802.1 Cangyuan orthoreovirus strain Cangyuan segment L2, complete sequence-table6-Spinareovirinae_1-HMM130-831_55.0-ORF48
+seq11	>ref-NC_029912.1 Mahlapitsi virus isolate 2511 segment L3, complete sequence-table6-Spinareovirinae_1-HMM131-831_54.0-ORF41
+seq12	>ref-NC_030412.1 Etheostoma fonticola aquareovirus isolate San Marcos 2003 segment 2, complete sequence-table4-Spinareovirinae_1-HMM136-841_54.0-ORF26
+seq13	>ref-NC_034169.1 Fall chinook aquareovirus isolate GSH1 segment 2, complete sequence-table4-Spinareovirinae_1-HMM135-841_54.0-ORF33
+seq14	>ref-NC_036477.1 Piscine reovirus isolate CGA280-05 core RNA-dependent RNA polymerase mRNA, complete cds-table6-Spinareovirinae_1-HMM138-848_54.0-ORF41
+seq15	>nrnt-MG600122 Nanhai ghost shark reovirus strain NHYJC34894 RNA-dependent RNA polymerase gene, partial cds.-table4-Spinareovirinae_1-HMM153-857_54.0-ORF52
+seq16	>nrnt-MG600121 Guangxi changeable lizard reovirus strain GXSXC128977 RNA-dependent RNA polymerase gene, partial cds.-table6-Spinareovirinae_1-HMM129-837_55.0-ORF41
+seq17	>nrnt-MG600120 Western African lungfish reovirus strain FZFYC146880 RNA-dependent RNA polymerase gene, partial cds.-table1-Spinareovirinae_1-HMM106-812_57.0-ORF46
+seq18	>nrnt-MG600119 Wenling minipizza batfish reovirus 3 strain XQTMSHanta12613 RNA-dependent RNA polymerase gene, partial cds.-table1-Spinareovirinae_1-HMM138-842_57.0-ORF38
+seq19	>nrnt-MG600114 Wenling minipizza batfish reovirus 1 strain DHJQYS14691 RNA-dependent RNA polymerase gene, complete cds.-table6-Spinareovirinae_1-HMM132-835_54.0-ORF34
+seq20	>nrnt-MG600113 Wenzhou pacific spadenose shark reovirus 2 strain RGYQSMGReov42868 RNA-dependent RNA polymerase gene, partial cds.-table1-Spinareovirinae_1-HMM130-839_55.0-ORF49
+seq21	>nrnt-MG600112 Wenzhou pacific spadenose shark reovirus 1 strain RGYQSMGReov43318 RNA-dependent RNA polymerase gene, complete cds.-table4-Spinareovirinae_1-HMM136-845_54.0-ORF46
+seq22	>nrnt-KY418033 Muscovy duck reovirus strain MW9710 segment L2, complete sequence.-table6-Spinareovirinae_1-HMM133-834_54.0-ORF41
+seq23	>nrnt-LC145609 Piscine orthoreovirus 2 genomic RNA, segment L3, complete sequence.-table6-Spinareovirinae_1-HMM139-848_54.0-ORF43
+seq24	>nrnt-KT696549 Reptilian orthoreovirus strain CH1197/96 lambda B gene, complete cds.-table6-Spinareovirinae_1-HMM134-831_54.0-ORF43
+seq25	>nrnt-KU974955 Largemouth bass reovirus strain Pine Lake core RNA-dependent RNA polymerase gene, complete cds.-table4-Spinareovirinae_1-HMM137-846_54.0-ORF39
+seq26	>nrnt-HQ448931 White bream reovirus strain A-127/06 RNA-dependent RNA polymerase gene, partial cds.-table1-Spinareovirinae_1-HMM1-138_41.0-ORF12
+seq27	>nrnt-AF450323 Golden ide reovirus segment 2 RNA-dependent RNA polymerase VP2 gene, partial cds.-table1-Spinareovirinae_1-HMM1-374_85.0-ORF15
+seq28	>nrnt-AF450318 Striped bass reovirus segment 2 RNA-dependent RNA polymerase VP2 gene, partial cds.-table1-Spinareovirinae_1-HMM1-599_90.0-ORF28
+seq29	>nrnt-KF896229 Jiangxi12-B14 orthoreovirus strain Jiangxi12-B14 virus segment L1 lambda 3 gene, partial cds.-table1-Spinareovirinae_1-HMM1-390_82.0-ORF12
+seq30	>nrnt-AB914761 Avian orthoreovirus genomic RNA, segment L2, complete sequence, strain: Pycno-1.-table6-Spinareovirinae_1-HMM133-834_54.0-ORF50
+seq31	>nrnt-KJ499467 Atlantic halibut reovirus isolate AHRV241013 RNA-dependent RNA polymerase gene, partial cds.-table1-Spinareovirinae_1-HMM136-842_58.0-ORF46
+seq32	>nrnt-KF692090 Tvarminne avian virus segment L2, complete sequence.-table6-Spinareovirinae_1-HMM133-834_54.0-ORF40
+seq33	>nrnt-JN967630 Reovirus GCRV104 segment 2, complete sequence.-table4-Spinareovirinae_1-HMM135-838_54.0-ORF40
+seq34	>nrnt-HM222980 Avian orthoreovirus segment L2, complete sequence.-table6-Spinareovirinae_1-HMM133-834_54.0-ORF48
+seq35	>nrnt-GQ896335 Grass carp reovirus strain HZ08 segment 2, complete sequence.-table6-Spinareovirinae_1-HMM137-842_55.0-ORF46
+seq36	>nrnt-REO2LAM3P Reovirus serotype 2 minor core protein lambda-3 (L1) gene, complete cds.-table4-Spinareovirinae_1-HMM136-837_54.0-ORF41

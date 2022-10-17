@@ -1,0 +1,34 @@
+seq1	>ref-NC_009544.1 Solenopsis invicta virus 2, complete genome-table6-Polycipiviridae-HMM1668-2179_22.0-ORF120
+seq2	>ref-NC_032978.1 Shuangao insect virus 8 strain insectZJ96360 hypothetical protein 1, hypothetical protein 2, hypothetical protein 3, and hypothetical protein 4 genes, complete cds-table6-Polycipiviridae-HMM1805-2323_21.0-ORF118
+seq3	>ref-NC_033152.1 Hubei picorna-like virus 81 strain QTM27117 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Polycipiviridae-HMM1743-2244_21.0-ORF119
+seq4	>ref-NC_035457.1 Myrmica scabrinodis virus 1 isolate Cambridge-Msc, complete genome-table6-Polycipiviridae-HMM1765-2283_21.0-ORF107
+seq5	>ref-NC_035456.1 Lasius niger virus 1 isolate Cambridge-Lni, complete genome-table4-Polycipiviridae-HMM1732-2238_22.0-ORF127
+seq6	>ref-NC_035455.1 Solenopsis invicta virus 4 isolate Gainesville-Sin, complete genome-table6-Polycipiviridae-HMM1916-2434_21.0-ORF123
+seq7	>ref-NC_035450.1 Lasius neglectus virus 1 isolate Cambridge-Lne, complete genome-table6-Polycipiviridae-HMM1773-2291_22.0-ORF119
+seq8	>nrnt-MG599874 Hainan astro-like virus 2 strain LPWC187377 hypothetical protein gene, partial cds; RNA-dependent RNA polymerase and hypothetical protein genes, complete cds; and hypothetical protein gene, partial cds.-table6-Polycipiviridae-HMM500-656_14.0-ORF35
+seq9	>tsa-GAZS01088085.1 TSA: Acanthoscurria geniculata L56101_T1/1_Turantula_WB transcribed RNA sequence-table6-Polycipiviridae-HMM1-126_59.0-ORF9
+seq10	>tsa-GAPE01001939.1 (REVERSE SENSE) TSA: Meligethes aeneus Locus_13890_Transcript_1/1 transcribed RNA sequence-table6-Polycipiviridae-HMM6-199_85.0-ORF21
+seq11	>tsa-GAPE01015035.1 TSA: Meligethes aeneus Locus_20312_Contig1 transcribed RNA sequence-table1-Polycipiviridae-HMM102-270_57.0-ORF8
+seq12	>tsa-GBWX01012166.1 TSA: Elampus spina C67309_a_29_0_l_484 transcribed RNA sequence-table6-Polycipiviridae-HMM5-104_61.0-ORF3
+seq13	>tsa-GBWX01013755.1 TSA: Elampus spina C72493_a_15_0_l_588 transcribed RNA sequence-table1-Polycipiviridae-HMM2-194_97.0-ORF8
+seq14	>tsa-GBWX01019488.1 (REVERSE SENSE) TSA: Elampus spina C92554_a_8_0_l_1715 transcribed RNA sequence-table1-Polycipiviridae-HMM394-560_29.0-ORF52
+seq15	>tsa-GAXW02021367.1 (REVERSE SENSE) TSA: Euroleon nostras C164454_a_25_0_l_2293 transcribed RNA sequence-table6-Polycipiviridae-HMM92-599_83.0-ORF53
+seq16	>tsa-GCRV01015153.1 (REVERSE SENSE) TSA: insect metagenome Unigene2541_All transcribed RNA sequence-table1-Polycipiviridae-HMM46-96_52.0-ORF8
+seq17	>tsa-GCRV01016175.1 TSA: insect metagenome Unigene3563_All transcribed RNA sequence-table1-Polycipiviridae-HMM2-102_98.0-ORF3
+seq18	>tsa-GCRV01018317.1 (REVERSE SENSE) TSA: insect metagenome Unigene5705_All transcribed RNA sequence-table1-Polycipiviridae-HMM1-100_98.0-ORF9
+seq19	>tsa-GCRV01052759.1 TSA: insect metagenome Unigene40147_All transcribed RNA sequence-table1-Polycipiviridae-HMM1-68_98.0-ORF2
+seq20	>tsa-GCRV01052935.1 (REVERSE SENSE) TSA: insect metagenome Unigene40323_All transcribed RNA sequence-table1-Polycipiviridae-HMM1-79_98.0-ORF8
+seq21	>tsa-GCRV01053107.1 (REVERSE SENSE) TSA: insect metagenome Unigene40495_All transcribed RNA sequence-table1-Polycipiviridae-HMM2-75_97.0-ORF8
+seq22	>tsa-GBJM01139303.1 (REVERSE SENSE) TSA: Latrodectus geometricus Lg0tf023026g0u transcribed RNA sequence-table6-Polycipiviridae-HMM118-245_51.0-ORF21
+seq23	>tsa-GAUF02004133.1 (REVERSE SENSE) TSA: Leuctra sp. AD-2013 C115329_a_47_0_l_8173 transcribed RNA sequence-table6-Polycipiviridae-HMM2140-2622_17.0-ORF181
+seq24	>tsa-GFKT010015629.1 TSA: Nephila clavipes Nep005_A_body_comp70781_c0_seq1 transcribed RNA sequence-table1-Polycipiviridae-HMM55-156_63.0-ORF7
+seq25	>tsa-GFLZ01062623.1 TSA: Potamopyrgus antipodarum cds.comp97538_c0_seq1_m.22368 transcribed RNA sequence-table6-Polycipiviridae-HMM24-224_42.0-ORF19
+seq26	>tsa-GAZR01011696.1 TSA: Stegodyphus mimosarum L10436_T1/1_Velvet_WB transcribed RNA sequence-table4-Polycipiviridae-HMM1-211_83.0-ORF10
+seq27	>tsa-GAZR01012841.1 (REVERSE SENSE) TSA: Stegodyphus mimosarum L11581_T1/1_Velvet_WB transcribed RNA sequence-table4-Polycipiviridae-HMM1-157_99.0-ORF14
+seq28	>tsa-GAZR01018856.1 TSA: Stegodyphus mimosarum L17596_T1/1_Velvet_WB transcribed RNA sequence-table4-Polycipiviridae-HMM1-84_95.0-ORF2
+seq29	>tsa-GAXR01008827.1 (REVERSE SENSE) TSA: Stigmatomma oregonense comp7586_c2_seq1 transcribed RNA sequence-table4-Polycipiviridae-HMM26-217_87.0-ORF14
+seq30	>tsa-GELW01113307.1 TSA: Taxillus chinensis c63694_g1_i1 transcribed RNA sequence-table4-Polycipiviridae-HMM1-117_99.0-ORF4
+seq31	>ref-NC_032222.1 Hubei picorna-like virus 82 strain spider133992 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Chipolycivirus-HMM1746-2251_21.0-ORF112
+seq32	>ref-NC_005281.1 Heterosigma akashiwo RNA virus SOG263, complete genome-table6-Marnaviridae-HMM1357-1852_17.0-ORF92
+seq33	>tsa-GAXK01048074.1 TSA: Calanus finmarchicus comp5483864_c0_seq1 transcribed RNA sequence-table1-Marnaviridae-HMM2-119_88.0-ORF4
+seq34	>tsa-GFAV01010469.1 TSA: Haliclona tubifera c50606_g1_i1 transcribed RNA sequence-table1-Marnaviridae-HMM23-266_91.0-ORF6

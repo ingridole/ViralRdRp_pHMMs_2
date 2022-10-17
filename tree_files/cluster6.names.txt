@@ -1,0 +1,549 @@
+seq1	>ref-NC_001946.1 Sour cherry green ring mottle virus, complete genome-table6-Betaflexiviridae-HMM1618-2034_18.0-ORF74
+seq2	>ref-NC_001409.1 Apple chlorotic leaf spot virus, complete genome-table6-Betaflexiviridae-HMM1469-1889_21.0-ORF59
+seq3	>ref-NC_002500.1 Cherry mottle leaf virus, complete genome-table6-Betaflexiviridae-HMM1462-1883_21.0-ORF62
+seq4	>ref-NC_002729.1 Banana mild mosaic virus, complete genome-table4-Betaflexiviridae-HMM1355-1772_22.0-ORF74
+seq5	>ref-NC_002468.1 Cherry necrotic rusty mottle virus, complete genome-table6-Betaflexiviridae-HMM1637-2055_20.0-ORF72
+seq6	>ref-NC_003462.2 Apple stem pitting virus genes for RNA-dependent RNA polymerase, triple gene block ORFs and coat protein, complete cds-table4-Betaflexiviridae-HMM1756-2175_19.0-ORF70
+seq7	>ref-NC_003877.1 Citrus leaf blotch virus, complete genome-table6-Betaflexiviridae-HMM1548-1970_21.0-ORF58
+seq8	>ref-NC_003870.1 Sugarcane striate mosaic-associated virus, complete genome-table6-Betaflexiviridae-HMM1507-1925_20.0-ORF65
+seq9	>ref-NC_005138.1 Lily symptomless virus, complete genome-table6-Betaflexiviridae-HMM1535-1955_21.0-ORF60
+seq10	>ref-NC_006550.1 Sweet potato chlorotic fleck virus, complete genome-table6-Betaflexiviridae-HMM1678-2097_19.0-ORF68
+seq11	>ref-NC_005343.1 Poplar mosaic virus, complete genome-table4-Betaflexiviridae-HMM1571-1991_20.0-ORF70
+seq12	>ref-NC_003604.2 Grapevine virus A, complete genome-table6-Betaflexiviridae-HMM1277-1689_23.0-ORF56
+seq13	>ref-NC_003689.1 Cherry virus A, complete genome-table6-Betaflexiviridae-HMM1222-1641_17.0-ORF73
+seq14	>ref-NC_003602.1 Grapevine virus B, complete genome-table4-Betaflexiviridae-HMM1263-1675_23.0-ORF60
+seq15	>ref-NC_006946.1 Apricot pseudo-chlorotic leaf spot virus, complete genome-table4-Betaflexiviridae-HMM1438-1859_21.0-ORF64
+seq16	>ref-NC_001749.2 Apple stem grooving virus, complete genome-table6-Betaflexiviridae-HMM1156-1577_19.0-ORF76
+seq17	>ref-NC_001948.1 Rupestris stem pitting associated virus-1, complete genome-table6-Betaflexiviridae-HMM1751-2170_16.0-ORF83
+seq18	>ref-NC_001361.2 Potato virus M, complete genome-table6-Betaflexiviridae-HMM1558-1982_21.0-ORF72
+seq19	>ref-NC_003557.1 Garlic latent virus, complete genome-table4-Betaflexiviridae-HMM1511-1931_21.0-ORF77
+seq20	>ref-NC_003499.1 Blueberry scorch virus, complete genome-table6-Betaflexiviridae-HMM1553-1973_21.0-ORF65
+seq21	>ref-NC_002552.1 Hop latent virus, complete genome-table4-Betaflexiviridae-HMM1571-1992_18.0-ORF89
+seq22	>ref-NC_002795.1 Aconitum latent virus, complete genome-table6-Betaflexiviridae-HMM1562-1983_21.0-ORF61
+seq23	>ref-NC_007289.1 Potato virus S, complete genome-table4-Betaflexiviridae-HMM1563-1983_21.0-ORF60
+seq24	>ref-NC_008020.1 Daphne virus S, complete genome-table6-Betaflexiviridae-HMM1580-1999_18.0-ORF80
+seq25	>ref-NC_008292.1 Passiflora latent carlavirus, complete genome-table6-Betaflexiviridae-HMM1536-1956_18.0-ORF74
+seq26	>ref-NC_008552.1 Narcissus symptomless virus, complete genome-table6-Betaflexiviridae-HMM1444-1863_22.0-ORF57
+seq27	>ref-NC_008266.1 Narcissus common latent virus, complete genome-table6-Betaflexiviridae-HMM1557-1978_20.0-ORF68
+seq28	>ref-NC_009087.2 Chrysanthemum virus B, complete genome-table6-Betaflexiviridae-HMM1648-2068_20.0-ORF72
+seq29	>ref-NC_009991.1 Phlox Virus B, complete genome-table4-Betaflexiviridae-HMM1638-2058_20.0-ORF74
+seq30	>ref-NC_009759.1 Potato rough dwarf virus, complete genome-table6-Betaflexiviridae-HMM1524-1944_21.0-ORF68
+seq31	>ref-NC_009764.1 Coleus vein necrosis virus, complete genome-table6-Betaflexiviridae-HMM1565-1985_20.0-ORF65
+seq32	>ref-NC_009383.1 Phlox virus S, complete genome-table6-Betaflexiviridae-HMM1578-1997_18.0-ORF77
+seq33	>ref-NC_009892.1 Peach chlorotic mottle virus, complete genome-table6-Betaflexiviridae-HMM1715-2135_17.0-ORF83
+seq34	>ref-NC_010305.1 Ligustrum necrotic ringspot virus, complete genome-table6-Betaflexiviridae-HMM1537-1957_21.0-ORF70
+seq35	>ref-NC_010538.1 Hop mosaic virus, complete genome-table6-Betaflexiviridae-HMM1551-1971_20.0-ORF69
+seq36	>ref-NC_011062.1 Potato virus T, complete genome-table6-Betaflexiviridae-HMM1162-1576_25.0-ORF56
+seq37	>ref-NC_011540.1 Hippeastrum latent virus, complete genome-table6-Betaflexiviridae-HMM1541-1961_20.0-ORF68
+seq38	>ref-NC_012210.1 Red clover vein mosaic virus, complete genome-table6-Betaflexiviridae-HMM1524-1943_19.0-ORF58
+seq39	>ref-NC_011106.1 Grapevine virus E, complete genome-table6-Betaflexiviridae-HMM1264-1679_23.0-ORF55
+seq40	>ref-NC_012519.1 African oil palm ringspot virus, complete genome-table6-Betaflexiviridae-HMM1435-1853_21.0-ORF63
+seq41	>ref-NC_011525.1 Potato latent virus, complete genome-table6-Betaflexiviridae-HMM1374-1794_22.0-ORF64
+seq42	>ref-NC_011552.1 Peach mosaic virus, complete genome-table6-Betaflexiviridae-HMM1436-1856_22.0-ORF63
+seq43	>ref-NC_012038.1 Helleborus net necrosis virus, complete genome-table6-Betaflexiviridae-HMM1544-1963_21.0-ORF65
+seq44	>ref-NC_013527.1 Butterbur mosaic virus, complete genome-table6-Betaflexiviridae-HMM1587-2007_18.0-ORF76
+seq45	>ref-NC_012869.1 Hydrangea chlorotic mottle virus, complete genome-table6-Betaflexiviridae-HMM1529-1948_21.0-ORF69
+seq46	>ref-NC_013006.1 Kalanchoe latent virus, complete genome-table6-Betaflexiviridae-HMM1585-2005_20.0-ORF59
+seq47	>ref-NC_014730.1 Cowpea mild mottle virus, complete genome-table6-Betaflexiviridae-HMM1428-1849_22.0-ORF58
+seq48	>ref-NC_014821.1 Apricot latent virus, complete genome-table6-Betaflexiviridae-HMM1762-2181_18.0-ORF73
+seq49	>ref-NC_015395.1 Hardenbergia virus A, complete genome-table6-Betaflexiviridae-HMM1246-1667_18.0-ORF73
+seq50	>ref-NC_016080.1 Mirabilis jalapa mottle virus, complete genome-table6-Betaflexiviridae-HMM1507-1926_20.0-ORF65
+seq51	>ref-NC_015220.1 Grapevine berry inner necrosis virus, complete genome-table4-Betaflexiviridae-HMM1414-1834_21.0-ORF60
+seq52	>ref-NC_015782.1 Grapevine Pinot gris virus, complete genome-table6-Betaflexiviridae-HMM1399-1820_22.0-ORF56
+seq53	>ref-NC_016404.1 Actinidia virus B, complete genome-table6-Betaflexiviridae-HMM1278-1690_23.0-ORF63
+seq54	>ref-NC_016440.1 Garlic common latent virus, complete genome-table6-Betaflexiviridae-HMM1548-1968_19.0-ORF62
+seq55	>ref-NC_017859.1 American hop latent virus, complete genome-table6-Betaflexiviridae-HMM1573-1993_20.0-ORF64
+seq56	>ref-NC_018448.1 Sweet potato virus C-6, complete genome-table6-Betaflexiviridae-HMM1594-2014_20.0-ORF73
+seq57	>ref-NC_018714.1 Apple green crinkle associated virus complete genome, genomic RNA, isolate Aurora-1-table6-Betaflexiviridae-HMM1761-2180_16.0-ORF92
+seq58	>ref-NC_018458.1 Grapevine virus F, complete genome-table6-Betaflexiviridae-HMM1308-1720_21.0-ORF64
+seq59	>ref-NC_019029.1 Diuris virus A isolate SW3.3, complete genome-table6-Betaflexiviridae-HMM1244-1665_18.0-ORF74
+seq60	>ref-NC_018175.1 Potato virus H isolate YN, complete genome-table4-Betaflexiviridae-HMM1539-1958_21.0-ORF62
+seq61	>ref-NC_019025.1 Rubus canadensis virus 1 isolate BM-01, complete genome-table6-Betaflexiviridae-HMM1630-2050_20.0-ORF73
+seq62	>ref-NC_019030.1 Diuris virus B isolate SW3.3, complete genome-table6-Betaflexiviridae-HMM1244-1665_18.0-ORF71
+seq63	>ref-NC_020996.1 Cherry rusty mottle associated virus isolate 95CI192R3, complete genome-table4-Betaflexiviridae-HMM1608-2025_19.0-ORF70
+seq64	>ref-NC_023295.1 Apricot vein clearing associated virus complete genome, isolate VC-table6-Betaflexiviridae-HMM1264-1685_24.0-ORF52
+seq65	>ref-NC_023892.1 Gaillardia latent virus isolate 5/18-05-2010, complete genome-table6-Betaflexiviridae-HMM1578-1998_20.0-ORF69
+seq66	>ref-NC_024449.1 Cherry twisted leaf associated virus isolate CTLV_8431, complete genome-table6-Betaflexiviridae-HMM1609-2027_18.0-ORF75
+seq67	>ref-NC_024686.1 Prunus virus T isolate Aze239, complete genome-table6-Betaflexiviridae-HMM1340-1752_22.0-ORF64
+seq68	>ref-NC_025388.1 Asian prunus virus 1 isolate tatao5, complete genome-table6-Betaflexiviridae-HMM1612-2031_18.0-ORF82
+seq69	>ref-NC_025468.1 Carrot betaflexivirus 2 isolate CBV-2_S15 ORF1, ORF2, and ORF3 genes, complete cds-table6-Betaflexiviridae-HMM1419-1838_22.0-ORF64
+seq70	>ref-NC_025469.1 Carrot betaflexivirus 1 isolate CBV-1_S20 ORF1, ORF2, and ORF3 genes, complete cds-table6-Betaflexiviridae-HMM1453-1872_21.0-ORF68
+seq71	>ref-NC_026616.2 Alfalfa latent virus isolate ATCC PV-264 RNA-dependent RNA polymerase, TGB1, TGB2, TGB3, and coat protein genes, complete cds-table6-Betaflexiviridae-HMM1491-1911_21.0-ORF67
+seq72	>ref-NC_026248.1 Yam latent virus isolate SG1, complete genome-table4-Betaflexiviridae-HMM1545-1966_21.0-ORF68
+seq73	>ref-NC_027527.1 Pea streak virus isolate VRS-541, complete genome-table6-Betaflexiviridae-HMM1492-1912_21.0-ORF68
+seq74	>ref-NC_028111.1 Nerine latent virus isolate Marijiniup 4, complete genome-table6-Betaflexiviridae-HMM1445-1865_19.0-ORF74
+seq75	>ref-NC_028975.1 Asian prunus virus 3 isolate Nanjing, complete genome-table6-Betaflexiviridae-HMM1612-2031_19.0-ORF71
+seq76	>ref-NC_028868.1 Asian prunus virus 2 isolate Bungo Q-1256-01, complete genome-table6-Betaflexiviridae-HMM1594-2014_18.0-ORF79
+seq77	>ref-NC_029087.1 Elderberry carlavirus C isolate EBCVC, complete genome-table4-Betaflexiviridae-HMM1581-2000_20.0-ORF75
+seq78	>ref-NC_029086.1 Elderberry carlavirus B isolate EBCVB, complete genome-table6-Betaflexiviridae-HMM1579-1998_20.0-ORF73
+seq79	>ref-NC_029088.1 Elderberry carlavirus D isolate EBCVD, complete genome-table6-Betaflexiviridae-HMM1567-1986_20.0-ORF62
+seq80	>ref-NC_029089.1 Elderberry carlavirus E isolate EBCVE, complete genome-table6-Betaflexiviridae-HMM1550-1969_17.0-ORF71
+seq81	>ref-NC_029085.1 Elderberry carlavirus A isolate EBCVA, complete genome-table6-Betaflexiviridae-HMM1584-2003_20.0-ORF76
+seq82	>ref-NC_029301.1 Currant virus A, complete genome-table6-Betaflexiviridae-HMM1388-1807_15.0-ORF79
+seq83	>ref-NC_030657.1 Yacon virus A isolate 4Y_2, complete genome-table6-Betaflexiviridae-HMM1156-1579_19.0-ORF69
+seq84	>ref-NC_030926.1 Jasmine virus C isolate A-31, complete genome-table6-Betaflexiviridae-HMM1558-1977_20.0-ORF68
+seq85	>ref-NC_031089.1 Ligustrum virus A isolate SK, complete genome-table4-Betaflexiviridae-HMM1559-1979_21.0-ORF71
+seq86	>ref-NC_034376.1 Pepper virus A isolate TW RdRp (gp1), TGB1 (gp2), TGB2 (gp3), coat protein (gp4), and putative nucleic acid binding protein (gp5) genes, complete cds-table4-Betaflexiviridae-HMM1628-2048_20.0-ORF78
+seq87	>ref-NC_034377.1 Watermelon virus A isolate KF-15, complete genome-table4-Betaflexiviridae-HMM1412-1834_22.0-ORF69
+seq88	>ref-NC_034264.1 Arracacha virus V isolate CNPH, complete genome-table6-Betaflexiviridae-HMM1277-1695_23.0-ORF59
+seq89	>ref-NC_034833.1 Agave tequilana leaf virus isolate agave azul-Mex1, complete genome-table4-Betaflexiviridae-HMM1121-1534_20.0-ORF62
+seq90	>ref-NC_035202.1 Grapevine virus K isolate Jo RNA-dependent RNA polymerase (ORF1), hypothetical protein (ORF2), movement protein (ORF3), coat protein (ORF4), and nucleic acid binding protein (ORF5) genes, complete cds-table4-Betaflexiviridae-HMM1280-1691_23.0-ORF52
+seq91	>ref-NC_035203.1 Grapevine virus T isolate Cho replicase (ORF1), TGB1 (ORF2), TGB2 (ORF3), TGB3 (ORF4), and CP (ORF5) genes, complete cds-table6-Betaflexiviridae-HMM1723-2142_19.0-ORF66
+seq92	>ref-NC_035462.1 Ocimum basilicum RNA virus 1 isolate DV1 RNA-dependent RNA polymerase and movement protein genes, complete cds-table6-Betaflexiviridae-HMM1246-1667_18.0-ORF70
+seq93	>nrnt-MF372910 Maize associated foveavirus isolate KF1 ORF1 gene, partial cds.-table6-Betaflexiviridae-HMM299-718_57.0-ORF27
+seq94	>nrnt-MF993576 Grapevine virus K isolate VLJ-178.GvK, complete genome.-table6-Betaflexiviridae-HMM1285-1696_23.0-ORF65
+seq95	>nrnt-MF781081 Grapevine virus G isolate VLJ-178.GvG, complete genome.-table4-Betaflexiviridae-HMM1289-1701_23.0-ORF57
+seq96	>nrnt-LT898349 Elm carlavirus replicase gene for replicase polyprotein, ORF genes for triple gene block proteins 1,2 and 3 and CP gene for coat protein, isolate c3.-table6-Betaflexiviridae-HMM1487-1907_21.0-ORF58
+seq97	>nrnt-MG783575 Mume virus A isolate pm14, complete genome.-table4-Betaflexiviridae-HMM1207-1626_17.0-ORF84
+seq98	>nrnt-MG432107 Chrysanthemum virus R strain BJ, complete genome.-table6-Betaflexiviridae-HMM1666-2086_19.0-ORF66
+seq99	>nrnt-KY451037 Potato virus S isolate Arracacha - Pasco replicase gene, partial cds; and TGB1, TGB2, TGB3, coat protein, and putative nucleic acid binding protein genes, complete cds.-table6-Betaflexiviridae-HMM1-194_83.0-ORF9
+seq100	>nrnt-LC373513 Cherry virus B S3 genomic RNA, complete genome.-table6-Betaflexiviridae-HMM1602-2021_20.0-ORF66
+seq101	>nrnt-MG637048 Grapevine virus J isolate KS, complete genome.-table4-Betaflexiviridae-HMM1266-1677_23.0-ORF58
+seq102	>ref-NC_037058 Grapevine virus I isolate VID499, complete genome.-table4-Betaflexiviridae-HMM1278-1693_24.0-ORF57
+seq103	>nrnt-KY706358 Citrus tatter leaf virus isolate Ponkan 8, complete genome.-table6-Betaflexiviridae-HMM1156-1578_19.0-ORF67
+seq104	>nrnt-MF440375 Actinidia seed-borne latent virus isolate 01227, complete genome.-table6-Betaflexiviridae-HMM1588-2009_20.0-ORF71
+seq105	>nrnt-KX035004 Grapevine rupestris stem pitting-associated virus isolate SGM5 clone 1, complete genome.-table6-Betaflexiviridae-HMM1752-2171_17.0-ORF83
+seq106	>nrnt-KY490039 Apple stem pitting virus isolate ASPV-XC, complete genome.-table6-Betaflexiviridae-HMM1763-2182_18.0-ORF85
+seq107	>nrnt-MF521889 Grapevine virus H isolate TT2016-3, complete genome.-table6-Betaflexiviridae-HMM1279-1693_23.0-ORF61
+seq108	>nrnt-MF133527 Potato virus M isolate 16-1 RNA-dependent RNA polymerase, triple gene block protein 1, triple gene block protein 2, triple gene block protein 3, coat protein, and nucleic acid binding protein genes, complete cds.-table6-Betaflexiviridae-HMM1556-1977_20.0-ORF73
+seq109	>nrnt-MF405924 Grapevine virus G isolate VID499, complete genome.-table6-Betaflexiviridae-HMM1292-1704_23.0-ORF64
+seq110	>nrnt-KY364848 Potato virus M isolate PVM-YN, complete genome.-table6-Betaflexiviridae-HMM1550-1971_20.0-ORF79
+seq111	>nrnt-KY310581 Asian prunus virus 2 isolate BC, complete genome.-table6-Betaflexiviridae-HMM1607-2027_18.0-ORF77
+seq112	>nrnt-KU971246 Grapevine berry inner necrosis virus isolate LN_ANSJ_RS, complete genome.-table4-Betaflexiviridae-HMM1402-1823_21.0-ORF63
+seq113	>nrnt-KU854930 Carlavirus HSO-2016a isolate nopal verdura-1, complete genome.-table6-Betaflexiviridae-HMM1523-1943_21.0-ORF64
+seq114	>nrnt-KX522545 Grapevine virus B isolate GVB 248, complete genome.-table4-Betaflexiviridae-HMM1265-1677_23.0-ORF63
+seq115	>nrnt-KX579123 Apple chlorotic leaf spot virus isolate 38/85-B, complete genome.-table4-Betaflexiviridae-HMM1428-1848_21.0-ORF68
+seq116	>nrnt-KX579122 Apple chlorotic leaf spot virus isolate 38/85-A, complete genome.-table4-Betaflexiviridae-HMM1453-1873_21.0-ORF58
+seq117	>nrnt-KU947036 Apple stem grooving virus isolate ASGV-HT, complete genome.-table6-Betaflexiviridae-HMM1158-1579_19.0-ORF79
+seq118	>nrnt-KR023647 Citrus leaf blotch virus strain Prunus, complete genome.-table6-Betaflexiviridae-HMM1563-1985_21.0-ORF59
+seq119	>nrnt-KY132099 Apricot vein clearing associated virus isolate Tas3, complete genome.-table6-Betaflexiviridae-HMM1609-2028_20.0-ORF62
+seq120	>nrnt-LG143869 KR 1020160025360-A/1: Novel Atractylodes mottle virus gene from Atractylodes japonica plant.-table6-Betaflexiviridae-HMM1613-2032_19.0-ORF64
+seq121	>nrnt-KU870524 Apple chlorotic leaf spot virus isolate SY02, complete genome.-table6-Betaflexiviridae-HMM1451-1872_21.0-ORF66
+seq122	>nrnt-JN225461 Potato virus M isolate VIRUBRA 4/009 223K polyprotein gene, partial cds; and 25K protein, 12K protein, 7K protein, coat protein, and truncated 13K protein genes, complete cds.-table4-Betaflexiviridae-HMM5-397_94.0-ORF15
+seq123	>nrnt-HQ588147 Caper latent virus isolate L7 RNA-dependent RNA polymerase (RdRp) gene, partial cds.-table1-Betaflexiviridae-HMM6-373_98.0-ORF10
+seq124	>nrnt-AY913795 Mint virus 2 replicase gene, partial cds; and p24, movement protein, coat protein, and RNA binding protein genes, complete cds.-table6-Betaflexiviridae-HMM50-462_57.0-ORF23
+seq125	>nrnt-DQ378057 Blackberry virus X polyprotein gene, partial cds.-table1-Betaflexiviridae-HMM298-530_43.0-ORF21
+seq126	>nrnt-FJ179164 Banana mild mosaic virus RNA-dependent RNA polymerase gene, partial cds; nonfunctional triple gene block protein 2 and nonfunctional triple gene block protein 3 genes, complete sequence; and coat protein gene, complete cds.-table4-Betaflexiviridae-HMM9-141_74.0-ORF6
+seq127	>nrnt-FJ196838 Helleborus mosaic virus replicase polyprotein gene, partial cds; and triple gene block protein 1, triple gene block protein 2, triple gene block protein 3, capsid protein, and putative nucleic acid binding protein genes, complete cds.-table6-Betaflexiviridae-HMM1-116_30.0-ORF16
+seq128	>nrnt-AF271218 Unidentified Verbena-infecting Carlavirus RNA dependent RNA polymerase gene, partial cds; and 25.8 kDa protein and 12 kDa protein genes, complete cds.-table6-Betaflexiviridae-HMM55-478_81.0-ORF22
+seq129	>nrnt-KR998048 Asian prunus virus 2 isolate APV_2_Q65a, complete genome.-table6-Betaflexiviridae-HMM1608-2027_20.0-ORF78
+seq130	>nrnt-KU234317 Grapevine berry inner necrosis virus isolate LN_Ths_RS, complete genome.-table4-Betaflexiviridae-HMM1410-1831_21.0-ORF63
+seq131	>nrnt-LC064752 Cherry green ring mottle virus genes for replication protein, triple gene block protein1, triple gene block protein2, coat protein, partial and complete cds, strain: CGRMV-Korea.-table6-Betaflexiviridae-HMM1586-2003_19.0-ORF63
+seq132	>nrnt-KP258176 Cherry rusty mottle associated virus isolate CRMaV_S83-36, complete genome.-table6-Betaflexiviridae-HMM1627-2045_20.0-ORF69
+seq133	>nrnt-KR054735 Grapevine rupestris stem pitting-associated virus isolate GRSPaV-LSL, complete genome.-table6-Betaflexiviridae-HMM1751-2170_17.0-ORF78
+seq134	>nrnt-KR054734 Grapevine rupestris stem pitting-associated virus isolate GRSPaV-JF, complete genome.-table6-Betaflexiviridae-HMM1751-2170_16.0-ORF82
+seq135	>nrnt-KR106996 Apple stem grooving virus isolate ASGV_kfp, complete genome.-table6-Betaflexiviridae-HMM1143-1564_19.0-ORF79
+seq136	>nrnt-KP715159 Sweet potato chlorotic fleck virus isolate HG176, complete genome.-table6-Betaflexiviridae-HMM1679-2098_19.0-ORF72
+seq137	>nrnt-KM507061 Caucasus prunus virus isolate Aze204, complete genome.-table6-Betaflexiviridae-HMM1564-1986_20.0-ORF67
+seq138	>nrnt-HM107774 Pea streak virus isolate V4 polyprotein gene, partial cds; and TGB1, TGB2, TGB3, and capsid protein genes, complete cds.-table6-Betaflexiviridae-HMM156-577_47.0-ORF26
+seq139	>nrnt-KJ572565 Blackcurrant trichovirus A isolate BCTVA-2 replicase polyprotein gene, partial cds.-table4-Betaflexiviridae-HMM686-1092_36.0-ORF38
+seq140	>nrnt-KF700262 Prunus virus T isolate C21, complete genome.-table6-Betaflexiviridae-HMM1344-1756_22.0-ORF61
+seq141	>nrnt-KF321967 Apple stem pitting virus isolate Hannover, complete genome.-table6-Betaflexiviridae-HMM1760-2180_18.0-ORF81
+seq142	>nrnt-KF321966 Apple stem pitting virus isolate PB66, complete genome.-table6-Betaflexiviridae-HMM1761-2180_18.0-ORF85
+seq143	>nrnt-KC774020 Cowpea mild mottle virus isolate Florida_Bean_2011, complete genome.-table6-Betaflexiviridae-HMM1450-1871_22.0-ORF62
+seq144	>nrnt-KF030878 Cherry twisted leaf associated virus isolate 8265 (s3), complete genome.-table6-Betaflexiviridae-HMM1638-2055_20.0-ORF64
+seq145	>nrnt-KF030870 Cherry rusty mottle associated virus isolate 8241-2 (s1), complete genome.-table4-Betaflexiviridae-HMM1610-2027_19.0-ORF79
+seq146	>nrnt-KF030869 Cherry rusty mottle associated virus isolate 8099-5 (s1), complete genome.-table4-Betaflexiviridae-HMM1610-2027_19.0-ORF71
+seq147	>nrnt-KF030848 Cherry twisted leaf associated virus isolate 95CI206 (s1), complete genome.-table4-Betaflexiviridae-HMM1619-2037_19.0-ORF78
+seq148	>nrnt-JX419379 Potato virus S strain RVC Andean, complete genome.-table4-Betaflexiviridae-HMM1564-1984_21.0-ORF67
+seq149	>nrnt-KC207480 Cherry mottle leaf virus strain peach wart, complete genome.-table6-Betaflexiviridae-HMM1472-1892_21.0-ORF66
+seq150	>nrnt-JN983456 Citrus leaf blotch virus strain Actinidia substrain V20, complete genome.-table6-Betaflexiviridae-HMM1572-1994_20.0-ORF64
+seq151	>nrnt-JX402759 Grapevine virus E isolate WAHH2, complete genome.-table6-Betaflexiviridae-HMM1283-1697_21.0-ORF68
+seq152	>nrnt-JQ647830 Potato virus S isolate BB-AND, complete genome.-table4-Betaflexiviridae-HMM1564-1984_21.0-ORF61
+seq153	>nrnt-JN427014 Actinidia virus A isolate TP7-93A putative replicase (ORF1) gene, partial cds; and hypothetical protein (ORF2), movement protein (ORF3), coat protein (ORF4), and RNA-binding protein (ORF5) genes, complete cds.-table6-Betaflexiviridae-HMM1263-1675_23.0-ORF54
+seq154	>nrnt-AY710267 Banana virus X RNA-dependent RNA polymerase gene, partial cds; and triple gene block protein 1, triple gene block protein 2, triple gene block protein 3, and capsid protein genes, complete cds.-table6-Betaflexiviridae-HMM1-290_93.0-ORF12
+seq155	>nrnt-JN127346 Scaevola virus A isolate WA-3 polyprotein gene, partial cds; and movement protein and coat protein genes, complete cds.-table4-Betaflexiviridae-HMM449-871_45.0-ORF31
+seq156	>nrnt-HQ339959 Apricot latent virus isolate Caserta 12, complete genome.-table4-Betaflexiviridae-HMM1757-2177_19.0-ORF80
+seq157	>nrnt-AY244516 Grapevine virus A, complete genome.-table4-Betaflexiviridae-HMM1287-1699_23.0-ORF56
+seq158	>nrnt-DQ855087 Grapevine virus A isolate BMo32-1, complete genome.-table6-Betaflexiviridae-HMM1277-1689_23.0-ORF61
+seq159	>nrnt-AY941199 Blueberry scorch virus isolate BC-2, complete genome.-table6-Betaflexiviridae-HMM1555-1975_18.0-ORF73
+seq160	>nrnt-FJ531635 Kalanchoe latent virus isolate 1452, complete genome.-table6-Betaflexiviridae-HMM1584-2004_20.0-ORF66
+seq161	>nrnt-AY596172 Pear black necrotic leaf spot virus, complete sequence.-table6-Betaflexiviridae-HMM1157-1578_19.0-ORF65
+seq162	>nrnt-AB245142 Chrysanthemum virus B genomic RNA, complete genome, isolate: S.-table6-Betaflexiviridae-HMM1681-2101_19.0-ORF66
+seq163	>nrnt-FN377573 Fig latent virus 1 ORF1, ORF2, ORF3 and ORF4, isolate f5p5, genomic RNA.-table4-Betaflexiviridae-HMM991-1406_28.0-ORF41
+seq164	>nrnt-EU223295 Apple chlorotic leaf spot virus isolate Ta Tao 5, complete genome.-table4-Betaflexiviridae-HMM1424-1844_21.0-ORF60
+seq165	>nrnt-DQ855082 Grapevine virus A isolate P163-M5, complete genome.-table6-Betaflexiviridae-HMM1277-1689_23.0-ORF61
+seq166	>nrnt-AM920542 Phlomis mottle virus RdRpol gene (partial), MP gene, CP gene and ORF4, genomic RNA.-table4-Betaflexiviridae-HMM1-266_94.0-ORF11
+seq167	>nrnt-DQ787959 Grapevine virus A isolate GTR1-1, complete genome.-table4-Betaflexiviridae-HMM1292-1704_23.0-ORF58
+seq168	>nrnt-AJ131812 Lily latent virus partial gene for RNA replicase, 25kDa protein, 12kDa protein, 32kDa protein and 16kDa protein, genomic RNA, isolate LiLV-KR.-table6-Betaflexiviridae-HMM1-158_38.0-ORF14
+seq169	>nrnt-X99752 Apple spot chlorotic leaf spot trichovirus complete genomic RNA.-table6-Betaflexiviridae-HMM1450-1870_21.0-ORF63
+seq170	>nrnt-D11161 Garlic latent virus genomic RNA for RNA replicase, coat protein and other products, complete and partial cds.-table4-Betaflexiviridae-HMM1-299_94.0-ORF9
+seq171	>nrnt-AB045371 Apple stem pitting virus gene for RNA polymerase, complete cds.-table6-Betaflexiviridae-HMM1763-2182_16.0-ORF86
+seq172	>nrnt-X79270 Heracleum latent virus RNA binding protein gene.-table4-Betaflexiviridae-HMM10-200_70.0-ORF9
+seq173	>nrnt-Z68502 Garlic latent virus genes for replicase, helicase, coat protein, nucleic acid binding protein, 7 kDa and 12 kDa protein.-table4-Betaflexiviridae-HMM1512-1932_21.0-ORF68
+seq174	>tsa-GAMA01010306.1 TSA: Actinidia chinensis Unigene26484 transcribed RNA sequence-table6-Betaflexiviridae-HMM1591-2012_20.0-ORF72
+seq175	>tsa-GAMB01023401.1 (REVERSE SENSE) TSA: Actinidia chinensis Unigene06350 transcribed RNA sequence-table1-Betaflexiviridae-HMM127-336_62.0-ORF35
+seq176	>tsa-GAHU01000682.1 TSA: Agave tequilana Locus280v1rpkm440.15 transcribed RNA sequence-table4-Betaflexiviridae-HMM1122-1534_26.0-ORF43
+seq177	>tsa-GAHU01001898.1 TSA: Agave tequilana Locus792v1rpkm239.50 transcribed RNA sequence-table6-Betaflexiviridae-HMM1113-1526_25.0-ORF57
+seq178	>tsa-GAHU01001906.1 TSA: Agave tequilana Locus798v1rpkm238.55 transcribed RNA sequence-table6-Betaflexiviridae-HMM1109-1296_13.0-ORF46
+seq179	>tsa-GAHU01005113.1 TSA: Agave tequilana Locus2129v2rpkm57.21 transcribed RNA sequence-table4-Betaflexiviridae-HMM1125-1539_25.0-ORF50
+seq180	>tsa-GAHU01005281.1 TSA: Agave tequilana Locus2223v1rpkm115.67 transcribed RNA sequence-table6-Betaflexiviridae-HMM1047-1460_25.0-ORF60
+seq181	>tsa-GAHU01013392.1 TSA: Agave tequilana Locus6115v1rpkm48.20 transcribed RNA sequence-table4-Betaflexiviridae-HMM550-964_40.0-ORF36
+seq182	>tsa-GAHU01020943.1 TSA: Agave tequilana Locus9688v1rpkm31.10 transcribed RNA sequence-table4-Betaflexiviridae-HMM1-217_82.0-ORF10
+seq183	>tsa-GAHU01020944.1 TSA: Agave tequilana Locus9688v2rpkm16.12 transcribed RNA sequence-table1-Betaflexiviridae-HMM1147-1557_26.0-ORF44
+seq184	>tsa-GAHU01026503.1 TSA: Agave tequilana Locus12202v1rpkm24.37 transcribed RNA sequence-table4-Betaflexiviridae-HMM14-158_65.0-ORF7
+seq185	>tsa-GAHU01061266.1 TSA: Agave tequilana Locus29711v1rpkm6.10 transcribed RNA sequence-table1-Betaflexiviridae-HMM939-1054_10.0-ORF31
+seq186	>tsa-GAHU01071054.1 (REVERSE SENSE) TSA: Agave tequilana Locus35051v1rpkm4.02 transcribed RNA sequence-table4-Betaflexiviridae-HMM34-156_78.0-ORF14
+seq187	>tsa-GAHU01071055.1 TSA: Agave tequilana Locus35051v2rpkm2.94 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-125_99.0-ORF6
+seq188	>tsa-GFAR01007086.1 TSA: Allium ampeloprasum c113541_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM1509-1929_21.0-ORF65
+seq189	>tsa-GFAR01009101.1 (REVERSE SENSE) TSA: Allium ampeloprasum c95677_g1 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-275_90.0-ORF21
+seq190	>tsa-GFAR01012464.1 (REVERSE SENSE) TSA: Allium ampeloprasum c113919_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM1508-1928_21.0-ORF209
+seq191	>tsa-GFAR01017017.1 (REVERSE SENSE) TSA: Allium ampeloprasum c84978_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM6-235_91.0-ORF19
+seq192	>tsa-GFAR01086155.1 TSA: Allium ampeloprasum c104665_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM255-675_59.0-ORF20
+seq193	>tsa-GFAR01097950.1 (REVERSE SENSE) TSA: Allium ampeloprasum c107878_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM255-675_59.0-ORF48
+seq194	>tsa-GFAR01105939.1 TSA: Allium ampeloprasum c100865_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM236-388_39.0-ORF8
+seq195	>tsa-GFAR01146409.1 (REVERSE SENSE) TSA: Allium ampeloprasum c91876_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM236-388_39.0-ORF36
+seq196	>tsa-GFAR01157330.1 (REVERSE SENSE) TSA: Allium ampeloprasum c114038_g1 transcribed RNA sequence-table6-Betaflexiviridae-HMM1240-1437_13.0-ORF108
+seq197	>tsa-GFAR01173185.1 TSA: Allium ampeloprasum c113888_g1 transcribed RNA sequence-table6-Betaflexiviridae-HMM1262-1682_24.0-ORF56
+seq198	>tsa-GFAR01189643.1 TSA: Allium ampeloprasum c94261_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM1-275_94.0-ORF8
+seq199	>tsa-GFAJ01031287.1 TSA: Allium ascalonicum c39250_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-82_97.0-ORF4
+seq200	>tsa-GFAJ01043257.1 TSA: Allium ascalonicum c49983_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-75_97.0-ORF3
+seq201	>tsa-GFAJ01050140.1 TSA: Allium ascalonicum c96407_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-106_99.0-ORF3
+seq202	>tsa-GFAJ01058273.1 TSA: Allium ascalonicum c12435_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM2-62_77.0-ORF2
+seq203	>tsa-GEOY01024506.1 TSA: Allium cepa c109896_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-72_98.0-ORF4
+seq204	>tsa-GEOY01038609.1 TSA: Allium cepa c84256_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-94_98.0-ORF5
+seq205	>tsa-GEOY01073008.1 TSA: Allium cepa c85268_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-92_98.0-ORF3
+seq206	>tsa-GEOY01078414.1 TSA: Allium cepa c86313_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM27-120_77.0-ORF4
+seq207	>tsa-GEOY01081507.1 TSA: Allium cepa c27329_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-81_97.0-ORF4
+seq208	>tsa-GEOY01086817.1 TSA: Allium cepa c75316_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-67_98.0-ORF4
+seq209	>tsa-GEOY01108203.1 TSA: Allium cepa c90922_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-68_98.0-ORF4
+seq210	>tsa-GEOY01108469.1 TSA: Allium cepa c35691_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM56-112_50.0-ORF4
+seq211	>tsa-GFAK01021224.1 TSA: Allium cepa var. aggregatum c46571_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM1511-1930_21.0-ORF68
+seq212	>tsa-GFAK01027577.1 TSA: Allium cepa var. aggregatum c46523_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM296-716_57.0-ORF24
+seq213	>tsa-GFAK01040262.1 TSA: Allium cepa var. aggregatum c34162_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM2-91_97.0-ORF3
+seq214	>tsa-GFAK01049063.1 TSA: Allium cepa var. aggregatum c46569_g8 transcribed RNA sequence-table1-Betaflexiviridae-HMM97-154_37.0-ORF4
+seq215	>tsa-GFAK01051419.1 (REVERSE SENSE) TSA: Allium cepa var. aggregatum c38834_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-78_98.0-ORF7
+seq216	>tsa-GFAK01063131.1 TSA: Allium cepa var. aggregatum c46569_g9 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-147_99.0-ORF4
+seq217	>tsa-GFAK01065635.1 (REVERSE SENSE) TSA: Allium cepa var. aggregatum c46545_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM294-714_57.0-ORF56
+seq218	>tsa-GFAK01074812.1 (REVERSE SENSE) TSA: Allium cepa var. aggregatum c46572_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM1543-1962_21.0-ORF210
+seq219	>tsa-GFAK01082494.1 TSA: Allium cepa var. aggregatum c37947_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-89_98.0-ORF3
+seq220	>tsa-GFAL01000882.1 TSA: Allium chinense c112397_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-82_98.0-ORF2
+seq221	>tsa-GFAL01003927.1 (REVERSE SENSE) TSA: Allium chinense c87433_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-85_98.0-ORF7
+seq222	>tsa-GFAL01009773.1 (REVERSE SENSE) TSA: Allium chinense c86918_g3 transcribed RNA sequence-table1-Betaflexiviridae-HMM2-71_97.0-ORF3
+seq223	>tsa-GFAL01010012.1 TSA: Allium chinense c87433_g4 transcribed RNA sequence-table4-Betaflexiviridae-HMM1-163_91.0-ORF8
+seq224	>tsa-GFAL01012283.1 TSA: Allium chinense c71061_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-164_99.0-ORF5
+seq225	>tsa-GFAL01015647.1 TSA: Allium chinense c87433_g3 transcribed RNA sequence-table4-Betaflexiviridae-HMM842-1262_32.0-ORF48
+seq226	>tsa-GFAL01016575.1 TSA: Allium chinense c95072_g1 transcribed RNA sequence-table6-Betaflexiviridae-HMM1516-1935_21.0-ORF70
+seq227	>tsa-GFAL01016835.1 TSA: Allium chinense c51998_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM21-68_68.0-ORF3
+seq228	>tsa-GFAL01022638.1 (REVERSE SENSE) TSA: Allium chinense c43592_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM1-68_80.0-ORF8
+seq229	>tsa-GFAL01024016.1 TSA: Allium chinense c81452_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-244_99.0-ORF11
+seq230	>tsa-GFAL01024502.1 TSA: Allium chinense c63832_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM1-54_76.0-ORF2
+seq231	>tsa-GFAL01026303.1 (REVERSE SENSE) TSA: Allium chinense c80215_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM34-322_89.0-ORF28
+seq232	>tsa-GFAL01032322.1 (REVERSE SENSE) TSA: Allium chinense c114450_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-77_98.0-ORF6
+seq233	>tsa-GFAL01033591.1 TSA: Allium chinense c58963_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM2-80_97.0-ORF2
+seq234	>tsa-GFAL01034084.1 TSA: Allium chinense c85872_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM201-558_63.0-ORF16
+seq235	>tsa-GFAL01034606.1 (REVERSE SENSE) TSA: Allium chinense c5830_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM2-81_97.0-ORF9
+seq236	>tsa-GFAL01034667.1 TSA: Allium chinense c87433_g2 transcribed RNA sequence-table4-Betaflexiviridae-HMM34-454_89.0-ORF18
+seq237	>tsa-GFAL01035404.1 TSA: Allium chinense c60572_g2 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-129_99.0-ORF3
+seq238	>tsa-GFAL01036203.1 TSA: Allium chinense c119759_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM2-88_97.0-ORF4
+seq239	>tsa-GFAL01036981.1 (REVERSE SENSE) TSA: Allium chinense c50992_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM183-250_26.0-ORF22
+seq240	>tsa-GFAL01038883.1 (REVERSE SENSE) TSA: Allium chinense c86918_g6 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-83_98.0-ORF8
+seq241	>tsa-GFAL01039029.1 (REVERSE SENSE) TSA: Allium chinense c37676_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM76-160_52.0-ORF13
+seq242	>tsa-GFAL01041603.1 (REVERSE SENSE) TSA: Allium chinense c84219_g2 transcribed RNA sequence-table6-Betaflexiviridae-HMM2-105_73.0-ORF27
+seq243	>tsa-GFAL01042662.1 (REVERSE SENSE) TSA: Allium chinense c70535_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM5-68_92.0-ORF6
+seq244	>tsa-GFAL01048730.1 (REVERSE SENSE) TSA: Allium chinense c71061_g2 transcribed RNA sequence-table1-Betaflexiviridae-HMM2-279_98.0-ORF21
+seq245	>tsa-GFAL01052969.1 (REVERSE SENSE) TSA: Allium chinense c67530_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM2-114_97.0-ORF11
+seq246	>tsa-GFAL01054204.1 (REVERSE SENSE) TSA: Allium chinense c61719_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM24-236_89.0-ORF21
+seq247	>tsa-GFAL01058237.1 (REVERSE SENSE) TSA: Allium chinense c62291_g1 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-51_66.0-ORF8
+seq248	>tsa-GFAL01060418.1 TSA: Allium chinense c94263_g1 transcribed RNA sequence-table6-Betaflexiviridae-HMM637-1056_38.0-ORF67
+seq249	>tsa-GFAL01061541.1 (REVERSE SENSE) TSA: Allium chinense c72949_g3 transcribed RNA sequence-table1-Betaflexiviridae-HMM64-163_60.0-ORF13
+seq250	>tsa-GFAL01067141.1 (REVERSE SENSE) TSA: Allium chinense c71061_g3 transcribed RNA sequence-table4-Betaflexiviridae-HMM1-233_93.0-ORF24
+seq251	>tsa-GFAL01067273.1 TSA: Allium chinense c63872_g1 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-46_54.0-ORF6
+seq252	>tsa-GFAL01069919.1 TSA: Allium chinense c50487_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM283-359_21.0-ORF9
+seq253	>tsa-GFAL01074789.1 (REVERSE SENSE) TSA: Allium chinense c111531_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM41-132_68.0-ORF14
+seq254	>tsa-GFAL01076480.1 TSA: Allium chinense c94926_g3 transcribed RNA sequence-table4-Betaflexiviridae-HMM1511-1931_21.0-ORF67
+seq255	>tsa-GFAL01076712.1 (REVERSE SENSE) TSA: Allium chinense c80407_g2 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-202_99.0-ORF16
+seq256	>tsa-GFAL01077730.1 (REVERSE SENSE) TSA: Allium chinense c55282_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-98_98.0-ORF8
+seq257	>tsa-GFAL01079321.1 TSA: Allium chinense c50663_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM1-197_92.0-ORF8
+seq258	>tsa-GFAL01083250.1 TSA: Allium chinense c95183_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-73_98.0-ORF4
+seq259	>tsa-GFAL01083811.1 TSA: Allium chinense c94240_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM1487-1906_21.0-ORF66
+seq260	>tsa-GFAL01089171.1 TSA: Allium chinense c101202_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-76_98.0-ORF3
+seq261	>tsa-GFAL01089333.1 (REVERSE SENSE) TSA: Allium chinense c80407_g3 transcribed RNA sequence-table4-Betaflexiviridae-HMM1-114_87.0-ORF13
+seq262	>tsa-GFAL01095672.1 (REVERSE SENSE) TSA: Allium chinense c60572_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM51-136_62.0-ORF12
+seq263	>tsa-GFAL01095944.1 (REVERSE SENSE) TSA: Allium chinense c43039_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-111_99.0-ORF10
+seq264	>tsa-GFAL01098547.1 (REVERSE SENSE) TSA: Allium chinense c64902_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM3-88_95.0-ORF9
+seq265	>tsa-GFAL01099245.1 (REVERSE SENSE) TSA: Allium chinense c72949_g2 transcribed RNA sequence-table1-Betaflexiviridae-HMM64-254_74.0-ORF25
+seq266	>tsa-GFAL01099848.1 (REVERSE SENSE) TSA: Allium chinense c66798_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM201-296_31.0-ORF23
+seq267	>tsa-GFAL01102192.1 (REVERSE SENSE) TSA: Allium chinense c67269_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-101_99.0-ORF9
+seq268	>tsa-GFAL01104199.1 TSA: Allium chinense c24140_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-158_99.0-ORF6
+seq269	>tsa-GFAL01104523.1 (REVERSE SENSE) TSA: Allium chinense c86918_g7 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-71_98.0-ORF4
+seq270	>tsa-GFAL01105727.1 (REVERSE SENSE) TSA: Allium chinense c92836_g2 transcribed RNA sequence-table6-Betaflexiviridae-HMM9-289_92.0-ORF24
+seq271	>tsa-GFAL01106121.1 TSA: Allium chinense c94448_g2 transcribed RNA sequence-table4-Betaflexiviridae-HMM127-547_74.0-ORF16
+seq272	>tsa-GFAL01107355.1 (REVERSE SENSE) TSA: Allium chinense c47046_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM2-95_97.0-ORF8
+seq273	>tsa-GFAL01110088.1 TSA: Allium chinense c93463_g4 transcribed RNA sequence-table1-Betaflexiviridae-HMM660-827_20.0-ORF20
+seq274	>tsa-GFAL01110661.1 TSA: Allium chinense c66160_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM257-386_33.0-ORF10
+seq275	>tsa-GFAL01110900.1 TSA: Allium chinense c42313_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM1-139_89.0-ORF7
+seq276	>tsa-GFAL01116227.1 (REVERSE SENSE) TSA: Allium chinense c95145_g1 transcribed RNA sequence-table6-Betaflexiviridae-HMM1028-1447_28.0-ORF133
+seq277	>tsa-GFAM01039781.1 TSA: Allium fistulosum c38775_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-100_99.0-ORF4
+seq278	>tsa-GFAM01045119.1 TSA: Allium fistulosum c98126_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM1-51_75.0-ORF5
+seq279	>tsa-GFAM01069850.1 (REVERSE SENSE) TSA: Allium fistulosum c76670_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM1072-1492_27.0-ORF178
+seq280	>tsa-GFAM01080011.1 TSA: Allium fistulosum c67885_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM259-594_56.0-ORF15
+seq281	>tsa-GFAM01083960.1 TSA: Allium fistulosum c76811_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM1512-1932_21.0-ORF72
+seq282	>tsa-GFAO01151383.1 TSA: Allium macrostemon c15324_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-71_98.0-ORF2
+seq283	>tsa-GFAP01002476.1 (REVERSE SENSE) TSA: Allium sativum c56077_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-76_98.0-ORF7
+seq284	>tsa-GFAP01009474.1 TSA: Allium sativum c86223_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM221-640_63.0-ORF24
+seq285	>tsa-GFAP01010922.1 (REVERSE SENSE) TSA: Allium sativum c83419_g11 transcribed RNA sequence-table1-Betaflexiviridae-HMM366-459_20.0-ORF33
+seq286	>tsa-GFAP01012114.1 (REVERSE SENSE) TSA: Allium sativum c1289_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM1-46_73.0-ORF6
+seq287	>tsa-GFAP01013300.1 (REVERSE SENSE) TSA: Allium sativum c23609_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM11-157_92.0-ORF14
+seq288	>tsa-GFAP01015758.1 TSA: Allium sativum c85525_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM210-630_65.0-ORF25
+seq289	>tsa-GFAP01017028.1 TSA: Allium sativum c52274_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-67_98.0-ORF3
+seq290	>tsa-GFAP01033953.1 (REVERSE SENSE) TSA: Allium sativum c86150_g2 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-333_56.0-ORF65
+seq291	>tsa-GFAP01043708.1 TSA: Allium sativum c71542_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM43-150_71.0-ORF5
+seq292	>tsa-GFAP01052753.1 (REVERSE SENSE) TSA: Allium sativum c47591_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-75_98.0-ORF7
+seq293	>tsa-GFAP01063981.1 TSA: Allium sativum c86246_g1 transcribed RNA sequence-table6-Betaflexiviridae-HMM1788-2207_16.0-ORF76
+seq294	>tsa-GFAP01073888.1 TSA: Allium sativum c50542_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-79_98.0-ORF3
+seq295	>tsa-GFAN01036815.1 TSA: Allium tuberosum c140309_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-81_97.0-ORF3
+seq296	>tsa-GFAN01044531.1 TSA: Allium tuberosum c106221_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1262-1519_16.0-ORF46
+seq297	>tsa-GFAN01046787.1 TSA: Allium tuberosum c96041_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM236-388_39.0-ORF8
+seq298	>tsa-GFAN01048075.1 TSA: Allium tuberosum c106203_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM1507-1927_21.0-ORF64
+seq299	>tsa-GFAN01070865.1 TSA: Allium tuberosum c89257_g1 transcribed RNA sequence-table4-Betaflexiviridae-HMM1-177_91.0-ORF4
+seq300	>tsa-GFAN01072335.1 TSA: Allium tuberosum c103539_g1 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-275_90.0-ORF10
+seq301	>tsa-GFAN01108052.1 TSA: Allium tuberosum c103539_g2 transcribed RNA sequence-table4-Betaflexiviridae-HMM255-675_59.0-ORF20
+seq302	>tsa-GBZC01008350.1 (REVERSE SENSE) TSA: Antheraea assama Unigene8637_Aass transcribed RNA sequence-table1-Betaflexiviridae-HMM1-129_99.0-ORF10
+seq303	>tsa-GEFP01029870.1 TSA: Arachis hypogaea UN_pchu_22925 transcribed RNA sequence-table6-Betaflexiviridae-HMM5-57_32.0-ORF9
+seq304	>tsa-GARB01028407.1 TSA: Athetis lepigone T3_29566 transcribed RNA sequence-table1-Betaflexiviridae-HMM186-336_44.0-ORF7
+seq305	>tsa-GARB01028409.1 TSA: Athetis lepigone T3_29568 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-234_62.0-ORF11
+seq306	>tsa-GARC01023684.1 TSA: Athetis lepigone T2_24885 transcribed RNA sequence-table6-Betaflexiviridae-HMM225-647_53.0-ORF29
+seq307	>tsa-GARG01026152.1 TSA: Athetis lepigone T1_26921 transcribed RNA sequence-table4-Betaflexiviridae-HMM223-438_44.0-ORF19
+seq308	>tsa-GATI02017003.1 TSA: Bombylius major C90472_a_5_0_l_1025 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-183_53.0-ORF9
+seq309	>tsa-GBHI01053764.1 (REVERSE SENSE) TSA: Camellia oleifera ColeSingleton69677 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-66_97.0-ORF6
+seq310	>tsa-GBHI01075701.1 (REVERSE SENSE) TSA: Camellia oleifera ColeIsotig4437 transcribed RNA sequence-table6-Betaflexiviridae-HMM3-356_92.0-ORF59
+seq311	>tsa-GBHI01075860.1 (REVERSE SENSE) TSA: Camellia oleifera ColeIsotig4596 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-252_90.0-ORF26
+seq312	>tsa-GBHI01081280.1 TSA: Camellia oleifera ColeIsotig10016 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-182_98.0-ORF7
+seq313	>tsa-GEFY01013632.1 TSA: Camellia oleifera Unigene13636 transcribed RNA sequence-table6-Betaflexiviridae-HMM40-468_37.0-ORF33
+seq314	>tsa-GEFY01046031.1 (REVERSE SENSE) TSA: Camellia oleifera Unigene46037 transcribed RNA sequence-table6-Betaflexiviridae-HMM1171-1593_26.0-ORF148
+seq315	>tsa-GFSL01042144.1 (REVERSE SENSE) TSA: Camellia sasanqua CSATR052747 transcribed RNA sequence-table6-Betaflexiviridae-HMM1257-1685_17.0-ORF174
+seq316	>tsa-GCRZ01010731.1 (REVERSE SENSE) TSA: Camellia taliensis CtaTrans11853 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-233_89.0-ORF23
+seq317	>tsa-GCRZ01058679.1 TSA: Camellia taliensis CtaTrans64741 transcribed RNA sequence-table1-Betaflexiviridae-HMM179-377_52.0-ORF14
+seq318	>tsa-GAXU01012802.1 TSA: Capsicum annuum Capsicum_annuum_Resistant_122051seq1_len343 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-114_99.0-ORF5
+seq319	>tsa-GAXU01012803.1 TSA: Capsicum annuum Capsicum_annuum_Resistant_122051seq2_len3461 transcribed RNA sequence-table1-Betaflexiviridae-HMM914-1153_20.0-ORF37
+seq320	>tsa-GAXU01023453.1 TSA: Capsicum annuum Capsicum_annuum_Resistant_127021_c0_seq1_len8698 transcribed RNA sequence-table4-Betaflexiviridae-HMM1627-2047_20.0-ORF75
+seq321	>tsa-GAXU01038837.1 (REVERSE SENSE) TSA: Capsicum annuum Capsicum_annuum_Resistant_197015seq1_len289 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-96_98.0-ORF10
+seq322	>tsa-GAXU01039990.1 (REVERSE SENSE) TSA: Capsicum annuum Capsicum_annuum_Resistant_1103533seq1_len769 transcribed RNA sequence-table1-Betaflexiviridae-HMM199-256_22.0-ORF19
+seq323	>tsa-GAXU01043666.1 (REVERSE SENSE) TSA: Capsicum annuum Capsicum_annuum_Resistant_1126430seq1_len1714 transcribed RNA sequence-table1-Betaflexiviridae-HMM343-571_39.0-ORF48
+seq324	>tsa-GAXU01044801.1 TSA: Capsicum annuum Capsicum_annuum_Resistant_1133958seq1_len217 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-71_97.0-ORF5
+seq325	>tsa-GAXU01051348.1 TSA: Capsicum annuum Capsicum_annuum_Resistant_1176925seq1_len370 transcribed RNA sequence-table1-Betaflexiviridae-HMM62-123_49.0-ORF6
+seq326	>tsa-GAXV01000784.1 TSA: Capsicum annuum Capsicum_annuum_suceptible8839seq1_lent3424 transcribed RNA sequence-table1-Betaflexiviridae-HMM1084-1141_4.0-ORF38
+seq327	>tsa-GAXV01011415.1 (REVERSE SENSE) TSA: Capsicum annuum Capsicum_annuum_suceptible21112seq1_lent4615 transcribed RNA sequence-table1-Betaflexiviridae-HMM1481-1538_3.0-ORF137
+seq328	>tsa-GAXV01011416.1 (REVERSE SENSE) TSA: Capsicum annuum Capsicum_annuum_suceptible21112seq2_lent418 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-139_99.0-ORF14
+seq329	>tsa-GAXV01011418.1 (REVERSE SENSE) TSA: Capsicum annuum Capsicum_annuum_suceptible21112seq4_lent2600 transcribed RNA sequence-table1-Betaflexiviridae-HMM552-865_36.0-ORF73
+seq330	>tsa-GAXV01011590.1 TSA: Capsicum annuum Capsicum_annuum_suceptible21263seq1_lent696 transcribed RNA sequence-table1-Betaflexiviridae-HMM115-232_50.0-ORF10
+seq331	>tsa-GAXV01011591.1 TSA: Capsicum annuum Capsicum_annuum_suceptible21263seq2_lent1294 transcribed RNA sequence-table1-Betaflexiviridae-HMM315-431_26.0-ORF18
+seq332	>tsa-GAXV01022219.1 (REVERSE SENSE) TSA: Capsicum annuum Capsicum_annuum_suceptible26372seq2_lent8709 transcribed RNA sequence-table4-Betaflexiviridae-HMM1628-2048_20.0-ORF213
+seq333	>tsa-GAXV01022220.1 (REVERSE SENSE) TSA: Capsicum annuum Capsicum_annuum_suceptible26372seq3_lent228 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-75_98.0-ORF7
+seq334	>tsa-GAXV01033960.1 TSA: Capsicum annuum Capsicum_annuum_suceptible70064seq1_lent613 transcribed RNA sequence-table1-Betaflexiviridae-HMM2-204_99.0-ORF10
+seq335	>tsa-GAXV01038460.1 TSA: Capsicum annuum Capsicum_annuum_suceptible97437seq1_lent205 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-67_97.0-ORF5
+seq336	>tsa-GAXV01039020.1 (REVERSE SENSE) TSA: Capsicum annuum Capsicum_annuum_suceptible100884seq1_lent205 transcribed RNA sequence-table1-Betaflexiviridae-HMM2-68_97.0-ORF8
+seq337	>tsa-GAXV01041580.1 (REVERSE SENSE) TSA: Capsicum annuum Capsicum_annuum_suceptible116309seq1_lent370 transcribed RNA sequence-table1-Betaflexiviridae-HMM62-123_49.0-ORF12
+seq338	>tsa-GAXV01046473.1 TSA: Capsicum annuum Capsicum_annuum_suceptible141488seq1_lent367 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-122_99.0-ORF6
+seq339	>tsa-GBPN01009005.1 (REVERSE SENSE) TSA: Chelostoma florisomne C71294_a_5_0_l_707 transcribed RNA sequence-table1-Betaflexiviridae-HMM2-235_99.0-ORF22
+seq340	>tsa-GBPN01016399.1 TSA: Chelostoma florisomne s3225_L_4455_0_a_3_8_l_850 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-81_28.0-ORF6
+seq341	>tsa-GBPZ01020854.1 (REVERSE SENSE) TSA: Coelioxys conoidea C91452_a_5_0_l_819 transcribed RNA sequence-table1-Betaflexiviridae-HMM64-272_76.0-ORF24
+seq342	>tsa-GBPZ01022646.1 TSA: Coelioxys conoidea C97622_a_12_0_l_1097 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-216_74.0-ORF11
+seq343	>tsa-GALU01009764.1 TSA: Crataegus pinnatifida 7_Unigene_BMK.19623 transcribed RNA sequence-table4-Betaflexiviridae-HMM1458-1878_21.0-ORF47
+seq344	>tsa-GEMM01014715.1 TSA: Cymodocea nodosa TR18296_c0_g1_i1 transcribed RNA sequence-table6-Betaflexiviridae-HMM986-1405_24.0-ORF53
+seq345	>tsa-GEMM01045980.1 (REVERSE SENSE) TSA: Cymodocea nodosa TR61068_c0_g1_i2 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-146_33.0-ORF48
+seq346	>tsa-GEMM01046346.1 (REVERSE SENSE) TSA: Cymodocea nodosa TR61146_c0_g1_i1 transcribed RNA sequence-table6-Betaflexiviridae-HMM330-522_36.0-ORF79
+seq347	>tsa-GFHX01003374.1 (REVERSE SENSE) TSA: Dactylorhiza fuchsii fB1855_comp82225_c0_seq1 transcribed RNA sequence-table6-Betaflexiviridae-HMM1245-1666_18.0-ORF170
+seq348	>tsa-GFOY01018762.1 TSA: Daiswa yunnanensis CL18994.Contig3_All transcribed RNA sequence-table6-Betaflexiviridae-HMM81-502_79.0-ORF13
+seq349	>tsa-GFOY01058149.1 (REVERSE SENSE) TSA: Daiswa yunnanensis Unigene135442_All transcribed RNA sequence-table4-Betaflexiviridae-HMM401-818_45.0-ORF149
+seq350	>tsa-GFOY01082558.1 TSA: Daiswa yunnanensis Unigene52313_All transcribed RNA sequence-table1-Betaflexiviridae-HMM2-76_97.0-ORF3
+seq351	>tsa-GAYT01001122.1 (REVERSE SENSE) TSA: Ficus carica isotig01010 transcribed RNA sequence-table6-Betaflexiviridae-HMM30-264_77.0-ORF54
+seq352	>tsa-GAYT01001123.1 (REVERSE SENSE) TSA: Ficus carica isotig01011 transcribed RNA sequence-table6-Betaflexiviridae-HMM30-264_77.0-ORF53
+seq353	>tsa-GAYT01001124.1 (REVERSE SENSE) TSA: Ficus carica isotig01012 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-69_64.0-ORF37
+seq354	>tsa-GAYT01001125.1 (REVERSE SENSE) TSA: Ficus carica isotig01013 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-69_64.0-ORF36
+seq355	>tsa-GAYT01001126.1 (REVERSE SENSE) TSA: Ficus carica isotig01014 transcribed RNA sequence-table6-Betaflexiviridae-HMM30-264_77.0-ORF44
+seq356	>tsa-GAYT01001127.1 (REVERSE SENSE) TSA: Ficus carica isotig01015 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-69_64.0-ORF27
+seq357	>tsa-GAYT01001128.1 (REVERSE SENSE) TSA: Ficus carica isotig01016 transcribed RNA sequence-table4-Betaflexiviridae-HMM4-98_69.0-ORF9
+seq358	>tsa-GAYT01004691.1 (REVERSE SENSE) TSA: Ficus carica isotig04566 transcribed RNA sequence-table6-Betaflexiviridae-HMM33-119_72.0-ORF41
+seq359	>tsa-GAYT01004692.1 (REVERSE SENSE) TSA: Ficus carica isotig04567 transcribed RNA sequence-table6-Betaflexiviridae-HMM33-119_72.0-ORF28
+seq360	>tsa-GAYT01006317.1 (REVERSE SENSE) TSA: Ficus carica isotig06175 transcribed RNA sequence-table6-Betaflexiviridae-HMM632-1050_39.0-ORF145
+seq361	>tsa-GAYT01025824.1 TSA: Ficus carica GLN2OWZ02DD8T6 transcribed RNA sequence-table4-Betaflexiviridae-HMM1-75_67.0-ORF4
+seq362	>tsa-GAYT01026029.1 TSA: Ficus carica GLN2OWZ02ETWIQ transcribed RNA sequence-table1-Betaflexiviridae-HMM2-114_98.0-ORF4
+seq363	>tsa-GAYT01030462.1 (REVERSE SENSE) TSA: Ficus carica GLN2OWZ03HGTA0 transcribed RNA sequence-table1-Betaflexiviridae-HMM8-75_88.0-ORF8
+seq364	>tsa-GAYT01042246.1 (REVERSE SENSE) TSA: Ficus carica GMFT9DJ06G1S7E transcribed RNA sequence-table4-Betaflexiviridae-HMM1-111_76.0-ORF11
+seq365	>tsa-GALQ01003332.1 TSA: gut metagenome Locus101131v1rpkm8.79 transcribed RNA sequence-table1-Betaflexiviridae-HMM2-116_98.0-ORF6
+seq366	>tsa-GALT01033106.1 (REVERSE SENSE) TSA: gut metagenome Locus101260v1rpkm7.15 transcribed RNA sequence-table1-Betaflexiviridae-HMM64-158_58.0-ORF13
+seq367	>tsa-GDFU01001094.1 TSA: Hevea brasiliensis rt_contig_est_101748 transcribed RNA sequence-table6-Betaflexiviridae-HMM1215-1635_20.0-ORF58
+seq368	>tsa-GDFU01001098.1 TSA: Hevea brasiliensis rt_contig_est_101751 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-146_99.0-ORF6
+seq369	>tsa-GDFU01003782.1 (REVERSE SENSE) TSA: Hevea brasiliensis rt_contig_est_104629 transcribed RNA sequence-table1-Betaflexiviridae-HMM5-91_94.0-ORF6
+seq370	>tsa-GDFU01007830.1 TSA: Hevea brasiliensis rt_contig_est_108463 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-74_65.0-ORF1
+seq371	>tsa-GDFU01072818.1 TSA: Hevea brasiliensis rt_contig_est_48224 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-81_97.0-ORF2
+seq372	>tsa-GDFU01072827.1 (REVERSE SENSE) TSA: Hevea brasiliensis rt_contig_est_48233 transcribed RNA sequence-table1-Betaflexiviridae-HMM2-96_97.0-ORF9
+seq373	>tsa-GDFU01080079.1 (REVERSE SENSE) TSA: Hevea brasiliensis rt_contig_est_55787 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-67_98.0-ORF3
+seq374	>tsa-GDFU01099221.1 (REVERSE SENSE) TSA: Hevea brasiliensis rt_contig_est_77875 transcribed RNA sequence-table1-Betaflexiviridae-HMM107-527_74.0-ORF36
+seq375	>tsa-GDFU01099222.1 (REVERSE SENSE) TSA: Hevea brasiliensis rt_contig_est_77876 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-195_79.0-ORF13
+seq376	>tsa-GEIA01020082.1 TSA: Hevea brasiliensis c65560_g3 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-402_88.0-ORF10
+seq377	>tsa-GEIA01052526.1 TSA: Hevea brasiliensis c72709_g4 transcribed RNA sequence-table1-Betaflexiviridae-HMM8-82_89.0-ORF4
+seq378	>tsa-GEIA01074675.1 (REVERSE SENSE) TSA: Hevea brasiliensis c72866_g1 transcribed RNA sequence-table6-Betaflexiviridae-HMM1090-1510_19.0-ORF174
+seq379	>tsa-GEIA01089686.1 TSA: Hevea brasiliensis c65560_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-357_95.0-ORF9
+seq380	>tsa-GEIA01111774.1 TSA: Hevea brasiliensis c72709_g1 transcribed RNA sequence-table1-Betaflexiviridae-HMM438-584_25.0-ORF16
+seq381	>tsa-GEIA01116718.1 TSA: Hevea brasiliensis c65560_g2 transcribed RNA sequence-table1-Betaflexiviridae-HMM12-398_86.0-ORF9
+seq382	>tsa-GEIA01125525.1 TSA: Hevea brasiliensis c65560_g4 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-93_98.0-ORF2
+seq383	>tsa-GAAW01046932.1 TSA: Humulus lupulus comp59819_c1_seq1 mRNA sequence-table1-Betaflexiviridae-HMM45-144_68.0-ORF6
+seq384	>tsa-GAAW01053405.1 TSA: Humulus lupulus comp63843_c3_seq1 mRNA sequence-table4-Betaflexiviridae-HMM2-108_72.0-ORF7
+seq385	>tsa-GAAW01084360.1 (REVERSE SENSE) TSA: Humulus lupulus comp75185_c0_seq1 mRNA sequence-table4-Betaflexiviridae-HMM1552-1972_18.0-ORF203
+seq386	>tsa-GAAW01095900.1 TSA: Humulus lupulus comp77461_c0_seq1 mRNA sequence-table4-Betaflexiviridae-HMM1579-2000_18.0-ORF88
+seq387	>tsa-GAAW01095925.1 (REVERSE SENSE) TSA: Humulus lupulus comp77469_c0_seq1 mRNA sequence-table6-Betaflexiviridae-HMM235-656_61.0-ORF120
+seq388	>tsa-GAAW01158379.1 TSA: Humulus lupulus comp1672762_c0_seq1 mRNA sequence-table1-Betaflexiviridae-HMM1-72_98.0-ORF2
+seq389	>tsa-GANI01010441.1 TSA: Karelinia caspia comp18369_c0_seq1 transcribed RNA sequence-table6-Betaflexiviridae-HMM1588-2010_20.0-ORF57
+seq390	>tsa-GEEF01015544.1 TSA: Leptinotarsa decemlineata comp63915_c0_seq2 transcribed RNA sequence-table1-Betaflexiviridae-HMM59-175_64.0-ORF8
+seq391	>tsa-GEEF01181008.1 (REVERSE SENSE) TSA: Leptinotarsa decemlineata comp134576_c0_seq1 transcribed RNA sequence-table1-Betaflexiviridae-HMM2-98_97.0-ORF9
+seq392	>tsa-GEHI01004034.1 (REVERSE SENSE) TSA: Leucocoprinus sp. HH-2015b comp11260_c0_seq1 transcribed RNA sequence-table6-Betaflexiviridae-HMM43-125_25.0-ORF69
+seq393	>tsa-GEHI01007153.1 (REVERSE SENSE) TSA: Leucocoprinus sp. HH-2015b comp30122_c0_seq1 transcribed RNA sequence-table1-Betaflexiviridae-HMM48-130_33.0-ORF22
+seq394	>tsa-GEHG01004058.1 TSA: Leucocoprinus sp. HH-2015c comp16305_c0_seq1 transcribed RNA sequence-table4-Betaflexiviridae-HMM1028-1109_4.0-ORF67
+seq395	>tsa-GEHG01004093.1 TSA: Leucocoprinus sp. HH-2015c comp16412_c0_seq1 transcribed RNA sequence-table4-Betaflexiviridae-HMM639-722_9.0-ORF29
+seq396	>tsa-GEHG01005408.1 (REVERSE SENSE) TSA: Leucocoprinus sp. HH-2015c comp14962_c0_seq1 transcribed RNA sequence-table1-Betaflexiviridae-HMM77-150_48.0-ORF16
+seq397	>tsa-GBMJ01009759.1 (REVERSE SENSE) TSA: Lithurgus chrysurus C59922_a_3_0_l_617 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-205_99.0-ORF20
+seq398	>tsa-GBMJ01016940.1 TSA: Lithurgus chrysurus C86969_a_4_0_l_3893 transcribed RNA sequence-table6-Betaflexiviridae-HMM1126-1284_12.0-ORF43
+seq399	>tsa-GAAY01005186.1 (REVERSE SENSE) TSA: Lonicera japonica contig07167 mRNA sequence-table6-Betaflexiviridae-HMM2-123_82.0-ORF37
+seq400	>tsa-GAAY01010979.1 (REVERSE SENSE) TSA: Lonicera japonica contig12966 mRNA sequence-table4-Betaflexiviridae-HMM48-262_67.0-ORF25
+seq401	>tsa-GBRD01012493.1 TSA: Lygus hesperus comp66637_c0_seq1 transcribed RNA sequence-table1-Betaflexiviridae-HMM66-191_65.0-ORF5
+seq402	>tsa-GEEC01004607.1 (REVERSE SENSE) TSA: Mangifera indica contig40506 transcribed RNA sequence-table1-Betaflexiviridae-HMM2-96_96.0-ORF7
+seq403	>tsa-GEEC01032683.1 TSA: Mangifera indica contig41787 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-116_89.0-ORF4
+seq404	>tsa-GEEC01035009.1 (REVERSE SENSE) TSA: Mangifera indica contig51653 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-186_99.0-ORF17
+seq405	>tsa-GBQG01004012.1 TSA: Megalodontes cephalotes C34037_a_4_0_l_295 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-69_69.0-ORF5
+seq406	>tsa-GACP01008252.1 (REVERSE SENSE) TSA: Micropterix calthella contig08263 mRNA sequence-table1-Betaflexiviridae-HMM1-298_99.0-ORF28
+seq407	>tsa-GACP01093546.1 TSA: Micropterix calthella contig93666 mRNA sequence-table4-Betaflexiviridae-HMM1-93_97.0-ORF4
+seq408	>tsa-GACP01097250.1 (REVERSE SENSE) TSA: Micropterix calthella contig97373 mRNA sequence-table1-Betaflexiviridae-HMM1-92_98.0-ORF4
+seq409	>tsa-GDUL01031326.1 (REVERSE SENSE) TSA: Olea europaea UN11416 transcribed RNA sequence-table1-Betaflexiviridae-HMM7-139_94.0-ORF14
+seq410	>tsa-GDUL01057713.1 TSA: Olea europaea UN91840 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-78_83.0-ORF3
+seq411	>tsa-GAGH01033281.1 TSA: Osmia cornuta osmia_antenne_contig_36522_1 transcribed RNA sequence-table1-Betaflexiviridae-HMM132-189_30.0-ORF4
+seq412	>tsa-GAGH01055961.1 TSA: Osmia cornuta osmia_antenne_contig_58149_1 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-223_99.0-ORF6
+seq413	>tsa-GAGH01066858.1 (REVERSE SENSE) TSA: Osmia cornuta osmia_antenne_contig_69394_1 transcribed RNA sequence-table1-Betaflexiviridae-HMM12-76_84.0-ORF8
+seq414	>tsa-GAGH01076983.1 (REVERSE SENSE) TSA: Osmia cornuta osmia_antenne_contig_80617_1 transcribed RNA sequence-table4-Betaflexiviridae-HMM1-126_98.0-ORF11
+seq415	>tsa-GBFN01000169.1 TSA: Paeonia lactiflora Unigene000169 transcribed RNA sequence-table4-Betaflexiviridae-HMM784-1206_34.0-ORF45
+seq416	>tsa-GBFN01003213.1 TSA: Paeonia lactiflora Unigene003213 transcribed RNA sequence-table4-Betaflexiviridae-HMM7-394_93.0-ORF13
+seq417	>tsa-GFRX01034108.1 (REVERSE SENSE) TSA: Panax notoginseng TR101802_c0_g1_i2 transcribed RNA sequence-table4-Betaflexiviridae-HMM4-72_78.0-ORF9
+seq418	>tsa-GEXJ01000061.1 TSA: Phragmites australis Phco-d_10025 transcribed RNA sequence-table1-Betaflexiviridae-HMM7-191_95.0-ORF6
+seq419	>tsa-GEXJ01002443.1 TSA: Phragmites australis Phco-d_11032 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-144_83.0-ORF5
+seq420	>tsa-GEXJ01039220.1 TSA: Phragmites australis Phco-d_29108 transcribed RNA sequence-table6-Betaflexiviridae-HMM26-363_87.0-ORF16
+seq421	>tsa-GEXJ01055748.1 TSA: Phragmites australis Phco-d_35079 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-82_96.0-ORF3
+seq422	>tsa-GEXJ01056466.1 TSA: Phragmites australis Phco-d_71196 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-110_99.0-ORF3
+seq423	>tsa-GEXJ01059806.1 TSA: Phragmites australis Phco-d_73713 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-121_98.0-ORF5
+seq424	>tsa-GEXJ01076069.1 TSA: Phragmites australis Phco-s_12611 transcribed RNA sequence-table1-Betaflexiviridae-HMM2-157_98.0-ORF4
+seq425	>tsa-GEXJ01108144.1 (REVERSE SENSE) TSA: Phragmites australis Phco-s_29534 transcribed RNA sequence-table6-Betaflexiviridae-HMM57-476_84.0-ORF62
+seq426	>tsa-GEXJ01111762.1 (REVERSE SENSE) TSA: Phragmites australis Phco-s_30951 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-159_79.0-ORF23
+seq427	>tsa-GEXJ01113582.1 TSA: Phragmites australis Phco-s_61798 transcribed RNA sequence-table1-Betaflexiviridae-HMM61-116_47.0-ORF3
+seq428	>tsa-GEXJ01117219.1 TSA: Phragmites australis Phco-s_32944 transcribed RNA sequence-table1-Betaflexiviridae-HMM46-131_64.0-ORF6
+seq429	>tsa-GEXJ01125174.1 TSA: Phragmites australis Phco-s_69675 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-113_83.0-ORF4
+seq430	>tsa-GEXJ01125902.1 (REVERSE SENSE) TSA: Phragmites australis Phco-s_35569 transcribed RNA sequence-table1-Betaflexiviridae-HMM33-98_65.0-ORF8
+seq431	>tsa-GFFJ01060658.1 (REVERSE SENSE) TSA: Portunus trituberculatus comp101197_c0 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-135_99.0-ORF11
+seq432	>tsa-GFFJ01060659.1 (REVERSE SENSE) TSA: Portunus trituberculatus comp101197_c1 transcribed RNA sequence-table4-Betaflexiviridae-HMM1-154_88.0-ORF49
+seq433	>tsa-GFFJ01113017.1 TSA: Portunus trituberculatus comp1370807_c0 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-80_98.0-ORF3
+seq434	>tsa-GFFJ01115842.1 (REVERSE SENSE) TSA: Portunus trituberculatus comp1409308_c0 transcribed RNA sequence-table1-Betaflexiviridae-HMM6-93_93.0-ORF9
+seq435	>tsa-GBXL01017637.1 TSA: Pyrus communis MitchamPear_201207_017641 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-79_20.0-ORF11
+seq436	>tsa-GBXL01042397.1 (REVERSE SENSE) TSA: Pyrus communis MitchamPear_201207_042408 transcribed RNA sequence-table1-Betaflexiviridae-HMM62-217_71.0-ORF16
+seq437	>tsa-GBXL01046632.1 (REVERSE SENSE) TSA: Pyrus communis MitchamPear_201207_046648 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-188_99.0-ORF16
+seq438	>tsa-GBXL01073199.1 TSA: Pyrus communis MitchamPear_201207_073263 transcribed RNA sequence-table1-Betaflexiviridae-HMM2-100_98.0-ORF4
+seq439	>tsa-GBXL01075974.1 (REVERSE SENSE) TSA: Pyrus communis MitchamPear_201207_076046 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-95_98.0-ORF10
+seq440	>tsa-GBXL01076688.1 TSA: Pyrus communis MitchamPear_201207_076762 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-80_84.0-ORF3
+seq441	>tsa-GBXL01079742.1 (REVERSE SENSE) TSA: Pyrus communis MitchamPear_201207_079822 transcribed RNA sequence-table1-Betaflexiviridae-HMM1-90_98.0-ORF7
+seq442	>tsa-GBXL01098911.1 TSA: Pyrus communis MitchamPear_201207_099027 transcribed RNA sequence-table1-Betaflexiviridae-HMM2-68_97.0-ORF3
+seq443	>tsa-GBED01002304.1 (REVERSE SENSE) TSA: Pyrus pyrifolia comp880_c0_seq1 transcribed RNA sequence-table6-Betaflexiviridae-HMM1154-1575_19.0-ORF161
+seq444	>tsa-HABZ01000099.1 (REVERSE SENSE) TSA: Quercus suber, contig Contig99, transcribed RNA sequence-table4-Betaflexiviridae-HMM447-844_41.0-ORF90
+seq445	>tsa-HABZ01003880.1 TSA: Quercus suber, contig Contig3880, transcribed RNA sequence-table6-Betaflexiviridae-HMM1-117_50.0-ORF8
+seq446	>tsa-HABZ01010758.1 (REVERSE SENSE) TSA: Quercus suber, contig Contig10819, transcribed RNA sequence-table6-Betaflexiviridae-HMM12-354_67.0-ORF38
+seq447	>tsa-HABZ01016774.1 (REVERSE SENSE) TSA: Quercus suber, contig Contig16909, transcribed RNA sequence-table4-Betaflexiviridae-HMM20-154_87.0-ORF21
+seq448	>tsa-HABZ01025179.1 (REVERSE SENSE) TSA: Quercus suber, contig Contig25340, transcribed RNA sequence-table4-Betaflexiviridae-HMM314-457_27.0-ORF78
+seq449	>tsa-HABZ01026931.1 TSA: Quercus suber, contig Contig27092, transcribed RNA sequence-table1-Betaflexiviridae-HMM9-274_95.0-ORF9
+seq450	>tsa-HABZ01030205.1 (REVERSE SENSE) TSA: Quercus suber, contig Qs-dev_c14020, transcribed RNA sequence-table1-Betaflexiviridae-HMM2-236_98.0-ORF21
+seq451	>tsa-HABZ01035272.1 (REVERSE SENSE) TSA: Quercus suber, contig Qs-dev_c28370, transcribed RNA sequence-table4-Betaflexiviridae-HMM2-185_84.0-ORF44
+seq452	>tsa-HABZ01040126.1 (REVERSE SENSE) TSA: Quercus suber, contig Qs-dev_c39587, transcribed RNA sequence-table1-Betaflexiviridae-HMM1-127_95.0-ORF18
+seq453	>tsa-HABZ01057052.1 TSA: Quercus suber, contig Qs-dev_c63732, transcribed RNA sequence-table4-Betaflexiviridae-HMM2-75_91.0-ORF4
+seq454	>tsa-HABZ01079718.1 (REVERSE SENSE) TSA: Quercus suber, contig isotig24053, transcribed RNA sequence-table6-Betaflexiviridae-HMM33-151_55.0-ORF17
+seq455	>tsa-GETJ01009506.1 TSA: Rosa chinensis c35406_g1_i1 transcribed RNA sequence-table6-Betaflexiviridae-HMM1153-1574_19.0-ORF76
+seq456	>tsa-GFCG01066810.1 (REVERSE SENSE) TSA: Silene dioica TR29697_c0_g1_i1 transcribed RNA sequence-table6-Betaflexiviridae-HMM1132-1557_18.0-ORF165
+seq457	>tsa-GFCH01006430.1 (REVERSE SENSE) TSA: Silene dioica TR4715_c0_g1_i1 transcribed RNA sequence-table6-Betaflexiviridae-HMM1128-1553_18.0-ORF167
+seq458	>tsa-GDZW01019090.1 TSA: Solanum chacoense comp1_c0_seq1 transcribed RNA sequence-table4-Betaflexiviridae-HMM1564-1984_21.0-ORF56
+seq459	>tsa-GDZW01019091.1 (REVERSE SENSE) TSA: Solanum chacoense comp1_c1_seq1 transcribed RNA sequence-table4-Betaflexiviridae-HMM1564-1984_21.0-ORF167
+seq460	>tsa-GDZX01035129.1 (REVERSE SENSE) TSA: Solanum chacoense isotig33166 transcribed RNA sequence-table4-Betaflexiviridae-HMM1557-1977_21.0-ORF166
+seq461	>tsa-GAYS01030241.1 (REVERSE SENSE) TSA: Solanum incanum Sincanum27740_c1_seq1_len8704 transcribed RNA sequence-table4-Betaflexiviridae-HMM1623-2044_20.0-ORF212
+seq462	>tsa-GAYS01030242.1 (REVERSE SENSE) TSA: Solanum incanum Sincanum27740_c1_seq4_len1782 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-89_57.0-ORF28
+seq463	>tsa-GAYS01030264.1 TSA: Solanum incanum Sincanum27743_c1_seq3_len7672 transcribed RNA sequence-table4-Betaflexiviridae-HMM1632-2052_20.0-ORF78
+seq464	>tsa-GAYS01032539.1 TSA: Solanum incanum Sincanum28001seq1_len418 transcribed RNA sequence-table4-Betaflexiviridae-HMM1-139_99.0-ORF5
+seq465	>tsa-GAYS01032541.1 TSA: Solanum incanum Sincanum28015seq1_len346 transcribed RNA sequence-table4-Betaflexiviridae-HMM2-115_98.0-ORF5
+seq466	>tsa-GAYS01032547.1 (REVERSE SENSE) TSA: Solanum incanum Sincanum28049seq1_len370 transcribed RNA sequence-table4-Betaflexiviridae-HMM61-123_50.0-ORF11
+seq467	>tsa-GAYS01032550.1 TSA: Solanum incanum Sincanum28058seq1_len367 transcribed RNA sequence-table4-Betaflexiviridae-HMM1-122_99.0-ORF6
+seq468	>tsa-GAYS01032551.1 (REVERSE SENSE) TSA: Solanum incanum Sincanum28063seq1_len217 transcribed RNA sequence-table4-Betaflexiviridae-HMM1-71_97.0-ORF9
+seq469	>tsa-GAYR01030806.1 TSA: Solanum melongena Smelongena_ramnagar28588_c2_seq2_len8708 transcribed RNA sequence-table4-Betaflexiviridae-HMM1633-2053_20.0-ORF77
+seq470	>tsa-GAYR01031028.1 (REVERSE SENSE) TSA: Solanum melongena Smelongena_ramnagar28605_c2_seq2_len1782 transcribed RNA sequence-table4-Betaflexiviridae-HMM1-89_83.0-ORF37
+seq471	>tsa-GAYR01031029.1 (REVERSE SENSE) TSA: Solanum melongena Smelongena_ramnagar28605_c2_seq4_len7647 transcribed RNA sequence-table4-Betaflexiviridae-HMM1623-2044_20.0-ORF204
+seq472	>tsa-GAYR01033245.1 TSA: Solanum melongena Smelongena_ramnagar28873seq1_len418 transcribed RNA sequence-table4-Betaflexiviridae-HMM1-139_99.0-ORF5
+seq473	>tsa-GAYR01033246.1 (REVERSE SENSE) TSA: Solanum melongena Smelongena_ramnagar28884seq1_len346 transcribed RNA sequence-table4-Betaflexiviridae-HMM2-115_98.0-ORF11
+seq474	>tsa-GAYR01033251.1 TSA: Solanum melongena Smelongena_ramnagar28913seq1_len370 transcribed RNA sequence-table4-Betaflexiviridae-HMM61-123_50.0-ORF5
+seq475	>tsa-GAYR01033253.1 TSA: Solanum melongena Smelongena_ramnagar28924seq1_len367 transcribed RNA sequence-table4-Betaflexiviridae-HMM1-122_99.0-ORF6
+seq476	>tsa-GAYR01033255.1 (REVERSE SENSE) TSA: Solanum melongena Smelongena_ramnagar28927seq1_len217 transcribed RNA sequence-table4-Betaflexiviridae-HMM1-71_97.0-ORF9
+seq477	>tsa-GCVE01037936.1 TSA: Suaeda fruticosa Locus_54376_Transcript_1/62792 transcribed RNA sequence-table6-Betaflexiviridae-HMM1075-1496_19.0-ORF73
+seq478	>tsa-GESX01014364.1 TSA: Swertia japonica Unigene24205 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-74_56.0-ORF4
+seq479	>tsa-GESX01017278.1 TSA: Swertia japonica Unigene26855 transcribed RNA sequence-table4-Betaflexiviridae-HMM77-209_63.0-ORF6
+seq480	>tsa-GESX01025611.1 TSA: Swertia japonica Unigene34402 transcribed RNA sequence-table4-Betaflexiviridae-HMM1-108_99.0-ORF4
+seq481	>tsa-GDIG01062680.1 TSA: Trichosanthes kirilowii Unigene0062692 transcribed RNA sequence-table4-Betaflexiviridae-HMM1360-1772_22.0-ORF58
+seq482	>tsa-GAKH01002210.1 TSA: Vitis vinifera Grain_1_1_1382_Transcript_3__7_Confidence_0.545_Length_8550 transcribed RNA sequence-table6-Betaflexiviridae-HMM1724-2143_17.0-ORF78
+seq483	>tsa-GAKH01015924.1 TSA: Vitis vinifera Grain_1_2_1068_Transcript_38__46_Confidence_0.349_Length_8784 transcribed RNA sequence-table6-Betaflexiviridae-HMM1721-1961_12.0-ORF68
+seq484	>tsa-GAKH01025237.1 TSA: Vitis vinifera Grain_1_3_1373_Transcript_37__46_Confidence_0.372_Length_8976 transcribed RNA sequence-table6-Betaflexiviridae-HMM499-711_28.0-ORF72
+seq485	>tsa-GAKH01025238.1 TSA: Vitis vinifera Grain_1_3_1373_Transcript_41__46_Confidence_0.178_Length_8662 transcribed RNA sequence-table6-Betaflexiviridae-HMM1724-2143_17.0-ORF80
+seq486	>tsa-GAKH01041416.1 TSA: Vitis vinifera Grain_1_3_6284_Transcript_1__2_Confidence_1.000_Length_8236 transcribed RNA sequence-table6-Betaflexiviridae-HMM1401-1820_19.0-ORF77
+seq487	>tsa-GAKH01045079.1 TSA: Vitis vinifera Seeds_3_1_10190_Transcript_1__1_Confidence_1.000_Length_785 transcribed RNA sequence-table6-Betaflexiviridae-HMM126-260_51.0-ORF10
+seq488	>tsa-GAKH01049879.1 TSA: Vitis vinifera Seeds_3_1_4020_Transcript_7__16_Confidence_0.402_Length_5798 transcribed RNA sequence-table6-Betaflexiviridae-HMM1765-1932_8.0-ORF63
+seq489	>tsa-GAKH01054370.1 TSA: Vitis vinifera Seeds_3_2_252_Transcript_15__19_Confidence_0.252_Length_8673 transcribed RNA sequence-table6-Betaflexiviridae-HMM1718-2137_17.0-ORF83
+seq490	>tsa-GAKH01054378.1 TSA: Vitis vinifera Seeds_3_2_2541_Transcript_22__31_Confidence_0.484_Length_7565 transcribed RNA sequence-table6-Betaflexiviridae-HMM1722-2141_17.0-ORF87
+seq491	>tsa-GAKH01054510.1 (REVERSE SENSE) TSA: Vitis vinifera Seeds_3_2_3180_Transcript_1__2_Confidence_1.000_Length_894 transcribed RNA sequence-table6-Betaflexiviridae-HMM197-286_30.0-ORF25
+seq492	>tsa-GAKH01055070.1 TSA: Vitis vinifera Seeds_3_2_5820_Transcript_6__8_Confidence_0.723_Length_4875 transcribed RNA sequence-table6-Betaflexiviridae-HMM1295-1476_12.0-ORF52
+seq493	>tsa-GAKH01056097.1 (REVERSE SENSE) TSA: Vitis vinifera Seeds_3_3_10897_Transcript_3__3_Confidence_0.737_Length_1313 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-228_51.0-ORF36
+seq494	>tsa-GAKH01056892.1 (REVERSE SENSE) TSA: Vitis vinifera Seeds_3_3_15023_Transcript_1__1_Confidence_1.000_Length_677 transcribed RNA sequence-table6-Betaflexiviridae-HMM21-97_37.0-ORF16
+seq495	>tsa-GAKH01058573.1 (REVERSE SENSE) TSA: Vitis vinifera Seeds_3_3_5618_Transcript_2__9_Confidence_0.653_Length_2041 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-300_51.0-ORF51
+seq496	>tsa-GAKH01059409.1 TSA: Vitis vinifera Seeds_3_3_9719_Transcript_2__3_Confidence_0.571_Length_754 transcribed RNA sequence-table6-Betaflexiviridae-HMM187-251_25.0-ORF9
+seq497	>tsa-GAKH01069448.1 (REVERSE SENSE) TSA: Vitis vinifera Skin_2_1_747_Transcript_165__173_Confidence_0.154_Length_9442 transcribed RNA sequence-table6-Betaflexiviridae-HMM5-219_33.0-ORF241
+seq498	>tsa-GAKH01069449.1 (REVERSE SENSE) TSA: Vitis vinifera Skin_2_1_747_Transcript_169__173_Confidence_0.050_Length_8814 transcribed RNA sequence-table6-Betaflexiviridae-HMM1764-1879_6.0-ORF193
+seq499	>tsa-GAKH01069450.1 (REVERSE SENSE) TSA: Vitis vinifera Skin_2_1_747_Transcript_173__173_Confidence_0.183_Length_9890 transcribed RNA sequence-table6-Betaflexiviridae-HMM5-219_27.0-ORF254
+seq500	>tsa-GAKH01069456.1 (REVERSE SENSE) TSA: Vitis vinifera Skin_2_1_747_Transcript_67__173_Confidence_1.000_Length_1020 transcribed RNA sequence-table6-Betaflexiviridae-HMM2-336_98.0-ORF28
+seq501	>tsa-GAKH01069457.1 (REVERSE SENSE) TSA: Vitis vinifera Skin_2_1_747_Transcript_68__173_Confidence_1.000_Length_316 transcribed RNA sequence-table6-Betaflexiviridae-HMM8-105_92.0-ORF9
+seq502	>tsa-GAKH01071170.1 TSA: Vitis vinifera Skin_2_2_1050_Transcript_82__91_Confidence_0.088_Length_9418 transcribed RNA sequence-table6-Betaflexiviridae-HMM1029-1448_23.0-ORF79
+seq503	>tsa-GAKH01071171.1 (REVERSE SENSE) TSA: Vitis vinifera Skin_2_2_1050_Transcript_87__91_Confidence_0.132_Length_9696 transcribed RNA sequence-table6-Betaflexiviridae-HMM1721-2140_16.0-ORF227
+seq504	>tsa-GAKH01071172.1 (REVERSE SENSE) TSA: Vitis vinifera Skin_2_2_1050_Transcript_91__91_Confidence_0.106_Length_3916 transcribed RNA sequence-table6-Betaflexiviridae-HMM1-310_60.0-ORF76
+seq505	>tsa-GAKH01081357.1 TSA: Vitis vinifera Skin_2_2_745_Transcript_26__35_Confidence_0.494_Length_6038 transcribed RNA sequence-table6-Betaflexiviridae-HMM201-289_24.0-ORF74
+seq506	>tsa-GAKH01081358.1 TSA: Vitis vinifera Skin_2_2_745_Transcript_27__35_Confidence_0.522_Length_6094 transcribed RNA sequence-table6-Betaflexiviridae-HMM258-346_21.0-ORF74
+seq507	>tsa-GAKH01081359.1 TSA: Vitis vinifera Skin_2_2_745_Transcript_28__35_Confidence_0.534_Length_6211 transcribed RNA sequence-table6-Betaflexiviridae-HMM201-289_24.0-ORF77
+seq508	>tsa-GAKH01081360.1 TSA: Vitis vinifera Skin_2_2_745_Transcript_33__35_Confidence_0.449_Length_5859 transcribed RNA sequence-table6-Betaflexiviridae-HMM201-289_24.0-ORF72
+seq509	>tsa-GAKH01094830.1 TSA: Vitis vinifera Skin_2_3_404_Transcript_148__157_Confidence_0.044_Length_8812 transcribed RNA sequence-table6-Betaflexiviridae-HMM1753-2172_16.0-ORF84
+seq510	>tsa-GAKH01094831.1 (REVERSE SENSE) TSA: Vitis vinifera Skin_2_3_404_Transcript_149__157_Confidence_0.042_Length_8798 transcribed RNA sequence-table6-Betaflexiviridae-HMM1753-1851_5.0-ORF192
+seq511	>tsa-GAKH01094832.1 TSA: Vitis vinifera Skin_2_3_404_Transcript_151__157_Confidence_0.177_Length_9194 transcribed RNA sequence-table6-Betaflexiviridae-HMM10-338_62.0-ORF93
+seq512	>tsa-GAKH01094833.1 (REVERSE SENSE) TSA: Vitis vinifera Skin_2_3_404_Transcript_153__157_Confidence_0.179_Length_9176 transcribed RNA sequence-table6-Betaflexiviridae-HMM2-338_58.0-ORF225
+seq513	>tsa-GAKH01094834.1 (REVERSE SENSE) TSA: Vitis vinifera Skin_2_3_404_Transcript_157__157_Confidence_0.202_Length_9180 transcribed RNA sequence-table6-Betaflexiviridae-HMM2-338_57.0-ORF227
+seq514	>tsa-GAKH01103464.1 TSA: Vitis vinifera Skin_3_1_2609_Transcript_29__38_Confidence_0.507_Length_7787 transcribed RNA sequence-table6-Betaflexiviridae-HMM153-572_51.0-ORF86
+seq515	>tsa-GAKH01103465.1 TSA: Vitis vinifera Skin_3_1_2609_Transcript_34__38_Confidence_0.450_Length_7654 transcribed RNA sequence-table6-Betaflexiviridae-HMM499-918_36.0-ORF86
+seq516	>tsa-GAKH01103523.1 (REVERSE SENSE) TSA: Vitis vinifera Skin_3_1_2756_Transcript_1__1_Confidence_1.000_Length_6250 transcribed RNA sequence-table6-Betaflexiviridae-HMM1655-2074_20.0-ORF161
+seq517	>tsa-GAKH01103861.1 TSA: Vitis vinifera Skin_3_1_3774_Transcript_11__16_Confidence_0.474_Length_7601 transcribed RNA sequence-table6-Betaflexiviridae-HMM1660-2079_17.0-ORF77
+seq518	>tsa-GAKH01104634.1 TSA: Vitis vinifera Skin_3_1_587_Transcript_12__15_Confidence_0.372_Length_8845 transcribed RNA sequence-table6-Betaflexiviridae-HMM1722-2141_17.0-ORF81
+seq519	>tsa-GAKH01107021.1 (REVERSE SENSE) TSA: Vitis vinifera Skin_3_3_1318_Transcript_88__97_Confidence_0.172_Length_8339 transcribed RNA sequence-table6-Betaflexiviridae-HMM1742-2161_16.0-ORF194
+seq520	>tsa-GAKH01107022.1 (REVERSE SENSE) TSA: Vitis vinifera Skin_3_3_1318_Transcript_90__97_Confidence_0.301_Length_8496 transcribed RNA sequence-table6-Betaflexiviridae-HMM538-755_27.0-ORF196
+seq521	>tsa-GAKH01107023.1 (REVERSE SENSE) TSA: Vitis vinifera Skin_3_3_1318_Transcript_95__97_Confidence_0.259_Length_8192 transcribed RNA sequence-table6-Betaflexiviridae-HMM538-755_27.0-ORF194
+seq522	>tsa-GAKH01111261.1 (REVERSE SENSE) TSA: Vitis vinifera Skin_3_3_5589_Transcript_1__1_Confidence_1.000_Length_8167 transcribed RNA sequence-table6-Betaflexiviridae-HMM1710-2129_17.0-ORF212
+seq523	>tsa-GAKH01111732.1 (REVERSE SENSE) TSA: Vitis vinifera Skin_3_3_6717_Transcript_1__1_Confidence_1.000_Length_7254 transcribed RNA sequence-table6-Betaflexiviridae-HMM1419-1840_22.0-ORF176
+seq524	>tsa-GBXP01000096.1 (REVERSE SENSE) TSA: Vitis vinifera CL37.Contig1_CLI-a transcribed RNA sequence-table6-Betaflexiviridae-HMM1-165_99.0-ORF14
+seq525	>tsa-GBXP01001582.1 (REVERSE SENSE) TSA: Vitis vinifera CL488.Contig1_CLI-a transcribed RNA sequence-table6-Betaflexiviridae-HMM1-84_98.0-ORF11
+seq526	>tsa-GBXP01001583.1 TSA: Vitis vinifera CL488.Contig2_CLI-a transcribed RNA sequence-table6-Betaflexiviridae-HMM1-217_42.0-ORF19
+seq527	>tsa-GBXP01001584.1 TSA: Vitis vinifera CL488.Contig3_CLI-a transcribed RNA sequence-table6-Betaflexiviridae-HMM2-230_99.0-ORF9
+seq528	>tsa-GBXP01002137.1 (REVERSE SENSE) TSA: Vitis vinifera CL726.Contig1_CLI-a transcribed RNA sequence-table6-Betaflexiviridae-HMM1006-1427_28.0-ORF146
+seq529	>tsa-GBXP01003149.1 TSA: Vitis vinifera CL1069.Contig4_CLI-a transcribed RNA sequence-table6-Betaflexiviridae-HMM399-566_29.0-ORF20
+seq530	>tsa-GBXP01010528.1 (REVERSE SENSE) TSA: Vitis vinifera CL4174.Contig2_CLI-a transcribed RNA sequence-table6-Betaflexiviridae-HMM2-93_97.0-ORF12
+seq531	>tsa-GBXP01015938.1 TSA: Vitis vinifera Unigene8_CLI-a transcribed RNA sequence-table6-Betaflexiviridae-HMM228-287_20.0-ORF9
+seq532	>tsa-GBXP01015976.1 (REVERSE SENSE) TSA: Vitis vinifera Unigene46_CLI-a transcribed RNA sequence-table6-Betaflexiviridae-HMM1040-1461_27.0-ORF152
+seq533	>tsa-GBXP01015977.1 (REVERSE SENSE) TSA: Vitis vinifera Unigene47_CLI-a transcribed RNA sequence-table6-Betaflexiviridae-HMM1040-1461_27.0-ORF153
+seq534	>tsa-GBXP01016117.1 (REVERSE SENSE) TSA: Vitis vinifera Unigene187_CLI-a transcribed RNA sequence-table6-Betaflexiviridae-HMM1040-1202_13.0-ORF98
+seq535	>tsa-GBXP01016340.1 (REVERSE SENSE) TSA: Vitis vinifera Unigene410_CLI-a transcribed RNA sequence-table6-Betaflexiviridae-HMM1-129_30.0-ORF34
+seq536	>tsa-GBXP01016421.1 TSA: Vitis vinifera Unigene491_CLI-a transcribed RNA sequence-table6-Betaflexiviridae-HMM1-110_43.0-ORF9
+seq537	>tsa-GBXP01016422.1 (REVERSE SENSE) TSA: Vitis vinifera Unigene492_CLI-a transcribed RNA sequence-table6-Betaflexiviridae-HMM1-58_35.0-ORF15
+seq538	>tsa-GBXP01016423.1 (REVERSE SENSE) TSA: Vitis vinifera Unigene493_CLI-a transcribed RNA sequence-table6-Betaflexiviridae-HMM2-122_40.0-ORF24
+seq539	>tsa-GBXP01016577.1 (REVERSE SENSE) TSA: Vitis vinifera Unigene647_CLI-a transcribed RNA sequence-table6-Betaflexiviridae-HMM1-74_96.0-ORF9
+seq540	>tsa-GBXP01020188.1 (REVERSE SENSE) TSA: Vitis vinifera Unigene4263_CLI-a transcribed RNA sequence-table6-Betaflexiviridae-HMM2-132_98.0-ORF12
+seq541	>tsa-GBXP01022764.1 (REVERSE SENSE) TSA: Vitis vinifera Unigene6839_CLI-a transcribed RNA sequence-table6-Betaflexiviridae-HMM1-79_98.0-ORF8
+seq542	>tsa-GBXP01022913.1 TSA: Vitis vinifera Unigene6988_CLI-a transcribed RNA sequence-table6-Betaflexiviridae-HMM1-45_61.0-ORF5
+seq543	>tsa-GBXP01026253.1 TSA: Vitis vinifera Unigene10336_CLI-a transcribed RNA sequence-table6-Betaflexiviridae-HMM4-82_95.0-ORF4
+seq544	>tsa-GBXP01031181.1 TSA: Vitis vinifera Unigene15270_CLI-a transcribed RNA sequence-table6-Betaflexiviridae-HMM1-80_98.0-ORF5
+seq545	>tsa-GBXP01032463.1 TSA: Vitis vinifera Unigene16552_CLI-a transcribed RNA sequence-table6-Betaflexiviridae-HMM1-67_95.0-ORF4
+seq546	>ref-NC_001981.1 Helicoverpa armigera stunt virus RNA 1, complete sequence-table4-Alphatetraviridae-HMM943-1375_24.0-ORF35
+seq547	>ref-NC_001990.1 Nudaurelia capensis beta virus, complete genome-table6-Alphatetraviridae-HMM915-1295_19.0-ORF48
+seq548	>ref-NC_005898.1 Dendrolimus punctatus tetravirus RNA1, complete genome-table6-Alphatetraviridae-HMM934-1366_26.0-ORF43
+seq549	>nrnt-MF190001 Barns Ness breadcrumb sponge hepe-like virus 4 isolate T67, partial genome.-table6-Alphatetraviridae-HMM983-1137_13.0-ORF35

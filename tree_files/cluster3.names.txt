@@ -1,0 +1,740 @@
+seq1	>ref-NC_002797.1 Discula destructiva virus 1 segment 1, complete genome-table6-Partitiviridae-HMM91-516_71.0-ORF20
+seq2	>ref-NC_003470.1 Atkinsonella hypoxylon partitivirus RNA 1, complete sequence-table4-Partitiviridae-HMM112-389_40.0-ORF24
+seq3	>ref-NC_003710.1 Discula destructiva virus 2 segment 1, complete genome-table6-Partitiviridae-HMM81-506_74.0-ORF18
+seq4	>ref-NC_003885.1 Mycovirus FusoV RNA 1, complete sequence-table6-Partitiviridae-HMM56-477_76.0-ORF19
+seq5	>ref-NC_003801.1 Rhizoctonia solani virus 717 RNA1, complete genome-table6-Partitiviridae-HMM194-661_59.0-ORF24
+seq6	>ref-NC_003874.1 Zygosaccharomyces bailii virus Z, complete genome-table6-Partitiviridae-HMM248-341_13.0-ORF32
+seq7	>ref-NC_003884.1 Fusarium poae virus 1 RNA2 putative RNA dependent RNA polymerase gene, complete cds-table4-Partitiviridae-HMM142-620_67.0-ORF23
+seq8	>ref-NC_004018.1 Gremmeniella abietina RNA virus MS1 RNA 1, complete genome-table6-Partitiviridae-HMM91-517_73.0-ORF17
+seq9	>ref-NC_006441.1 Amasya cherry disease-associated mycovirus, complete genome-table6-Partitiviridae-HMM206-585_57.0-ORF17
+seq10	>ref-NC_006275.1 White clover cryptic virus 1 RNA1, complete genome-table6-Partitiviridae-HMM198-580_58.0-ORF21
+seq11	>ref-NC_005976.2 Penicillium stoloniferum virus S segment 1, complete genome-table6-Partitiviridae-HMM165-492_58.0-ORF20
+seq12	>ref-NC_006961.1 Pleurotus ostreatus virus 1 RNA-1, complete genome-table6-Partitiviridae-HMM162-640_64.0-ORF21
+seq13	>ref-NC_007537.1 Rosellinia necatrix partitivirus 1-W8 segment 1, complete genome-table4-Partitiviridae-HMM140-618_64.0-ORF18
+seq14	>ref-NC_007221.1 Penicillium stoloniferum virus F segment 1, complete genome-table6-Partitiviridae-HMM154-488_59.0-ORF13
+seq15	>ref-NC_007241.1 Vicia cryptic virus RNA1, complete sequence-table6-Partitiviridae-HMM202-586_57.0-ORF15
+seq16	>ref-NC_008191.1 Raphanus sativus cryptic virus 1 dsRNA 1, complete sequence-table6-Partitiviridae-HMM70-525_74.0-ORF16
+seq17	>ref-NC_010343.1 Raphanus sativus cryptic virus 2 segment 1, complete sequence-table6-Partitiviridae-HMM163-478_57.0-ORF21
+seq18	>ref-NC_010705.1 Ceratocystis polonica partitivirus segment 1, complete genome-table4-Partitiviridae-HMM120-401_41.0-ORF24
+seq19	>ref-NC_009519.1 Fragaria chiloensis cryptic virus RNA 1, complete genome-table6-Partitiviridae-HMM192-505_54.0-ORF17
+seq20	>ref-NC_010349.1 Botryotinia fuckeliana partitivirus 1, complete segment 1, genomic RNA-table6-Partitiviridae-HMM186-517_56.0-ORF14
+seq21	>ref-NC_010755.1 Ceratocystis resinifera partitivirus RNA 1, complete sequence-table6-Partitiviridae-HMM120-401_41.0-ORF19
+seq22	>ref-NC_010346.1 Rose cryptic virus 1 RNA 1, complete sequence-table6-Partitiviridae-HMM95-500_69.0-ORF14
+seq23	>ref-NC_011705.1 Raphanus sativus cryptic virus 3 segment 1, complete genome-table6-Partitiviridae-HMM76-494_77.0-ORF18
+seq24	>ref-NC_011556.1 Beet cryptic virus 1 RNA 1, complete genome-table6-Partitiviridae-HMM195-587_58.0-ORF15
+seq25	>ref-NC_013014.1 Sclerotinia sclerotiorum partitivirus S segment 1, complete genome-table4-Partitiviridae-HMM71-525_73.0-ORF21
+seq26	>ref-NC_013109.1 Primula malacoides virus China/Mar2007 RNA 1, complete genome-table6-Partitiviridae-HMM175-664_61.0-ORF22
+seq27	>ref-NC_015494.1 Fig cryptic virus segment 1, complete genome-table4-Partitiviridae-HMM51-467_77.0-ORF23
+seq28	>ref-NC_017989.1 Persimmon cryptic virus segment 1, isolate SSPI, complete genome-table6-Partitiviridae-HMM63-479_81.0-ORF14
+seq29	>ref-NC_021096.1 Red clover cryptic virus 2 isolate IPP_Nemaro segment RNA 1, complete sequence-table6-Partitiviridae-HMM191-679_62.0-ORF21
+seq30	>ref-NC_021098.1 Hop trefoil cryptic virus 2 isolate IPP_GelbSK segment RNA 1, complete sequence-table6-Partitiviridae-HMM193-681_62.0-ORF22
+seq31	>ref-NC_021094.1 White clover cryptic virus 2 isolate IPP_Lirepa segment RNA 1, complete sequence-table6-Partitiviridae-HMM195-681_62.0-ORF20
+seq32	>ref-NC_021873.1 Ustilaginoidea virens partitivirus 2 isolate Uv0901 segment 1, complete sequence-table6-Partitiviridae-HMM167-492_57.0-ORF16
+seq33	>ref-NC_021147.1 Dill cryptic virus 2 isolate IPP_hortorum segment RNA 1, complete sequence-table6-Partitiviridae-HMM190-676_62.0-ORF23
+seq34	>ref-NC_022616.1 Red clover cryptic virus 1 isolate IPP_Nemaro segment 1 RNA-dependent RNA polymerase gene, complete cds-table6-Partitiviridae-HMM63-567_78.0-ORF21
+seq35	>ref-NC_022614.1 Dill cryptic virus 1 isolate IPP_hortorum segment 1, complete sequence-table6-Partitiviridae-HMM204-586_57.0-ORF19
+seq36	>ref-NC_023684.1 Rhizoctonia solani dsRNA virus 2 segment 1, complete sequence-table4-Partitiviridae-HMM195-590_58.0-ORF18
+seq37	>ref-NC_024703.1 Alternaria longipes dsRNA virus 1 strain HN28, complete genome-table4-Partitiviridae-HMM428-612_25.0-ORF27
+seq38	>ref-NC_026799.1 Black grass cryptic virus 2 segment RNA 1-table4-Partitiviridae-HMM85-551_74.0-ORF19
+seq39	>ref-NC_027428.1 Beauveria bassiana RNA virus 1, complete genome-table4-Partitiviridae-HMM361-605_35.0-ORF35
+seq40	>ref-NC_027427.1 Ustilaginoidea virens unassigned RNA virus HNND-1, complete genome-table6-Partitiviridae-HMM351-536_29.0-ORF26
+seq41	>ref-NC_027822.1 Verticillium dahliae partitivirus 1 isolate Vd-253 segment RNA1, complete sequence-table6-Partitiviridae-HMM185-516_59.0-ORF16
+seq42	>ref-NC_020234.1 Rosellinia necatrix partitivirus 2 RdRp gene for RNA-dependent RNA polymerase, complete cds-table6-Partitiviridae-HMM179-567_58.0-ORF23
+seq43	>ref-NC_028242.1 Colletotrichum higginsianum non-segmented dsRNA virus 1, complete sequence-table4-Partitiviridae-HMM585-770_21.0-ORF28
+seq44	>ref-NC_028251.1 Rosellinia necatrix partitivirus 6 RdRp gene for RNA dependent RNA polymerase, complete cds, strain: W113-table6-Partitiviridae-HMM201-685_59.0-ORF19
+seq45	>ref-NC_028469.1 Penicillium aurantiogriseum partiti-like virus 66 kDa protein gene, complete cds-table6-Partitiviridae-HMM175-466_48.0-ORF18
+seq46	>ref-NC_028499.1 Penicillium aurantiogriseum partitivirus 1 RNA 1, complete sequence-table6-Partitiviridae-HMM87-514_74.0-ORF15
+seq47	>ref-NC_030243.1 Sinapis alba cryptic virus 1 isolate LTBJ RNA dependent RNA polymerase gene, complete cds-table6-Partitiviridae-HMM63-477_80.0-ORF15
+seq48	>ref-NC_030480.1 Pseudogymnoascus destructans virus isolate PdV80251 RNA-dependent RNA polymerase gene, complete cds-table6-Partitiviridae-HMM167-495_60.0-ORF15
+seq49	>ref-NC_030875.1 Sophora japonica powdery mildew-associated partitivirus isolate HBJZ1510 segment RNA1 putative RNA-dependent RNA polymerase gene, complete cds-table6-Partitiviridae-HMM71-537_71.0-ORF16
+seq50	>ref-NC_030882.1 Fusarium poae virus 1-240374 genomic RNA, segment 1, complete sequence, strain: 240374-table6-Partitiviridae-HMM161-639_62.0-ORF20
+seq51	>ref-NC_030878.1 Fusarium poae partitivirus 2 genomic RNA, segment 1, complete sequence-table6-Partitiviridae-HMM196-673_61.0-ORF20
+seq52	>ref-NC_030889.1 Arabidopsis halleri partitivirus 1 genomic RNA, segment 1, complete sequence-table6-Partitiviridae-HMM77-558_73.0-ORF16
+seq53	>ref-NC_031134.1 Cannabis cryptic virus isolate hemp09 RNA-dependent RNA polymerase gene, complete cds-table6-Partitiviridae-HMM194-682_61.0-ORF22
+seq54	>ref-NC_032130.1 Wuhan large pig roundworm virus 1 strain WHZHC73278 segment Seg 1 RdRp gene, complete cds-table6-Partitiviridae-HMM150-442_63.0-ORF15
+seq55	>ref-NC_032133.1 Beihai barnacle virus 13 strain BHTH16173 segment Seg 1 RdRp gene, complete cds-table6-Partitiviridae-HMM31-439_82.0-ORF20
+seq56	>ref-NC_032131.1 Xinzhou partiti-like virus 1 strain XZSJSC65291 segment Seg 1 RdRp gene, complete cds-table4-Partitiviridae-HMM196-484_56.0-ORF19
+seq57	>ref-NC_032156.1 Hubei diptera virus 18 strain SCM37169 segment Seg 1 RdRp gene, complete cds-table6-Partitiviridae-HMM191-482_50.0-ORF15
+seq58	>ref-NC_032146.1 Wuhan insect virus 23 strain WHCCII13263 segment Seg 1 RdRp gene, complete cds-table6-Partitiviridae-HMM38-436_80.0-ORF18
+seq59	>ref-NC_032139.1 Hubei partiti-like virus 11 strain QTM25188 segment Seg 1 RdRp gene, complete cds-table4-Partitiviridae-HMM167-460_51.0-ORF18
+seq60	>ref-NC_032518.1 Beihai barnacle virus 12 strain BHTH16091 segment Seg 1 RdRp gene, complete cds-table4-Partitiviridae-HMM168-466_52.0-ORF7
+seq61	>ref-NC_032500.1 Beihai partiti-like virus 2 strain BHZY60797 segment Seg 1 RdRp gene, complete cds-table6-Partitiviridae-HMM157-453_53.0-ORF17
+seq62	>ref-NC_033301.1 Hubei diptera virus 17 strain SCM172187 segment Seg 1 RdRp gene, complete cds-table6-Partitiviridae-HMM159-460_53.0-ORF15
+seq63	>ref-NC_033313.1 Hubei tetragnatha maxillosa virus 8 strain arthropodmix13417 segment Seg 1 RdRp gene, complete cds-table6-Partitiviridae-HMM172-473_50.0-ORF20
+seq64	>ref-NC_033447.1 Wuhan Millipede virus 4 strain GCM8225 segment Seg 1 RdRp gene, complete cds-table4-Partitiviridae-HMM199-482_48.0-ORF21
+seq65	>ref-NC_033485.1 Wuhan fly virus 5 strain fly34516 segment Seg 1 RdRp gene, complete cds-table6-Partitiviridae-HMM181-458_49.0-ORF16
+seq66	>ref-NC_033770.1 Spinach cryptic virus 1 isolate SRR1766311 RNA-dependent RNA polymerase (RdRp) gene, complete cds-table6-Partitiviridae-HMM192-575_59.0-ORF13
+seq67	>ref-NC_033764.1 Wuhan cricket virus 2 strain WHXS3745 segment Seg 1 RdRp gene, complete cds-table4-Partitiviridae-HMM159-461_54.0-ORF20
+seq68	>ref-NC_033851.1 Wuhan insect virus 22 strain arthropodmix13806 segment Seg 1 RdRp gene, complete cds-table6-Partitiviridae-HMM217-521_51.0-ORF17
+seq69	>ref-NC_034159.1 Pepper cryptic virus 2 isolate HW-01 segment RNA1, complete sequence-table6-Partitiviridae-HMM73-491_77.0-ORF18
+seq70	>ref-NC_034514.1 Bipolaris maydis partitivirus 1 strain JZ04 segment RNA1, complete sequence-table4-Partitiviridae-HMM186-547_57.0-ORF23
+seq71	>ref-NC_034513.1 Carnation cryptic virus 3 segment RNA1, complete sequence-table4-Partitiviridae-HMM74-480_77.0-ORF20
+seq72	>ref-NC_034615.1 Zostera marina amalgavirus 2 isolate SRP035489-2, complete genome-table1-Partitiviridae-HMM325-455_16.0-ORF32
+seq73	>ref-NC_032150.2 Rhizoctonia solani dsRNA virus 3 segment 1, complete sequence-table4-Partitiviridae-HMM93-544_72.0-ORF14
+seq74	>ref-NC_035119.1 Wilkie partiti-like virus 2 strain mosWSCP53020, complete genome-table4-Partitiviridae-HMM47-494_79.0-ORF20
+seq75	>ref-NC_035122.1 Wilkie partiti-like virus 1 strain mosWSCP36002, complete genome-table6-Partitiviridae-HMM70-560_70.0-ORF20
+seq76	>ref-NC_024014.1 Arhar cryptic virus-I segment RNA-1, strain Hyderabad-table6-Partitiviridae-HMM64-469_80.0-ORF17
+seq77	>ref-NC_035485.1 Heterobasidion partitivirus 7 RNA 1, complete sequence-table6-Partitiviridae-HMM123-425_39.0-ORF22
+seq78	>ref-NC_037095.1 Pepper cryptic virus 1 isolate Jal-01 segment RNA1, complete sequence-table6-Partitiviridae-HMM74-488_79.0-ORF14
+seq79	>ref-NC_036603.1 Rosellinia necatrix partitivirus 8 genomic RNA, segment RNA 1, complete sequence, strain: Rn-Bb-table6-Partitiviridae-HMM205-684_58.0-ORF17
+seq80	>nrnt-MF372918 (REVERSE SENSE) Maize associated partiti-like virus isolate SS9A RdRp gene, partial cds.-table6-Partitiviridae-HMM85-485_66.0-ORF47
+seq81	>nrnt-LC221826 Pear alphapartitivirus gene for RNA-dependent RNA polymerase, complete cds, segment: dsRNA1.-table6-Partitiviridae-HMM188-550_56.0-ORF20
+seq82	>nrnt-LC333747 Rosellinia necatrix partitivirus 9 gene for RNA-dependent RNA polymerase, complete cds, contig: Pool-2_105.-table6-Partitiviridae-HMM217-583_55.0-ORF16
+seq83	>nrnt-LC333736 Rosellinia necatrix partitivirus 10 gene for RNA-dependent RNA polymerase, complete cds, contig: Pool-1_32.-table6-Partitiviridae-HMM78-539_74.0-ORF16
+seq84	>nrnt-MG566085 Heterobasidion partitivirus 20 isolate an1-a RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table6-Partitiviridae-HMM169-552_58.0-ORF22
+seq85	>nrnt-KY420052 Podosphaera prunicola partitivirus 4 isolate cpm 4 RNA-dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM159-640_61.0-ORF24
+seq86	>nrnt-KY420050 Podosphaera prunicola partitivirus 3 isolate cpm 3 RNA-dependent RNA polymerase gene, complete cds.-table4-Partitiviridae-HMM182-571_60.0-ORF23
+seq87	>nrnt-KY420047 Podosphaera prunicola partitivirus 1 isolate cpm 1 RNA-dependent RNA polymerase gene, complete cds.-table4-Partitiviridae-HMM48-513_78.0-ORF20
+seq88	>nrnt-MF375891 Entoleuca partitivirus 2 replicase gene, partial cds.-table1-Partitiviridae-HMM1-407_80.0-ORF7
+seq89	>nrnt-MF375890 Entoleuca partitivirus 1 replicase gene, complete cds.-table4-Partitiviridae-HMM156-540_63.0-ORF20
+seq90	>nrnt-KY420043 Erysiphe necator partitivirus 2 isolate gpm 2 RNA-dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM59-523_77.0-ORF16
+seq91	>nrnt-KY420041 Erysiphe necator partitivirus 1 isolate gpm 1 RNA-dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM61-524_75.0-ORF13
+seq92	>nrnt-MF346350 Vespa velutina partiti-like virus 1 isolate MG17VV2 RdRp gene, partial cds.-table6-Partitiviridae-HMM73-445_73.0-ORF16
+seq93	>nrnt-KY296405 Sodiomyces alkalinus partitivirus 1 RNA-dependent RNA polymerase gene, complete cds.-table4-Partitiviridae-HMM179-657_62.0-ORF25
+seq94	>nrnt-MF443258 Medicago sativa deltapartitivirus 1 RNA-dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM70-483_78.0-ORF21
+seq95	>nrnt-MF443256 Medicago sativa alphapartitivirus 1 RNA-dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM74-561_76.0-ORF20
+seq96	>nrnt-KX976461 Pleurotus ostreatus spherical virus isolate PoSV-1 RNA-dependent RNA polymerase gene, partial cds.-table1-Partitiviridae-HMM36-512_79.0-ORF18
+seq97	>nrnt-KX981863 Magnaporthe oryzae partitivirus 2 RNA-dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM184-516_58.0-ORF18
+seq98	>nrnt-KX914902 Rhizoctonia solani partitivirus virus 4 isolate 4-HG81 putative RNA-dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM207-579_56.0-ORF22
+seq99	>nrnt-KX914900 Rhizoctonia solani partitivirus virus 3 isolate 3-HG81 putative RNA-dependent RNA polymerase gene, complete cds.-table4-Partitiviridae-HMM195-584_58.0-ORF18
+seq100	>nrnt-MF141076 Norway partiti-like virus 1 isolate NOR/S5/Kilen/2014 RNA-dependent RNA-polymerase gene, complete cds.-table4-Partitiviridae-HMM156-461_56.0-ORF10
+seq101	>nrnt-KU291921 Ceratobasidium partitivirus isolate RdRp-9 RNA-dependent RNA polymerase gene, partial cds.-table4-Partitiviridae-HMM59-506_88.0-ORF16
+seq102	>nrnt-KU291920 Ceratobasidium partitivirus isolate RdRp-8 RNA-dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM178-513_64.0-ORF17
+seq103	>nrnt-KU291919 Ceratobasidium partitivirus isolate RdRp-7 RNA-dependent RNA polymerase gene, partial cds.-table4-Partitiviridae-HMM86-552_78.0-ORF14
+seq104	>nrnt-KU291918 Ceratobasidium partitivirus isolate RdRp-6 RNA-dependent RNA polymerase gene, partial cds.-table4-Partitiviridae-HMM215-584_60.0-ORF19
+seq105	>nrnt-KU291917 Ceratobasidium partitivirus isolate RdRp-5 RNA-dependent RNA polymerase gene, complete cds.-table4-Partitiviridae-HMM64-532_73.0-ORF19
+seq106	>nrnt-KU291916 Ceratobasidium partitivirus isolate RdRp-4 RNA-dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM224-599_56.0-ORF16
+seq107	>nrnt-KU291915 Ceratobasidium partitivirus isolate RdRp-3 RNA-dependent RNA polymerase gene, partial cds.-table1-Partitiviridae-HMM181-657_67.0-ORF24
+seq108	>nrnt-KU291914 Ceratobasidium partitivirus isolate RdRp-2 RNA-dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM198-668_61.0-ORF23
+seq109	>nrnt-KU291913 Ceratobasidium partitivirus isolate RdRp-1 RNA-dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM211-690_58.0-ORF20
+seq110	>nrnt-HM560703 Beet cryptic virus 2 segment dsRNA1, complete sequence.-table6-Partitiviridae-HMM72-490_79.0-ORF17
+seq111	>nrnt-KY884720 Cryptosporidium parvum virus 1 strain Iowa segment dsRNA1, complete sequence.-table6-Partitiviridae-HMM77-495_68.0-ORF16
+seq112	>nrnt-KY695009 Spinach deltapartitivirus 1 isolate SRP059420 segment RNA1 RNA-dependent RNA polymerase gene, complete cds.-table4-Partitiviridae-HMM71-478_79.0-ORF21
+seq113	>nrnt-LC010950 Rosellinia necatrix partitivirus 3 RdRp gene for RNA dependent RNA polymerase, complete cds, strain: W1029.-table6-Partitiviridae-HMM159-632_61.0-ORF22
+seq114	>nrnt-LN896305 Beauveria bassiana partitivirus 2 RdRp gene for RNA dependent RNA polymerase.-table6-Partitiviridae-HMM186-518_55.0-ORF24
+seq115	>nrnt-LN896303 Beauveria bassiana partitivirus 1 RdRp gene for RNA dependent RNA polymerase.-table6-Partitiviridae-HMM92-520_72.0-ORF18
+seq116	>nrnt-KX354971 Lentinula edodes partitivirus 1 isolate LeSX12 putative RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table4-Partitiviridae-HMM140-620_62.0-ORF23
+seq117	>nrnt-KY352402 Alternaria alternata partitivirus 1 isolate Avi1 segment RNA1, complete sequence.-table6-Partitiviridae-HMM115-541_69.0-ORF18
+seq118	>nrnt-KY081285 Citrullus lanatus cryptic virus segment RNA1, complete sequence.-table6-Partitiviridae-HMM79-478_74.0-ORF20
+seq119	>nrnt-KX148579 Partitivirus-like 5 RdRp gene, partial cds.-table1-Partitiviridae-HMM133-610_68.0-ORF26
+seq120	>nrnt-KX148577 Partitivirus-like 3 RdRp gene, complete cds.-table6-Partitiviridae-HMM153-442_50.0-ORF18
+seq121	>nrnt-KX148575 Partitivirus-like 1 RdRp gene, partial cds.-table1-Partitiviridae-HMM100-397_62.0-ORF14
+seq122	>nrnt-LC062724 Rosellinia necatrix partitivirus 6 RdRp-D4 gene for defective RNA dependent RNA polymerase, complete cds, segment: 1, laboratory isolate: W113-DI-4.-table4-Partitiviridae-HMM335-556_33.0-ORF17
+seq123	>nrnt-LC062720 Rosellinia necatrix partitivirus 6 RdRp-D0 gene for defective RNA dependent RNA polymerase, complete cds, segment: 1, laboratory isolate: W113-DI-0.-table6-Partitiviridae-HMM311-513_31.0-ORF15
+seq124	>nrnt-KU747155 Purpureocillium lilacinum nonsegmented virus 1 fusion protein, hypothetical protein, and putative RNA-dependent RNA polymerase genes, complete cds.-table6-Partitiviridae-HMM477-735_30.0-ORF28
+seq125	>nrnt-EU082132 Black raspberry cryptic virus isolate CRUB 9013 RNA-dependent RNA polymerase gene, partial cds.-table6-Partitiviridae-HMM60-407_84.0-ORF13
+seq126	>nrnt-AY973825 Pinus sylvestris partitivirus NL-2005 putative RNA-dependent RNA polymerase gene, partial cds.-table1-Partitiviridae-HMM16-331_87.0-ORF15
+seq127	>nrnt-KX349061 Rhizoctonia solani partitivirus 1 RNA-dependent RNA polymerase (RdRp) gene, partial cds.-table1-Partitiviridae-HMM5-332_96.0-ORF10
+seq128	>nrnt-AF251278 Nectria radicicola virus L1 putative RNA-dependent RNA polymerase gene, partial cds.-table1-Partitiviridae-HMM237-359_28.0-ORF13
+seq129	>nrnt-KU896858 Rose partitivirus isolate PB segment dsRNA1, complete sequence.-table6-Partitiviridae-HMM73-557_75.0-ORF17
+seq130	>nrnt-KU299048 Rhizoctonia solani partitivirus 1 strain OA-1 RNA-dependent RNA polymerase gene, partial cds.-table1-Partitiviridae-HMM163-536_61.0-ORF22
+seq131	>nrnt-KT598244 Soybean leaf-associated partitivirus 2 segment RNA1 RNA-dependent RNA polymerase gene, partial cds.-table4-Partitiviridae-HMM66-526_75.0-ORF17
+seq132	>nrnt-KT598242 Soybean leaf-associated partitivirus 1 segment RNA1 RNA-dependent RNA polymerase gene, partial cds.-table6-Partitiviridae-HMM81-547_72.0-ORF12
+seq133	>nrnt-LN680393 Pittosporum cryptic virus-1 RdRp gene for RNA dependent RNA polymerase, segment RNA1, isolate Pit-MAIB.-table6-Partitiviridae-HMM86-489_74.0-ORF11
+seq134	>nrnt-AP014920 Diatom colony associated virus-Like RNA Segment 7 genomic RNA, complete sequence.-table6-Partitiviridae-HMM64-530_79.0-ORF18
+seq135	>nrnt-AP014906 Diatom colony associated dsRNA virus 14 genomic RNA, segment: 1, complete sequence.-table6-Partitiviridae-HMM196-481_54.0-ORF13
+seq136	>nrnt-KT343866 Cucurbitaria piceae virus 1 isolate Ore Mountains 2 segment 1, complete sequence.-table6-Partitiviridae-HMM149-622_63.0-ORF21
+seq137	>nrnt-KT285019 Raphanus sativus partitivirus 1 isolate TDQ1 RNA dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM69-550_75.0-ORF18
+seq138	>nrnt-LC076694 Rosellinia necatrix partitivirus 7 genomic RNA, segment 1, complete sequence, strain: W1142.-table6-Partitiviridae-HMM183-567_58.0-ORF19
+seq139	>nrnt-LC006130 Fusarium solani partitivirus 2 gene for RNA-dependent RNA polymerase, complete cds.-table6-Partitiviridae-HMM188-565_58.0-ORF17
+seq140	>nrnt-KP757933 (REVERSE SENSE) Drosophila-associated Partitiviridae-like 6 clone DmelPartitiLike_6 genomic sequence.-table6-Partitiviridae-HMM137-537_68.0-ORF40
+seq141	>nrnt-KP757931 Drosophila-associated Partitiviridae-like 4 clone DmelPartitiLike_4 genomic sequence.-table6-Partitiviridae-HMM40-443_81.0-ORF16
+seq142	>nrnt-KP757929 (REVERSE SENSE) Drosophila-associated Partitiviridae-like 2 clone DmelPartitiLike_2 genomic sequence.-table6-Partitiviridae-HMM201-488_47.0-ORF47
+seq143	>nrnt-KP757928 (REVERSE SENSE) Drosophila-associated Partitiviridae-like 7 clone DmelPartitiLike_7 genomic sequence.-table6-Partitiviridae-HMM196-501_52.0-ORF38
+seq144	>nrnt-JN606085 Heterobasidion partitivirus 9 isolate HetPV9-pa1 RNA-dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM225-591_54.0-ORF14
+seq145	>nrnt-KF963186 Heterobasidion partitivirus 15 strain HetPV15-pa1 RNA-dependent RNA polymerase gene, complete cds.-table4-Partitiviridae-HMM77-534_74.0-ORF11
+seq146	>nrnt-KF963185 Heterobasidion partitivirus 14 strain HetPV14-ir1 RNA-dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM80-537_76.0-ORF16
+seq147	>nrnt-KF963177 Heterobasidion partitivirus 13 strain HetPV13-an1 RNA-dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM91-549_73.0-ORF17
+seq148	>nrnt-KF963175 Heterobasidion partitivirus 12 strain HetPV12-an1 RNA-dependent RNA polymerase gene, complete cds.-table4-Partitiviridae-HMM94-552_74.0-ORF14
+seq149	>nrnt-KM657430 Rhizoctonia solani virus 717 isolate SM03 segment RNA1, complete sequence.-table6-Partitiviridae-HMM90-544_72.0-ORF16
+seq150	>nrnt-KM668042 Rhizoctonia fumigata partitivirus isolate C-314 putative RNA-dependent RNA polymerase gene, complete cds.-table4-Partitiviridae-HMM211-582_56.0-ORF17
+seq151	>nrnt-KJ476945 Verticillium albo-atrum partitivirus-1 isolate Va383-2 segment RNA1, complete sequence.-table6-Partitiviridae-HMM83-509_76.0-ORF17
+seq152	>nrnt-KC469948 Ustilaginoidea virens partitivirus 3 isolate HNHS-1 segment 2 RDRP gene, complete cds.-table6-Partitiviridae-HMM161-489_57.0-ORF25
+seq153	>nrnt-JX625227 Heterobasidion partitivirus 8 strain HetPV8-ir1 RNA-dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM161-637_63.0-ORF20
+seq154	>nrnt-KC572132 Colletotrichum acutatum RNA virus 1 isolate CaRV1 RNA-dependent RNA polymerase (RDRP) gene, complete cds.-table6-Partitiviridae-HMM75-502_72.0-ORF18
+seq155	>nrnt-JX297511 Sclerotinia sclerotiorum partitivirus 1 strain SsPV1-WF-1 RNA-dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM143-616_62.0-ORF17
+seq156	>nrnt-KJ873060 Heterobasidion partitivirus 17 strain ir1 RNA-dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM213-579_55.0-ORF17
+seq157	>nrnt-KF680478 Ustilaginoidea virens partitivirus 2 strain HP-30 RNA-dependent RNA polymerase gene, complete cds.-table4-Partitiviridae-HMM124-604_68.0-ORF17
+seq158	>nrnt-KF688740 Botryosphaeria dothidea partitivirus 1 isolate LW-1 segment RNA 1 putative RNA-dependent RNA polymerase (RdRp) gene, complete cds.-table4-Partitiviridae-HMM115-524_68.0-ORF17
+seq159	>nrnt-KJ722537 Botryosphaeria dothidea virus 1 isolate YDJ-08 RNA-dependent RNA polymerase (RDRP) gene, complete cds.-table6-Partitiviridae-HMM82-503_71.0-ORF17
+seq160	>nrnt-GU108584 Grapevine associated partitivirus-1 isolate Ctg474 putative RNA-dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM162-635_63.0-ORF18
+seq161	>nrnt-HG005155 Uncultured alphacryptovirus RdRp gene for RNA dependent RNA polymerase, segment RNA1, isolate BG sensitive 1.-table6-Partitiviridae-HMM202-586_58.0-ORF18
+seq162	>nrnt-HG005154 Uncultured partitivirus partial RdRp gene for RNA dependent RNA polymerase, segment RNA1, isolate LOL resistant 4.-table6-Partitiviridae-HMM94-359_71.0-ORF8
+seq163	>nrnt-KF697164 Cytospora sacchari partitivirus MP-2014 RNA-dependent RNA polymerase (RdRp) gene, partial cds.-table4-Partitiviridae-HMM92-422_77.0-ORF15
+seq164	>nrnt-FN376847 Aspergillus fumigatus partitivirus 1 RdRp gene for RNA-dependent RNA polymerase, segment 1, genomic RNA, isolate 88.-table6-Partitiviridae-HMM74-494_73.0-ORF17
+seq165	>nrnt-HM565953 Heterobasidion partitivirus 2 isolate HetRV2-pa1 putative RNA-dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM124-420_38.0-ORF21
+seq166	>nrnt-JX971982 Crimson clover cryptic virus 2 isolate IPP_IncarnatSK segment RNA 1, complete sequence.-table6-Partitiviridae-HMM183-671_63.0-ORF21
+seq167	>nrnt-JX156424 Diuris pendunculata cryptic virus isolate SW3.3 polyprotein gene, complete cds.-table4-Partitiviridae-HMM183-587_61.0-ORF20
+seq168	>nrnt-AB569999 Rosellinia necatrix partitivirus 2 D-RdRp gene for defective RNA-dependent RNA polymerase, complete cds.-table4-Partitiviridae-HMM119-307_50.0-ORF12
+seq169	>nrnt-AB698494 Rosellinia necatrix partitivirus 5 genomic RNA, segment: RNA 1, complete sequence.-table4-Partitiviridae-HMM206-572_55.0-ORF20
+seq170	>nrnt-AB698493 Rosellinia necatrix partitivirus 4 genomic RNA, segment: RNA 1, complete sequence.-table6-Partitiviridae-HMM184-666_59.0-ORF19
+seq171	>nrnt-JX658571 Grapevine partitivirus isolate 3138-01-3953 RNA dependent RNA polymerase (RdRp) gene, complete cds.-table6-Partitiviridae-HMM157-632_63.0-ORF21
+seq172	>nrnt-JX658570 Grapevine partitivirus isolate 3138-03-561 RNA dependent RNA polymerase (RdRp) gene, complete cds.-table6-Partitiviridae-HMM97-523_75.0-ORF18
+seq173	>nrnt-JX658569 Grapevine partitivirus isolate 3138-03-541 RNA dependent RNA polymerase (RdRp) gene, complete cds.-table6-Partitiviridae-HMM52-519_76.0-ORF14
+seq174	>nrnt-JX658568 Grapevine cryptic virus isolate 3138-03-544 RNA dependent RNA polymerase (RdRp) gene, partial cds.-table6-Partitiviridae-HMM2-361_81.0-ORF12
+seq175	>nrnt-HE579646 Uncultured partitivirus genomic RNA containing putative RdRp, contig 87Pv1_454_3.-table6-Partitiviridae-HMM95-520_75.0-ORF15
+seq176	>nrnt-HE579565 Uncultured partitivirus genomic RNA containing putative RdRp, contig 117.2Hv3_454_3.-table6-Partitiviridae-HMM88-266_64.0-ORF8
+seq177	>nrnt-HQ541330 Heterobasidion RNA virus 1 isolate HetRV1-oc1 putative RNA-dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM207-572_55.0-ORF14
+seq178	>nrnt-HQ541329 Heterobasidion RNA virus 1 isolate HetRV1-pa1 putative RNA-dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM197-587_57.0-ORF14
+seq179	>nrnt-HQ541326 Heterobasidion RNA virus 5 isolate HetRV5-pa1 putative RNA-dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM186-582_61.0-ORF14
+seq180	>nrnt-HQ541325 Heterobasidion RNA virus 4 isolate HetRV4-pa1 putative RNA-dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM190-584_60.0-ORF14
+seq181	>nrnt-HQ541323 Heterobasidion RNA virus 1 isolate HetRV1-ab1 putative RNA-dependent RNA polymerase gene, complete cds.-table4-Partitiviridae-HMM223-591_56.0-ORF11
+seq182	>nrnt-DQ910762 Vicia faba partitivirus 1 segment dsRNA 3, complete sequence.-table6-Partitiviridae-HMM74-557_75.0-ORF20
+seq183	>nrnt-AB465308 Flammulina velutipes browning virus RdRp gene for RNA-dependent RNA polymerase, complete cds.-table6-Partitiviridae-HMM72-541_77.0-ORF13
+seq184	>nrnt-AB428575 Flammulina velutipes isometric virus RdRp gene for putative RNA-dependent RNA polymerase, complete cds.-table6-Partitiviridae-HMM82-544_72.0-ORF19
+seq185	>nrnt-FJ816271 Heterobasidion RNA Virus 3 putative RNA-dependent RNA polymerase gene, complete cds.-table4-Partitiviridae-HMM94-551_72.0-ORF19
+seq186	>nrnt-S63913 putative RNA-dependent RNA polymerase {double-stranded RNA2} [beet cryptic virus 3 BCV3, Genomic RNA, 1607 nt].-table6-Partitiviridae-HMM55-468_83.0-ORF16
+seq187	>nrnt-AY308801 Oyster mushroom isometric virus II RNA-dependent RNA polymerase gene, complete cds.-table4-Partitiviridae-HMM226-605_56.0-ORF9
+seq188	>nrnt-AF473549 Heterobasidion annosum P-type partitivirus putative RNA dependent RNA polymerase gene, complete cds.-table4-Partitiviridae-HMM444-649_26.0-ORF12
+seq189	>nrnt-EU118277 Aspergillus ochraceous virus strain FA0611 putative RNA dependent RNA polymerase gene, complete cds.-table6-Partitiviridae-HMM92-519_74.0-ORF20
+seq190	>nrnt-AM999771 Chondrostereum purpureum cryptic virus 1, segment RNA1.-table4-Partitiviridae-HMM74-540_74.0-ORF16
+seq191	>nrnt-AB110980 Helicobasidium mompa partitivirus V1-2 RDRP gene for RNA-dependent RNA polymerase, complete cds.-table4-Partitiviridae-HMM66-505_74.0-ORF16
+seq192	>nrnt-AB110979 Helicobasidium mompa partitivirus V1-1 RDRP gene for RNA-dependent RNA polymerase, complete cds.-table4-Partitiviridae-HMM161-635_63.0-ORF23
+seq193	>nrnt-AM087202 Ophiostoma partitivirus 1 RdRp gene for RNA-dependent RNA polymerase.-table6-Partitiviridae-HMM93-521_73.0-ORF22
+seq194	>nrnt-AB025903 Helicobasidium mompa dsRNA mycovirus gene for RNA-dependent RNA polymerase, complete cds.-table6-Partitiviridae-HMM75-542_74.0-ORF20
+seq195	>nrnt-KX884242 Beihai partiti-like virus 10 strain YYSZX26933 RdRp gene, complete cds.-table4-Partitiviridae-HMM129-299_38.0-ORF16
+seq196	>nrnt-KX884241 Beihai partiti-like virus 4 strain YYSZX180 RdRp gene, complete cds.-table6-Partitiviridae-HMM124-403_62.0-ORF15
+seq197	>nrnt-KX884240 Beihai partiti-like virus 5 strain YYSZX17448 RdRp gene, complete cds.-table6-Partitiviridae-HMM129-370_54.0-ORF18
+seq198	>nrnt-KX884235 Wenling partiti-like virus 1 strain WLJQ97111 RdRp gene, complete cds.-table4-Partitiviridae-HMM171-470_52.0-ORF21
+seq199	>nrnt-KX884233 Wenling partiti-like virus 5 strain WLJQ59225 RdRp gene, complete cds.-table4-Partitiviridae-HMM123-235_25.0-ORF13
+seq200	>nrnt-KX884230 Wenling partiti-like virus 3 strain WLJQ124021 RdRp gene, complete cds.-table6-Partitiviridae-HMM28-425_83.0-ORF12
+seq201	>nrnt-KX884228 Wenling partiti-like virus 4 strain WLJQ103127 RdRp gene, complete cds.-table6-Partitiviridae-HMM115-394_61.0-ORF13
+seq202	>nrnt-KX884227 Wenling partiti-like virus 2 strain WLJQ102434 RdRp gene, complete cds.-table6-Partitiviridae-HMM28-424_82.0-ORF16
+seq203	>nrnt-KX884218 Hubei partiti-like virus 35 strain WHYY30311 RdRp gene, complete cds.-table6-Partitiviridae-HMM35-432_81.0-ORF14
+seq204	>nrnt-KX884217 Wuhan house centipede virus 8 strain WHYY33011 RdRp gene, complete cds.-table6-Partitiviridae-HMM32-432_82.0-ORF11
+seq205	>nrnt-KX884216 Wuhan house centipede virus 7 strain WHYY9725 RdRp gene, complete cds.-table6-Partitiviridae-HMM50-448_80.0-ORF16
+seq206	>nrnt-KX884215 Hubei partiti-like virus 45 strain WHYY15874 RdRp gene, complete cds.-table4-Partitiviridae-HMM40-432_82.0-ORF13
+seq207	>nrnt-KX884214 Hubei partiti-like virus 24 strain WHYY17134 RdRp gene, partial cds.-table6-Partitiviridae-HMM177-652_71.0-ORF25
+seq208	>nrnt-KX884207 Hubei partiti-like virus 34 strain WHWN68514 RdRp gene, complete cds.-table6-Partitiviridae-HMM41-429_80.0-ORF15
+seq209	>nrnt-KX884206 Hubei partiti-like virus 51 strain WHWN52466 RdRp gene, complete cds.-table4-Partitiviridae-HMM131-334_46.0-ORF17
+seq210	>nrnt-KX884198 Hubei partiti-like virus 43 strain WHLC8707 RdRp gene, complete cds.-table6-Partitiviridae-HMM34-431_82.0-ORF16
+seq211	>nrnt-KX884195 Hubei partiti-like virus 40 strain WHCCII13098 RdRp gene, complete cds.-table6-Partitiviridae-HMM47-443_77.0-ORF14
+seq212	>nrnt-KX884193 Hubei partiti-like virus 9 strain WHCC72771 RdRp gene, complete cds.-table4-Partitiviridae-HMM154-458_53.0-ORF25
+seq213	>nrnt-KX884192 Hubei partiti-like virus 8 strain WHCC37315 RdRp gene, partial cds.-table1-Partitiviridae-HMM159-451_59.0-ORF15
+seq214	>nrnt-KX884191 Hubei partiti-like virus 1 strain WHCC258759 RdRp gene, complete cds.-table6-Partitiviridae-HMM153-452_52.0-ORF14
+seq215	>nrnt-KX884186 Hubei partiti-like virus 16 strain WGML112875 RdRp gene, complete cds.-table4-Partitiviridae-HMM150-436_52.0-ORF21
+seq216	>nrnt-KX884184 Hubei partiti-like virus 55 strain SZmix21556 RdRp gene, partial cds.-table4-Partitiviridae-HMM223-475_44.0-ORF26
+seq217	>nrnt-KX884183 Hubei partiti-like virus 54 strain SZmix20834 RdRp gene, complete cds.-table6-Partitiviridae-HMM236-475_42.0-ORF21
+seq218	>nrnt-KX884182 Hubei partiti-like virus 53 strain SZmix20674 RdRp gene, complete cds.-table6-Partitiviridae-HMM328-466_25.0-ORF19
+seq219	>nrnt-KX884179 Sanxia partiti-like virus 1 strain SXSSP515 RdRp gene, complete cds.-table6-Partitiviridae-HMM112-402_62.0-ORF16
+seq220	>nrnt-KX884178 Sanxia water strider virus 18 strain SXSSP2538 RdRp gene, complete cds.-table6-Partitiviridae-HMM42-442_82.0-ORF15
+seq221	>nrnt-KX884177 Hubei partiti-like virus 3 strain SSZZ4709 RdRp gene, complete cds.-table6-Partitiviridae-HMM172-461_49.0-ORF20
+seq222	>nrnt-KX884169 Hubei partiti-like virus 50 strain spider58532 RdRp gene, complete cds.-table6-Partitiviridae-HMM108-320_47.0-ORF10
+seq223	>nrnt-KX884167 Hubei partiti-like virus 15 strain spider135364 RdRp gene, partial cds.-table4-Partitiviridae-HMM154-447_62.0-ORF20
+seq224	>nrnt-KX884166 Hubei partiti-like virus 42 strain spider134492 RdRp gene, complete cds.-table6-Partitiviridae-HMM31-431_81.0-ORF17
+seq225	>nrnt-KX884165 Hubei partiti-like virus 52 strain spider134151 RdRp gene, complete cds.-table4-Partitiviridae-HMM121-329_46.0-ORF17
+seq226	>nrnt-KX884164 Wuhan spider virus 10 strain spider133290 RdRp gene, complete cds.-table6-Partitiviridae-HMM146-319_36.0-ORF15
+seq227	>nrnt-KX884163 Hubei partiti-like virus 14 strain spider132884 RdRp gene, complete cds.-table6-Partitiviridae-HMM157-445_50.0-ORF15
+seq228	>nrnt-KX884162 Hubei partiti-like virus 31 strain spider131862 RdRp gene, complete cds.-table6-Partitiviridae-HMM29-433_84.0-ORF14
+seq229	>nrnt-KX884161 Hubei partiti-like virus 6 strain spider131688 RdRp gene, complete cds.-table6-Partitiviridae-HMM160-461_50.0-ORF18
+seq230	>nrnt-KX884160 Hubei partiti-like virus 13 strain spider122140 RdRp gene, complete cds.-table4-Partitiviridae-HMM48-464_71.0-ORF23
+seq231	>nrnt-KX884159 Hubei partiti-like virus 49 strain spider118314 RdRp gene, complete cds.-table6-Partitiviridae-HMM111-409_64.0-ORF16
+seq232	>nrnt-KX884158 Hubei partiti-like virus 28 strain spider113121 RdRp gene, complete cds.-table6-Partitiviridae-HMM50-454_86.0-ORF17
+seq233	>nrnt-KX884152 Hubei partiti-like virus 18 strain SCM50556 RdRp gene, complete cds.-table6-Partitiviridae-HMM174-490_55.0-ORF17
+seq234	>nrnt-KX884148 Hubei partiti-like virus 38 strain SCM245982 RdRp gene, complete cds.-table4-Partitiviridae-HMM35-435_82.0-ORF17
+seq235	>nrnt-KX884147 Hubei partiti-like virus 19 strain SCM172380 RdRp gene, complete cds.-table6-Partitiviridae-HMM184-500_55.0-ORF19
+seq236	>nrnt-KX884144 Hubei partiti-like virus 12 strain QTM77172 RdRp gene, complete cds.-table6-Partitiviridae-HMM75-479_66.0-ORF14
+seq237	>nrnt-KX884143 Hubei partiti-like virus 17 strain QTM75790 RdRp gene, complete cds.-table6-Partitiviridae-HMM202-507_51.0-ORF19
+seq238	>nrnt-KX884141 Hubei odonate virus 13 strain QTM74844 RdRp gene, complete cds.-table6-Partitiviridae-HMM157-447_57.0-ORF21
+seq239	>nrnt-KX884140 Hubei partiti-like virus 20 strain QTM74833 RdRp gene, complete cds.-table6-Partitiviridae-HMM190-477_51.0-ORF20
+seq240	>nrnt-KX884139 Hubei partiti-like virus 5 strain QTM47485 RdRp gene, complete cds.-table6-Partitiviridae-HMM175-484_51.0-ORF15
+seq241	>nrnt-KX884137 Hubei partiti-like virus 47 strain QTM46465 RdRp gene, complete cds.-table6-Partitiviridae-HMM112-379_53.0-ORF18
+seq242	>nrnt-KX884136 Hubei partiti-like virus 36 strain QTM3514 RdRp gene, complete cds.-table6-Partitiviridae-HMM31-437_81.0-ORF16
+seq243	>nrnt-KX884135 Hubei partiti-like virus 44 strain QTM29853 RdRp gene, complete cds.-table6-Partitiviridae-HMM40-431_79.0-ORF16
+seq244	>nrnt-KX884134 Hubei partiti-like virus 21 strain QTM27155 RdRp gene, partial cds.-table1-Partitiviridae-HMM203-507_56.0-ORF18
+seq245	>nrnt-KX884133 Hubei partiti-like virus 26 strain QTM27118 RdRp gene, complete cds.-table6-Partitiviridae-HMM65-524_78.0-ORF15
+seq246	>nrnt-KX884132 Hubei diptera virus 19 strain QTM27098 RdRp gene, complete cds.-table6-Partitiviridae-HMM37-430_81.0-ORF15
+seq247	>nrnt-KX884131 Hubei partiti-like virus 29 strain QTM26744 RdRp gene, complete cds.-table6-Partitiviridae-HMM38-442_82.0-ORF14
+seq248	>nrnt-KX884130 Hubei partiti-like virus 46 strain QTM26281 RdRp gene, complete cds.-table6-Partitiviridae-HMM20-427_84.0-ORF13
+seq249	>nrnt-KX884129 Hubei partiti-like virus 56 strain QTM26145 RdRp gene, complete cds.-table6-Partitiviridae-HMM78-493_75.0-ORF19
+seq250	>nrnt-KX884128 Hubei partiti-like virus 27 strain QTM26091 RdRp gene, partial cds.-table1-Partitiviridae-HMM47-509_81.0-ORF18
+seq251	>nrnt-KX884125 Hubei partiti-like virus 41 strain QTM24887 RdRp gene, complete cds.-table6-Partitiviridae-HMM37-439_82.0-ORF20
+seq252	>nrnt-KX884120 Hubei partiti-like virus 39 strain QTM24152 RdRp gene, complete cds.-table6-Partitiviridae-HMM48-446_77.0-ORF18
+seq253	>nrnt-KX884119 Hubei partiti-like virus 23 strain QTM24142 RdRp gene, complete cds.-table6-Partitiviridae-HMM160-642_62.0-ORF21
+seq254	>nrnt-KX884118 Hubei partiti-like virus 37 strain QTM23479 RdRp gene, complete cds.-table6-Partitiviridae-HMM37-433_81.0-ORF16
+seq255	>nrnt-KX884117 Hubei partiti-like virus 7 strain QTM23269 RdRp gene, complete cds.-table6-Partitiviridae-HMM182-465_48.0-ORF14
+seq256	>nrnt-KX884116 Hubei partiti-like virus 57 strain QTM22037 RdRp gene, complete cds.-table4-Partitiviridae-HMM64-451_73.0-ORF24
+seq257	>nrnt-KX884115 Hubei partiti-like virus 25 strain QTM20591 RdRp gene, complete cds.-table6-Partitiviridae-HMM56-514_79.0-ORF17
+seq258	>nrnt-KX884114 Hubei partiti-like virus 10 strain QTM133141 RdRp gene, complete cds.-table4-Partitiviridae-HMM158-463_56.0-ORF19
+seq259	>nrnt-KX884111 Hubei partiti-like virus 4 strain QCM950973 RdRp gene, complete cds.-table6-Partitiviridae-HMM58-455_64.0-ORF25
+seq260	>nrnt-KX884110 Hubei partiti-like virus 58 strain QCM38725 RdRp gene, complete cds.-table6-Partitiviridae-HMM68-480_80.0-ORF17
+seq261	>nrnt-KX884109 Hubei partiti-like virus 33 strain QCM951148 RdRp gene, complete cds.-table6-Partitiviridae-HMM130-441_62.0-ORF16
+seq262	>nrnt-KX884108 Hubei coleoptera virus 6 strain QCM143720 RdRp gene, complete cds.-table6-Partitiviridae-HMM141-317_40.0-ORF18
+seq263	>nrnt-KX884107 Hubei coleoptera virus 4 strain QCM136227 RdRp gene, complete cds.-table6-Partitiviridae-HMM142-312_37.0-ORF12
+seq264	>nrnt-KX884106 Hubei coleoptera virus 5 strain QCM105830 RdRp gene, complete cds.-table4-Partitiviridae-HMM107-325_49.0-ORF17
+seq265	>nrnt-KX884105 Hubei partiti-like virus 48 strain QCM147194 RdRp gene, complete cds.-table6-Partitiviridae-HMM121-414_62.0-ORF17
+seq266	>nrnt-KX884104 Hubei partiti-like virus 22 strain mosZJ34436 RdRp gene, complete cds.-table6-Partitiviridae-HMM204-514_53.0-ORF20
+seq267	>nrnt-KX884100 Shuangao partiti-like virus 1 strain insectZJ79891 RdRp gene, complete cds.-table6-Partitiviridae-HMM34-436_82.0-ORF18
+seq268	>nrnt-KX884090 Wuhan fly virus 6 strain fly116610 RdRp gene, complete cds.-table6-Partitiviridae-HMM35-436_83.0-ORF17
+seq269	>nrnt-KX884088 Changjiang partiti-like virus 1 strain CJLX57436 RdRp gene, partial cds.-table6-Partitiviridae-HMM93-468_79.0-ORF12
+seq270	>nrnt-KX884087 Wuhan insect virus 25 strain CC64706 RdRp gene, complete cds.-table6-Partitiviridae-HMM29-434_81.0-ORF15
+seq271	>nrnt-KX884086 Wuhan insect virus 24 strain CC64001 RdRp gene, complete cds.-table4-Partitiviridae-HMM34-438_84.0-ORF16
+seq272	>nrnt-KX884074 Beihai partiti-like virus 11 strain BHWZXX14306 RdRp gene, complete cds.-table6-Partitiviridae-HMM187-480_53.0-ORF15
+seq273	>nrnt-KX884072 Beihai partiti-like virus 1 strain BHTSS8738 RdRp gene, complete cds.-table6-Partitiviridae-HMM162-455_52.0-ORF13
+seq274	>nrnt-KX884071 Beihai barnacle virus 14 strain BHTH35712 hypothetical protein and RdRp genes, complete cds.-table4-Partitiviridae-HMM447-561_11.0-ORF39
+seq275	>nrnt-KX884055 Beihai partiti-like virus 3 strain BHHK112924 RdRp gene, complete cds.-table6-Partitiviridae-HMM121-400_62.0-ORF14
+seq276	>nrnt-KX884045 Hubei partiti-like virus 2 strain arthropodmix12819 RdRp gene, complete cds.-table6-Partitiviridae-HMM155-458_50.0-ORF21
+seq277	>nrnt-MF344586 Araticum virus strain BR/MT-M05 RNA-dependent RNA polymerase protein (RdRp) gene, partial cds.-table1-Partitiviridae-HMM9-408_88.0-ORF12
+seq278	>nrnt-MF344585 Angico virus strain BR/MT-M06 RNA-dependent RNA polymerase protein (RdRp) gene, partial cds.-table1-Partitiviridae-HMM87-372_74.0-ORF15
+seq279	>nrnt-MF327577 Giant panda associated partiti-like virus strain gppc1509, complete genome.-table6-Partitiviridae-HMM222-440_49.0-ORF15
+seq280	>nrnt-KT601106 Penicillium janczewskii Beauveria bassiana-like virus 1 33 kDa protein and 67 kDa protein genes, complete cds.-table4-Partitiviridae-HMM360-609_35.0-ORF32
+seq281	>nrnt-HG005156 Black grass cryptic virus 1 segment RNA 1.-table6-Partitiviridae-HMM206-590_58.0-ORF20
+seq282	>nrnt-KF298269 Uncultured virus isolate acc_7.4 RNA-dependent RNA polymerase-like protein gene, complete cds.-table6-Partitiviridae-HMM45-443_79.0-ORF15
+seq283	>nrnt-KX884059 Beihai picobirna-like virus 4 strain BHJJX24179 RdRp gene, complete cds.-table4-Partitiviridae-HMM259-457_32.0-ORF27
+seq284	>tsa-GCZN01074747.1 (REVERSE SENSE) TSA: Abies pinsapo Unigene40340_All transcribed RNA sequence-table6-Partitiviridae-HMM95-501_72.0-ORF49
+seq285	>tsa-GAZS01104057.1 (REVERSE SENSE) TSA: Acanthoscurria geniculata L72073_T1/1_Turantula_WB transcribed RNA sequence-table1-Partitiviridae-HMM4-76_93.0-ORF8
+seq286	>tsa-GAUV02020526.1 (REVERSE SENSE) TSA: Acanthosoma haemorrhoidale C88822_a_29_0_l_1404 transcribed RNA sequence-table6-Partitiviridae-HMM35-433_89.0-ORF35
+seq287	>tsa-GAUV02020801.1 TSA: Acanthosoma haemorrhoidale C89594_a_30_0_l_1492 transcribed RNA sequence-table6-Partitiviridae-HMM31-436_81.0-ORF21
+seq288	>tsa-GAUV02021233.1 (REVERSE SENSE) TSA: Acanthosoma haemorrhoidale C90802_a_25_0_l_1659 transcribed RNA sequence-table6-Partitiviridae-HMM198-490_52.0-ORF43
+seq289	>tsa-GENY01042035.1 (REVERSE SENSE) TSA: Agathiphaga queenslandensis TR60990-c0_g3_i1 transcribed RNA sequence-table1-Partitiviridae-HMM8-266_91.0-ORF23
+seq290	>tsa-GATW02012712.1 TSA: Aleochara curtula C61505_a_26_0_l_1433 transcribed RNA sequence-table1-Partitiviridae-HMM46-447_84.0-ORF16
+seq291	>tsa-GAAO01015175.1 TSA: Allium cepa isotig15073 mRNA sequence-table6-Partitiviridae-HMM158-471_60.0-ORF14
+seq292	>tsa-GBJZ01114530.1 TSA: Allium cepa Contig118233 transcribed RNA sequence-table6-Partitiviridae-HMM154-467_60.0-ORF15
+seq293	>tsa-GBJZ01114531.1 TSA: Allium cepa Contig118234 transcribed RNA sequence-table6-Partitiviridae-HMM64-466_75.0-ORF12
+seq294	>tsa-GBJZ01114532.1 TSA: Allium cepa Contig118235 transcribed RNA sequence-table6-Partitiviridae-HMM80-481_68.0-ORF12
+seq295	>tsa-GBJZ01114533.1 TSA: Allium cepa Contig118236 transcribed RNA sequence-table6-Partitiviridae-HMM80-482_75.0-ORF16
+seq296	>tsa-GEOY01087251.1 TSA: Allium cepa c104716_g1 transcribed RNA sequence-table1-Partitiviridae-HMM3-125_86.0-ORF5
+seq297	>tsa-GEOY01093089.1 TSA: Allium cepa c82721_g1 transcribed RNA sequence-table1-Partitiviridae-HMM2-107_92.0-ORF4
+seq298	>tsa-GEOY01103656.1 TSA: Allium cepa c115331_g1 transcribed RNA sequence-table1-Partitiviridae-HMM48-245_78.0-ORF6
+seq299	>tsa-GETF01016993.1 TSA: Allium cepa m.76650 transcribed RNA sequence-table1-Partitiviridae-HMM3-170_94.0-ORF5
+seq300	>tsa-GETF01033505.1 TSA: Allium cepa m.9651 transcribed RNA sequence-table6-Partitiviridae-HMM154-467_62.0-ORF15
+seq301	>tsa-GFAK01056657.1 TSA: Allium cepa var. aggregatum c57052_g1 transcribed RNA sequence-table1-Partitiviridae-HMM3-91_95.0-ORF4
+seq302	>tsa-GFAL01094999.1 TSA: Allium chinense c91814_g2 transcribed RNA sequence-table6-Partitiviridae-HMM11-299_94.0-ORF16
+seq303	>tsa-GFAM01042681.1 TSA: Allium fistulosum c5452_g1 transcribed RNA sequence-table4-Partitiviridae-HMM73-485_81.0-ORF16
+seq304	>tsa-GBUA01009005.1 TSA: Alysson spinosus C132663_a_10_0_l_864 transcribed RNA sequence-table6-Partitiviridae-HMM1-154_53.0-ORF8
+seq305	>tsa-GBUA01009378.1 TSA: Alysson spinosus C134475_a_7_0_l_940 transcribed RNA sequence-table6-Partitiviridae-HMM143-313_54.0-ORF9
+seq306	>tsa-GBUA01011928.1 TSA: Alysson spinosus C149998_a_30_0_l_2337 transcribed RNA sequence-table6-Partitiviridae-HMM157-634_61.0-ORF19
+seq307	>tsa-GAPX01020103.1 TSA: Amaranthus tricolor a50785;17 transcribed RNA sequence-table6-Partitiviridae-HMM70-485_82.0-ORF11
+seq308	>tsa-GAPY01007228.1 TSA: Amaranthus tricolor a11173;93 transcribed RNA sequence-table6-Partitiviridae-HMM73-488_78.0-ORF12
+seq309	>tsa-GAPZ01012686.1 TSA: Amaranthus tricolor a21673;44 transcribed RNA sequence-table6-Partitiviridae-HMM72-487_78.0-ORF12
+seq310	>tsa-GEZL01167364.1 TSA: Ambrosia artemisiifolia TR53495_c0_g1_i1 transcribed RNA sequence-table1-Partitiviridae-HMM1-97_96.0-ORF4
+seq311	>tsa-HAAJ01000370.1 TSA: Ambrosia artemisiifolia, contig isotig02239, transcribed RNA sequence-table4-Partitiviridae-HMM27-343_89.0-ORF14
+seq312	>tsa-GEOH01022983.1 (REVERSE SENSE) TSA: Ambrosia trifida comp89027_c0_seq1 transcribed RNA sequence-table6-Partitiviridae-HMM74-491_77.0-ORF43
+seq313	>tsa-GEOH01023028.1 (REVERSE SENSE) TSA: Ambrosia trifida comp89406_c0_seq1 transcribed RNA sequence-table6-Partitiviridae-HMM79-578_75.0-ORF43
+seq314	>tsa-GBNT01014231.1 (REVERSE SENSE) TSA: Ampulex compressa C58870_a_4_0_l_849 transcribed RNA sequence-table6-Partitiviridae-HMM1-122_70.0-ORF22
+seq315	>tsa-GFCP01019871.1 TSA: Ampulex compressa comp33569_c0_seq2 transcribed RNA sequence-table6-Partitiviridae-HMM1-122_70.0-ORF23
+seq316	>tsa-GATX01042275.1 (REVERSE SENSE) TSA: Annulipalpia sp. AD-2013 C268199 transcribed RNA sequence-table1-Partitiviridae-HMM1-76_92.0-ORF5
+seq317	>tsa-GDKS01001412.1 (REVERSE SENSE) TSA: Anopheles sinensis kangxing_G9VUHJM02G6Y3F transcribed RNA sequence-table4-Partitiviridae-HMM2-115_91.0-ORF13
+seq318	>tsa-GDKS01032887.1 (REVERSE SENSE) TSA: Anopheles sinensis mingan_isotig04181 transcribed RNA sequence-table4-Partitiviridae-HMM2-117_68.0-ORF19
+seq319	>tsa-GAJV01002375.1 TSA: Anoplocnemis curvipes Anop_trimmed_contig_2407 transcribed RNA sequence-table1-Partitiviridae-HMM22-334_93.0-ORF13
+seq320	>tsa-GBIE01017329.1 TSA: Anthoxanthum odoratum UN17783 transcribed RNA sequence-table6-Partitiviridae-HMM91-494_73.0-ORF20
+seq321	>tsa-GFLW01056695.1 (REVERSE SENSE) TSA: Aphidius ervi TR24614-c0_g2_i1 transcribed RNA sequence-table1-Partitiviridae-HMM2-75_94.0-ORF5
+seq322	>tsa-GFLW01124611.1 (REVERSE SENSE) TSA: Aphidius ervi TR51759-c0_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM55-316_82.0-ORF20
+seq323	>tsa-GFLW01124612.1 (REVERSE SENSE) TSA: Aphidius ervi TR51759-c0_g2_i1 transcribed RNA sequence-table6-Partitiviridae-HMM55-515_73.0-ORF40
+seq324	>tsa-GAER01003674.1 TSA: Arachis hypogaea Unigene3676 mRNA sequence-table1-Partitiviridae-HMM2-84_97.0-ORF3
+seq325	>tsa-GAER01028913.1 (REVERSE SENSE) TSA: Arachis hypogaea Unigene28931 mRNA sequence-table6-Partitiviridae-HMM114-506_68.0-ORF43
+seq326	>tsa-GAER01050779.1 TSA: Arachis hypogaea Unigene50817 mRNA sequence-table1-Partitiviridae-HMM1-96_80.0-ORF5
+seq327	>tsa-GAWC01133358.1 TSA: Aretaon asperrimus comp1521844_c0_seq1 transcribed RNA sequence-table1-Partitiviridae-HMM12-88_85.0-ORF3
+seq328	>tsa-GAXO01029775.1 TSA: Argochrysis armilla comp12678_c0_seq1 transcribed RNA sequence-table6-Partitiviridae-HMM188-493_53.0-ORF17
+seq329	>tsa-GEFZ01032725.1 TSA: Atractylodes lancea Contig73539_C5-2-6-S-a transcribed RNA sequence-table1-Partitiviridae-HMM1-87_47.0-ORF7
+seq330	>tsa-GEFZ01033096.1 TSA: Atractylodes lancea Contig74360_C5-2-6-S-a transcribed RNA sequence-table1-Partitiviridae-HMM5-68_92.0-ORF4
+seq331	>tsa-GFOA01014940.1 TSA: Bactrocera bryoniae TR9550_c0_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM50-451_79.0-ORF19
+seq332	>tsa-GFOA01019535.1 (REVERSE SENSE) TSA: Bactrocera bryoniae TR11806_c0_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM158-459_53.0-ORF48
+seq333	>tsa-GFOA01027356.1 (REVERSE SENSE) TSA: Bactrocera bryoniae TR14680_c0_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM187-466_47.0-ORF42
+seq334	>tsa-GDRP01010415.1 TSA: Bactrocera dorsalis Unigene16019 transcribed RNA sequence-table6-Partitiviridae-HMM82-393_67.0-ORF16
+seq335	>tsa-GEEA01018826.1 (REVERSE SENSE) TSA: Bactrocera dorsalis comp57545_c0_seq1 transcribed RNA sequence-table6-Partitiviridae-HMM82-488_71.0-ORF32
+seq336	>tsa-GEYS01013709.1 TSA: Bactrocera dorsalis Unigene6288_All transcribed RNA sequence-table1-Partitiviridae-HMM1-76_93.0-ORF2
+seq337	>tsa-GEYS01014245.1 TSA: Bactrocera dorsalis Unigene6824_All transcribed RNA sequence-table6-Partitiviridae-HMM82-393_67.0-ORF16
+seq338	>tsa-GFNX01007865.1 TSA: Bactrocera frauenfeldi TR5490_c0_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM81-483_71.0-ORF16
+seq339	>tsa-GFNY01068617.1 TSA: Bactrocera jarvisi TR25142_c0_g1_i1 transcribed RNA sequence-table4-Partitiviridae-HMM4-67_47.0-ORF6
+seq340	>tsa-GFNY01082962.1 TSA: Bactrocera jarvisi TR39118_c0_g1_i1 transcribed RNA sequence-table1-Partitiviridae-HMM3-100_91.0-ORF4
+seq341	>tsa-GFNT01069942.1 TSA: Bactrocera kraussi TR30559_c0_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM37-212_82.0-ORF7
+seq342	>tsa-GDHF01033639.1 TSA: Bactrocera latifrons TR23408-c0_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM175-486_54.0-ORF16
+seq343	>tsa-GFOR01021294.1 TSA: Bactrocera latifrons TR13287_c0_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM176-486_55.0-ORF15
+seq344	>tsa-GEZK01194930.1 (REVERSE SENSE) TSA: Bemisia tabaci c140538_g1 transcribed RNA sequence-table6-Partitiviridae-HMM17-167_66.0-ORF10
+seq345	>tsa-GEZK01223535.1 (REVERSE SENSE) TSA: Bemisia tabaci c237174_g1 transcribed RNA sequence-table1-Partitiviridae-HMM10-68_77.0-ORF6
+seq346	>tsa-GEZK01226294.1 (REVERSE SENSE) TSA: Bemisia tabaci c108415_g1 transcribed RNA sequence-table6-Partitiviridae-HMM9-154_75.0-ORF24
+seq347	>tsa-GEIC01046853.1 TSA: Betula papyrifera TRINITY_DN33953_c0_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM76-543_70.0-ORF20
+seq348	>tsa-GEIC01111450.1 (REVERSE SENSE) TSA: Betula papyrifera TRINITY_DN57413_c0_g1_i1 transcribed RNA sequence-table1-Partitiviridae-HMM1-84_98.0-ORF7
+seq349	>tsa-GEIC01264958.1 (REVERSE SENSE) TSA: Betula papyrifera TRINITY_DN138016_c0_g1_i1 transcribed RNA sequence-table1-Partitiviridae-HMM2-146_97.0-ORF12
+seq350	>tsa-GATJ02018884.1 (REVERSE SENSE) TSA: Bibio marci C87807_a_11_0_l_745 transcribed RNA sequence-table1-Partitiviridae-HMM2-242_96.0-ORF20
+seq351	>tsa-GCJP01057298.1 (REVERSE SENSE) TSA: Biston suppressaria Unigene31146_All transcribed RNA sequence-table4-Partitiviridae-HMM193-335_31.0-ORF34
+seq352	>tsa-GCJP01057300.1 (REVERSE SENSE) TSA: Biston suppressaria Unigene31148_All transcribed RNA sequence-table4-Partitiviridae-HMM44-338_63.0-ORF40
+seq353	>tsa-GCJP01057302.1 (REVERSE SENSE) TSA: Biston suppressaria Unigene31150_All transcribed RNA sequence-table6-Partitiviridae-HMM1-92_43.0-ORF17
+seq354	>tsa-GCJP01057400.1 (REVERSE SENSE) TSA: Biston suppressaria Unigene31248_All transcribed RNA sequence-table6-Partitiviridae-HMM15-226_60.0-ORF25
+seq355	>tsa-GCJP01057573.1 TSA: Biston suppressaria Unigene31422_All transcribed RNA sequence-table1-Partitiviridae-HMM30-375_88.0-ORF10
+seq356	>tsa-GBMS01008186.1 TSA: Brachygaster minutus C154619_a_3_0_l_296 transcribed RNA sequence-table1-Partitiviridae-HMM18-98_81.0-ORF4
+seq357	>tsa-GAZX01037179.1 (REVERSE SENSE) TSA: Caligus rogercresseyi tsa-crog-ngs-11120938 transcribed RNA sequence-table6-Partitiviridae-HMM67-483_69.0-ORF43
+seq358	>tsa-GEUE01076233.1 TSA: Callosobruchus maculatus c55807_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM97-399_67.0-ORF16
+seq359	>tsa-GEUH01051199.1 TSA: Callosobruchus maculatus c15271_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM95-396_68.0-ORF15
+seq360	>tsa-GBHI01011210.1 (REVERSE SENSE) TSA: Camellia oleifera ColeSingleton15665 transcribed RNA sequence-table1-Partitiviridae-HMM3-62_61.0-ORF9
+seq361	>tsa-GBHI01011859.1 (REVERSE SENSE) TSA: Camellia oleifera ColeSingleton16541 transcribed RNA sequence-table1-Partitiviridae-HMM3-67_95.0-ORF5
+seq362	>tsa-GEFY01004026.1 TSA: Camellia oleifera Unigene04026 transcribed RNA sequence-table6-Partitiviridae-HMM92-442_78.0-ORF13
+seq363	>tsa-GEER01057425.1 TSA: Camellia reticulata CRD_FL_c60310_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM73-475_80.0-ORF14
+seq364	>tsa-GEFQ01111886.1 TSA: Camellia sinensis comp296313_c0_seq1 transcribed RNA sequence-table6-Partitiviridae-HMM184-498_56.0-ORF20
+seq365	>tsa-GFMU01091494.1 TSA: Camellia sinensis c189337.graph_c0 transcribed RNA sequence-table1-Partitiviridae-HMM11-103_88.0-ORF4
+seq366	>tsa-GFMU01115646.1 TSA: Camellia sinensis c215091.graph_c0 transcribed RNA sequence-table1-Partitiviridae-HMM6-95_92.0-ORF4
+seq367	>tsa-GCRZ01050929.1 TSA: Camellia taliensis CtaTrans56215 transcribed RNA sequence-table6-Partitiviridae-HMM73-357_79.0-ORF12
+seq368	>tsa-GFTM01047220.1 TSA: Camontagnea oxyclada GWS016449_comp100527_c0_seq1 transcribed RNA sequence-table6-Partitiviridae-HMM177-502_59.0-ORF20
+seq369	>tsa-GFTM01091227.1 TSA: Camontagnea oxyclada GWS016449_comp145329_c0_seq1 transcribed RNA sequence-table1-Partitiviridae-HMM5-276_84.0-ORF6
+seq370	>tsa-GAXU01072625.1 TSA: Capsicum annuum Capsicum_annuum_Resistant_1363798seq1_len398 transcribed RNA sequence-table1-Partitiviridae-HMM1-83_62.0-ORF3
+seq371	>tsa-GBHQ01020155.1 TSA: Cephalotaxus hainanensis comp6194_c0_seq1 transcribed RNA sequence-table6-Partitiviridae-HMM64-472_80.0-ORF19
+seq372	>tsa-GEEY01015353.1 TSA: Cephus cinctus Ccin_ant_Roche_itg15881_gig06048_l657_nC1 transcribed RNA sequence-table6-Partitiviridae-HMM36-207_78.0-ORF10
+seq373	>tsa-GEFD01014070.1 TSA: Cephus cinctus Ccin_body_2011_Ill_S10413_L15732_0_12.4_L transcribed RNA sequence-table6-Partitiviridae-HMM62-290_74.0-ORF144
+seq374	>tsa-GEFG01013499.1 TSA: Cephus cinctus Ccin_ant_2013_Ill_c218791_c0_seq1 transcribed RNA sequence-table4-Partitiviridae-HMM7-282_85.0-ORF14
+seq375	>tsa-GEFG01022027.1 TSA: Cephus cinctus Ccin_ant_2013_Ill_c28992_c1_seq1 transcribed RNA sequence-table6-Partitiviridae-HMM62-382_78.0-ORF117
+seq376	>tsa-GEFG01064460.1 TSA: Cephus cinctus Ccin_ant_2013_Ill_c639454_c0_seq1 transcribed RNA sequence-table1-Partitiviridae-HMM9-69_77.0-ORF2
+seq377	>tsa-GBVI01013678.1 (REVERSE SENSE) TSA: Cephus spinipes C65238_a_8_0_l_1609 transcribed RNA sequence-table4-Partitiviridae-HMM38-404_90.0-ORF46
+seq378	>tsa-GBNS01016867.1 TSA: Cerceris arenaria s111_L_106_0_a_7_2_l_1627 transcribed RNA sequence-table4-Partitiviridae-HMM119-374_62.0-ORF14
+seq379	>tsa-GBNS01016878.1 TSA: Cerceris arenaria s112_L_106_1_a_6_4_l_1403 transcribed RNA sequence-table4-Partitiviridae-HMM119-374_62.0-ORF14
+seq380	>tsa-GBPN01005574.1 (REVERSE SENSE) TSA: Chelostoma florisomne C56441_a_6_0_l_381 transcribed RNA sequence-table1-Partitiviridae-HMM13-126_89.0-ORF8
+seq381	>tsa-GBPN01009520.1 (REVERSE SENSE) TSA: Chelostoma florisomne C73784_a_4_0_l_792 transcribed RNA sequence-table1-Partitiviridae-HMM107-257_57.0-ORF21
+seq382	>tsa-GAJS01017296.1 TSA: Chilo suppressalis Unigene17304_All transcribed RNA sequence-table4-Partitiviridae-HMM99-259_61.0-ORF8
+seq383	>tsa-GBOE01012707.1 (REVERSE SENSE) TSA: Chlorion hirtum C72000_a_37_0_l_1803 transcribed RNA sequence-table6-Partitiviridae-HMM176-518_57.0-ORF42
+seq384	>tsa-GACH01060784.1 (REVERSE SENSE) TSA: Chromolaena odorata Unigene70544_AA mRNA sequence-table6-Partitiviridae-HMM54-465_78.0-ORF44
+seq385	>tsa-GACH01091465.1 TSA: Chromolaena odorata Unigene114354_AA mRNA sequence-table1-Partitiviridae-HMM14-109_77.0-ORF6
+seq386	>tsa-GACH01134180.1 TSA: Chromolaena odorata Unigene174160_AA mRNA sequence-table1-Partitiviridae-HMM2-91_68.0-ORF5
+seq387	>tsa-GAGF01035222.1 TSA: Chrysopa pallens Unigene55245_dacaoling transcribed RNA sequence-table1-Partitiviridae-HMM3-117_95.0-ORF6
+seq388	>tsa-GAGF01038918.1 TSA: Chrysopa pallens Unigene66594_dacaoling transcribed RNA sequence-table6-Partitiviridae-HMM28-428_81.0-ORF15
+seq389	>tsa-GFON01097695.1 TSA: Coilia nasus comp145578_c0_seq1 transcribed RNA sequence-table1-Partitiviridae-HMM1-169_98.0-ORF8
+seq390	>tsa-GADH01007721.1 (REVERSE SENSE) TSA: Corydalinae sp. KMRSPBM-2012 contig08379 mRNA sequence-table4-Partitiviridae-HMM4-194_72.0-ORF21
+seq391	>tsa-GBWG01015741.1 TSA: Crabro peltarius s4719_L_11111_0_a_26_3_l_1485 transcribed RNA sequence-table6-Partitiviridae-HMM60-435_75.0-ORF17
+seq392	>tsa-IABS01034980.1 TSA: Crematogaster osakensis mRNA, contig: comp70104_c1_seq1.m.247377, transcribed RNA sequence-table6-Partitiviridae-HMM33-246_79.0-ORF10
+seq393	>tsa-GECZ01013203.1 TSA: Cuerna arida TR22901_c1_g2_i1 transcribed RNA sequence-table6-Partitiviridae-HMM13-230_62.0-ORF10
+seq394	>tsa-GAWM01018229.1 TSA: Culicoides sonorensis m.8371 transcribed RNA sequence-table6-Partitiviridae-HMM41-436_82.0-ORF11
+seq395	>tsa-GFHX01001136.1 TSA: Dactylorhiza fuchsii fB1855_comp75423_c0_seq1 transcribed RNA sequence-table1-Partitiviridae-HMM1-77_97.0-ORF2
+seq396	>tsa-GFHX01001837.1 TSA: Dactylorhiza fuchsii fB1855_comp79558_c0_seq1 transcribed RNA sequence-table4-Partitiviridae-HMM2-81_69.0-ORF3
+seq397	>tsa-GFHX01009069.1 (REVERSE SENSE) TSA: Dactylorhiza fuchsii fB1855_comp120973_c0_seq1 transcribed RNA sequence-table4-Partitiviridae-HMM69-479_79.0-ORF45
+seq398	>tsa-GFHX01010500.1 (REVERSE SENSE) TSA: Dactylorhiza fuchsii fB1855_comp123853_c0_seq1 transcribed RNA sequence-table1-Partitiviridae-HMM13-138_89.0-ORF9
+seq399	>tsa-GFHX01016247.1 TSA: Dactylorhiza fuchsii fB1855_comp143290_c0_seq1 transcribed RNA sequence-table1-Partitiviridae-HMM3-78_88.0-ORF4
+seq400	>tsa-GFHX01021385.1 (REVERSE SENSE) TSA: Dactylorhiza fuchsii fB1855_comp154132_c0_seq1 transcribed RNA sequence-table6-Partitiviridae-HMM1-159_80.0-ORF20
+seq401	>tsa-GFHX01021386.1 (REVERSE SENSE) TSA: Dactylorhiza fuchsii fB1855_comp154132_c1_seq1 transcribed RNA sequence-table1-Partitiviridae-HMM4-212_98.0-ORF19
+seq402	>tsa-GFHX01042280.1 (REVERSE SENSE) TSA: Dactylorhiza fuchsii fB1855_comp173231_c0_seq1 transcribed RNA sequence-table6-Partitiviridae-HMM77-464_83.0-ORF37
+seq403	>tsa-GFHX01042599.1 TSA: Dactylorhiza fuchsii fB1855_comp173569_c0_seq1 transcribed RNA sequence-table1-Partitiviridae-HMM31-94_65.0-ORF5
+seq404	>tsa-GFHX01049891.1 TSA: Dactylorhiza fuchsii fB1855_comp181420_c0_seq1 transcribed RNA sequence-table1-Partitiviridae-HMM32-106_69.0-ORF5
+seq405	>tsa-GFJV01020300.1 (REVERSE SENSE) TSA: Dactylorhiza incarnata iS1908_comp192335_c0_seq2 transcribed RNA sequence-table6-Partitiviridae-HMM74-488_78.0-ORF44
+seq406	>tsa-GFJV01029006.1 (REVERSE SENSE) TSA: Dactylorhiza incarnata iS1908_comp208454_c0_seq1 transcribed RNA sequence-table6-Partitiviridae-HMM16-322_94.0-ORF37
+seq407	>tsa-GFJV01038918.1 TSA: Dactylorhiza incarnata iS1908_comp218891_c0_seq1 transcribed RNA sequence-table4-Partitiviridae-HMM123-457_70.0-ORF17
+seq408	>tsa-GFJV01048413.1 (REVERSE SENSE) TSA: Dactylorhiza incarnata iS1908_comp222872_c0_seq1 transcribed RNA sequence-table6-Partitiviridae-HMM85-501_78.0-ORF38
+seq409	>tsa-GFOY01009370.1 (REVERSE SENSE) TSA: Daiswa yunnanensis CL14251.Contig1_All transcribed RNA sequence-table6-Partitiviridae-HMM89-498_72.0-ORF44
+seq410	>tsa-GFOY01009371.1 TSA: Daiswa yunnanensis CL14251.Contig2_All transcribed RNA sequence-table6-Partitiviridae-HMM91-359_50.0-ORF11
+seq411	>tsa-GFOY01009372.1 TSA: Daiswa yunnanensis CL14251.Contig3_All transcribed RNA sequence-table6-Partitiviridae-HMM93-502_74.0-ORF12
+seq412	>tsa-GFOY01019279.1 TSA: Daiswa yunnanensis CL19250.Contig1_All transcribed RNA sequence-table6-Partitiviridae-HMM87-491_73.0-ORF15
+seq413	>tsa-GFOY01073595.1 (REVERSE SENSE) TSA: Daiswa yunnanensis Unigene35858_All transcribed RNA sequence-table6-Partitiviridae-HMM64-546_75.0-ORF50
+seq414	>tsa-GBOQ01010763.1 (REVERSE SENSE) TSA: Dasymutilla gloriosa C59707_a_7_0_l_538 transcribed RNA sequence-table6-Partitiviridae-HMM3-112_73.0-ORF18
+seq415	>tsa-GBMP01013104.1 (REVERSE SENSE) TSA: Dasypoda hirtipes C66881_a_22_0_l_1278 transcribed RNA sequence-table4-Partitiviridae-HMM2-165_71.0-ORF27
+seq416	>tsa-GBMP01016397.1 (REVERSE SENSE) TSA: Dasypoda hirtipes s1019_L_1271_2_a_17_1_l_1123 transcribed RNA sequence-table6-Partitiviridae-HMM231-360_34.0-ORF22
+seq417	>tsa-GBLL01020596.1 (REVERSE SENSE) TSA: Dendrocerus carpenteri s4195_L_10290_0_a_13_6_l_1469 transcribed RNA sequence-table6-Partitiviridae-HMM149-454_62.0-ORF34
+seq418	>tsa-GBOS01024340.1 TSA: Dendrocerus carpenteri C91987_a_4_0_l_962 transcribed RNA sequence-table6-Partitiviridae-HMM1-203_63.0-ORF13
+seq419	>tsa-GDAR01013422.1 TSA: Dendroctonus ponderosae Dpon-CLC-20141217_contig_67100 transcribed RNA sequence-table1-Partitiviridae-HMM1-132_81.0-ORF5
+seq420	>tsa-GDAR01015087.1 (REVERSE SENSE) TSA: Dendroctonus ponderosae Dpon-CLC-20141217_contig_75105 transcribed RNA sequence-table1-Partitiviridae-HMM79-269_68.0-ORF22
+seq421	>tsa-GDAR01016637.1 (REVERSE SENSE) TSA: Dendroctonus ponderosae Dpon-CLC-20141217_contig_78213 transcribed RNA sequence-table1-Partitiviridae-HMM18-97_74.0-ORF10
+seq422	>tsa-GDAR01016914.1 TSA: Dendroctonus ponderosae Dpon-CLC-20141217_contig_78605 transcribed RNA sequence-table1-Partitiviridae-HMM14-287_94.0-ORF13
+seq423	>tsa-GDAR01017185.1 TSA: Dendroctonus ponderosae Dpon-CLC-20141217_contig_78982 transcribed RNA sequence-table1-Partitiviridae-HMM69-301_55.0-ORF12
+seq424	>tsa-GDAR01024902.1 (REVERSE SENSE) TSA: Dendroctonus ponderosae Dpon-CLC-20141217_contig_93209 transcribed RNA sequence-table1-Partitiviridae-HMM51-289_62.0-ORF33
+seq425	>tsa-GDAR01025008.1 (REVERSE SENSE) TSA: Dendroctonus ponderosae Dpon-CLC-20141217_contig_93380 transcribed RNA sequence-table1-Partitiviridae-HMM112-332_59.0-ORF33
+seq426	>tsa-GDAR01025075.1 (REVERSE SENSE) TSA: Dendroctonus ponderosae Dpon-CLC-20141217_contig_93493 transcribed RNA sequence-table1-Partitiviridae-HMM18-221_62.0-ORF26
+seq427	>tsa-GDAR01025148.1 (REVERSE SENSE) TSA: Dendroctonus ponderosae Dpon-CLC-20141217_contig_93616 transcribed RNA sequence-table1-Partitiviridae-HMM111-324_65.0-ORF29
+seq428	>tsa-GDAR01025203.1 (REVERSE SENSE) TSA: Dendroctonus ponderosae Dpon-CLC-20141217_contig_93750 transcribed RNA sequence-table1-Partitiviridae-HMM94-224_56.0-ORF23
+seq429	>tsa-GDAR01025970.1 TSA: Dendroctonus ponderosae Dpon-CLC-20141217_contig_95706 transcribed RNA sequence-table1-Partitiviridae-HMM144-316_42.0-ORF14
+seq430	>tsa-GELG01029317.1 (REVERSE SENSE) TSA: Diachasmimorpha longicaudata HWR9CMJ02H9EQV transcribed RNA sequence-table1-Partitiviridae-HMM15-120_76.0-ORF11
+seq431	>tsa-GBCR01033297.1 TSA: Dioscorea zingiberensis comp36068_c0_seq1 transcribed RNA sequence-table6-Partitiviridae-HMM71-487_82.0-ORF15
+seq432	>tsa-GBSJ01072698.1 (REVERSE SENSE) TSA: Diospyros lotus Contig75468DeNovoAssembly transcribed RNA sequence-table1-Partitiviridae-HMM4-73_89.0-ORF7
+seq433	>tsa-GBSJ01098967.1 TSA: Diospyros lotus Contig103120DeNovoAssembly transcribed RNA sequence-table6-Partitiviridae-HMM62-479_82.0-ORF18
+seq434	>tsa-GBPP01019538.1 TSA: Dioxys cincta C98869_a_26_0_l_1690 transcribed RNA sequence-table6-Partitiviridae-HMM167-490_59.0-ORF20
+seq435	>tsa-GENH01029612.1 TSA: Dryadaula visaliella k54_463946 transcribed RNA sequence-table6-Partitiviridae-HMM514-819_34.0-ORF38
+seq436	>tsa-GENH01031901.1 (REVERSE SENSE) TSA: Dryadaula visaliella k54_484457 transcribed RNA sequence-table6-Partitiviridae-HMM514-709_27.0-ORF71
+seq437	>tsa-GENH01032155.1 TSA: Dryadaula visaliella k54_487132 transcribed RNA sequence-table6-Partitiviridae-HMM514-818_34.0-ORF34
+seq438	>tsa-GENH01041550.1 TSA: Dryadaula visaliella k58_400457 transcribed RNA sequence-table6-Partitiviridae-HMM514-819_34.0-ORF35
+seq439	>tsa-GENH01043693.1 (REVERSE SENSE) TSA: Dryadaula visaliella k58_421636 transcribed RNA sequence-table6-Partitiviridae-HMM514-818_34.0-ORF106
+seq440	>tsa-GENH01088899.1 (REVERSE SENSE) TSA: Dryadaula visaliella k66_596871 transcribed RNA sequence-table6-Partitiviridae-HMM514-818_34.0-ORF112
+seq441	>tsa-GENH01095405.1 TSA: Dryadaula visaliella k68_538090 transcribed RNA sequence-table6-Partitiviridae-HMM514-819_34.0-ORF39
+seq442	>tsa-GENH01106292.1 TSA: Dryadaula visaliella k72_446556 transcribed RNA sequence-table6-Partitiviridae-HMM514-819_34.0-ORF39
+seq443	>tsa-GENH01108570.1 (REVERSE SENSE) TSA: Dryadaula visaliella k72_457479 transcribed RNA sequence-table6-Partitiviridae-HMM514-818_34.0-ORF112
+seq444	>tsa-GENH01117470.1 TSA: Dryadaula visaliella k76_356918 transcribed RNA sequence-table6-Partitiviridae-HMM514-819_34.0-ORF38
+seq445	>tsa-GENH01120425.1 TSA: Dryadaula visaliella k76_378483 transcribed RNA sequence-table6-Partitiviridae-HMM514-818_34.0-ORF38
+seq446	>tsa-GENH01133936.1 (REVERSE SENSE) TSA: Dryadaula visaliella k82_273993 transcribed RNA sequence-table6-Partitiviridae-HMM514-819_34.0-ORF112
+seq447	>tsa-GENH01134719.1 TSA: Dryadaula visaliella k82_278206 transcribed RNA sequence-table6-Partitiviridae-HMM514-818_34.0-ORF39
+seq448	>tsa-GENH01143194.1 (REVERSE SENSE) TSA: Dryadaula visaliella k88_100752 transcribed RNA sequence-table1-Partitiviridae-HMM2-166_94.0-ORF14
+seq449	>tsa-GENH01144219.1 TSA: Dryadaula visaliella k88_184627 transcribed RNA sequence-table6-Partitiviridae-HMM514-709_27.0-ORF32
+seq450	>tsa-GENH01151799.1 (REVERSE SENSE) TSA: Dryadaula visaliella k94_97216 transcribed RNA sequence-table1-Partitiviridae-HMM28-197_85.0-ORF18
+seq451	>tsa-GEOD01071323.1 TSA: Dryadaula visaliella c41587_g5_i1 transcribed RNA sequence-table6-Partitiviridae-HMM514-794_35.0-ORF36
+seq452	>tsa-GEOC01024802.1 (REVERSE SENSE) TSA: Dyseriocrania griseocapitella TR18752-c0_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM3-111_71.0-ORF19
+seq453	>tsa-GBRM01095328.1 (REVERSE SENSE) TSA: Elysia timida Eti009905_seq1 transcribed RNA sequence-table6-Partitiviridae-HMM104-380_54.0-ORF43
+seq454	>tsa-GBRM01095329.1 (REVERSE SENSE) TSA: Elysia timida Eti009905_seq2 transcribed RNA sequence-table6-Partitiviridae-HMM214-487_44.0-ORF53
+seq455	>tsa-GBRM01095330.1 (REVERSE SENSE) TSA: Elysia timida Eti009905_seq3 transcribed RNA sequence-table6-Partitiviridae-HMM104-380_50.0-ORF42
+seq456	>tsa-GBRM01095331.1 (REVERSE SENSE) TSA: Elysia timida Eti009905_seq4 transcribed RNA sequence-table6-Partitiviridae-HMM8-241_57.0-ORF34
+seq457	>tsa-GEOE01237777.1 (REVERSE SENSE) TSA: Enteucha acetosae TR201172-c0_g1_i1 transcribed RNA sequence-table1-Partitiviridae-HMM21-274_91.0-ORF20
+seq458	>tsa-GENB01018519.1 TSA: Entomophthora muscae c13040_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM205-472_45.0-ORF17
+seq459	>tsa-GENB01018520.1 TSA: Entomophthora muscae c13040_g1_i2 transcribed RNA sequence-table6-Partitiviridae-HMM194-461_46.0-ORF17
+seq460	>tsa-GENB01038534.1 (REVERSE SENSE) TSA: Entomophthora muscae c27803_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM2-89_55.0-ORF11
+seq461	>tsa-GEND01038858.1 (REVERSE SENSE) TSA: Entomophthora muscae c23876_g1_i1 transcribed RNA sequence-table1-Partitiviridae-HMM1-139_99.0-ORF10
+seq462	>tsa-GAUK02016129.1 TSA: Ephemera danica C157656_a_44_0_l_2129 transcribed RNA sequence-table6-Partitiviridae-HMM67-557_69.0-ORF15
+seq463	>tsa-GBQL01007115.1 TSA: Episyron rufipes C57514_a_10_0_l_566 transcribed RNA sequence-table4-Partitiviridae-HMM1-145_88.0-ORF8
+seq464	>tsa-GBPG01016739.1 (REVERSE SENSE) TSA: Eucera nigrescens C71801_a_3_0_l_494 transcribed RNA sequence-table1-Partitiviridae-HMM1-139_84.0-ORF13
+seq465	>tsa-GBLZ01004952.1 (REVERSE SENSE) TSA: Eucera syriaca C46227_a_4_0_l_205 transcribed RNA sequence-table1-Partitiviridae-HMM3-67_95.0-ORF9
+seq466	>tsa-GBLZ01017419.1 TSA: Eucera syriaca C92688_a_4_0_l_586 transcribed RNA sequence-table1-Partitiviridae-HMM1-195_99.0-ORF9
+seq467	>tsa-GBLZ01018616.1 TSA: Eucera syriaca C97991_a_12_0_l_685 transcribed RNA sequence-table1-Partitiviridae-HMM6-132_55.0-ORF11
+seq468	>tsa-GBNP01016774.1 (REVERSE SENSE) TSA: Euglossa dilemma C79725_a_4_0_l_444 transcribed RNA sequence-table4-Partitiviridae-HMM17-127_74.0-ORF10
+seq469	>tsa-GBNP01025422.1 TSA: Euglossa dilemma s376_L_390_0_a_12_3_l_2136 transcribed RNA sequence-table6-Partitiviridae-HMM53-155_55.0-ORF19
+seq470	>tsa-GBNP01025455.1 TSA: Euglossa dilemma s379_L_390_3_a_9_6_l_1908 transcribed RNA sequence-table6-Partitiviridae-HMM53-155_55.0-ORF17
+seq471	>tsa-GETW01005039.1 (REVERSE SENSE) TSA: Euphorbia tirucalli c10233 transcribed RNA sequence-table6-Partitiviridae-HMM59-468_76.0-ORF34
+seq472	>tsa-GBXZ01002308.1 (REVERSE SENSE) TSA: Festuca pratensis F.pratensis2708_c0_seq1 transcribed RNA sequence-table6-Partitiviridae-HMM345-502_18.0-ORF78
+seq473	>tsa-GBYB01002368.1 TSA: Fopius arisanus c19397_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM145-448_52.0-ORF17
+seq474	>tsa-GAGV01018884.1 (REVERSE SENSE) TSA: Fritillaria cirrhosa contig25796 transcribed RNA sequence-table6-Partitiviridae-HMM39-162_68.0-ORF11
+seq475	>tsa-GAJR01012857.1 (REVERSE SENSE) TSA: Gentiana macrophylla Unigene12860 transcribed RNA sequence-table1-Partitiviridae-HMM1-87_97.0-ORF9
+seq476	>tsa-GEZJ01006351.1 (REVERSE SENSE) TSA: Gracilaria chilensis GChilensis_contig_0006360 transcribed RNA sequence-table4-Partitiviridae-HMM363-596_25.0-ORF78
+seq477	>tsa-GEBQ01019005.1 TSA: Graphocephala atropunctata TR11131_c1_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM45-303_84.0-ORF13
+seq478	>tsa-GAWP02039322.1 (REVERSE SENSE) TSA: Grylloblatta bifratrilecta s3699_L_4973_1_a_29_6_l_2923 transcribed RNA sequence-table6-Partitiviridae-HMM10-257_86.0-ORF55
+seq479	>tsa-GALQ01000525.1 TSA: gut metagenome Locus122043v1rpkm7.12 transcribed RNA sequence-table1-Partitiviridae-HMM1-123_73.0-ORF4
+seq480	>tsa-GALQ01017740.1 (REVERSE SENSE) TSA: gut metagenome Locus69773v1rpkm12.28 transcribed RNA sequence-table1-Partitiviridae-HMM116-206_43.0-ORF21
+seq481	>tsa-GALQ01020649.1 (REVERSE SENSE) TSA: gut metagenome Locus46381v1rpkm16.90 transcribed RNA sequence-table1-Partitiviridae-HMM42-173_59.0-ORF18
+seq482	>tsa-GALQ01021019.1 (REVERSE SENSE) TSA: gut metagenome Locus27943v1rpkm24.62 transcribed RNA sequence-table6-Partitiviridae-HMM70-553_78.0-ORF44
+seq483	>tsa-GALQ01022432.1 (REVERSE SENSE) TSA: gut metagenome Locus4607v1rpkm91.39 transcribed RNA sequence-table6-Partitiviridae-HMM72-559_78.0-ORF38
+seq484	>tsa-GALQ01032359.1 TSA: gut metagenome Locus72650v1rpkm11.85 transcribed RNA sequence-table1-Partitiviridae-HMM3-146_89.0-ORF5
+seq485	>tsa-GALQ01060598.1 (REVERSE SENSE) TSA: gut metagenome Locus4979v1rpkm86.56 transcribed RNA sequence-table6-Partitiviridae-HMM224-450_39.0-ORF52
+seq486	>tsa-GALQ01065740.1 (REVERSE SENSE) TSA: gut metagenome Locus74102v1rpkm11.65 transcribed RNA sequence-table1-Partitiviridae-HMM38-224_71.0-ORF21
+seq487	>tsa-GALQ01085110.1 (REVERSE SENSE) TSA: gut metagenome Locus2912v1rpkm123.83 transcribed RNA sequence-table6-Partitiviridae-HMM181-454_50.0-ORF45
+seq488	>tsa-GALQ01092209.1 TSA: gut metagenome Locus134006v1rpkm6.29 transcribed RNA sequence-table1-Partitiviridae-HMM28-119_70.0-ORF5
+seq489	>tsa-GALT01056960.1 TSA: gut metagenome Locus23533v1rpkm22.79 transcribed RNA sequence-table4-Partitiviridae-HMM162-402_48.0-ORF19
+seq490	>tsa-GALT01081309.1 TSA: gut metagenome Locus19072v1rpkm26.82 transcribed RNA sequence-table6-Partitiviridae-HMM70-553_78.0-ORF17
+seq491	>tsa-GALT01086833.1 (REVERSE SENSE) TSA: gut metagenome Locus3909v1rpkm86.45 transcribed RNA sequence-table6-Partitiviridae-HMM72-559_77.0-ORF39
+seq492	>tsa-GALT01096122.1 (REVERSE SENSE) TSA: gut metagenome Locus25277v1rpkm21.59 transcribed RNA sequence-table4-Partitiviridae-HMM172-431_48.0-ORF49
+seq493	>tsa-GEAU01245031.1 (REVERSE SENSE) TSA: Haliotis tuberculata TR172411_c0_g1_i1 transcribed RNA sequence-table1-Partitiviridae-HMM2-180_96.0-ORF15
+seq494	>tsa-GDCO01074586.1 TSA: Halyomorpha halys Hhalys_USDA-ARS_IIBBL.74586 transcribed RNA sequence-table6-Partitiviridae-HMM178-487_50.0-ORF20
+seq495	>tsa-GEDY01020021.1 (REVERSE SENSE) TSA: Halyomorpha halys bmsbwbcontig22289 transcribed RNA sequence-table1-Partitiviridae-HMM2-172_94.0-ORF18
+seq496	>tsa-GEWS01000306.1 (REVERSE SENSE) TSA: Helianthus niveus Controltranscript306 transcribed RNA sequence-table4-Partitiviridae-HMM180-417_45.0-ORF42
+seq497	>tsa-GEWS01000307.1 (REVERSE SENSE) TSA: Helianthus niveus Controltranscript307 transcribed RNA sequence-table4-Partitiviridae-HMM3-90_42.0-ORF15
+seq498	>tsa-GEWS01000310.1 TSA: Helianthus niveus Controltranscript310 transcribed RNA sequence-table4-Partitiviridae-HMM180-425_51.0-ORF14
+seq499	>tsa-GEWS01000311.1 TSA: Helianthus niveus Controltranscript311 transcribed RNA sequence-table6-Partitiviridae-HMM21-94_37.0-ORF5
+seq500	>tsa-GEWS01045045.1 TSA: Helianthus niveus Sampletranscript1863 transcribed RNA sequence-table4-Partitiviridae-HMM51-272_55.0-ORF25
+seq501	>tsa-GBNZ01011604.1 (REVERSE SENSE) TSA: Heterodontonyx sp. AD-2014 C73834_a_12_0_l_2178 transcribed RNA sequence-table4-Partitiviridae-HMM59-236_65.0-ORF46
+seq502	>tsa-GAAW01114021.1 (REVERSE SENSE) TSA: Humulus lupulus comp673625_c0_seq1 mRNA sequence-table1-Partitiviridae-HMM113-251_53.0-ORF19
+seq503	>tsa-GAAW01122684.1 (REVERSE SENSE) TSA: Humulus lupulus comp816777_c0_seq1 mRNA sequence-table1-Partitiviridae-HMM1-103_93.0-ORF8
+seq504	>tsa-GAAW01134408.1 (REVERSE SENSE) TSA: Humulus lupulus comp1125303_c0_seq1 mRNA sequence-table1-Partitiviridae-HMM12-159_92.0-ORF13
+seq505	>tsa-GAVM02001262.1 TSA: Hydroptila sp. AD-2013 C104600_a_60_0_l_1757 transcribed RNA sequence-table6-Partitiviridae-HMM169-455_48.0-ORF18
+seq506	>tsa-GAVM02012865.1 TSA: Hydroptila sp. AD-2013 C81071_a_7_0_l_494 transcribed RNA sequence-table1-Partitiviridae-HMM15-160_88.0-ORF4
+seq507	>tsa-GAVM02015799.1 TSA: Hydroptila sp. AD-2013 C92435_a_7_0_l_828 transcribed RNA sequence-table1-Partitiviridae-HMM140-271_47.0-ORF9
+seq508	>tsa-GARR01001896.1 TSA: Isatis tinctoria Isatis_indigotica_Unigene_1896 transcribed RNA sequence-table6-Partitiviridae-HMM74-489_79.0-ORF15
+seq509	>tsa-GDAU01016317.1 (REVERSE SENSE) TSA: Isatis tinctoria IsiSA16317 transcribed RNA sequence-table6-Partitiviridae-HMM80-495_78.0-ORF45
+seq510	>tsa-GBPY01022075.1 TSA: Isodontia mexicana C92343_a_8_0_l_757 transcribed RNA sequence-table6-Partitiviridae-HMM15-187_68.0-ORF7
+seq511	>tsa-GBDY01026783.1 TSA: Kerria lacca L_19335_T_1/1_C_1.000_L_1249 transcribed RNA sequence-table1-Partitiviridae-HMM54-415_86.0-ORF13
+seq512	>tsa-GBPT01017411.1 TSA: Lasioglossum xanthopus s1767_L_1969_2_a_56_0_l_1619 transcribed RNA sequence-table1-Partitiviridae-HMM189-538_64.0-ORF16
+seq513	>tsa-GBSS01026272.1 TSA: Lathyrus sativus a125294_35 transcribed RNA sequence-table6-Partitiviridae-HMM64-470_78.0-ORF17
+seq514	>tsa-GAZB02010109.1 (REVERSE SENSE) TSA: Lepicerus sp. AD-2013 C260345_a_5_0_l_236 transcribed RNA sequence-table1-Partitiviridae-HMM1-75_94.0-ORF7
+seq515	>tsa-GAZB02067329.1 (REVERSE SENSE) TSA: Lepicerus sp. AD-2013 C449484_a_64_0_l_2307 transcribed RNA sequence-table4-Partitiviridae-HMM156-635_64.0-ORF67
+seq516	>tsa-GAZB02087872.1 TSA: Lepicerus sp. AD-2013 s28348_L_97922_0_a_22_4_l_1602 transcribed RNA sequence-table6-Partitiviridae-HMM116-404_54.0-ORF17
+seq517	>tsa-GEEF01024392.1 (REVERSE SENSE) TSA: Leptinotarsa decemlineata comp78582_c0_seq1 transcribed RNA sequence-table1-Partitiviridae-HMM11-66_79.0-ORF9
+seq518	>tsa-GEEF01141635.1 TSA: Leptinotarsa decemlineata comp116437_c1_seq1 transcribed RNA sequence-table6-Partitiviridae-HMM27-191_75.0-ORF22
+seq519	>tsa-GEEF01141636.1 TSA: Leptinotarsa decemlineata comp116437_c1_seq2 transcribed RNA sequence-table6-Partitiviridae-HMM27-191_75.0-ORF23
+seq520	>tsa-GAJA01013891.1 TSA: Leptopilina boulardi comp18036_c0_seq1 transcribed RNA sequence-table6-Partitiviridae-HMM9-404_95.0-ORF11
+seq521	>tsa-GAJC01005228.1 (REVERSE SENSE) TSA: Leptopilina heterotoma comp33023_c0_seq1 transcribed RNA sequence-table1-Partitiviridae-HMM5-301_81.0-ORF21
+seq522	>tsa-GBRK01035690.1 (REVERSE SENSE) TSA: Limonium bicolor LB130303_1 transcribed RNA sequence-table6-Partitiviridae-HMM69-471_81.0-ORF43
+seq523	>tsa-GBOU01009103.1 (REVERSE SENSE) TSA: Liris sp. AD-2014 C62954_a_53_0_l_1593 transcribed RNA sequence-table6-Partitiviridae-HMM71-405_62.0-ORF41
+seq524	>tsa-GBMJ01010875.1 TSA: Lithurgus chrysurus C63749_a_15_0_l_727 transcribed RNA sequence-table4-Partitiviridae-HMM4-138_79.0-ORF7
+seq525	>tsa-GBDZ01047539.1 (REVERSE SENSE) TSA: Locusta migratoria manilensis a224907;8 transcribed RNA sequence-table1-Partitiviridae-HMM4-88_84.0-ORF7
+seq526	>tsa-GAYX01075337.1 TSA: Lolium perenne comp40913_c0_seq1 transcribed RNA sequence-table4-Partitiviridae-HMM482-691_20.0-ORF31
+seq527	>tsa-GAYX01076418.1 (REVERSE SENSE) TSA: Lolium perenne comp42379_c0_seq1 transcribed RNA sequence-table4-Partitiviridae-HMM482-691_20.0-ORF63
+seq528	>tsa-GFBB01006461.1 (REVERSE SENSE) TSA: Lomandra longifolia Contig_7595 transcribed RNA sequence-table6-Partitiviridae-HMM4-405_91.0-ORF36
+seq529	>tsa-GEOJ01128524.1 TSA: Lophocorona astiptica TR72916-c0_g5_i1 transcribed RNA sequence-table6-Partitiviridae-HMM1-85_76.0-ORF5
+seq530	>tsa-GEOJ01128525.1 (REVERSE SENSE) TSA: Lophocorona astiptica TR72916-c0_g7_i2 transcribed RNA sequence-table6-Partitiviridae-HMM90-254_64.0-ORF15
+seq531	>tsa-GBOH01009360.1 (REVERSE SENSE) TSA: Masaris aegyptiacus aegyptiacus C60835_a_3_0_l_664 transcribed RNA sequence-table4-Partitiviridae-HMM17-138_75.0-ORF21
+seq532	>tsa-GAFF01144675.1 (REVERSE SENSE) TSA: Medicago sativa comp74154_c0_seq1 mRNA sequence-table6-Partitiviridae-HMM71-558_76.0-ORF38
+seq533	>tsa-GAFF01146954.1 (REVERSE SENSE) TSA: Medicago sativa comp329734_c0_seq1 mRNA sequence-table6-Partitiviridae-HMM70-483_78.0-ORF45
+seq534	>tsa-GBQG01001447.1 (REVERSE SENSE) TSA: Megalodontes cephalotes C26965_a_3_0_l_240 transcribed RNA sequence-table1-Partitiviridae-HMM1-79_97.0-ORF8
+seq535	>tsa-GELL01008991.1 (REVERSE SENSE) TSA: Megalopta genalis c25785_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM20-201_84.0-ORF15
+seq536	>tsa-GCPB01014204.1 (REVERSE SENSE) TSA: Megastigmus spermotrophus contig17015 transcribed RNA sequence-table6-Partitiviridae-HMM97-483_67.0-ORF42
+seq537	>tsa-GCPB01030846.1 (REVERSE SENSE) TSA: Megastigmus spermotrophus contig37663 transcribed RNA sequence-table6-Partitiviridae-HMM183-436_57.0-ORF30
+seq538	>tsa-GCPB01038306.1 TSA: Megastigmus spermotrophus contig50824 transcribed RNA sequence-table1-Partitiviridae-HMM50-181_71.0-ORF7
+seq539	>tsa-GCPB01049069.1 TSA: Megastigmus spermotrophus contig83006 transcribed RNA sequence-table1-Partitiviridae-HMM62-339_79.0-ORF14
+seq540	>tsa-GCPB01054145.1 (REVERSE SENSE) TSA: Megastigmus spermotrophus contig97944 transcribed RNA sequence-table1-Partitiviridae-HMM77-332_75.0-ORF32
+seq541	>tsa-GCPB01063986.1 TSA: Megastigmus spermotrophus contig143874 transcribed RNA sequence-table1-Partitiviridae-HMM51-191_72.0-ORF7
+seq542	>tsa-GCPB01079292.1 (REVERSE SENSE) TSA: Megastigmus spermotrophus contig181859 transcribed RNA sequence-table6-Partitiviridae-HMM58-312_80.0-ORF24
+seq543	>tsa-GBVK01012217.1 (REVERSE SENSE) TSA: Melitta haemorrhoidalis C66880_a_5_0_l_521 transcribed RNA sequence-table4-Partitiviridae-HMM3-167_94.0-ORF20
+seq544	>tsa-GBVK01015779.1 TSA: Melitta haemorrhoidalis C78605_a_9_0_l_865 transcribed RNA sequence-table6-Partitiviridae-HMM1-221_83.0-ORF8
+seq545	>tsa-GBOY01019375.1 (REVERSE SENSE) TSA: Mellinus arvensis s443_L_442_3_a_21_6_l_2074 transcribed RNA sequence-table6-Partitiviridae-HMM35-139_65.0-ORF45
+seq546	>tsa-GBOK01016324.1 TSA: Meria tripunctata C224404_a_17_0_l_1458 transcribed RNA sequence-table4-Partitiviridae-HMM157-408_60.0-ORF18
+seq547	>tsa-GACP01000900.1 TSA: Micropterix calthella contig00900 mRNA sequence-table6-Partitiviridae-HMM4-331_75.0-ORF13
+seq548	>tsa-GACP01012427.1 (REVERSE SENSE) TSA: Micropterix calthella contig12447 mRNA sequence-table6-Partitiviridae-HMM1-188_68.0-ORF25
+seq549	>tsa-GFGZ01038529.1 TSA: Milnesium tardigradum comp23275_c0_seq1 transcribed RNA sequence-table4-Partitiviridae-HMM2-143_90.0-ORF6
+seq550	>tsa-GBWQ01011146.1 TSA: Monosapyga clavicornis C84610_a_8_0_l_1496 transcribed RNA sequence-table6-Partitiviridae-HMM33-433_83.0-ORF15
+seq551	>tsa-GBWQ01021357.1 (REVERSE SENSE) TSA: Monosapyga clavicornis s806_L_789_0_a_6_2_l_1128 transcribed RNA sequence-table4-Partitiviridae-HMM63-237_46.0-ORF28
+seq552	>tsa-GBWQ01021368.1 (REVERSE SENSE) TSA: Monosapyga clavicornis s807_L_789_1_a_7_5_l_1393 transcribed RNA sequence-table4-Partitiviridae-HMM50-326_59.0-ORF31
+seq553	>tsa-GENV01016172.1 (REVERSE SENSE) TSA: Mucuna pruriens MP16382 transcribed RNA sequence-table1-Partitiviridae-HMM7-92_91.0-ORF8
+seq554	>tsa-GARN01023497.1 (REVERSE SENSE) TSA: Musca domestica comp13408_c0 transcribed RNA sequence-table6-Partitiviridae-HMM182-458_49.0-ORF41
+seq555	>tsa-GDIK01003478.1 (REVERSE SENSE) TSA: Mycosphaerella eumusae comp2485_c1_seq1 transcribed RNA sequence-table4-Partitiviridae-HMM167-453_59.0-ORF34
+seq556	>tsa-HADN01108504.1 (REVERSE SENSE) TSA: Nematostella vectensis, contig TR55764|c0_g1_i1, transcribed RNA sequence-table1-Partitiviridae-HMM3-107_90.0-ORF11
+seq557	>tsa-GAYF02039746.1 TSA: Nilaparvata lugens s9893_L_25836_0_a_12_6_l_692 transcribed RNA sequence-table4-Partitiviridae-HMM39-149_53.0-ORF6
+seq558	>tsa-GFDF01011954.1 TSA: Nyssomyia neivai Nn-33522_FR3_305-669 transcribed RNA sequence-table6-Partitiviridae-HMM114-343_62.0-ORF14
+seq559	>tsa-GFDF01011955.1 TSA: Nyssomyia neivai NnSigSigP-33522_FR3_305-669 transcribed RNA sequence-table6-Partitiviridae-HMM2-220_90.0-ORF11
+seq560	>tsa-GAWQ02035753.1 (REVERSE SENSE) TSA: Okanagana villosa C213213_a_9_0_l_1793 transcribed RNA sequence-table6-Partitiviridae-HMM159-449_48.0-ORF47
+seq561	>tsa-GBKW01140714.1 TSA: Olea europaea OlePic_t_560865 transcribed RNA sequence-table6-Partitiviridae-HMM209-581_57.0-ORF22
+seq562	>tsa-GBTD01017373.1 TSA: Oncorhynchus mykiss comp40352_c0_seq1 transcribed RNA sequence-table1-Partitiviridae-HMM17-124_86.0-ORF8
+seq563	>tsa-GBTU01006015.1 TSA: Orasema simulatrix C54588_a_3_0_l_251 transcribed RNA sequence-table1-Partitiviridae-HMM5-81_91.0-ORF3
+seq564	>tsa-GFNJ01025242.1 TSA: Oreobates cruralis Unigene220121_c0_g1_i1_Oreobates_cruralis transcribed RNA sequence-table6-Partitiviridae-HMM27-315_82.0-ORF11
+seq565	>tsa-GAUJ02011957.1 TSA: Orussus abietinus C72139_a_3_0_l_649 transcribed RNA sequence-table1-Partitiviridae-HMM1-190_87.0-ORF8
+seq566	>tsa-GAUJ02012845.1 TSA: Orussus abietinus C75265_a_4_0_l_753 transcribed RNA sequence-table6-Partitiviridae-HMM67-250_72.0-ORF8
+seq567	>tsa-GBTS01011829.1 (REVERSE SENSE) TSA: Orussus unicolor C62873_a_4_0_l_1334 transcribed RNA sequence-table1-Partitiviridae-HMM30-432_90.0-ORF47
+seq568	>tsa-GBLU01005522.1 (REVERSE SENSE) TSA: Oxybelus bipunctatus C57730_a_9_0_l_324 transcribed RNA sequence-table1-Partitiviridae-HMM10-107_89.0-ORF11
+seq569	>tsa-GAOP01060839.1 TSA: Pachypsylla venusta comp109310_c2_seq2 transcribed RNA sequence-table6-Partitiviridae-HMM90-489_79.0-ORF19
+seq570	>tsa-GAOP01060840.1 TSA: Pachypsylla venusta comp109310_c2_seq3 transcribed RNA sequence-table6-Partitiviridae-HMM90-489_79.0-ORF15
+seq571	>tsa-GAOP01060843.1 TSA: Pachypsylla venusta comp109310_c2_seq6 transcribed RNA sequence-table6-Partitiviridae-HMM90-489_79.0-ORF18
+seq572	>tsa-GEOP01050782.1 (REVERSE SENSE) TSA: Palaephatus nielseni TR52205-c0_g1_i2 transcribed RNA sequence-table1-Partitiviridae-HMM2-280_72.0-ORF32
+seq573	>tsa-GDQW01140561.1 TSA: Panax ginseng c5780_g1_i1 transcribed RNA sequence-table1-Partitiviridae-HMM69-534_84.0-ORF17
+seq574	>tsa-GFRX01006145.1 TSA: Panax notoginseng TR100012_c0_g1_i1 transcribed RNA sequence-table1-Partitiviridae-HMM36-504_81.0-ORF17
+seq575	>tsa-GFRX01140870.1 (REVERSE SENSE) TSA: Panax notoginseng TR43146_c0_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM53-430_81.0-ORF31
+seq576	>tsa-GFRX01140871.1 (REVERSE SENSE) TSA: Panax notoginseng TR43146_c0_g1_i2 transcribed RNA sequence-table6-Partitiviridae-HMM74-482_78.0-ORF35
+seq577	>tsa-GFRX01155901.1 (REVERSE SENSE) TSA: Panax notoginseng TR53538_c0_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM78-490_81.0-ORF40
+seq578	>tsa-GFRX01266681.1 TSA: Panax notoginseng TR89980_c0_g1_i1 transcribed RNA sequence-table1-Partitiviridae-HMM2-477_98.0-ORF17
+seq579	>tsa-GCKE01011676.1 (REVERSE SENSE) TSA: Pardosa pseudoannulata Unigene14873_F1 transcribed RNA sequence-table1-Partitiviridae-HMM2-79_70.0-ORF12
+seq580	>tsa-GBXA01003559.1 TSA: Parnopes grandior C48517_a_4_0_l_240 transcribed RNA sequence-table1-Partitiviridae-HMM1-76_94.0-ORF2
+seq581	>tsa-GBVU01002177.1 TSA: Pelecinus polyturator C106865_a_25_0_l_677 transcribed RNA sequence-table6-Partitiviridae-HMM60-224_72.0-ORF9
+seq582	>tsa-GBVU01021115.1 TSA: Pelecinus polyturator C80961_a_6_0_l_342 transcribed RNA sequence-table1-Partitiviridae-HMM1-113_99.0-ORF3
+seq583	>tsa-GFCQ01025452.1 (REVERSE SENSE) TSA: Periplaneta americana TRINITY_DN172779_c1_g1_i3 transcribed RNA sequence-table1-Partitiviridae-HMM3-139_92.0-ORF12
+seq584	>tsa-GFQM01014407.1 (REVERSE SENSE) TSA: Phelipanche aegyptiaca c161178.graph_c0 transcribed RNA sequence-table6-Partitiviridae-HMM333-478_17.0-ORF76
+seq585	>tsa-GFQM01025009.1 (REVERSE SENSE) TSA: Phelipanche aegyptiaca c181240.graph_c0 transcribed RNA sequence-table6-Partitiviridae-HMM72-489_79.0-ORF38
+seq586	>tsa-GFQM01085914.1 (REVERSE SENSE) TSA: Phelipanche aegyptiaca c93211.graph_c0 transcribed RNA sequence-table6-Partitiviridae-HMM71-488_77.0-ORF42
+seq587	>tsa-GFFQ01008364.1 (REVERSE SENSE) TSA: Phlox roemeriana Roem@c84663_g1_i1 transcribed RNA sequence-table1-Partitiviridae-HMM6-73_91.0-ORF6
+seq588	>tsa-GFFQ01077136.1 (REVERSE SENSE) TSA: Phlox roemeriana Roem@c65780_g1_i3 transcribed RNA sequence-table6-Partitiviridae-HMM57-525_78.0-ORF48
+seq589	>tsa-GFFQ01077138.1 (REVERSE SENSE) TSA: Phlox roemeriana Roem@c65780_g1_i1 transcribed RNA sequence-table4-Partitiviridae-HMM80-540_75.0-ORF65
+seq590	>tsa-GFFQ01094724.1 TSA: Phlox roemeriana Roem@c59711_g2_i1 transcribed RNA sequence-table1-Partitiviridae-HMM48-291_78.0-ORF12
+seq591	>tsa-GFFQ01094725.1 (REVERSE SENSE) TSA: Phlox roemeriana Roem@c59711_g1_i2 transcribed RNA sequence-table6-Partitiviridae-HMM1-156_80.0-ORF12
+seq592	>tsa-GFFQ01094726.1 (REVERSE SENSE) TSA: Phlox roemeriana Roem@c59711_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM1-162_81.0-ORF15
+seq593	>tsa-GFFQ01095972.1 TSA: Phlox roemeriana Roem@c59105_g2_i1 transcribed RNA sequence-table1-Partitiviridae-HMM1-98_97.0-ORF4
+seq594	>tsa-GFFQ01095973.1 TSA: Phlox roemeriana Roem@c59105_g1_i1 transcribed RNA sequence-table1-Partitiviridae-HMM20-118_75.0-ORF4
+seq595	>tsa-GFFQ01101807.1 TSA: Phlox roemeriana Roem@c55994_g1_i1 transcribed RNA sequence-table1-Partitiviridae-HMM31-499_89.0-ORF10
+seq596	>tsa-GFFQ01103144.1 TSA: Phlox roemeriana Roem@c55143_g1_i3 transcribed RNA sequence-table6-Partitiviridae-HMM9-260_77.0-ORF7
+seq597	>tsa-GFFQ01103146.1 TSA: Phlox roemeriana Roem@c55143_g1_i1 transcribed RNA sequence-table1-Partitiviridae-HMM9-162_90.0-ORF7
+seq598	>tsa-GFFQ01119142.1 TSA: Phlox roemeriana Roem@c40544_g1_i2 transcribed RNA sequence-table1-Partitiviridae-HMM1-102_99.0-ORF3
+seq599	>tsa-GFFQ01119143.1 TSA: Phlox roemeriana Roem@c40544_g1_i1 transcribed RNA sequence-table1-Partitiviridae-HMM1-94_98.0-ORF2
+seq600	>tsa-GFFQ01120318.1 TSA: Phlox roemeriana Roem@c39134_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM2-139_56.0-ORF7
+seq601	>tsa-GFFQ01122483.1 (REVERSE SENSE) TSA: Phlox roemeriana Roem@c34893_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM1-96_60.0-ORF13
+seq602	>tsa-GEZM01060430.1 (REVERSE SENSE) TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN57689_c0_g1_i1 transcribed RNA sequence-table1-Partitiviridae-HMM1-97_96.0-ORF7
+seq603	>tsa-GEZM01061712.1 (REVERSE SENSE) TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN65978_c0_g1_i1 transcribed RNA sequence-table1-Partitiviridae-HMM3-85_93.0-ORF9
+seq604	>tsa-GEZM01087949.1 TSA: Photinus pyralis 151_Ppyr_v3_TRINITY_DN10140_c0_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM42-461_75.0-ORF17
+seq605	>tsa-GACG01002434.1 (REVERSE SENSE) TSA: Picea sitchensis Ps_Contig2434 mRNA sequence-table6-Partitiviridae-HMM4-403_90.0-ORF35
+seq606	>tsa-GEUZ01007877.1 TSA: Pinus lambertiana DCS1kb_1_polished_high_000441_m.449 transcribed RNA sequence-table6-Partitiviridae-HMM38-447_85.0-ORF16
+seq607	>tsa-GBQX01046835.1 (REVERSE SENSE) TSA: Pinus monticola F0_contig_81646 transcribed RNA sequence-table6-Partitiviridae-HMM91-500_77.0-ORF40
+seq608	>tsa-GDQD01006327.1 TSA: Pinus monticola seq6328 transcribed RNA sequence-table6-Partitiviridae-HMM38-447_85.0-ORF16
+seq609	>tsa-GECO01001673.1 TSA: Pinus patula Pipt_75k_comp46305_c0_seq1 transcribed RNA sequence-table1-Partitiviridae-HMM1-164_63.0-ORF7
+seq610	>tsa-GECO01011226.1 TSA: Pinus patula Pipt50k_comp6816_c0_seq1 transcribed RNA sequence-table6-Partitiviridae-HMM36-447_85.0-ORF18
+seq611	>tsa-GFUB01137311.1 (REVERSE SENSE) TSA: Podisus maculiventris TRINITY_DN70999_c3_g1_i1 transcribed RNA sequence-table4-Partitiviridae-HMM2-134_73.0-ORF17
+seq612	>tsa-GFUB01137316.1 (REVERSE SENSE) TSA: Podisus maculiventris TRINITY_DN70999_c3_g4_i1 transcribed RNA sequence-table4-Partitiviridae-HMM31-330_79.0-ORF39
+seq613	>tsa-GBWR01025626.1 (REVERSE SENSE) TSA: Polistes dominula s11987_L_32172_0_a_22_0_l_1810 transcribed RNA sequence-table6-Partitiviridae-HMM169-495_55.0-ORF43
+seq614	>tsa-GBWR01028781.1 TSA: Polistes dominula s3793_L_4526_0_a_7_7_l_816 transcribed RNA sequence-table6-Partitiviridae-HMM3-147_55.0-ORF9
+seq615	>tsa-GBWR01028782.1 TSA: Polistes dominula s3794_L_4526_1_a_9_1_l_1451 transcribed RNA sequence-table6-Partitiviridae-HMM29-140_43.0-ORF17
+seq616	>tsa-GEDB01028700.1 (REVERSE SENSE) TSA: Polistes dominula PdomTSAr1.2-029453 transcribed RNA sequence-table6-Partitiviridae-HMM30-190_52.0-ORF51
+seq617	>tsa-GEDB01028863.1 TSA: Polistes dominula PdomTSAr1.2-029634 transcribed RNA sequence-table1-Partitiviridae-HMM6-219_94.0-ORF5
+seq618	>tsa-GEDB01106045.1 (REVERSE SENSE) TSA: Polistes dominula PdomTSAr1.2-108170 transcribed RNA sequence-table6-Partitiviridae-HMM77-160_30.0-ORF37
+seq619	>tsa-GAST02014689.1 TSA: Polyommatus icarus C151859_a_17_0_l_1490 transcribed RNA sequence-table6-Partitiviridae-HMM39-436_80.0-ORF18
+seq620	>tsa-GBQI01013588.1 TSA: Prionyx kirbii C94885_a_36_0_l_3410 transcribed RNA sequence-table6-Partitiviridae-HMM56-332_64.0-ORF22
+seq621	>tsa-HAES01005905.1 (REVERSE SENSE) TSA: Proasellus cavaticus, contig comp10330_c0_seq1, transcribed RNA sequence-table1-Partitiviridae-HMM11-134_91.0-ORF12
+seq622	>tsa-HAES01044667.1 TSA: Proasellus cavaticus, contig comp57466_c0_seq1, transcribed RNA sequence-table1-Partitiviridae-HMM162-446_53.0-ORF14
+seq623	>tsa-HAEV01085407.1 TSA: Proasellus escolai, contig comp110523_c0_seq3, transcribed RNA sequence-table6-Partitiviridae-HMM168-448_50.0-ORF16
+seq624	>tsa-HAEX01017060.1 (REVERSE SENSE) TSA: Proasellus grafi, contig c18790_g1_i1, transcribed RNA sequence-table1-Partitiviridae-HMM32-177_81.0-ORF13
+seq625	>tsa-HAFC01018742.1 (REVERSE SENSE) TSA: Proasellus karamani, contig comp34442_c0_seq1, transcribed RNA sequence-table1-Partitiviridae-HMM1-95_48.0-ORF20
+seq626	>tsa-HAFC01103214.1 TSA: Proasellus karamani, contig comp417959_c0_seq1, transcribed RNA sequence-table1-Partitiviridae-HMM131-485_72.0-ORF15
+seq627	>tsa-HAFG01089473.1 TSA: Proasellus parvulus, contig comp88939_c0_seq1, transcribed RNA sequence-table1-Partitiviridae-HMM180-461_52.0-ORF17
+seq628	>tsa-HAFG01089474.1 TSA: Proasellus parvulus, contig comp88939_c0_seq2, transcribed RNA sequence-table1-Partitiviridae-HMM45-326_70.0-ORF13
+seq629	>tsa-HAFI01001455.1 TSA: Proasellus rectus, contig comp1949_c0_seq1, transcribed RNA sequence-table4-Partitiviridae-HMM2-78_42.0-ORF6
+seq630	>tsa-HAFI01106726.1 TSA: Proasellus rectus, contig comp890575_c0_seq1, transcribed RNA sequence-table1-Partitiviridae-HMM26-225_86.0-ORF6
+seq631	>tsa-HAFJ01037582.1 (REVERSE SENSE) TSA: Proasellus solanasi, contig comp53948_c1_seq1, transcribed RNA sequence-table1-Partitiviridae-HMM134-417_60.0-ORF33
+seq632	>tsa-HAFK01039912.1 (REVERSE SENSE) TSA: Proasellus spelaeus, contig comp126449_c0_seq1, transcribed RNA sequence-table1-Partitiviridae-HMM36-318_72.0-ORF26
+seq633	>tsa-GBNH01021241.1 TSA: Psenulus fuscipennis s5463_L_10371_0_a_15_4_l_3222 transcribed RNA sequence-table6-Partitiviridae-HMM187-487_36.0-ORF19
+seq634	>tsa-GAVV02033236.1 (REVERSE SENSE) TSA: Pseudomallada prasinus C250535_a_8_0_l_790 transcribed RNA sequence-table6-Partitiviridae-HMM13-148_69.0-ORF17
+seq635	>tsa-GAVV02038955.1 (REVERSE SENSE) TSA: Pseudomallada prasinus C270622_a_18_0_l_1690 transcribed RNA sequence-table6-Partitiviridae-HMM163-432_56.0-ORF51
+seq636	>tsa-GFFY01024955.1 TSA: Pseudotsuga menziesii psme_t026260 transcribed RNA sequence-table6-Partitiviridae-HMM85-493_73.0-ORF24
+seq637	>tsa-GEUS01033912.1 TSA: Quercus austrocochinchinensis comp150989_c0_seq1 transcribed RNA sequence-table1-Partitiviridae-HMM1-152_99.0-ORF6
+seq638	>tsa-GEUS01046675.1 (REVERSE SENSE) TSA: Quercus austrocochinchinensis comp282387_c0_seq1 transcribed RNA sequence-table1-Partitiviridae-HMM17-97_82.0-ORF11
+seq639	>tsa-GAYZ02000787.1 TSA: Ranatra linearis C102333_a_12_0_l_1792 transcribed RNA sequence-table4-Partitiviridae-HMM178-458_46.0-ORF19
+seq640	>tsa-GEMG01025120.1 TSA: Raphanus sativus Unigene4060_NAU-LB transcribed RNA sequence-table6-Partitiviridae-HMM6-163_73.0-ORF7
+seq641	>tsa-GEMG01025121.1 TSA: Raphanus sativus Unigene4061_NAU-LB transcribed RNA sequence-table4-Partitiviridae-HMM67-297_75.0-ORF13
+seq642	>tsa-GEMG01038431.1 TSA: Raphanus sativus Unigene19186_NAU-LB transcribed RNA sequence-table6-Partitiviridae-HMM58-513_75.0-ORF15
+seq643	>tsa-GETQ01075798.1 TSA: Rhagoletis pomonella c126344_g1_i1 transcribed RNA sequence-table4-Partitiviridae-HMM39-282_77.0-ORF10
+seq644	>tsa-GAXX02014830.1 TSA: Rhyacophila fasciata C60848_a_5_0_l_248 transcribed RNA sequence-table1-Partitiviridae-HMM1-50_59.0-ORF4
+seq645	>tsa-GAXX02023274.1 (REVERSE SENSE) TSA: Rhyacophila fasciata C81934_a_3_0_l_381 transcribed RNA sequence-table1-Partitiviridae-HMM1-126_99.0-ORF9
+seq646	>tsa-GAXX02030913.1 TSA: Rhyacophila fasciata s1637_L_2840_0_a_3_0_l_558 transcribed RNA sequence-table1-Partitiviridae-HMM4-185_97.0-ORF6
+seq647	>tsa-GFHZ01016304.1 (REVERSE SENSE) TSA: Saccharum SUG_denovo_0502144 transcribed RNA sequence-table6-Partitiviridae-HMM64-525_75.0-ORF52
+seq648	>tsa-GFHZ01025471.1 (REVERSE SENSE) TSA: Saccharum SUG_denovo_0618185 transcribed RNA sequence-table1-Partitiviridae-HMM3-107_88.0-ORF9
+seq649	>tsa-GFHZ01026653.1 TSA: Saccharum SUG_denovo_0622675 transcribed RNA sequence-table1-Partitiviridae-HMM3-106_91.0-ORF5
+seq650	>tsa-GFHZ01053834.1 (REVERSE SENSE) TSA: Saccharum SUG_denovo_0323809 transcribed RNA sequence-table6-Partitiviridae-HMM185-397_53.0-ORF34
+seq651	>tsa-GFHZ01060313.1 TSA: Saccharum SUG_denovo_0613031 transcribed RNA sequence-table6-Partitiviridae-HMM4-153_96.0-ORF8
+seq652	>tsa-GFHZ01073631.1 (REVERSE SENSE) TSA: Saccharum SUG_denovo_0356613 transcribed RNA sequence-table1-Partitiviridae-HMM5-188_97.0-ORF17
+seq653	>tsa-GFHZ01080422.1 (REVERSE SENSE) TSA: Saccharum SUG_denovo_0023883 transcribed RNA sequence-table1-Partitiviridae-HMM12-107_76.0-ORF7
+seq654	>tsa-GFHZ01110365.1 TSA: Saccharum SUG_denovo_0154777 transcribed RNA sequence-table6-Partitiviridae-HMM91-261_64.0-ORF9
+seq655	>tsa-GFHZ01113195.1 TSA: Saccharum SUG_denovo_0298932 transcribed RNA sequence-table1-Partitiviridae-HMM231-595_61.0-ORF24
+seq656	>tsa-GFHZ01113202.1 (REVERSE SENSE) TSA: Saccharum SUG_denovo_0306319 transcribed RNA sequence-table1-Partitiviridae-HMM1-143_98.0-ORF11
+seq657	>tsa-GFLP01011494.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0010039 transcribed RNA sequence-table1-Partitiviridae-HMM1-152_99.0-ORF12
+seq658	>tsa-GFLP01024878.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0023883 transcribed RNA sequence-table1-Partitiviridae-HMM12-107_76.0-ORF7
+seq659	>tsa-GFLP01086778.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0086161 transcribed RNA sequence-table1-Partitiviridae-HMM1-128_97.0-ORF12
+seq660	>tsa-GFLP01155027.1 TSA: Saccharum hybrid cultivar SUGdenovo-0154777 transcribed RNA sequence-table6-Partitiviridae-HMM91-261_64.0-ORF9
+seq661	>tsa-GFLP01286259.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0286612 transcribed RNA sequence-table4-Partitiviridae-HMM1-168_76.0-ORF15
+seq662	>tsa-GFLP01297685.1 TSA: Saccharum hybrid cultivar SUGdenovo-0298932 transcribed RNA sequence-table1-Partitiviridae-HMM231-595_61.0-ORF24
+seq663	>tsa-GFLP01300352.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0301914 transcribed RNA sequence-table6-Partitiviridae-HMM10-118_63.0-ORF13
+seq664	>tsa-GFLP01304271.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0306319 transcribed RNA sequence-table1-Partitiviridae-HMM1-143_98.0-ORF11
+seq665	>tsa-GFLP01311160.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0313860 transcribed RNA sequence-table6-Partitiviridae-HMM1-145_57.0-ORF23
+seq666	>tsa-GFLP01312171.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0314961 transcribed RNA sequence-table1-Partitiviridae-HMM5-105_78.0-ORF11
+seq667	>tsa-GFLP01320733.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0323809 transcribed RNA sequence-table6-Partitiviridae-HMM185-397_53.0-ORF34
+seq668	>tsa-GFLP01325004.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0328232 transcribed RNA sequence-table6-Partitiviridae-HMM17-466_81.0-ORF71
+seq669	>tsa-GFLP01350051.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0356613 transcribed RNA sequence-table1-Partitiviridae-HMM5-188_97.0-ORF17
+seq670	>tsa-GFLP01353721.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0360720 transcribed RNA sequence-table1-Partitiviridae-HMM102-181_43.0-ORF15
+seq671	>tsa-GFLP01491051.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0502144 transcribed RNA sequence-table6-Partitiviridae-HMM64-525_75.0-ORF52
+seq672	>tsa-GAIA01045689.1 TSA: Salicornia europaea Unigene52880_Se200S transcribed RNA sequence-table1-Partitiviridae-HMM1-70_95.0-ORF2
+seq673	>tsa-GAIA01056562.1 TSA: Salicornia europaea Unigene66780_Se200S transcribed RNA sequence-table1-Partitiviridae-HMM2-100_89.0-ORF5
+seq674	>tsa-GBPQ01010833.1 TSA: Sapygina decemguttata C64927_a_22_0_l_1427 transcribed RNA sequence-table1-Partitiviridae-HMM34-434_84.0-ORF19
+seq675	>tsa-GBPQ01018951.1 (REVERSE SENSE) TSA: Sapygina decemguttata s5662_L_13127_0_a_34_9_l_1414 transcribed RNA sequence-table4-Partitiviridae-HMM52-325_58.0-ORF30
+seq676	>tsa-GCJW01045242.1 (REVERSE SENSE) TSA: Secale cereale isotig42115 transcribed RNA sequence-table6-Partitiviridae-HMM178-353_49.0-ORF26
+seq677	>tsa-GCJW01045267.1 (REVERSE SENSE) TSA: Secale cereale isotig41947 transcribed RNA sequence-table1-Partitiviridae-HMM18-148_87.0-ORF15
+seq678	>tsa-GDJF01006075.1 TSA: Silene conica Sconica_KEWF_c5005_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM58-540_76.0-ORF23
+seq679	>tsa-GFCG01066758.1 TSA: Silene dioica TR29652_c0_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM65-482_81.0-ORF19
+seq680	>tsa-GEYV01001603.1 TSA: Silene grisebachii c2010_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM66-476_77.0-ORF16
+seq681	>tsa-GEYV01039044.1 TSA: Silene grisebachii c31307_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM4-264_84.0-ORF8
+seq682	>tsa-GEYV01039045.1 TSA: Silene grisebachii c31307_g2_i1 transcribed RNA sequence-table6-Partitiviridae-HMM75-238_68.0-ORF9
+seq683	>tsa-GEYV01124023.1 (REVERSE SENSE) TSA: Silene grisebachii c57736_g1_i1 transcribed RNA sequence-table1-Partitiviridae-HMM2-68_95.0-ORF8
+seq684	>tsa-GAKJ01002771.1 TSA: Sitodiplosis mosellana Unigene6119_S_mosellanaA transcribed RNA sequence-table6-Partitiviridae-HMM150-319_52.0-ORF15
+seq685	>tsa-GAKJ01008683.1 TSA: Sitodiplosis mosellana Unigene16836_S_mosellanaA transcribed RNA sequence-table6-Partitiviridae-HMM174-651_62.0-ORF16
+seq686	>tsa-GBRL01005804.1 TSA: Sitodiplosis mosellana Unigene36987_S_mosellanaA transcribed RNA sequence-table6-Partitiviridae-HMM2-311_71.0-ORF9
+seq687	>tsa-GALQ01034176.1 TSA: gut metagenome Locus17870v1rpkm34.23 transcribed RNA sequence-table6-Partitiviridae-HMM320-459_25.0-ORF20
+seq688	>tsa-GBDO01042791.1 TSA: Kerria lacca L_27642_T_1/1_C_1.000_L_1106 transcribed RNA sequence-table4-Partitiviridae-HMM13-113_44.0-ORF9
+seq689	>tsa-GBDP01024373.1 TSA: Kerria lacca L_5018_T_3/3_C_0.750_L_8603 transcribed RNA sequence-table4-Partitiviridae-HMM13-113_44.0-ORF124
+seq690	>tsa-GBDP01037841.1 TSA: Kerria lacca L_5018_T_1/3_C_0.500_L_4652 transcribed RNA sequence-table4-Partitiviridae-HMM13-113_44.0-ORF52
+seq691	>tsa-GAIC01004749.1 TSA: Solanum torvum tor5_c4749 transcribed RNA sequence-table4-Partitiviridae-HMM7-132_74.0-ORF7
+seq692	>tsa-GAUZ02014884.1 (REVERSE SENSE) TSA: Stenobothrus lineatus C179990_a_3_0_l_265 transcribed RNA sequence-table4-Partitiviridae-HMM14-84_79.0-ORF10
+seq693	>tsa-GBMU01041018.1 (REVERSE SENSE) TSA: Stephanus serrator s5200_L_9913_0_a_3_0_l_1745 transcribed RNA sequence-table6-Partitiviridae-HMM253-503_47.0-ORF43
+seq694	>tsa-GANE01012071.1 TSA: Stevia rebaudiana SteviaLeaf_m18504 transcribed RNA sequence-table4-Partitiviridae-HMM5-193_95.0-ORF8
+seq695	>tsa-GANE01024292.1 TSA: Stevia rebaudiana SteviaLeaf_m18503 transcribed RNA sequence-table4-Partitiviridae-HMM6-417_96.0-ORF18
+seq696	>tsa-GANE01024842.1 TSA: Stevia rebaudiana SteviaLeaf_m18502 transcribed RNA sequence-table6-Partitiviridae-HMM6-417_91.0-ORF15
+seq697	>tsa-GDIM01029705.1 TSA: Stomoxys calcitrans Stomoxys29706 transcribed RNA sequence-table4-Partitiviridae-HMM143-431_64.0-ORF17
+seq698	>tsa-GFJE01003636.1 TSA: Taraxacum kok-saghyz comp17305_c0_seq1 transcribed RNA sequence-table6-Partitiviridae-HMM69-484_78.0-ORF19
+seq699	>tsa-GFJE01030246.1 (REVERSE SENSE) TSA: Taraxacum kok-saghyz comp31492_c0_seq1 transcribed RNA sequence-table6-Partitiviridae-HMM96-563_72.0-ORF48
+seq700	>tsa-GFGL01041666.1 (REVERSE SENSE) TSA: Tectona grandis TR135565_c0_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM77-255_54.0-ORF23
+seq701	>tsa-GBBP01108783.1 (REVERSE SENSE) TSA: Teleopsis dalmanni Td_comp162427_c0_seq1 transcribed RNA sequence-table4-Partitiviridae-HMM29-243_87.0-ORF54
+seq702	>tsa-GBBP01108784.1 (REVERSE SENSE) TSA: Teleopsis dalmanni Td_comp162427_c0_seq10 transcribed RNA sequence-table4-Partitiviridae-HMM29-243_87.0-ORF40
+seq703	>tsa-GBBP01108785.1 (REVERSE SENSE) TSA: Teleopsis dalmanni Td_comp162427_c0_seq11 transcribed RNA sequence-table4-Partitiviridae-HMM28-147_76.0-ORF38
+seq704	>tsa-GBBP01108786.1 (REVERSE SENSE) TSA: Teleopsis dalmanni Td_comp162427_c0_seq12 transcribed RNA sequence-table4-Partitiviridae-HMM28-147_76.0-ORF38
+seq705	>tsa-GBBP01108787.1 (REVERSE SENSE) TSA: Teleopsis dalmanni Td_comp162427_c0_seq13 transcribed RNA sequence-table6-Partitiviridae-HMM8-245_94.0-ORF26
+seq706	>tsa-GBBP01108788.1 (REVERSE SENSE) TSA: Teleopsis dalmanni Td_comp162427_c0_seq14 transcribed RNA sequence-table6-Partitiviridae-HMM8-246_95.0-ORF26
+seq707	>tsa-GBBP01108789.1 (REVERSE SENSE) TSA: Teleopsis dalmanni Td_comp162427_c0_seq15 transcribed RNA sequence-table4-Partitiviridae-HMM7-141_89.0-ORF27
+seq708	>tsa-GBBP01108790.1 (REVERSE SENSE) TSA: Teleopsis dalmanni Td_comp162427_c0_seq16 transcribed RNA sequence-table4-Partitiviridae-HMM7-141_89.0-ORF27
+seq709	>tsa-GBBP01108794.1 (REVERSE SENSE) TSA: Teleopsis dalmanni Td_comp162427_c0_seq2 transcribed RNA sequence-table4-Partitiviridae-HMM29-243_87.0-ORF54
+seq710	>tsa-GBBP01108796.1 (REVERSE SENSE) TSA: Teleopsis dalmanni Td_comp162427_c0_seq3 transcribed RNA sequence-table4-Partitiviridae-HMM28-147_76.0-ORF52
+seq711	>tsa-GBBP01108797.1 (REVERSE SENSE) TSA: Teleopsis dalmanni Td_comp162427_c0_seq4 transcribed RNA sequence-table4-Partitiviridae-HMM28-147_76.0-ORF52
+seq712	>tsa-GBBP01108798.1 (REVERSE SENSE) TSA: Teleopsis dalmanni Td_comp162427_c0_seq5 transcribed RNA sequence-table4-Partitiviridae-HMM29-243_87.0-ORF53
+seq713	>tsa-GBBP01108799.1 (REVERSE SENSE) TSA: Teleopsis dalmanni Td_comp162427_c0_seq6 transcribed RNA sequence-table4-Partitiviridae-HMM29-243_87.0-ORF53
+seq714	>tsa-GBBP01108800.1 (REVERSE SENSE) TSA: Teleopsis dalmanni Td_comp162427_c0_seq7 transcribed RNA sequence-table4-Partitiviridae-HMM28-147_76.0-ORF51
+seq715	>tsa-GBBP01108801.1 (REVERSE SENSE) TSA: Teleopsis dalmanni Td_comp162427_c0_seq8 transcribed RNA sequence-table4-Partitiviridae-HMM28-147_76.0-ORF51
+seq716	>tsa-GBBP01108802.1 (REVERSE SENSE) TSA: Teleopsis dalmanni Td_comp162427_c0_seq9 transcribed RNA sequence-table4-Partitiviridae-HMM29-243_87.0-ORF40
+seq717	>tsa-GAWW02016876.1 TSA: Tenthredo koehleri C73903_a_10_0_l_2319 transcribed RNA sequence-table6-Partitiviridae-HMM160-649_63.0-ORF24
+seq718	>tsa-GASM01032271.1 TSA: Tetramorium bicarinatum Tb33261 transcribed RNA sequence-table6-Partitiviridae-HMM178-376_45.0-ORF12
+seq719	>tsa-GAXC02002150.1 TSA: Thrips palmi C37278_a_3_0_l_245 transcribed RNA sequence-table4-Partitiviridae-HMM2-81_97.0-ORF4
+seq720	>tsa-GCHA01047740.1 TSA: Tigriopus japonicus TJ_CDS_47743 transcribed RNA sequence-table6-Partitiviridae-HMM41-500_81.0-ORF16
+seq721	>tsa-GBWN01016556.1 TSA: Tiphia femorata C97543_a_25_0_l_7577 transcribed RNA sequence-table6-Partitiviridae-HMM198-424_52.0-ORF17
+seq722	>tsa-GAWX02010400.1 TSA: Trialeurodes vaporariorum C131616_a_5_0_l_453 transcribed RNA sequence-table6-Partitiviridae-HMM18-100_54.0-ORF4
+seq723	>tsa-GAWX02011994.1 TSA: Trialeurodes vaporariorum C136792_a_7_0_l_497 transcribed RNA sequence-table4-Partitiviridae-HMM3-164_97.0-ORF7
+seq724	>tsa-GAVA02000230.1 TSA: Triarthria setipennis C100909_a_13_0_l_1424 transcribed RNA sequence-table6-Partitiviridae-HMM20-417_83.0-ORF17
+seq725	>tsa-GAOU01040133.1 TSA: Trifolium pratense RC.40966 transcribed RNA sequence-table4-Partitiviridae-HMM155-644_64.0-ORF26
+seq726	>tsa-GFAL01022779.1 (REVERSE SENSE) TSA: Allium chinense c91814_g3 transcribed RNA sequence-table6-Partitiviridae-HMM4-100_83.0-ORF7
+seq727	>tsa-GEEY01016471.1 TSA: Cephus cinctus Ccin_ant_Roche_itg17014_gig07181_l539_nC1 transcribed RNA sequence-table6-Partitiviridae-HMM4-156_84.0-ORF6
+seq728	>tsa-GBOK01030507.1 TSA: Meria tripunctata s22264_L_15412_0_a_55_2_l_1274 transcribed RNA sequence-table6-Partitiviridae-HMM73-253_71.0-ORF10
+seq729	>tsa-GBVL01012566.1 TSA: Passaloecus eremita C71967_a_12_0_l_1000 transcribed RNA sequence-table6-Partitiviridae-HMM49-198_70.0-ORF10
+seq730	>tsa-GFFR01010818.1 (REVERSE SENSE) TSA: Phlox drummondii DruB@c76094_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM2-63_51.0-ORF22
+seq731	>tsa-GFTX01031971.1 (REVERSE SENSE) TSA: Ulva lactuca c27841_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM13-417_85.0-ORF41
+seq732	>tsa-GFTX01063405.1 (REVERSE SENSE) TSA: Ulva lactuca c33025_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM159-454_53.0-ORF42
+seq733	>tsa-GFUR01075383.1 (REVERSE SENSE) TSA: Ulva lactuca c43182_g1_i1 transcribed RNA sequence-table6-Partitiviridae-HMM158-453_53.0-ORF43
+seq734	>tsa-GETM01141213.1 (REVERSE SENSE) TSA: Varroa jacobsoni comp116555_c0_seq1 transcribed RNA sequence-table6-Partitiviridae-HMM208-508_48.0-ORF35
+seq735	>tsa-GETP01226337.1 (REVERSE SENSE) TSA: Varroa jacobsoni comp116555_c0_seq1 transcribed RNA sequence-table6-Partitiviridae-HMM208-508_48.0-ORF35
+seq736	>tsa-GAUO02018747.1 (REVERSE SENSE) TSA: Velia caprai C96297_a_12_0_l_1716 transcribed RNA sequence-table6-Partitiviridae-HMM322-493_29.0-ORF44
+seq737	>tsa-GARZ01007608.1 TSA: Vicia faba contig08575 transcribed RNA sequence-table6-Partitiviridae-HMM179-563_67.0-ORF12
+seq738	>tsa-GAUI02026234.1 TSA: Xanthostigma xanthostigma C184268_a_3_0_l_354 transcribed RNA sequence-table6-Partitiviridae-HMM33-113_68.0-ORF2
+seq739	>tsa-GBWJ01017416.1 TSA: Xiphydria camelus C98275_a_18_0_l_1382 transcribed RNA sequence-table6-Partitiviridae-HMM103-323_48.0-ORF12
+seq740	>tsa-GBUM01011749.1 (REVERSE SENSE) TSA: Xylocopa violacea C55098_a_12_0_l_1046 transcribed RNA sequence-table6-Partitiviridae-HMM23-110_73.0-ORF24

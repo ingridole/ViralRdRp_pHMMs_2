@@ -1,0 +1,91 @@
+seq1	>ref-NC_002557.1 Trichoplusia ni cytoplasmic polyhedrosis virus 15 segment 1, complete sequence-table6-Spinareovirinae_2-HMM476-830_27.0-ORF48
+seq2	>ref-NC_003017.1 Lymantria dispar cypovirus 1 segment 2, complete sequence-table6-Spinareovirinae_2-HMM468-821_28.0-ORF37
+seq3	>ref-NC_003654.1 Nilaparvata lugens reovirus segment 1, complete sequence-table6-Spinareovirinae_2-HMM612-973_24.0-ORF41
+seq4	>ref-NC_003696.1 Eyach virus segment 1, complete genome-table6-Spinareovirinae_2-HMM547-945_27.0-ORF47
+seq5	>ref-NC_003729.1 Rice black streaked dwarf virus segment 1, complete sequence-table4-Spinareovirinae_2-HMM628-996_24.0-ORF52
+seq6	>ref-NC_003771.1 Rice ragged stunt virus RNA-dependent RNA polymerase and P4b genes, complete cds-table6-Spinareovirinae_2-HMM463-821_28.0-ORF36
+seq7	>ref-NC_004181.1 Colorado tick fever virus segment 1, complete sequence-table6-Spinareovirinae_2-HMM547-945_27.0-ORF52
+seq8	>ref-NC_003006.1 Cypovirus 14 RNA 1, complete sequence-table6-Spinareovirinae_2-HMM503-857_27.0-ORF47
+seq9	>ref-NC_007159.1 Fiji disease virus segment 1, complete genome-table6-Spinareovirinae_2-HMM634-1001_24.0-ORF53
+seq10	>ref-NC_007535.1 Mycoreovirus 3 segment S1, complete sequence-table4-Spinareovirinae_2-HMM496-886_28.0-ORF39
+seq11	>ref-NC_007559.1 Operophtera brumata reovirus segment 1, complete genome-table4-Spinareovirinae_2-HMM537-881_25.0-ORF53
+seq12	>ref-NC_007667.1 Aedes pseudoscutellaris reovirus segment 2, complete sequence-table6-Spinareovirinae_2-HMM454-821_29.0-ORF40
+seq13	>ref-NC_008733.1 Mal de Rio Cuarto virus segment S1, complete sequence-table4-Spinareovirinae_2-HMM629-997_24.0-ORF45
+seq14	>ref-NC_010668.1 Heliothis armigera cypovirus 5 segment 3, complete sequence-table4-Spinareovirinae_2-HMM443-796_28.0-ORF33
+seq15	>ref-NC_010743.1 Mycoreovirus 1 segment 1, complete sequence-table6-Spinareovirinae_2-HMM501-871_27.0-ORF38
+seq16	>ref-NC_010746.1 Mycoreovirus 1 segment 4, complete sequence-table6-Spinareovirinae_2-HMM320-413_12.0-ORF26
+seq17	>ref-NC_014600.1 Raspberry latent virus segment S3, complete genome-table4-Spinareovirinae_2-HMM454-819_29.0-ORF47
+seq18	>ref-NC_014714.1 Southern rice black-streaked dwarf virus segment 1, complete genome-table4-Spinareovirinae_2-HMM629-997_24.0-ORF50
+seq19	>ref-NC_016874.1 Spissistilus festinus reovirus segment 2, complete genome-table6-Spinareovirinae_2-HMM450-799_27.0-ORF31
+seq20	>ref-NC_023491.1 Inachis io cypovirus 2 segment 1, complete sequence-table6-Spinareovirinae_2-HMM444-795_28.0-ORF37
+seq21	>ref-NC_025486.1 Fako virus strain CSW77 segment 2 RNA-dependent RNA polymerase gene, complete cds-table6-Spinareovirinae_2-HMM454-821_29.0-ORF48
+seq22	>ref-NC_025847.1 Dendrolimus punctatus cypovirus 22 isolate Macheng segment 3, complete sequence-table6-Spinareovirinae_2-HMM438-785_28.0-ORF38
+seq23	>ref-NC_027567.1 Lutzomyia reovirus 1 isolate piaui segment RNA-dependent RNA polymerase RNA-dependent RNA polymerase gene, complete cds-table6-Spinareovirinae_2-HMM455-808_28.0-ORF36
+seq24	>ref-NC_023420.2 Cimodo virus strain C74-CI-2004 segment 1, complete sequence-table6-Spinareovirinae_2-HMM528-874_25.0-ORF50
+seq25	>ref-NC_030158.1 Sclerotinia sclerotiorum mycoreovirus 4 isolate SX10 segment 1, complete sequence-table4-Spinareovirinae_2-HMM496-887_28.0-ORF38
+seq26	>ref-NC_032167.1 Hubei insect virus 2 strain arthropodmix13736 RNA-dependent RNA polymerase gene, complete cds-table6-Spinareovirinae_2-HMM673-1031_23.0-ORF53
+seq27	>ref-NC_032258.1 Hubei lepidoptera virus 3 strain LCM141729 RNA-dependent RNA polymerase gene, complete cds-table4-Spinareovirinae_2-HMM443-792_28.0-ORF38
+seq28	>ref-NC_032504.1 Wuhan heteroptera virus 3 strain WHYCM468 RNA-dependent RNA polymerase gene, complete cds-table6-Spinareovirinae_2-HMM674-1032_24.0-ORF45
+seq29	>ref-NC_027808.1 Grapevine Cabernet Sauvignon reovirus isolate CS-BR p3a gene, complete cds-table6-Spinareovirinae_2-HMM460-823_28.0-ORF33
+seq30	>nrnt-KP714078 Torrey Pines virus segment 1 putative replicase gene, complete cds.-table6-Spinareovirinae_2-HMM446-804_28.0-ORF48
+seq31	>nrnt-MF185832 Red currant associated reovirus isolate Hlinik 35 putative RNA-dependent RNA polymerase gene, partial cds.-table1-Spinareovirinae_2-HMM29-389_66.0-ORF18
+seq32	>nrnt-LC275168 Tarumizu tick virus VP1 gene for RNA-dependent RNA polymerase, complete cds, strain: 13T276.-table6-Spinareovirinae_2-HMM546-942_27.0-ORF43
+seq33	>nrnt-KX509952 Daphnis nerii cypovirus isolate Nanchang segment 2 hypothetical protein gene, complete cds.-table4-Spinareovirinae_2-HMM451-805_28.0-ORF44
+seq34	>nrnt-KU255424 Sclerotinia sclerotiorum reovirus 1 segment S1, complete sequence.-table4-Spinareovirinae_2-HMM591-974_25.0-ORF44
+seq35	>nrnt-KU754533 Soudat virus segment 1 putative polymerase gene, partial cds.-table6-Spinareovirinae_2-HMM521-876_28.0-ORF38
+seq36	>nrnt-KU169879 Anopheles cypovirus RNA-dependent RNA polymerase gene, complete cds.-table6-Spinareovirinae_2-HMM451-799_27.0-ORF43
+seq37	>nrnt-KT698830 Diaphorina citri reovirus isolate FL1 RNA-dependent RNA polymerase gene, complete cds.-table6-Spinareovirinae_2-HMM574-925_24.0-ORF47
+seq38	>nrnt-LC019124 Cryphonectria parasitica mycoreovirus-1 (9B21) gene for VP1 protein, strain: MyRV1/S4ss3/S1Db.-table6-Spinareovirinae_2-HMM501-871_13.0-ORF75
+seq39	>nrnt-LC019123 Cryphonectria parasitica mycoreovirus-1 (9B21) gene for VP1 protein, strain: MyRV1/S4ss3/S1Da.-table6-Spinareovirinae_2-HMM528-898_26.0-ORF76
+seq40	>nrnt-KR003805 Lutzomyia reovirus 2 isolate piaui segment RNA-dependent RNA polymerase RNA-dependent RNA polymerase gene, complete cds.-table6-Spinareovirinae_2-HMM432-785_28.0-ORF43
+seq41	>nrnt-JN792199 Acinopterus angulatus reovirus strain Fresno1 RNA-directed RNA polymerase (P1) gene, complete cds.-table4-Spinareovirinae_2-HMM447-798_28.0-ORF46
+seq42	>nrnt-GQ351286 Antheraea mylitta cypovirus 4 segment 2, complete sequence.-table4-Spinareovirinae_2-HMM456-802_30.0-ORF37
+seq43	>nrnt-FV536861 (REVERSE SENSE) Modified Microbial Nucleic Acid.-table6-Spinareovirinae_2-HMM547-945_27.0-ORF62
+seq44	>nrnt-DQ192251 Operophtera brumata cypovirus 19 segment 2, complete sequence.-table4-Spinareovirinae_2-HMM438-787_28.0-ORF43
+seq45	>nrnt-EU486988 Choristoneura occidentalis cypovirus 16 segment 2, complete sequence.-table6-Spinareovirinae_2-HMM450-804_28.0-ORF32
+seq46	>nrnt-KX884720 Hubei reo-like virus 5 strain WHCCII11806 RdRp and hypothetical protein genes, complete cds.-table4-Spinareovirinae_2-HMM476-836_28.0-ORF41
+seq47	>nrnt-KX884716 Hubei reo-like virus 6 strain WGML611819 RNA-dependent RNA polymerase gene, complete cds.-table4-Spinareovirinae_2-HMM796-923_9.0-ORF47
+seq48	>nrnt-KX884712 Hubei reo-like virus 4 strain WGML144712 RNA-dependent RNA polymerase gene, complete cds.-table6-Spinareovirinae_2-HMM488-838_26.0-ORF39
+seq49	>nrnt-KX884711 Sanxia reo-like virus 1 strain SXSSP2271 RdRp gene, partial cds.-table6-Spinareovirinae_2-HMM576-933_22.0-ORF47
+seq50	>nrnt-KX884696 Hubei diptera virus 21 strain SCM95013 RNA-dependent RNA polymerase gene, complete cds.-table6-Spinareovirinae_2-HMM528-882_25.0-ORF42
+seq51	>nrnt-KX884693 Hubei diptera virus 20 strain SCM51404 RNA-dependent RNA polymerase gene, complete cds.-table6-Spinareovirinae_2-HMM555-921_26.0-ORF43
+seq52	>nrnt-KX884692 Hubei reo-like virus 3 strain SCM43983 RdRp gene, complete cds.-table6-Spinareovirinae_2-HMM590-920_23.0-ORF41
+seq53	>nrnt-KX884686 Hubei reo-like virus 9 strain QTM27922 RdRp gene, complete cds.-table6-Spinareovirinae_2-HMM449-800_27.0-ORF48
+seq54	>nrnt-KX884683 Hubei odonate virus 14 strain QTM27275 RNA-dependent RNA polymerase gene, complete cds.-table6-Spinareovirinae_2-HMM631-958_22.0-ORF46
+seq55	>nrnt-KX884662 Hubei reo-like virus 2 strain QTM25955 RNA-dependent RNA polymerase gene, complete cds.-table6-Spinareovirinae_2-HMM540-892_25.0-ORF40
+seq56	>nrnt-KX884637 Hubei reo-like virus 1 strain QCM786512 RdRp gene, complete cds.-table6-Spinareovirinae_2-HMM623-982_24.0-ORF46
+seq57	>nrnt-KX884636 Hubei reo-like virus 8 strain mosHB236127 RdRp gene, complete cds.-table6-Spinareovirinae_2-HMM448-797_26.0-ORF45
+seq58	>nrnt-KX884633 Hubei mosquito virus 5 strain mosHB233040 RdRp gene, partial cds.-table1-Spinareovirinae_2-HMM451-798_28.0-ORF33
+seq59	>tsa-GAYY02032324.1 TSA: Acanthocasuarina muellerianae C203812_a_56_0_l_4203 transcribed RNA sequence-table6-Spinareovirinae_2-HMM502-743_17.0-ORF38
+seq60	>tsa-GAUE02013860.1 (REVERSE SENSE) TSA: Anurida maritima C98610_a_10_0_l_4248 transcribed RNA sequence-table6-Spinareovirinae_2-HMM531-919_27.0-ORF92
+seq61	>tsa-HAGZ01021141.1 (REVERSE SENSE) TSA: Craterolophus convolvulus, contig Convo_TRINITY_DN40257_c0_g1_i1, transcribed RNA sequence-table6-Spinareovirinae_2-HMM36-206_39.0-ORF37
+seq62	>tsa-HAGZ01026018.1 (REVERSE SENSE) TSA: Craterolophus convolvulus, contig Convo_TRINITY_DN12492_c0_g1_i1, transcribed RNA sequence-table1-Spinareovirinae_2-HMM80-198_56.0-ORF20
+seq63	>tsa-GAWI01008660.1 (REVERSE SENSE) TSA: Delia antiqua Unigene4193 transcribed RNA sequence-table1-Spinareovirinae_2-HMM151-528_44.0-ORF69
+seq64	>tsa-GBLP01020576.1 TSA: Diglyphus isaea s2487_L_3986_3_a_42_3_l_4091 transcribed RNA sequence-table6-Spinareovirinae_2-HMM554-909_26.0-ORF45
+seq65	>tsa-GARO01000435.1 TSA: Echinogammarus veneris Echinogammarus_veneris_contig_339_1 transcribed RNA sequence-table1-Spinareovirinae_2-HMM561-883_28.0-ORF41
+seq66	>tsa-GBER01012870.1 (REVERSE SENSE) TSA: Euschistus heros Locus_19559_Transcript_1/1_Confidence_1.000_Length_569 transcribed RNA sequence-table1-Spinareovirinae_2-HMM57-180_65.0-ORF15
+seq67	>tsa-GBER01015017.1 TSA: Euschistus heros Locus_26333_Transcript_1/1_Confidence_1.000_Length_452 transcribed RNA sequence-table6-Spinareovirinae_2-HMM35-150_76.0-ORF4
+seq68	>tsa-GFCV01056421.1 (REVERSE SENSE) TSA: Gammarus chevreuxi TRINITY_DN63592_c0_g1_i1 transcribed RNA sequence-table4-Spinareovirinae_2-HMM560-882_24.0-ORF98
+seq69	>tsa-GBDM01000458.1 TSA: Helicoverpa armigera m.867 transcribed RNA sequence-table4-Spinareovirinae_2-HMM341-694_31.0-ORF27
+seq70	>tsa-GBTA01063990.1 TSA: Helicoverpa assulta m.3366 transcribed RNA sequence-table4-Spinareovirinae_2-HMM106-459_39.0-ORF21
+seq71	>tsa-GDLS01016524.1 (REVERSE SENSE) TSA: Hypothenemus hampei C136198 transcribed RNA sequence-table6-Spinareovirinae_2-HMM110-467_38.0-ORF61
+seq72	>tsa-GDLS01017018.1 TSA: Hypothenemus hampei C137776 transcribed RNA sequence-table4-Spinareovirinae_2-HMM547-908_26.0-ORF46
+seq73	>tsa-GDLS01017031.1 (REVERSE SENSE) TSA: Hypothenemus hampei C137812 transcribed RNA sequence-table4-Spinareovirinae_2-HMM571-927_25.0-ORF128
+seq74	>tsa-GBNX01015327.1 (REVERSE SENSE) TSA: Macropis fulvipes C62529_a_11_0_l_2839 transcribed RNA sequence-table1-Spinareovirinae_2-HMM563-916_37.0-ORF66
+seq75	>tsa-GANM01000503.1 TSA: Nilaparvata lugens Unigene618_All transcribed RNA sequence-table6-Spinareovirinae_2-HMM609-970_24.0-ORF42
+seq76	>tsa-GANM01000504.1 TSA: Nilaparvata lugens Unigene619_All transcribed RNA sequence-table6-Spinareovirinae_2-HMM609-970_24.0-ORF40
+seq77	>tsa-GAYF02025213.1 TSA: Nilaparvata lugens C184525_a_7_0_l_4357 transcribed RNA sequence-table6-Spinareovirinae_2-HMM607-968_24.0-ORF40
+seq78	>tsa-GBGV01073423.1 (REVERSE SENSE) TSA: Polistes metricus PmetTSAr1.1-073423 transcribed RNA sequence-table1-Spinareovirinae_2-HMM7-207_96.0-ORF18
+seq79	>tsa-HAEW01043192.1 (REVERSE SENSE) TSA: Proasellus ebrensis, contig c33848_g2_i2, transcribed RNA sequence-table1-Spinareovirinae_2-HMM3-282_88.0-ORF18
+seq80	>tsa-HAEW01043194.1 (REVERSE SENSE) TSA: Proasellus ebrensis, contig c33848_g2_i3, transcribed RNA sequence-table1-Spinareovirinae_2-HMM3-252_94.0-ORF15
+seq81	>tsa-HAEW01043201.1 (REVERSE SENSE) TSA: Proasellus ebrensis, contig c33848_g2_i4, transcribed RNA sequence-table4-Spinareovirinae_2-HMM3-282_57.0-ORF38
+seq82	>tsa-HAEW01043203.1 (REVERSE SENSE) TSA: Proasellus ebrensis, contig c33848_g2_i5, transcribed RNA sequence-table1-Spinareovirinae_2-HMM3-282_57.0-ORF32
+seq83	>tsa-HAFH01019312.1 (REVERSE SENSE) TSA: Proasellus racovitzai, contig comp32142_c0_seq1, transcribed RNA sequence-table1-Spinareovirinae_2-HMM601-933_24.0-ORF89
+seq84	>tsa-HAFH01019313.1 (REVERSE SENSE) TSA: Proasellus racovitzai, contig comp32142_c0_seq2, transcribed RNA sequence-table1-Spinareovirinae_2-HMM183-515_36.0-ORF59
+seq85	>tsa-GAOQ01027527.1 TSA: Spodoptera exigua SE_U27998 transcribed RNA sequence-table6-Spinareovirinae_2-HMM6-77_80.0-ORF2
+seq86	>tsa-GAOQ01039116.1 TSA: Spodoptera exigua SE_U41231 transcribed RNA sequence-table4-Spinareovirinae_2-HMM1-144_90.0-ORF4
+seq87	>tsa-GAOQ01046122.1 TSA: Spodoptera exigua SE_U49367 transcribed RNA sequence-table4-Spinareovirinae_2-HMM2-104_97.0-ORF2
+seq88	>tsa-GAOR01012961.1 TSA: Spodoptera exigua SEX-LxN_Contig_3719 transcribed RNA sequence-table6-Spinareovirinae_2-HMM6-115_93.0-ORF3
+seq89	>tsa-GBBP01003534.1 TSA: Teleopsis dalmanni Td_comp112378_c1_seq1 transcribed RNA sequence-table6-Spinareovirinae_2-HMM181-545_36.0-ORF30
+seq90	>tsa-GBBP01003535.1 (REVERSE SENSE) TSA: Teleopsis dalmanni Td_comp112378_c1_seq2 transcribed RNA sequence-table4-Spinareovirinae_2-HMM181-545_46.0-ORF59
+seq91	>tsa-GBUQ01014617.1 TSA: Trichopria drosophilae C60856_a_44_0_l_4409 transcribed RNA sequence-table6-Spinareovirinae_2-HMM577-925_24.0-ORF42

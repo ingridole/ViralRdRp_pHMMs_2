@@ -1,0 +1,48 @@
+seq1	>ref-NC_033047.1 Beihai weivirus-like virus 4 strain BWBFG40762 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds-table4-Weivirus-HMM279-704_42.0-ORF13
+seq2	>ref-NC_032962.1 Beihai weivirus-like virus 2 strain BHZC36779 hypothetical protein, RNA-dependent RNA polymerase, and putative capsid protein genes, complete cds-table6-Weivirus-HMM442-770_32.0-ORF23
+seq3	>ref-NC_033035.1 Beihai weivirus-like virus 15 strain BWBFG27289 hypothetical protein 1, RNA-dependent RNA polymerase, and hypothetical protein 2 genes, complete cds-table4-Weivirus-HMM364-792_38.0-ORF6
+seq4	>ref-NC_033031.1 Beihai weivirus-like virus 1 strain BWBFG40821 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds-table6-Weivirus-HMM420-746_33.0-ORF25
+seq5	>ref-NC_032950.1 Beihai weivirus-like virus 8 strain BHZC36478 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds-table6-Weivirus-HMM580-835_24.0-ORF37
+seq6	>ref-NC_033074.1 Beihai weivirus-like virus 20 strain BWBFG40173 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds-table4-Weivirus-HMM85-525_69.0-ORF11
+seq7	>ref-NC_032974.1 Beihai weivirus-like virus 16 strain BHZY60618 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds-table6-Weivirus-HMM335-743_47.0-ORF22
+seq8	>ref-NC_033066.1 Beihai weivirus-like virus 11 strain BWBFG40530 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds-table6-Weivirus-HMM615-867_24.0-ORF29
+seq9	>ref-NC_033085.1 Beihai weivirus-like virus 9 strain BWBFG39428 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds-table6-Weivirus-HMM533-785_27.0-ORF31
+seq10	>ref-NC_032968.1 Beihai weivirus-like virus 3 strain BHZY60776 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds-table4-Weivirus-HMM339-667_35.0-ORF15
+seq11	>ref-NC_033004.1 Beihai weivirus-like virus 18 strain BHZY59250 RNA-dependent RNA polymerase gene, complete cds-table6-Weivirus-HMM298-756_52.0-ORF28
+seq12	>ref-NC_033020.1 Beihai weivirus-like virus 13 strain BHZY60103 RNA-dependent RNA polymerase, hypothetical protein 1, and hypothetical protein 2 genes, complete cds-table6-Weivirus-HMM259-718_52.0-ORF23
+seq13	>ref-NC_032995.1 Beihai weivirus-like virus 7 strain BHZY60887 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds-table4-Weivirus-HMM262-689_54.0-ORF17
+seq14	>ref-NC_033007.1 Beihai weivirus-like virus 21 strain BHZY60867 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds-table4-Weivirus-HMM273-713_53.0-ORF12
+seq15	>ref-NC_032955.1 Beihai weivirus-like virus 17 strain BHZC37426 RNA-dependent RNA polymerase, hypothetical protein, and putative capsid protein genes, complete cds-table6-Weivirus-HMM316-766_48.0-ORF26
+seq16	>ref-NC_033056.1 Beihai weivirus-like virus 12 strain BWBFG40815 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds-table4-Weivirus-HMM298-749_49.0-ORF21
+seq17	>ref-NC_032980.1 Beihai weivirus-like virus 5 strain BHZY60693 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds-table6-Weivirus-HMM344-770_47.0-ORF27
+seq18	>ref-NC_033422.1 Wenzhou weivirus-like virus 1 strain beimix75799 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds-table4-Weivirus-HMM322-748_45.0-ORF11
+seq19	>nrnt-MF190010 Barns Ness breadcrumb sponge weivirus-like virus 9 isolate Q25, partial genome.-table6-Weivirus-HMM311-716_46.0-ORF24
+seq20	>nrnt-MF190009 Barns Ness breadcrumb sponge weivirus-like virus 8 isolate X95, partial genome.-table6-Weivirus-HMM274-607_54.0-ORF18
+seq21	>nrnt-MF190007 Barns Ness breadcrumb sponge weivirus-like virus 6 isolate Z53, partial genome.-table6-Weivirus-HMM295-733_48.0-ORF29
+seq22	>nrnt-MF190006 Barns Ness breadcrumb sponge weivirus-like virus 5 isolate S41, partial genome.-table1-Weivirus-HMM5-362_82.0-ORF16
+seq23	>nrnt-MF190003 Barns Ness breadcrumb sponge weivirus-like virus 2 isolate H35, partial genome.-table6-Weivirus-HMM6-108_30.0-ORF10
+seq24	>nrnt-MF190002 Barns Ness breadcrumb sponge weivirus-like virus 1 isolate V92, partial genome.-table6-Weivirus-HMM298-626_37.0-ORF28
+seq25	>nrnt-KX884018 Beihai weivirus-like virus 21 strain BHZY60786 RNA-dependent RNA polymerase and hypothetical protein genes, complete cds.-table4-Weivirus-HMM286-730_51.0-ORF19
+seq26	>nrnt-KX884015 Beihai weivirus-like virus 19 strain BHZY59816 RNA-dependent RNA polymerase gene, complete cds; and hypothetical protein gene, partial cds.-table4-Weivirus-HMM261-702_54.0-ORF13
+seq27	>nrnt-KX538960 Symbiodinium +ssRNA virus TR74740 c13_g1_i1 non-coding RNA gene, partial sequence; and putative RNA-dependent RNA polymerase and putative major capsid protein genes, complete cds.-table6-Weivirus-HMM257-678_47.0-ORF28
+seq28	>tsa-GFAZ01166878.1 (REVERSE SENSE) TSA: Galaxea fascicularis c24381_g1 transcribed RNA sequence-table1-Weivirus-HMM3-92_71.0-ORF9
+seq29	>tsa-GFAZ01166879.1 TSA: Galaxea fascicularis c24381_g2 transcribed RNA sequence-table1-Weivirus-HMM3-243_96.0-ORF9
+seq30	>tsa-GFAZ01208007.1 TSA: Galaxea fascicularis c283075_g1 transcribed RNA sequence-table1-Weivirus-HMM15-97_82.0-ORF3
+seq31	>tsa-GFAZ01216708.1 (REVERSE SENSE) TSA: Galaxea fascicularis c291471_g1 transcribed RNA sequence-table1-Weivirus-HMM3-84_94.0-ORF8
+seq32	>tsa-GFAZ01227518.1 (REVERSE SENSE) TSA: Galaxea fascicularis c30179_g1 transcribed RNA sequence-table1-Weivirus-HMM1-80_97.0-ORF7
+seq33	>tsa-GFAS01017427.1 TSA: Millepora alcicornis TRINITY_DN15867_c0_g1_i1 transcribed RNA sequence-table1-Weivirus-HMM37-81_47.0-ORF3
+seq34	>tsa-GFAS01046357.1 TSA: Millepora alcicornis TRINITY_DN41963_c0_g1_i1 transcribed RNA sequence-table4-Weivirus-HMM36-248_85.0-ORF9
+seq35	>tsa-GFAS01046358.1 TSA: Millepora alcicornis TRINITY_DN41963_c0_g2_i1 transcribed RNA sequence-table1-Weivirus-HMM1-269_99.0-ORF7
+seq36	>tsa-GFAS01068951.1 TSA: Millepora alcicornis TRINITY_DN58733_c0_g1_i1 transcribed RNA sequence-table4-Weivirus-HMM1-255_67.0-ORF15
+seq37	>tsa-GFAS01209401.1 TSA: Millepora alcicornis TRINITY_DN124656_c0_g1_i1 transcribed RNA sequence-table6-Weivirus-HMM8-137_34.0-ORF11
+seq38	>tsa-GFAS01226099.1 (REVERSE SENSE) TSA: Millepora alcicornis TRINITY_DN129179_c0_g1_i1 transcribed RNA sequence-table6-Weivirus-HMM3-297_72.0-ORF34
+seq39	>tsa-GFAS01277534.1 (REVERSE SENSE) TSA: Millepora alcicornis TRINITY_DN137934_c0_g2_i1 transcribed RNA sequence-table4-Weivirus-HMM6-443_77.0-ORF76
+seq40	>tsa-GESO01104417.1 TSA: Palythoa caribaeorum Unigene75086_All transcribed RNA sequence-table1-Weivirus-HMM29-102_71.0-ORF2
+seq41	>tsa-GEHP01060127.1 TSA: Porites astreoides TR57395_c0_g1_i1 transcribed RNA sequence-table1-Weivirus-HMM8-125_84.0-ORF5
+seq42	>tsa-GEHP01147214.1 TSA: Porites astreoides TR93396_c0_g1_i1 transcribed RNA sequence-table6-Weivirus-HMM3-234_90.0-ORF9
+seq43	>tsa-GEHP01190697.1 (REVERSE SENSE) TSA: Porites astreoides TR104137_c0_g1_i1 transcribed RNA sequence-table4-Weivirus-HMM270-683_51.0-ORF55
+seq44	>tsa-GEHP01190703.1 (REVERSE SENSE) TSA: Porites astreoides TR104137_c4_g1_i1 transcribed RNA sequence-table1-Weivirus-HMM1-279_80.0-ORF25
+seq45	>tsa-GEHP01263448.1 TSA: Porites astreoides TR119327_c0_g1_i1 transcribed RNA sequence-table1-Weivirus-HMM72-427_82.0-ORF15
+seq46	>tsa-GELN01028431.1 (REVERSE SENSE) TSA: Ricordea yuma comp5611_c0_seq1 transcribed RNA sequence-table1-Weivirus-HMM1-173_65.0-ORF23
+seq47	>tsa-GELN01039390.1 TSA: Ricordea yuma comp74475_c0_seq1 transcribed RNA sequence-table6-Weivirus-HMM270-683_51.0-ORF21
+seq48	>tsa-GELN01039605.1 TSA: Ricordea yuma comp74737_c0_seq1 transcribed RNA sequence-table6-Weivirus-HMM310-739_48.0-ORF31

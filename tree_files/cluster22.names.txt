@@ -1,0 +1,140 @@
+seq1	>ref-NC_002618.2 Cocksfoot mottle virus, complete genome-table6-Sobemoviridae-HMM42-495_81.0-ORF28
+seq2	>ref-NC_004060.2 Southern bean mosaic virus isolate Sao Paulo, complete genome-table4-Sobemoviridae-HMM73-529_75.0-ORF39
+seq3	>ref-NC_003747.2 Ryegrass mottle virus isolate MAFF. No. 307043 from Japan, complete genome-table4-Sobemoviridae-HMM59-520_75.0-ORF30
+seq4	>ref-NC_001696.2 Lucerne transient streak virus isolate LTSV-Can, complete genome-table4-Sobemoviridae-HMM60-513_76.0-ORF30
+seq5	>ref-NC_002568.2 Sesbania mosaic virus, complete genome-table4-Sobemoviridae-HMM74-530_76.0-ORF37
+seq6	>ref-NC_004346.1 Subterranean clover mottle virus, complete genome-table4-Sobemoviridae-HMM44-499_79.0-ORF34
+seq7	>ref-NC_001575.2 Rice yellow mottle virus complete genome, isolate CI4-table4-Sobemoviridae-HMM103-558_74.0-ORF32
+seq8	>ref-NC_001625.2 Southern cowpea mosaic virus, complete genome-table4-Sobemoviridae-HMM68-522_77.0-ORF28
+seq9	>ref-NC_011536.1 Imperata yellow mottle virus, complete genome-table4-Sobemoviridae-HMM107-566_67.0-ORF31
+seq10	>ref-NC_011187.1 Rubus chlorotic mottle virus, complete genome-table6-Sobemoviridae-HMM33-486_82.0-ORF30
+seq11	>ref-NC_014509.2 Velvet tobacco mottle virus, complete genome-table6-Sobemoviridae-HMM36-497_71.0-ORF34
+seq12	>ref-NC_016033.1 Soybean yellow common mosaic virus, complete genome-table4-Sobemoviridae-HMM76-533_69.0-ORF33
+seq13	>ref-NC_017914.1 Artemisia virus A, complete genome-table4-Sobemoviridae-HMM71-528_80.0-ORF31
+seq14	>ref-NC_018449.1 Papaya lethal yellowing virus, complete genome-table4-Sobemoviridae-HMM103-555_67.0-ORF40
+seq15	>ref-NC_004553.3 Turnip rosette virus isolate TRoV-1, complete genome-table4-Sobemoviridae-HMM90-546_76.0-ORF34
+seq16	>ref-NC_027123.1 Cymbidium chlorotic mosaic virus genomic RNA, complete genome, isolate: Cym92-20-table6-Sobemoviridae-HMM37-486_80.0-ORF33
+seq17	>ref-NC_027198.1 Rottboellia yellow mottle virus culture-collection DSM:PV-0496, complete genome-table6-Sobemoviridae-HMM32-489_72.0-ORF38
+seq18	>ref-NC_029578.1 Blueberry shoestring virus genomic RNA, polyprotein, strain: BSSV-table4-Sobemoviridae-HMM40-498_73.0-ORF29
+seq19	>ref-NC_032208.1 Hubei sobemo-like virus 15 strain tick96090 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Sobemoviridae-HMM118-456_61.0-ORF31
+seq20	>ref-NC_032189.1 Hubei sobemo-like virus 11 strain spider125434 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Sobemoviridae-HMM208-413_40.0-ORF29
+seq21	>ref-NC_032196.1 Hubei sobemo-like virus 7 strain spider134446 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Sobemoviridae-HMM290-455_26.0-ORF26
+seq22	>ref-NC_032213.1 Hubei sobemo-like virus 44 strain WGML133391 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Sobemoviridae-HMM64-359_55.0-ORF30
+seq23	>ref-NC_032223.1 Hubei sobemo-like virus 31 strain WHCC117732 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Sobemoviridae-HMM60-392_69.0-ORF33
+seq24	>ref-NC_032229.1 Hubei sobemo-like virus 24 strain WHLC5390 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Sobemoviridae-HMM224-498_43.0-ORF7
+seq25	>ref-NC_032214.1 Hubei sobemo-like virus 2 strain WGML145690 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Sobemoviridae-HMM40-481_66.0-ORF36
+seq26	>ref-NC_032182.1 Hubei sobemo-like virus 12 strain spider127544 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Sobemoviridae-HMM203-397_38.0-ORF28
+seq27	>ref-NC_032236.1 Hubei sobemo-like virus 8 strain QTM19779 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Sobemoviridae-HMM104-363_49.0-ORF24
+seq28	>ref-NC_032188.1 Hubei sobemo-like virus 36 strain spider124913 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Sobemoviridae-HMM50-367_58.0-ORF33
+seq29	>ref-NC_032216.1 Hubei sobemo-like virus 16 strain WGML146458 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Sobemoviridae-HMM256-629_55.0-ORF31
+seq30	>ref-NC_032183.1 Beihai sobemo-like virus 24 strain BHBJDX18033 hypothetical protein genes, complete cds-table4-Sobemoviridae-HMM284-503_34.0-ORF37
+seq31	>ref-NC_032207.1 Hubei sobemo-like virus 1 strain SZmix20791 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table4-Sobemoviridae-HMM135-511_64.0-ORF19
+seq32	>ref-NC_032184.1 Hubei sobemo-like virus 9 strain spider112041 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Sobemoviridae-HMM43-424_79.0-ORF31
+seq33	>ref-NC_032197.1 Hubei sobemo-like virus 5 strain spider59976 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Sobemoviridae-HMM182-403_40.0-ORF29
+seq34	>ref-NC_032239.1 Hubei sobemo-like virus 37 strain QTM25849 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table4-Sobemoviridae-HMM131-363_48.0-ORF20
+seq35	>ref-NC_032178.1 Hubei sobemo-like virus 26 strain arthropodmix14077 hypothetical protein genes, complete cds-table6-Sobemoviridae-HMM97-404_59.0-ORF35
+seq36	>ref-NC_032204.1 Beihai sobemo-like virus 10 strain BHZY60634 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Sobemoviridae-HMM831-1044_15.0-ORF38
+seq37	>ref-NC_032252.1 Hubei sobemo-like virus 14 strain QTM6420 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Sobemoviridae-HMM60-402_69.0-ORF23
+seq38	>ref-NC_032199.1 Hubei sobemo-like virus 10 strain spider133871 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Sobemoviridae-HMM111-383_53.0-ORF28
+seq39	>ref-NC_032190.1 Hubei sobemo-like virus 6 strain spider128669 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Sobemoviridae-HMM264-429_28.0-ORF28
+seq40	>ref-NC_032247.1 Hubei sobemo-like virus 38 strain QTM27202 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Sobemoviridae-HMM125-341_43.0-ORF22
+seq41	>ref-NC_032228.1 Hubei sobemo-like virus 27 strain WHCCII13324 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Sobemoviridae-HMM66-353_56.0-ORF37
+seq42	>ref-NC_032250.1 Hubei sobemo-like virus 23 strain QTM27250 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Sobemoviridae-HMM63-370_63.0-ORF30
+seq43	>ref-NC_032220.1 Beihai sobemo-like virus 14 strain HOU157842 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Sobemoviridae-HMM210-418_37.0-ORF34
+seq44	>ref-NC_032561.1 Beihai shrimp virus 4 strain BHWZXX19227 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Sobemoviridae-HMM526-796_29.0-ORF22
+seq45	>ref-NC_032586.1 Beihai sobemo-like virus 1 strain BHZY60709 hypothetical protein 1, RdRp, and putative capsid protein genes, complete cds-table6-Sobemoviridae-HMM87-459_65.0-ORF30
+seq46	>ref-NC_033138.1 Wenzhou sobemo-like virus 4 strain mosZJ35391 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Sobemoviridae-HMM50-423_78.0-ORF35
+seq47	>ref-NC_033279.1 Sanxia water strider virus 10 strain SXSSP2571 segment 1 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Sobemoviridae-HMM198-451_49.0-ORF30
+seq48	>ref-NC_033072.1 Shuangao sobemo-like virus 3 strain insectZJ66198 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Sobemoviridae-HMM147-337_39.0-ORF22
+seq49	>ref-NC_033084.1 Shuangao sobemo-like virus 1 strain insectZJ66941 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Sobemoviridae-HMM56-365_63.0-ORF36
+seq50	>ref-NC_033095.1 Shuangao insect virus 9 strain insectZJ96499 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Sobemoviridae-HMM184-343_31.0-ORF32
+seq51	>ref-NC_032913.1 Beihai sobemo-like virus 21 strain BHZY58647 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Sobemoviridae-HMM552-801_27.0-ORF40
+seq52	>ref-NC_032859.1 Beihai sobemo-like virus 22 strain BHWZXX14614 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Sobemoviridae-HMM247-532_43.0-ORF27
+seq53	>ref-NC_033252.1 Beihai sobemo-like virus 13 strain YYSZX17641 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Sobemoviridae-HMM178-429_46.0-ORF34
+seq54	>ref-NC_032934.1 Beihai sobemo-like virus 5 strain BHZY60175 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Sobemoviridae-HMM735-977_21.0-ORF33
+seq55	>ref-NC_032967.1 Beihai sobemo-like virus 23 strain BHZY181484 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Sobemoviridae-HMM321-606_38.0-ORF44
+seq56	>ref-NC_032889.1 Beihai sobemo-like virus 2 strain BHZC35241 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Sobemoviridae-HMM73-501_76.0-ORF34
+seq57	>ref-NC_033011.1 Changjiang sobemo-like virus 1 strain CJLX29826 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table4-Sobemoviridae-HMM73-499_84.0-ORF39
+seq58	>ref-NC_033305.1 Hubei mosquito virus 2 strain mosZJ35453 segment 1 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Sobemoviridae-HMM94-456_65.0-ORF41
+seq59	>ref-NC_033239.1 Wenzhou sobemo-like virus 1 strain WZFSL61418 hypothetical protein gene, complete cds-table4-Sobemoviridae-HMM697-942_17.0-ORF36
+seq60	>ref-NC_033446.1 Wuhan arthropod virus 4 strain WHCC117028 segment 1 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Sobemoviridae-HMM225-416_36.0-ORF33
+seq61	>ref-NC_033472.1 Wuhan insect virus 17 strain WHCCII1277 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Sobemoviridae-HMM149-380_43.0-ORF31
+seq62	>ref-NC_033480.1 Wuhan house centipede virus 4 strain WHYY19909 segment 1 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Sobemoviridae-HMM220-415_36.0-ORF27
+seq63	>ref-NC_033487.1 Wuhan heteroptera virus 2 strain arthropodmix10101 segment 1 hypothetical protein genes, complete cds-table6-Sobemoviridae-HMM253-413_25.0-ORF26
+seq64	>ref-NC_033706.1 Solanum nodiflorum mottle virus culture-collection ATCC:PV-491, complete genome-table6-Sobemoviridae-HMM47-509_71.0-ORF37
+seq65	>ref-NC_033751.1 Wuhan pillworm virus 3 strain WHSFII20254 segment 1 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Sobemoviridae-HMM128-427_55.0-ORF33
+seq66	>ref-NC_032843.1 Beihai sobemo-like virus 20 strain BHNXC40978 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Sobemoviridae-HMM317-541_33.0-ORF23
+seq67	>ref-NC_032923.1 Sanxia sobemo-like virus 1 strain SXSSP20269 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table6-Sobemoviridae-HMM194-412_37.0-ORF27
+seq68	>nrnt-KX882828 Hubei sobemo-like virus 39 strain mosHB229649 hypothetical protein 2 and hypothetical protein 1 genes, complete cds; and hypothetical protein 3 gene, partial cds.-table4-Sobemoviridae-HMM136-342_44.0-ORF26
+seq69	>nrnt-MF962660 American dog tick associated virus-1 isolate RTS-109 ORF1 gene, complete cds; and ORF2 gene, partial cds.-table4-Sobemoviridae-HMM172-499_58.0-ORF17
+seq70	>nrnt-KX578272 Varroa destructor virus 3 isolate VDV-3, complete genome.-table6-Sobemoviridae-HMM292-509_31.0-ORF40
+seq71	>nrnt-MF176386 Culex luteo-like virus strain mosWSX49277 segment 1, complete sequence.-table6-Sobemoviridae-HMM214-431_39.0-ORF24
+seq72	>nrnt-KX138223 Baird Spence virus strain UW protease gene, complete cds; and RNA-dependent RNA polymerase gene, partial cds.-table6-Sobemoviridae-HMM162-461_59.0-ORF26
+seq73	>nrnt-KP714076 Motts Mill virus note fragment 1 orf1 gene, complete cds; and orf2 gene, partial cds.-table4-Sobemoviridae-HMM156-424_52.0-ORF32
+seq74	>nrnt-MF141068 Norway luteo-like virus 2 isolate NOR/A2/Bronnoya/2014 RNA-dependent RNA-polymerase gene, complete cds.-table4-Sobemoviridae-HMM391-645_34.0-ORF16
+seq75	>nrnt-MF189986 Caledonia beadlet anemone sobemo-like virus 1 isolate G94, partial genome.-table4-Sobemoviridae-HMM263-422_25.0-ORF42
+seq76	>tsa-GEZL01172061.1 (REVERSE SENSE) TSA: Ambrosia artemisiifolia TR58783_c0_g1_i1 transcribed RNA sequence-table1-Sobemoviridae-HMM3-69_76.0-ORF8
+seq77	>tsa-GEZL01182361.1 TSA: Ambrosia artemisiifolia TR70413_c0_g1_i1 transcribed RNA sequence-table1-Sobemoviridae-HMM2-83_97.0-ORF2
+seq78	>tsa-GABB01012688.1 (REVERSE SENSE) TSA: Archaeopsylla erinacei contig12712 mRNA sequence-table1-Sobemoviridae-HMM47-195_67.0-ORF18
+seq79	>tsa-GBRG01058654.1 TSA: Aurelia aurita comp183198_c0_seq1 transcribed RNA sequence-table4-Sobemoviridae-HMM243-420_32.0-ORF30
+seq80	>tsa-HAEN01054361.1 (REVERSE SENSE) TSA: Bragasellus peltatus, contig comp44053_c0_seq1, transcribed RNA sequence-table6-Sobemoviridae-HMM79-372_62.0-ORF58
+seq81	>tsa-GAZX01005758.1 TSA: Caligus rogercresseyi tsa-crog-ngs-11088776 transcribed RNA sequence-table1-Sobemoviridae-HMM27-66_58.0-ORF3
+seq82	>tsa-GAZX01029793.1 (REVERSE SENSE) TSA: Caligus rogercresseyi tsa-crog-ngs-11113512 transcribed RNA sequence-table4-Sobemoviridae-HMM111-173_26.0-ORF23
+seq83	>tsa-GAZX01029795.1 (REVERSE SENSE) TSA: Caligus rogercresseyi tsa-crog-ngs-11113514 transcribed RNA sequence-table4-Sobemoviridae-HMM24-84_41.0-ORF14
+seq84	>tsa-GAZX01029797.1 (REVERSE SENSE) TSA: Caligus rogercresseyi tsa-crog-ngs-11113516 transcribed RNA sequence-table4-Sobemoviridae-HMM114-176_26.0-ORF29
+seq85	>tsa-GEUD01026292.1 TSA: Callosobruchus maculatus TR66209-c0_g1_i1 transcribed RNA sequence-table4-Sobemoviridae-HMM298-505_33.0-ORF24
+seq86	>tsa-GEUD01106790.1 TSA: Callosobruchus maculatus TR29276-c0_g1_i1 transcribed RNA sequence-table4-Sobemoviridae-HMM79-393_64.0-ORF37
+seq87	>tsa-GEUE01033133.1 TSA: Callosobruchus maculatus c24464_g1_i2 transcribed RNA sequence-table4-Sobemoviridae-HMM79-393_68.0-ORF33
+seq88	>tsa-GEUE01056860.1 TSA: Callosobruchus maculatus c24464_g1_i1 transcribed RNA sequence-table4-Sobemoviridae-HMM79-393_68.0-ORF36
+seq89	>tsa-GEUF01066266.1 TSA: Callosobruchus maculatus c21405_g1_i1 transcribed RNA sequence-table4-Sobemoviridae-HMM79-393_64.0-ORF37
+seq90	>tsa-GEUH01020756.1 TSA: Callosobruchus maculatus c21179_g1_i1 transcribed RNA sequence-table4-Sobemoviridae-HMM79-393_64.0-ORF28
+seq91	>tsa-GEUH01054687.1 TSA: Callosobruchus maculatus c21179_g1_i2 transcribed RNA sequence-table4-Sobemoviridae-HMM79-393_64.0-ORF37
+seq92	>tsa-GAYH02000014.1 (REVERSE SENSE) TSA: Conwentzia psociformis C153736_a_3_0_l_200 transcribed RNA sequence-table1-Sobemoviridae-HMM8-58_75.0-ORF8
+seq93	>tsa-GATG02006855.1 (REVERSE SENSE) TSA: Corydalus cornutus C42371_a_3_0_l_504 transcribed RNA sequence-table1-Sobemoviridae-HMM91-136_26.0-ORF14
+seq94	>tsa-GESW01013366.1 (REVERSE SENSE) TSA: Cymbidium tortisepalum var. longibracteatum c27970.graph_c0 transcribed RNA sequence-table4-Sobemoviridae-HMM64-513_78.0-ORF86
+seq95	>tsa-GDAR01010891.1 (REVERSE SENSE) TSA: Dendroctonus ponderosae Dpon-CLC-20141217_contig_29611 transcribed RNA sequence-table6-Sobemoviridae-HMM182-389_42.0-ORF66
+seq96	>tsa-GBMA01000626.1 TSA: Diodontus minutus C103763_a_27_0_l_2998 transcribed RNA sequence-table6-Sobemoviridae-HMM60-427_74.0-ORF34
+seq97	>tsa-GEOD01019258.1 (REVERSE SENSE) TSA: Dryadaula visaliella c25787_g1_i1 transcribed RNA sequence-table6-Sobemoviridae-HMM13-174_77.0-ORF14
+seq98	>tsa-GAFQ01024051.1 (REVERSE SENSE) TSA: Elodea nuttallii Locus_13118_Transcript_1/1_Confidence_1.000 mRNA sequence-table1-Sobemoviridae-HMM20-116_82.0-ORF9
+seq99	>tsa-GBGO01000079.1 TSA: Eurytemora affinis comp86_c0_seq1 transcribed RNA sequence-table1-Sobemoviridae-HMM1-142_96.0-ORF4
+seq100	>tsa-GBER01019446.1 TSA: Euschistus heros Locus_63640_Transcript_1/1_Confidence_1.000_Length_542 transcribed RNA sequence-table1-Sobemoviridae-HMM6-171_91.0-ORF7
+seq101	>tsa-GBRX01003073.1 TSA: Glossina palpalis gambiensis GLOS_CABYVGP2.1.1_3133 transcribed RNA sequence-table6-Sobemoviridae-HMM93-364_49.0-ORF33
+seq102	>tsa-GALQ01028642.1 (REVERSE SENSE) TSA: gut metagenome Locus45v1rpkm1504.91 transcribed RNA sequence-table1-Sobemoviridae-HMM2-132_98.0-ORF10
+seq103	>tsa-GALQ01047019.1 (REVERSE SENSE) TSA: gut metagenome Locus46v1rpkm1499.55 transcribed RNA sequence-table1-Sobemoviridae-HMM1-221_94.0-ORF22
+seq104	>tsa-GALQ01087266.1 (REVERSE SENSE) TSA: gut metagenome Locus59v1rpkm1255.49 transcribed RNA sequence-table4-Sobemoviridae-HMM60-134_54.0-ORF12
+seq105	>tsa-GALT01021353.1 TSA: gut metagenome Locus84v1rpkm1095.33 transcribed RNA sequence-table4-Sobemoviridae-HMM60-256_76.0-ORF14
+seq106	>tsa-GALT01055110.1 TSA: gut metagenome Locus66v1rpkm1266.80 transcribed RNA sequence-table1-Sobemoviridae-HMM1-216_90.0-ORF6
+seq107	>tsa-GBJN01049818.1 (REVERSE SENSE) TSA: Latrodectus hesperus Lh0tf085073g0u transcribed RNA sequence-table1-Sobemoviridae-HMM4-74_94.0-ORF8
+seq108	>tsa-GBHO01033620.1 TSA: Lygus hesperus comp4570_c0_seq1 transcribed RNA sequence-table4-Sobemoviridae-HMM80-412_67.0-ORF32
+seq109	>tsa-GBRD01010129.1 TSA: Lygus hesperus comp23619_c0_seq1 transcribed RNA sequence-table4-Sobemoviridae-HMM80-412_67.0-ORF32
+seq110	>tsa-GCPB01014145.1 (REVERSE SENSE) TSA: Megastigmus spermotrophus contig16940 transcribed RNA sequence-table4-Sobemoviridae-HMM9-213_65.0-ORF27
+seq111	>tsa-GBVK01019317.1 TSA: Melitta haemorrhoidalis C90226_a_13_0_l_2123 transcribed RNA sequence-table6-Sobemoviridae-HMM211-420_38.0-ORF22
+seq112	>tsa-GAXM01050225.1 (REVERSE SENSE) TSA: Mischocyttarus flavitarsis comp89779_c0_seq1 transcribed RNA sequence-table1-Sobemoviridae-HMM1-161_74.0-ORF17
+seq113	>tsa-HADN01054580.1 (REVERSE SENSE) TSA: Nematostella vectensis, contig TR24037|c0_g1_i2, transcribed RNA sequence-table4-Sobemoviridae-HMM243-420_32.0-ORF56
+seq114	>tsa-HADP01076100.1 TSA: Nematostella vectensis, contig TR45686|c0_g1_i1, transcribed RNA sequence-table4-Sobemoviridae-HMM243-420_33.0-ORF20
+seq115	>tsa-GAGH01013362.1 (REVERSE SENSE) TSA: Osmia cornuta osmia_antenne_contig_1959_1 transcribed RNA sequence-table4-Sobemoviridae-HMM129-360_47.0-ORF78
+seq116	>tsa-GBUK01024219.1 (REVERSE SENSE) TSA: Osmia cornuta s2783_L_3299_0_a_5_3_l_494 transcribed RNA sequence-table1-Sobemoviridae-HMM1-151_91.0-ORF14
+seq117	>tsa-GBUK01029359.1 (REVERSE SENSE) TSA: Osmia cornuta s7499_L_25325_0_a_54_6_l_2677 transcribed RNA sequence-table4-Sobemoviridae-HMM128-360_47.0-ORF79
+seq118	>tsa-GDHQ01062474.1 TSA: Polistes metricus PmetTSAr2.0-062620 transcribed RNA sequence-table6-Sobemoviridae-HMM214-423_40.0-ORF34
+seq119	>tsa-GDHQ01062475.1 TSA: Polistes metricus PmetTSAr2.0-062621 transcribed RNA sequence-table4-Sobemoviridae-HMM223-433_40.0-ORF29
+seq120	>tsa-HAEP01020762.1 TSA: Proasellus assaforensis, contig comp32535_c0_seq1, transcribed RNA sequence-table4-Sobemoviridae-HMM4-276_63.0-ORF10
+seq121	>tsa-HAET01022221.1 (REVERSE SENSE) TSA: Proasellus coxalis, contig comp30629_c0_seq1, transcribed RNA sequence-table4-Sobemoviridae-HMM4-276_64.0-ORF28
+seq122	>tsa-HAFG01087285.1 TSA: Proasellus parvulus, contig comp88709_c0_seq1, transcribed RNA sequence-table4-Sobemoviridae-HMM3-278_63.0-ORF9
+seq123	>tsa-HAFI01031362.1 TSA: Proasellus rectus, contig comp54609_c0_seq1, transcribed RNA sequence-table4-Sobemoviridae-HMM4-276_63.0-ORF11
+seq124	>tsa-GEOT01022609.1 (REVERSE SENSE) TSA: Pseudopostega quadristrigella TR15042-c1_g2_i1 transcribed RNA sequence-table4-Sobemoviridae-HMM194-401_51.0-ORF42
+seq125	>tsa-GECK01006924.1 TSA: Rhodnius prolixus Rpro_Trinity_comp_11103_c0_seq1 transcribed RNA sequence-table6-Sobemoviridae-HMM190-385_36.0-ORF29
+seq126	>tsa-GECK01019243.1 TSA: Rhodnius prolixus Rpro_Trinity_comp_15593_c0_seq1 transcribed RNA sequence-table6-Sobemoviridae-HMM188-382_36.0-ORF32
+seq127	>tsa-GCVE01038705.1 TSA: Suaeda fruticosa Locus_55644_Transcript_1/63860 transcribed RNA sequence-table6-Sobemoviridae-HMM29-455_92.0-ORF16
+seq128	>tsa-GBVB01030853.1 TSA: Inostemma sp. AD-2014 s502_L_667_0_a_99_2_l_3183 transcribed RNA sequence-table6-Sobemoviridae-HMM71-387_62.0-ORF35
+seq129	>tsa-GBVB01030864.1 TSA: Inostemma sp. AD-2014 s503_L_667_1_a_99_7_l_3183 transcribed RNA sequence-table6-Sobemoviridae-HMM71-387_62.0-ORF35
+seq130	>tsa-GBVB01030875.1 TSA: Inostemma sp. AD-2014 s504_L_667_2_a_100_9_l_3183 transcribed RNA sequence-table6-Sobemoviridae-HMM71-387_62.0-ORF36
+seq131	>tsa-GFTX01019647.1 TSA: Ulva lactuca c22309_g1_i1 transcribed RNA sequence-table6-Sobemoviridae-HMM125-319_60.0-ORF20
+seq132	>tsa-GAUI02038651.1 TSA: Xanthostigma xanthostigma C226103_a_7_0_l_859 transcribed RNA sequence-table6-Sobemoviridae-HMM4-188_67.0-ORF6
+seq133	>tsa-GAYA02009162.1 (REVERSE SENSE) TSA: Zorotypus caudelli C234099_a_3_0_l_242 transcribed RNA sequence-table6-Sobemoviridae-HMM11-74_78.0-ORF6
+seq134	>ref-NC_001633.1 Mushroom bacilliform virus, complete genome-table6-Barnaviridae-HMM104-523_57.0-ORF35
+seq135	>ref-NC_007518.1 Heterocapsa circularisquama RNA virus, complete genome-table6-Barnaviridae-HMM684-809_10.0-ORF28
+seq136	>ref-NC_032785.1 Shahe sobemo-like virus 1 strain SHWCII5101 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Barnaviridae-HMM303-463_21.0-ORF33
+seq137	>ref-NC_032926.1 Beihai sobemo-like virus 4 strain BHZY59438 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Barnaviridae-HMM628-760_12.0-ORF34
+seq138	>nrnt-MG686618 Colobanthus quitensis associated barnavirus 1 strain CqABV-UTus453 polyprotein P2+3, polyprotein P2, P1, and P4 genes, complete cds.-table6-Barnaviridae-HMM151-528_50.0-ORF34
+seq139	>nrnt-KP900904 Rhizoctonia solani barnavirus 1 isolate DV-8 putative ORF2 polyprotein, RNA-dependent RNA polymerase, and putative coat protein genes, complete cds.-table6-Barnaviridae-HMM167-541_64.0-ORF31
+seq140	>tsa-GCIB01019590.1 (REVERSE SENSE) TSA: Colobanthus quitensis Colobanthus_quitensis_contig_19296_1 transcribed RNA sequence-table6-Barnaviridae-HMM151-528_50.0-ORF72

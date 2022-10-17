@@ -1,0 +1,72 @@
+seq1	>ref-NC_001492.1 Cryphonectria hypovirus 1, complete genome-table6-Hypoviridae-HMM1697-2028_10.0-ORF123
+seq2	>ref-NC_000960.1 Cryphonectria hypovirus 3, complete genome-table6-Hypoviridae-HMM1696-1984_9.0-ORF101
+seq3	>ref-NC_003534.1 Cryphonectria hypovirus 2, genome-table6-Hypoviridae-HMM1801-2134_9.0-ORF122
+seq4	>ref-NC_006431.1 Cryphonectria hypovirus 4 endogenous virus, complete genome-table4-Hypoviridae-HMM1656-1943_10.0-ORF61
+seq5	>ref-NC_006937.2 Fusarium graminearum dsRNA mycovirus-1, complete genome-table4-Hypoviridae-HMM437-633_12.0-ORF29
+seq6	>ref-NC_017099.1 Valsa ceratosperma hypovirus 1, complete genome-table6-Hypoviridae-HMM1763-2052_9.0-ORF108
+seq7	>ref-NC_015939.1 Sclerotinia sclerotiorum hypovirus 1, complete genome-table6-Hypoviridae-HMM1749-2038_9.0-ORF101
+seq8	>ref-NC_022896.1 Sclerotinia sclerotiorum hypovirus 2 isolate 5472, complete genome-table6-Hypoviridae-HMM2966-3427_9.0-ORF154
+seq9	>ref-NC_023680.1 Fusarium graminearum hypovirus 1 isolate HN10, complete genome-table6-Hypoviridae-HMM2238-2572_8.0-ORF125
+seq10	>ref-NC_024485.1 Rosellinia necatrix fusarivirus 1 genomic RNA, complete genome, strain: NW10-table6-Hypoviridae-HMM434-627_12.0-ORF58
+seq11	>ref-NC_024685.1 Phomopsis longicolla hypovirus isolate ME711, complete genome-table6-Hypoviridae-HMM1654-1942_9.0-ORF108
+seq12	>ref-NC_024699.1 Penicillium roqueforti ssRNA mycovirus 1 strain PRG42-7 RNA-dependent RNA polymerase and ORF2 genes, complete cds-table6-Hypoviridae-HMM414-609_12.0-ORF51
+seq13	>ref-NC_026813.1 Fusarium graminearum hypovirus 2 isolate FgHV2/JS16, complete genome-table6-Hypoviridae-HMM2261-2588_8.0-ORF126
+seq14	>ref-NC_027208.1 Sclerotinia sclerotiorum fusarivirus 1 strain JMTJ14, complete genome-table6-Hypoviridae-HMM525-759_13.0-ORF68
+seq15	>ref-NC_028470.1 Pleospora typhicola fusarivirus 1 175 kDa protein and 59 kDa protein genes, complete cds-table4-Hypoviridae-HMM410-629_12.0-ORF47
+seq16	>ref-NC_028467.1 Penicillium aurantiogriseum fusarivirus 1 174 kDa protein and 53 kDa protein genes, complete cds-table4-Hypoviridae-HMM372-627_15.0-ORF50
+seq17	>ref-NC_029056.1 Alternaria brassicicola fusarivirus 1 isolate 817-14, complete genome-table4-Hypoviridae-HMM428-653_13.0-ORF47
+seq18	>ref-NC_030868.1 Fusarium poae fusarivirus 1 genomic RNA, complete genome-table6-Hypoviridae-HMM426-621_12.0-ORF49
+seq19	>ref-NC_032212.1 Fusarium langsethiae hypovirus 1 isolate FlHV1/AH32, complete genome-table6-Hypoviridae-HMM2262-2589_8.0-ORF123
+seq20	>ref-NC_032476.1 Beihai hypo-like virus 1 strain BHZC36965 polyprotein gene, complete cds-table4-Hypoviridae-HMM2059-2463_12.0-ORF105
+seq21	>ref-NC_032616.1 Beihai sipunculid worm virus 6 strain BHNXC41400 polyprotein gene, complete cds-table4-Hypoviridae-HMM1570-1987_14.0-ORF86
+seq22	>ref-NC_033473.1 Wuhan insect virus 14 strain WHZM10168 polyprotein gene, complete cds-table6-Hypoviridae-HMM2454-2795_8.0-ORF120
+seq23	>ref-NC_036590.1 Rosellinia necatrix hypovirus 1 genomic RNA, complete genome, strain: Rn-Ca-table6-Hypoviridae-HMM2396-2724_7.0-ORF124
+seq24	>nrnt-MF536691 Entoleuca hypovirus 1 isolate 112-4, complete genome.-table6-Hypoviridae-HMM1879-2201_8.0-ORF131
+seq25	>nrnt-KU291933 Ceratobasidium hypovirus-like isolate contig 1 ORF gene, partial cds.-table1-Hypoviridae-HMM13-102_11.0-ORF24
+seq26	>nrnt-KU291924 Ceratobasidium hypovirus A isolate Murdoch-6 ORF1 gene, complete cds; and ORF2 gene, partial cds.-table6-Hypoviridae-HMM329-590_23.0-ORF62
+seq27	>nrnt-KU885931 Sclerotium rolfsii hypovirus 1 isolate BLH-1 polyprotein gene, partial cds.-table1-Hypoviridae-HMM800-1182_32.0-ORF46
+seq28	>nrnt-KU958514 Trichoderma harzianum hypovirus M2 segment 3, partial sequence.-table1-Hypoviridae-HMM2-285_52.0-ORF17
+seq29	>nrnt-KP900893 Macrophomina phaseolina hypovirus 1 isolate Mp2003b RNA-dependent RNA polymerase gene, partial cds.-table1-Hypoviridae-HMM2833-3154_7.0-ORF137
+seq30	>nrnt-KU553476 UNVERIFIED: Trichoderma mycovirus isolate M6_C2 genomic sequence.-table1-Hypoviridae-HMM1-137_22.0-ORF18
+seq31	>nrnt-HE579695 Uncultured hypovirus genomic RNA containing putative polyprotein, contig 46.31Hv2_454_4.-table4-Hypoviridae-HMM141-251_28.0-ORF12
+seq32	>nrnt-KT983618 Sodiomyces alkalinus fusarivirus 1, complete genome.-table6-Hypoviridae-HMM430-623_12.0-ORF44
+seq33	>nrnt-KY906214 Neofusicoccum luteum fusarivirus 1 isolate CBS110299, complete genome.-table6-Hypoviridae-HMM446-642_11.0-ORF60
+seq34	>nrnt-LC209862 Alternaria alternata fusarivirus 1 genomic RNA, complete genome, isolate: T88-4.-table6-Hypoviridae-HMM460-657_12.0-ORF51
+seq35	>nrnt-KY357506 Agaricus bisporus virus 2 strain C19-C23-C1 isolate AbV2-003, partial sequence.-table4-Hypoviridae-HMM3049-3375_6.0-ORF171
+seq36	>nrnt-KY357496 Agaricus bisporus virus 11 isolate AbV11-003, partial sequence.-table6-Hypoviridae-HMM511-704_11.0-ORF65
+seq37	>nrnt-KY357495 Agaricus bisporus virus 10 isolate AbV10-003, partial sequence.-table6-Hypoviridae-HMM476-699_11.0-ORF60
+seq38	>nrnt-GU108600 Grapevine associated mycovirus-2 isolate Ctg134 putative RNA-dependent RNA polymerase gene, partial cds.-table1-Hypoviridae-HMM18-152_39.0-ORF14
+seq39	>nrnt-KP900890 Macrophomina phaseolina single-stranded RNA virus 1 isolate Tn408 RNA-dependent RNA polymerase and gp2 genes, complete cds.-table4-Hypoviridae-HMM425-620_12.0-ORF51
+seq40	>tsa-GAHU01111036.1 TSA: Agave tequilana Locus61909v1rpkm1.11 transcribed RNA sequence-table1-Hypoviridae-HMM88-197_14.0-ORF23
+seq41	>tsa-GAHU01112606.1 TSA: Agave tequilana Locus63136v1rpkm1.08 transcribed RNA sequence-table1-Hypoviridae-HMM1-211_99.0-ORF6
+seq42	>tsa-GAHU01113249.1 TSA: Agave tequilana Locus63628v1rpkm1.06 transcribed RNA sequence-table1-Hypoviridae-HMM2-85_94.0-ORF3
+seq43	>tsa-GCKF01008098.1 TSA: Araucaria cunninghamii Ref_Hoop_Pine_Transcript_9235_412 transcribed RNA sequence-table1-Hypoviridae-HMM8-137_94.0-ORF7
+seq44	>tsa-GCKF01008099.1 TSA: Araucaria cunninghamii Ref_Hoop_Pine_Transcript_9236_345 transcribed RNA sequence-table1-Hypoviridae-HMM7-110_90.0-ORF4
+seq45	>tsa-GARE01135353.1 TSA: Bouteloua dactyloides Locus_28988_Transcript_1/1_Confidence_1.000_Length_886 transcribed RNA sequence-table4-Hypoviridae-HMM69-263_67.0-ORF10
+seq46	>tsa-GCIB01162701.1 (REVERSE SENSE) TSA: Colobanthus quitensis Colobanthus_quitensis_contig_162416_1 transcribed RNA sequence-table1-Hypoviridae-HMM1-170_95.0-ORF16
+seq47	>tsa-GEWJ01050990.1 TSA: Egregia menziesii GWS036264_c80793_g1_i1 transcribed RNA sequence-table1-Hypoviridae-HMM2-124_84.0-ORF9
+seq48	>tsa-GEWJ01106292.1 TSA: Egregia menziesii GWS036264_c92223_g1_i1 transcribed RNA sequence-table1-Hypoviridae-HMM5-71_91.0-ORF3
+seq49	>tsa-GAYX01001132.1 (REVERSE SENSE) TSA: Lolium perenne comp1309_c0_seq1 transcribed RNA sequence-table1-Hypoviridae-HMM115-186_37.0-ORF20
+seq50	>tsa-GAYX01001735.1 TSA: Lolium perenne comp2088_c0_seq1 transcribed RNA sequence-table1-Hypoviridae-HMM81-192_44.0-ORF7
+seq51	>tsa-GAYX01019805.1 (REVERSE SENSE) TSA: Lolium perenne comp16783_c0_seq1 transcribed RNA sequence-table1-Hypoviridae-HMM67-178_47.0-ORF20
+seq52	>tsa-GAYX01128850.1 (REVERSE SENSE) TSA: Lolium perenne comp127149_c0_seq1 transcribed RNA sequence-table1-Hypoviridae-HMM55-166_50.0-ORF18
+seq53	>tsa-GAYX01134678.1 TSA: Lolium perenne comp137774_c0_seq1 transcribed RNA sequence-table1-Hypoviridae-HMM19-130_71.0-ORF4
+seq54	>tsa-GAYX01145759.1 (REVERSE SENSE) TSA: Lolium perenne comp161637_c0_seq1 transcribed RNA sequence-table1-Hypoviridae-HMM1-145_97.0-ORF16
+seq55	>tsa-GAYX01159354.1 (REVERSE SENSE) TSA: Lolium perenne comp197831_c0_seq1 transcribed RNA sequence-table1-Hypoviridae-HMM1-135_99.0-ORF13
+seq56	>tsa-GAYX01170408.1 TSA: Lolium perenne comp238830_c0_seq1 transcribed RNA sequence-table1-Hypoviridae-HMM120-191_36.0-ORF8
+seq57	>tsa-GAYX01172712.1 TSA: Lolium perenne comp247713_c0_seq1 transcribed RNA sequence-table1-Hypoviridae-HMM1-124_98.0-ORF3
+seq58	>tsa-GDAT01011836.1 (REVERSE SENSE) TSA: Lolium perenne Contig11839 transcribed RNA sequence-table1-Hypoviridae-HMM2-84_32.0-ORF21
+seq59	>tsa-GDAT01032457.1 TSA: Lolium perenne Contig32466 transcribed RNA sequence-table1-Hypoviridae-HMM2-127_52.0-ORF11
+seq60	>tsa-GDIK01003327.1 (REVERSE SENSE) TSA: Mycosphaerella eumusae comp2395_c0_seq1 transcribed RNA sequence-table4-Hypoviridae-HMM2142-2394_7.0-ORF184
+seq61	>tsa-GBQX01042389.1 (REVERSE SENSE) TSA: Pinus monticola F0_contig_41922 transcribed RNA sequence-table6-Hypoviridae-HMM42-162_30.0-ORF38
+seq62	>tsa-GEWL01000001.1 TSA: Pleurophycus gardneri GWS036267_c35607_g1_i1 transcribed RNA sequence-table6-Hypoviridae-HMM2083-2247_4.0-ORF94
+seq63	>tsa-GEBH01356474.1 TSA: Poa pratensis IXRNA007_contig_377398 transcribed RNA sequence-table6-Hypoviridae-HMM2-94_69.0-ORF4
+seq64	>tsa-GFHZ01113199.1 TSA: Saccharum SUG_denovo_0302700 transcribed RNA sequence-table1-Hypoviridae-HMM59-258_60.0-ORF8
+seq65	>tsa-GFLP01301067.1 TSA: Saccharum hybrid cultivar SUGdenovo-0302700 transcribed RNA sequence-table1-Hypoviridae-HMM59-258_60.0-ORF8
+seq66	>tsa-GBYF01085049.1 TSA: Gigaspora margarita comp43993_c0_seq1 transcribed RNA sequence-table6-Hypoviridae-HMM5-108_94.0-ORF8
+seq67	>tsa-GEDP01018261.1 (REVERSE SENSE) TSA: Triticum polonicum comp615044_c0 transcribed RNA sequence-table6-Hypoviridae-HMM1-89_96.0-ORF9
+seq68	>tsa-GEDP01073825.1 TSA: Triticum polonicum comp968077_c0 transcribed RNA sequence-table6-Hypoviridae-HMM100-190_47.0-ORF5
+seq69	>tsa-GEDP01112308.1 TSA: Triticum polonicum comp144648_c0 transcribed RNA sequence-table6-Hypoviridae-HMM427-620_12.0-ORF48
+seq70	>tsa-GEDP01164052.1 TSA: Triticum polonicum comp40032_c0 transcribed RNA sequence-table6-Hypoviridae-HMM1-80_94.0-ORF4
+seq71	>tsa-GEDP01194765.1 TSA: Triticum polonicum comp857036_c0 transcribed RNA sequence-table6-Hypoviridae-HMM106-200_46.0-ORF8
+seq72	>tsa-GEDP01267677.1 TSA: Triticum polonicum comp845744_c0 transcribed RNA sequence-table6-Hypoviridae-HMM4-69_94.0-ORF4

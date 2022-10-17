@@ -1,0 +1,149 @@
+seq1	>ref-NC_003509.1 Blackcurrant reversion virus RNA1, complete sequence-table6-Secoviridae-HMM1460-1908_20.0-ORF67
+seq2	>ref-NC_003445.1 Strawberry mottle virus RNA1 gene for polyprotein, genomic RNA-table6-Secoviridae-HMM1291-1780_24.0-ORF69
+seq3	>ref-NC_004439.1 Tomato black ring virus RNA 1, complete sequence-table6-Secoviridae-HMM1461-1973_22.0-ORF74
+seq4	>ref-NC_005289.1 Broad bean wilt virus 1 RNA 1, complete sequence-table6-Secoviridae-HMM1227-1722_25.0-ORF54
+seq5	>ref-NC_005266.1 Raspberry ringspot virus RNA1, complete genome-table6-Secoviridae-HMM1702-2090_15.0-ORF76
+seq6	>ref-NC_006057.1 Arabis mosaic virus RNA 1, complete sequence-table6-Secoviridae-HMM1503-1986_20.0-ORF79
+seq7	>ref-NC_005097.1 Tobacco ringspot virus RNA 1, complete sequence-table6-Secoviridae-HMM1522-2021_20.0-ORF75
+seq8	>ref-NC_006964.1 Strawberry latent ringspot virus RNA1, complete sequence-table6-Secoviridae-HMM1602-2062_20.0-ORF74
+seq9	>ref-NC_006271.1 Cherry rasp leaf virus, complete genome-table4-Secoviridae-HMM1608-2108_21.0-ORF78
+seq10	>ref-NC_003615.1 Grapevine fanleaf virus RNA 1, complete sequence-table6-Secoviridae-HMM1555-2030_19.0-ORF71
+seq11	>ref-NC_003549.1 Cowpea mosaic virus RNA 1, complete sequence-table6-Secoviridae-HMM1189-1671_25.0-ORF64
+seq12	>ref-NC_003693.1 Beet ringspot virus RNA 1, complete sequence-table4-Secoviridae-HMM1471-1982_22.0-ORF75
+seq13	>ref-NC_003741.1 Red clover mottle virus RNA 1, complete sequence-table6-Secoviridae-HMM1231-1730_25.0-ORF68
+seq14	>ref-NC_003840.1 Tomato ringspot virus RNA 1, complete sequence-table6-Secoviridae-HMM1565-2017_19.0-ORF69
+seq15	>ref-NC_001632.1 Rice tungro spherical virus, complete genome-table6-Secoviridae-HMM3051-3531_13.0-ORF126
+seq16	>ref-NC_003791.1 Cycas necrotic stunt virus RNA 1, complete sequence-table6-Secoviridae-HMM1521-2038_21.0-ORF83
+seq17	>ref-NC_003785.2 Satsuma dwarf virus RNA 1, complete sequence-table6-Secoviridae-HMM1540-2012_20.0-ORF61
+seq18	>ref-NC_003545.1 Cowpea severe mosaic virus RNA 1, complete sequence-table6-Secoviridae-HMM1239-1732_25.0-ORF61
+seq19	>ref-NC_003626.1 Maize chlorotic dwarf virus, complete genome-table6-Secoviridae-HMM2883-3373_13.0-ORF121
+seq20	>ref-NC_003787.1 Apple latent spherical virus segment 1, complete sequence-table6-Secoviridae-HMM1451-1940_22.0-ORF66
+seq21	>ref-NC_003003.1 Broad bean wilt virus 2 RNA 1, complete sequence-table4-Secoviridae-HMM1240-1720_24.0-ORF66
+seq22	>ref-NC_003799.1 Squash mosaic virus RNA 1, complete sequence-table6-Secoviridae-HMM1170-1666_26.0-ORF69
+seq23	>ref-NC_003622.1 Grapevine chrome mosaic virus RNA 1, complete sequence-table6-Secoviridae-HMM1511-2027_22.0-ORF65
+seq24	>ref-NC_003496.1 Bean pod mottle virus RNA 1, complete sequence-table4-Secoviridae-HMM1279-1778_25.0-ORF64
+seq25	>ref-NC_003628.1 Parsnip yellow fleck virus, complete genome-table4-Secoviridae-HMM2366-2835_15.0-ORF103
+seq26	>ref-NC_008182.1 Black raspberry necrosis virus RNA1, complete genome-table6-Secoviridae-HMM1332-1807_20.0-ORF78
+seq27	>ref-NC_009013.1 Tomato torrado virus RNA1, complete sequence-table4-Secoviridae-HMM1134-1623_22.0-ORF67
+seq28	>ref-NC_010709.1 Radish mosaic virus RNA1, complete sequence-table6-Secoviridae-HMM1263-1748_24.0-ORF67
+seq29	>ref-NC_010987.1 Tomato marchitez virus RNA 1, complete sequence-table4-Secoviridae-HMM1140-1627_22.0-ORF75
+seq30	>ref-NC_011190.1 Mikania micrantha mosaic virus RNA1, complete genome-table6-Secoviridae-HMM1241-1722_24.0-ORF67
+seq31	>ref-NC_013075.1 Tomato chocolate spot virus RNA1, complete genome-table6-Secoviridae-HMM1168-1655_22.0-ORF77
+seq32	>ref-NC_013218.1 Turnip ringspot virus RNA 1, complete genome-table6-Secoviridae-HMM1207-1692_24.0-ORF67
+seq33	>ref-NC_015492.1 Grapevine Bulgarian latent virus segment 1, complete genome-table6-Secoviridae-HMM1470-1907_20.0-ORF71
+seq34	>ref-NC_015414.1 Cherry leaf roll virus RNA1, complete genome-table6-Secoviridae-HMM1409-1910_23.0-ORF64
+seq35	>ref-NC_016443.1 Chocolate lily virus A RNA1, complete genome-table6-Secoviridae-HMM1277-1754_24.0-ORF60
+seq36	>ref-NC_018383.1 Grapevine Anatolian ringspot virus RNA 1, complete genome-table6-Secoviridae-HMM1445-1961_22.0-ORF83
+seq37	>ref-NC_017939.1 Grapevine deformation virus RNA1, complete genome-table6-Secoviridae-HMM1578-2028_18.0-ORF83
+seq38	>ref-NC_020898.1 Arracacha virus B isolate PV-0082 polyprotein gene, complete cds-table6-Secoviridae-HMM1510-2014_21.0-ORF66
+seq39	>ref-NC_022004.1 Broad bean true mosaic virus isolate EV-11 segment RNA1, complete sequence-table6-Secoviridae-HMM1268-1768_24.0-ORF64
+seq40	>ref-NC_022798.1 Potato black ringspot virus isolate PRI-Ec segment RNA 1, complete sequence-table6-Secoviridae-HMM1573-2069_20.0-ORF66
+seq41	>ref-NC_023016.1 Lamium mild mosaic virus isolate DSMZ PV-0454 segment RNA1, complete sequence-table6-Secoviridae-HMM1215-1698_25.0-ORF55
+seq42	>ref-NC_025479.2 Carrot torradovirus 1, RNA2, complete sequence-table6-Secoviridae-HMM1169-1674_21.0-ORF74
+seq43	>ref-NC_027926.1 Tomato necrotic dwarf virus, RNA1, complete sequence-table4-Secoviridae-HMM1122-1610_22.0-ORF70
+seq44	>ref-NC_027915.1 Bellflower vein chlorosis virus isolate CT1, complete genome-table4-Secoviridae-HMM2875-3356_13.0-ORF127
+seq45	>ref-NC_028139.1 Bean rugose mosaic virus RNA 1, complete sequence-table6-Secoviridae-HMM1207-1705_26.0-ORF73
+seq46	>ref-NC_029038.1 Currant latent virus RNA 1, complete sequence-table6-Secoviridae-HMM1473-1959_22.0-ORF69
+seq47	>ref-NC_031766.1 Dioscorea mosaic-associated virus isolate goiana segment RNA1, complete sequence-table6-Secoviridae-HMM1247-1724_24.0-ORF71
+seq48	>ref-NC_032270.1 Soybean latent spherical virus isolate ND1 segment RNA1, complete sequence-table6-Secoviridae-HMM1478-1988_21.0-ORF76
+seq49	>ref-NC_033492.1 Petunia chlorotic mottle virus segment RNA 1, complete sequence-table4-Secoviridae-HMM1491-2000_21.0-ORF82
+seq50	>ref-NC_035221.1 Squash chlorotic leaf spot virus, RNA1, complete sequence-table6-Secoviridae-HMM1195-1690_21.0-ORF68
+seq51	>ref-NC_035214.1 Lettuce necrotic leaf curl virus, RNA1, complete sequence-table6-Secoviridae-HMM1159-1661_22.0-ORF73
+seq52	>ref-NC_035218.1 Motherwort yellow mottle virus, RNA1, complete sequence-table6-Secoviridae-HMM1172-1671_22.0-ORF69
+seq53	>nrnt-KX580900 Alber virus polyprotein gene, partial cds.-table6-Secoviridae-HMM1564-1759_11.0-ORF60
+seq54	>nrnt-JN661247 Uncultured virus clone 08TGP00172.4 segment RNA1 polyprotein 1 gene, partial cds.-table1-Secoviridae-HMM342-479_28.0-ORF19
+seq55	>nrnt-JN661237 Uncultured virus clone 08TGP00052.4 segment RNA1 polyprotein 1 gene, partial cds.-table1-Secoviridae-HMM1-388_72.0-ORF14
+seq56	>nrnt-MG925372 Cherry virus F isolate SwC-H_1b segment 1 polyprotein 1 gene, complete cds.-table4-Secoviridae-HMM1301-1786_23.0-ORF63
+seq57	>nrnt-MG925371 Cherry virus F isolate SwC-H_1a segment 1 polyprotein 1 gene, complete cds.-table6-Secoviridae-HMM1301-1785_24.0-ORF60
+seq58	>nrnt-MG253828 Red clover nepovirus A isolate B46 segment RNA1, complete sequence.-table6-Secoviridae-HMM1492-2008_21.0-ORF86
+seq59	>nrnt-KY867750 Peach leaf pitting-associated virus isolate XJ-6 segment RNA1, complete sequence.-table6-Secoviridae-HMM1323-1813_24.0-ORF63
+seq60	>nrnt-LT608395 Artichoke italian latent virus Replicase gene for polyprotein, p1 region, segment RNA1, isolate AILV-V, clone Elbeaino T.-table6-Secoviridae-HMM1537-2044_21.0-ORF78
+seq61	>nrnt-KX925437 Lettuce secovirus 1 isolate LSV-1 segment RNA1 polyprotein gene, partial cds.-table6-Secoviridae-HMM1309-1787_23.0-ORF68
+seq62	>ref-NC_034214 Peach rosette mosaic virus isolate PRMV2 segment RNA1, complete sequence.-table6-Secoviridae-HMM1507-1979_21.0-ORF64
+seq63	>nrnt-KY569301 (REVERSE SENSE) Arracacha virus A isolate AVA segment RNA1 polyprotein gene, complete cds.-table4-Secoviridae-HMM1533-2036_20.0-ORF176
+seq64	>nrnt-JX304792 Aeonium ringspot virus segment RNA1, complete sequence.-table4-Secoviridae-HMM1544-2041_21.0-ORF65
+seq65	>nrnt-LG143864 KR 1020160025350-A/1: Novel Lychnis mottle virus gene from lychnis plant.-table6-Secoviridae-HMM1690-2150_19.0-ORF71
+seq66	>nrnt-KX656670 UNVERIFIED: Potato virus B isolate Pasco-01 segment RNA1, complete sequence.-table4-Secoviridae-HMM1474-1979_22.0-ORF83
+seq67	>nrnt-KX269865 Prunus virus F isolate 8816-v1 segment RNA1 polyprotein 1 gene, complete cds.-table6-Secoviridae-HMM1296-1784_23.0-ORF52
+seq68	>nrnt-DQ143874 Stocky prune virus segment RNA-1 polyprotein gene, partial cds.-table6-Secoviridae-HMM112-600_59.0-ORF25
+seq69	>nrnt-EF205130 Tomato white ringspot virus isolate T818 segment RNA1 polyprotein gene, partial cds.-table4-Secoviridae-HMM1225-1709_25.0-ORF64
+seq70	>nrnt-KX241484 Grapevine fabavirus isolate BB segment RNA1 polyprotein gene, complete cds.-table4-Secoviridae-HMM1191-1674_25.0-ORF55
+seq71	>nrnt-AF016626 Peach rosette mosaic virus RNA1 polyprotein gene, complete cds.-table6-Secoviridae-HMM1493-1963_21.0-ORF62
+seq72	>nrnt-KR011028 Cnidium vein yellowing virus 1 isolate Yeongyang1 segment RNA1, complete sequence.-table4-Secoviridae-HMM1561-2021_20.0-ORF70
+seq73	>nrnt-KJ572572 Blackcurrant waikavirus A isolate BCWVA-6 polyprotein gene, partial cds.-table4-Secoviridae-HMM4-336_78.0-ORF16
+seq74	>nrnt-KM083892 Tomato ringspot virus isolate GYV-2014 segment RNA1, complete sequence.-table6-Secoviridae-HMM1572-2026_20.0-ORF69
+seq75	>nrnt-KC904083 Mulberry mosaic roll leaf-associated virus isolate zj segment RNA1, complete sequence.-table6-Secoviridae-HMM1310-1809_22.0-ORF74
+seq76	>nrnt-JN652797 Cowpea severe mosaic virus isolate Irece-BA polyprotein gene, partial cds.-table1-Secoviridae-HMM540-732_26.0-ORF23
+seq77	>nrnt-JN104386 Cherry leaf roll virus isolate Olm1 segment RNA1, complete sequence.-table6-Secoviridae-HMM1411-1914_23.0-ORF69
+seq78	>nrnt-EU881936 Cucurbit mild mosaic virus segment RNA1 205 kDa polyprotein gene, complete cds.-table6-Secoviridae-HMM1213-1706_25.0-ORF59
+seq79	>nrnt-EU419645 Black raspberry necrosis virus isolate GSMNP replication-associated polyprotein gene, partial cds.-table1-Secoviridae-HMM562-972_41.0-ORF30
+seq80	>nrnt-ADERNAP Andean potato mottle virus RNA polymerase mRNA, 3' end.-table6-Secoviridae-HMM45-538_65.0-ORF25
+seq81	>nrnt-AB649296 Blueberry latent spherical virus genomic RNA, segment: 1, complete sequence.-table6-Secoviridae-HMM1519-1990_21.0-ORF56
+seq82	>nrnt-AB518485 Melon mild mottle virus gene for polyprotein, complete cds, segment RNA 1.-table4-Secoviridae-HMM1496-2000_21.0-ORF72
+seq83	>nrnt-FJ560489 Tomato chocolate virus isolate ToChV-G01 segment RNA1, complete sequence.-table4-Secoviridae-HMM1168-1655_21.0-ORF73
+seq84	>nrnt-AY829112 Maize chlorotic dwarf virus isolate M1, complete genome.-table6-Secoviridae-HMM2943-3427_13.0-ORF121
+seq85	>nrnt-AY362551 Maize chlorotic dwarf virus strain Severe, complete genome.-table6-Secoviridae-HMM2962-3452_13.0-ORF123
+seq86	>nrnt-AF144234 Broad bean wilt virus 2 polyprotein gene, complete cds.-table4-Secoviridae-HMM1112-1593_26.0-ORF63
+seq87	>nrnt-EU980442 Carrot necrotic dieback virus strain Anthriscus, complete genome.-table6-Secoviridae-HMM2330-2796_14.0-ORF113
+seq88	>nrnt-GM980972 Sequence 15 from Patent WO2008150158.-table4-Secoviridae-HMM1140-1627_22.0-ORF75
+seq89	>nrnt-AB112587 Satsuma dwarf virus RdRp gene for RNA dependent RNA polymerase, partial cds.-table4-Secoviridae-HMM8-199_48.0-ORF13
+seq90	>nrnt-AB247636 Citrus mosaic sadwavirus RdRp gene for RNA-dependent RNA polymerase, partial cds, segment RNA1-2.-table6-Secoviridae-HMM2-150_39.0-ORF12
+seq91	>nrnt-AB084452 Gentian mosaic virus RNA1 gene for polyprotein, complete cds.-table6-Secoviridae-HMM1226-1721_25.0-ORF64
+seq92	>nrnt-AB022887 Navel orange infectious mottling virus gene for polyprotein (RNA dependent RNA polymerase region), partial cds.-table6-Secoviridae-HMM229-696_49.0-ORF29
+seq93	>tsa-GEZL01212017.1 (REVERSE SENSE) TSA: Ambrosia artemisiifolia TR103959_c0_g1_i1 transcribed RNA sequence-table1-Secoviridae-HMM1-85_98.0-ORF7
+seq94	>tsa-GFDK01009042.1 TSA: Ananas comosus Unigene0009047 transcribed RNA sequence-table1-Secoviridae-HMM3-73_93.0-ORF2
+seq95	>tsa-GFDK01023084.1 (REVERSE SENSE) TSA: Ananas comosus Unigene0023098 transcribed RNA sequence-table1-Secoviridae-HMM2-95_96.0-ORF7
+seq96	>tsa-GFDK01023085.1 (REVERSE SENSE) TSA: Ananas comosus Unigene0023099 transcribed RNA sequence-table1-Secoviridae-HMM1-101_99.0-ORF7
+seq97	>tsa-GFDK01044199.1 (REVERSE SENSE) TSA: Ananas comosus Unigene0044221 transcribed RNA sequence-table4-Secoviridae-HMM970-1465_29.0-ORF121
+seq98	>tsa-GFDK01044240.1 TSA: Ananas comosus Unigene0044262 transcribed RNA sequence-table6-Secoviridae-HMM1282-1721_25.0-ORF58
+seq99	>tsa-GFDK01044262.1 (REVERSE SENSE) TSA: Ananas comosus Unigene0044284 transcribed RNA sequence-table1-Secoviridae-HMM14-166_91.0-ORF13
+seq100	>tsa-GFDK01044263.1 (REVERSE SENSE) TSA: Ananas comosus Unigene0044285 transcribed RNA sequence-table1-Secoviridae-HMM1121-1268_11.0-ORF118
+seq101	>tsa-GFDK01044265.1 (REVERSE SENSE) TSA: Ananas comosus Unigene0044287 transcribed RNA sequence-table4-Secoviridae-HMM1-185_48.0-ORF25
+seq102	>tsa-GFDK01044266.1 (REVERSE SENSE) TSA: Ananas comosus Unigene0044288 transcribed RNA sequence-table1-Secoviridae-HMM1-67_91.0-ORF4
+seq103	>tsa-GEKW01043511.1 TSA: Anemone flaccida comp32947_c1_seq2 transcribed RNA sequence-table6-Secoviridae-HMM1306-1786_24.0-ORF62
+seq104	>tsa-GFCL01025370.1 TSA: Anguilla japonica c24220_g1_i1 transcribed RNA sequence-table4-Secoviridae-HMM1165-1663_26.0-ORF65
+seq105	>tsa-GFCM01023850.1 TSA: Anguilla japonica comp21826_c0_seq1 transcribed RNA sequence-table4-Secoviridae-HMM1165-1663_26.0-ORF65
+seq106	>tsa-GAZV01049538.1 (REVERSE SENSE) TSA: Apis mellifera comp25238_c0_seq1 transcribed RNA sequence-table1-Secoviridae-HMM2-104_98.0-ORF6
+seq107	>tsa-GAZV01049577.1 (REVERSE SENSE) TSA: Apis mellifera comp25277_c0_seq1 transcribed RNA sequence-table1-Secoviridae-HMM2-84_63.0-ORF12
+seq108	>tsa-GDFQ01074967.1 (REVERSE SENSE) TSA: Brassica napus comp63319_c0_seq2 transcribed RNA sequence-table4-Secoviridae-HMM2921-3398_13.0-ORF273
+seq109	>tsa-GBOM01009842.1 TSA: Chalybion californicum C60449_a_4_0_l_893 transcribed RNA sequence-table1-Secoviridae-HMM55-259_68.0-ORF9
+seq110	>tsa-GCIB01078015.1 (REVERSE SENSE) TSA: Colobanthus quitensis Colobanthus_quitensis_contig_77172_1 transcribed RNA sequence-table1-Secoviridae-HMM19-145_86.0-ORF12
+seq111	>tsa-GBWG01016876.1 (REVERSE SENSE) TSA: Crabro peltarius s5746_L_15028_0_a_41_0_l_3981 transcribed RNA sequence-table4-Secoviridae-HMM90-585_56.0-ORF92
+seq112	>tsa-GEYH01010544.1 TSA: Cucurbita pepo CP410553 transcribed RNA sequence-table6-Secoviridae-HMM1236-1732_25.0-ORF66
+seq113	>tsa-GFOY01008760.1 TSA: Daiswa yunnanensis CL13975.Contig1_All transcribed RNA sequence-table6-Secoviridae-HMM1208-1676_25.0-ORF54
+seq114	>tsa-GFOY01070862.1 TSA: Daiswa yunnanensis Unigene31473_All transcribed RNA sequence-table6-Secoviridae-HMM1640-2089_19.0-ORF75
+seq115	>tsa-GBPP01014561.1 (REVERSE SENSE) TSA: Dioxys cincta C77481_a_5_0_l_620 transcribed RNA sequence-table1-Secoviridae-HMM2-114_54.0-ORF19
+seq116	>tsa-GBSV01036714.1 TSA: Elaeis guineensis Unigene18549_All transcribed RNA sequence-table1-Secoviridae-HMM2-82_96.0-ORF4
+seq117	>tsa-GBSV01037137.1 (REVERSE SENSE) TSA: Elaeis guineensis Unigene18973_All transcribed RNA sequence-table1-Secoviridae-HMM1-87_97.0-ORF7
+seq118	>tsa-GBQP01022734.1 TSA: Halictus quadricinctus s6994_L_17782_1_a_57_5_l_7950 transcribed RNA sequence-table4-Secoviridae-HMM1405-1899_23.0-ORF67
+seq119	>tsa-GEDY01040076.1 (REVERSE SENSE) TSA: Halyomorpha halys bmsbwbcontig46533 transcribed RNA sequence-table1-Secoviridae-HMM818-1192_31.0-ORF93
+seq120	>tsa-GEDY01041026.1 (REVERSE SENSE) TSA: Halyomorpha halys bmsbwbcontig47746 transcribed RNA sequence-table6-Secoviridae-HMM1-127_36.0-ORF24
+seq121	>tsa-GEDY01064372.1 (REVERSE SENSE) TSA: Halyomorpha halys bmsbwbcontig79481 transcribed RNA sequence-table1-Secoviridae-HMM2-105_96.0-ORF9
+seq122	>tsa-GAZB02025509.1 (REVERSE SENSE) TSA: Lepicerus sp. AD-2013 C295662_a_3_0_l_247 transcribed RNA sequence-table1-Secoviridae-HMM1-81_97.0-ORF7
+seq123	>tsa-GEXK01001749.1 TSA: Lutjanus erythropterus CL677.Contig1 transcribed RNA sequence-table1-Secoviridae-HMM2-260_96.0-ORF8
+seq124	>tsa-GEXK01001750.1 TSA: Lutjanus erythropterus CL677.Contig2 transcribed RNA sequence-table6-Secoviridae-HMM7-85_90.0-ORF4
+seq125	>tsa-GEXK01002393.1 TSA: Lutjanus erythropterus CL957.Contig1 transcribed RNA sequence-table1-Secoviridae-HMM302-469_35.0-ORF15
+seq126	>tsa-GABH01003346.1 TSA: Musa ABB Group Locus_11166_Contig1 mRNA sequence-table1-Secoviridae-HMM1-238_99.0-ORF7
+seq127	>tsa-GBFN01000089.1 (REVERSE SENSE) TSA: Paeonia lactiflora Unigene000089 transcribed RNA sequence-table6-Secoviridae-HMM1490-2005_21.0-ORF157
+seq128	>tsa-GFVK01005462.1 TSA: Paulownia c22987_g1_i1 transcribed RNA sequence-table4-Secoviridae-HMM1261-1742_24.0-ORF53
+seq129	>tsa-GFVK01058418.1 TSA: Paulownia c70467_g1_i1 transcribed RNA sequence-table1-Secoviridae-HMM1-88_98.0-ORF3
+seq130	>tsa-GFVK01065787.1 TSA: Paulownia c93214_g1_i1 transcribed RNA sequence-table1-Secoviridae-HMM1-105_99.0-ORF5
+seq131	>tsa-GAMK01062802.1 (REVERSE SENSE) TSA: Phaseolus vulgaris Ref_259_comp42226_c0_seq1 transcribed RNA sequence-table1-Secoviridae-HMM1-66_97.0-ORF4
+seq132	>tsa-GAMK01092246.1 TSA: Phaseolus vulgaris Ref_259_comp51474_c0_seq1 transcribed RNA sequence-table1-Secoviridae-HMM5-137_95.0-ORF4
+seq133	>tsa-GEDB01028376.1 TSA: Polistes dominula PdomTSAr1.2-029061 transcribed RNA sequence-table1-Secoviridae-HMM1-100_99.0-ORF3
+seq134	>tsa-GEDB01028828.1 TSA: Polistes dominula PdomTSAr1.2-029588 transcribed RNA sequence-table1-Secoviridae-HMM1-88_98.0-ORF1
+seq135	>tsa-GEDB01028918.1 (REVERSE SENSE) TSA: Polistes dominula PdomTSAr1.2-029700 transcribed RNA sequence-table4-Secoviridae-HMM2-106_53.0-ORF13
+seq136	>tsa-GEAB01182118.1 (REVERSE SENSE) TSA: Psammomys obesus comp620986_c0_seq1_369 transcribed RNA sequence-table1-Secoviridae-HMM1-68_54.0-ORF11
+seq137	>tsa-HABZ01027288.1 (REVERSE SENSE) TSA: Quercus suber, contig Contig27449, transcribed RNA sequence-table6-Secoviridae-HMM22-348_68.0-ORF38
+seq138	>tsa-HABZ01056964.1 (REVERSE SENSE) TSA: Quercus suber, contig Qs-dev_c63585, transcribed RNA sequence-table1-Secoviridae-HMM23-132_81.0-ORF9
+seq139	>tsa-HABZ01066007.1 (REVERSE SENSE) TSA: Quercus suber, contig Qs-dev_rep_c82666, transcribed RNA sequence-table1-Secoviridae-HMM1-87_97.0-ORF7
+seq140	>tsa-GDDO01099731.1 (REVERSE SENSE) TSA: Rana catesbeiana contig-219729 transcribed RNA sequence-table1-Secoviridae-HMM39-200_80.0-ORF16
+seq141	>tsa-GESX01020731.1 TSA: Swertia japonica Unigene29985 transcribed RNA sequence-table6-Secoviridae-HMM1-166_95.0-ORF7
+seq142	>tsa-GDIG01049850.1 TSA: Trichosanthes kirilowii Unigene0049857 transcribed RNA sequence-table4-Secoviridae-HMM1-138_99.0-ORF6
+seq143	>tsa-GDIG01049851.1 (REVERSE SENSE) TSA: Trichosanthes kirilowii Unigene0049858 transcribed RNA sequence-table4-Secoviridae-HMM1-252_55.0-ORF39
+seq144	>tsa-GEST01011242.1 (REVERSE SENSE) TSA: Trifolium repens SSHrefA3_contig_411 transcribed RNA sequence-table4-Secoviridae-HMM1-197_99.0-ORF19
+seq145	>tsa-HAAB01075246.1 TSA: Triticum aestivum, contig contig01343, transcribed RNA sequence-table6-Secoviridae-HMM2-187_98.0-ORF5
+seq146	>tsa-HAAB01075247.1 TSA: Triticum aestivum, contig contig01344, transcribed RNA sequence-table6-Secoviridae-HMM2-500_71.0-ORF22
+seq147	>tsa-GBQS01015748.1 TSA: Vespa crabro C156766_a_4_0_l_1227 transcribed RNA sequence-table6-Secoviridae-HMM6-312_74.0-ORF18
+seq148	>tsa-GFHP01009638.1 TSA: Yucca gloriosa yucca_T009638 transcribed RNA sequence-table6-Secoviridae-HMM1157-1626_23.0-ORF68
+seq149	>tsa-GCVP01016248.1 (REVERSE SENSE) TSA: Zymoseptoria brevis comp7336_c0_seq1 transcribed RNA sequence-table6-Secoviridae-HMM1163-1661_26.0-ORF133

@@ -1,0 +1,26 @@
+seq1	>ref-NC_025383.1 Sclerotinia sclerotiorum negative-stranded RNA virus 1 strain AH98, complete genome-table4-Mymonaviridae-HMM518-976_21.0-ORF123
+seq2	>ref-NC_026732.1 (REVERSE SENSE) Sclerotinia sclerotiorum negative-stranded RNA virus 3 isolate IL1 gp6, gp5, gp4, gp3, gp2, and gp1 genes, complete cds-table6-Mymonaviridae-HMM555-1013_20.0-ORF246
+seq3	>ref-NC_032783.1 Hubei rhabdo-like virus 4 strain arthropodmix13990 hypothetical protein 1, hypothetical protein 2, and RNA-dependent RNA polymerase genes, complete cds-table6-Mymonaviridae-HMM522-987_22.0-ORF116
+seq4	>nrnt-MF893248 Kiln Barn virus isolate UK1, partial genome.-table6-Mymonaviridae-HMM502-959_37.0-ORF40
+seq5	>nrnt-JQ687141 Lentinula edodes helical virus putative RNA-dependent RNA polymerase gene, partial cds.-table1-Mymonaviridae-HMM3-258_45.0-ORF21
+seq6	>nrnt-MF276904 Fusarium graminearum negative-stranded RNA virus 1 strain HN1, complete genome.-table6-Mymonaviridae-HMM612-1070_22.0-ORF90
+seq7	>nrnt-KT598229 (REVERSE SENSE) Soybean leaf-associated negative-stranded RNA virus 4 isolate SaNSRV1-1, partial sequence.-table6-Mymonaviridae-HMM735-1185_25.0-ORF129
+seq8	>nrnt-KT598228 (REVERSE SENSE) Soybean leaf-associated negative-stranded RNA virus 3 isolate SaNSRV1-1, partial sequence.-table6-Mymonaviridae-HMM530-989_22.0-ORF154
+seq9	>nrnt-KT598227 (REVERSE SENSE) Soybean leaf-associated negative-stranded RNA virus 2 isolate SaNSRV1-1, partial sequence.-table6-Mymonaviridae-HMM533-991_23.0-ORF154
+seq10	>nrnt-KP900931 (REVERSE SENSE) Sclerotinia sclerotiorum negative-stranded RNA virus 2 isolate 500 gp5, RNA-dependent RNA polymerase, gp3, gp2, and gp1 genes, complete cds.-table6-Mymonaviridae-HMM517-975_21.0-ORF228
+seq11	>nrnt-KP900930 (REVERSE SENSE) Sclerotinia sclerotiorum negative-stranded RNA virus 4 isolate 257 gp5, RNA-dependent RNA polymerase, gp3, gp2, and gp1 genes, complete cds.-table6-Mymonaviridae-HMM532-990_22.0-ORF251
+seq12	>tsa-GAJS01056277.1 (REVERSE SENSE) TSA: Chilo suppressalis Unigene58123_All transcribed RNA sequence-table1-Mymonaviridae-HMM179-301_40.0-ORF24
+seq13	>tsa-GATG02016673.1 TSA: Corydalus cornutus s3254_L_7340_0_a_10_4_l_6748 transcribed RNA sequence-table6-Mymonaviridae-HMM488-654_7.0-ORF66
+seq14	>tsa-GFJG01034017.1 TSA: Eurypanopeus depressus TR183464-c0_g1_i1 transcribed RNA sequence-table6-Mymonaviridae-HMM530-746_28.0-ORF27
+seq15	>tsa-GAIW01024762.1 TSA: Ganaspis sp. G1 comp20548_c0_seq1 transcribed RNA sequence-table1-Mymonaviridae-HMM205-440_52.0-ORF11
+seq16	>tsa-GFHZ01022276.1 TSA: Saccharum SUG_denovo_0604258 transcribed RNA sequence-table6-Mymonaviridae-HMM467-924_22.0-ORF60
+seq17	>tsa-GFHZ01085330.1 (REVERSE SENSE) TSA: Saccharum SUG_denovo_0357526 transcribed RNA sequence-table6-Mymonaviridae-HMM645-1105_30.0-ORF108
+seq18	>tsa-GFLP01350862.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0357526 transcribed RNA sequence-table6-Mymonaviridae-HMM645-1105_30.0-ORF108
+seq19	>tsa-GFLP01469011.1 (REVERSE SENSE) TSA: Saccharum hybrid cultivar SUGdenovo-0480103 transcribed RNA sequence-table4-Mymonaviridae-HMM198-520_20.0-ORF148
+seq20	>tsa-GFCH01080285.1 TSA: Silene dioica TR43546_c0_g1_i1 transcribed RNA sequence-table1-Mymonaviridae-HMM2-139_98.0-ORF7
+seq21	>tsa-GEBR01031436.1 TSA: Trichinella pseudospiralis Seq1323748 transcribed RNA sequence-table4-Mymonaviridae-HMM2-180_80.0-ORF9
+seq22	>tsa-IACA01108453.1 TSA: Parasteatoda tepidariorum mRNA, contig: Pt_tra_AS01_contig_55978, transcribed RNA sequence-table6-Mymonaviridae-HMM129-221_39.0-ORF15
+seq23	>tsa-GEDP01069947.1 TSA: Triticum polonicum comp1269047_c0 transcribed RNA sequence-table6-Mymonaviridae-HMM1-71_98.0-ORF3
+seq24	>tsa-GEDP01226904.1 TSA: Triticum polonicum comp1214509_c0 transcribed RNA sequence-table6-Mymonaviridae-HMM1-88_98.0-ORF4
+seq25	>tsa-GEDP01261017.1 TSA: Triticum polonicum comp67234_c0 transcribed RNA sequence-table6-Mymonaviridae-HMM1-41_72.0-ORF3
+seq26	>tsa-GEDP01278402.1 TSA: Triticum polonicum comp1386982_c0 transcribed RNA sequence-table6-Mymonaviridae-HMM1-119_99.0-ORF3

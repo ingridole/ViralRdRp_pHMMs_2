@@ -1,0 +1,61 @@
+seq1	>ref-NC_030655.1 Rhizoctonia solani flexivirus 1 isolate DC17/RsFV-1, complete genome-table4-Deltaflexiviridae-HMM3142-3465_9.0-ORF58
+seq2	>ref-NC_030654.1 Fusarium graminearum deltaflexivirus 1 isolate BJ59, complete genome-table4-Deltaflexiviridae-HMM1609-2053_20.0-ORF38
+seq3	>nrnt-KY357494 Agaricus bisporus virus 9 isolate AbV9-003, partial sequence.-table4-Deltaflexiviridae-HMM1767-2143_17.0-ORF26
+seq4	>nrnt-KY357491 Agaricus bisporus virus 7 isolate AbV7-003, partial sequence.-table4-Deltaflexiviridae-HMM1593-1942_17.0-ORF49
+seq5	>nrnt-KT598226 Soybean leaf-associated mycoflexivirus 1 isolate SaNSRV1-1, partial sequence.-table6-Deltaflexiviridae-HMM1646-2087_20.0-ORF57
+seq6	>nrnt-KT581451 Sclerotinia sclerotiorum deltaflexivirus 1 isolate AX19 polyprotein and hypothetical protein genes, complete cds.-table6-Deltaflexiviridae-HMM1643-2089_20.0-ORF63
+seq7	>tsa-GCZN01085538.1 (REVERSE SENSE) TSA: Abies pinsapo Unigene51219_All transcribed RNA sequence-table1-Deltaflexiviridae-HMM247-599_54.0-ORF47
+seq8	>tsa-GAHU01076890.1 TSA: Agave tequilana Locus38398v1rpkm3.10 transcribed RNA sequence-table6-Deltaflexiviridae-HMM1676-2134_21.0-ORF56
+seq9	>tsa-GAHU01082914.1 TSA: Agave tequilana Locus41957v1rpkm2.43 transcribed RNA sequence-table4-Deltaflexiviridae-HMM1722-1987_12.0-ORF31
+seq10	>tsa-GAHU01082931.1 TSA: Agave tequilana Locus41967v1rpkm2.42 transcribed RNA sequence-table6-Deltaflexiviridae-HMM1679-2137_20.0-ORF64
+seq11	>tsa-GAHU01087027.1 TSA: Agave tequilana Locus44584v1rpkm2.08 transcribed RNA sequence-table6-Deltaflexiviridae-HMM1676-2134_21.0-ORF61
+seq12	>tsa-GAHU01087028.1 TSA: Agave tequilana Locus44584v2rpkm1.18 transcribed RNA sequence-table6-Deltaflexiviridae-HMM1202-1660_25.0-ORF47
+seq13	>tsa-GAHU01094215.1 TSA: Agave tequilana Locus49179v1rpkm1.64 transcribed RNA sequence-table6-Deltaflexiviridae-HMM1672-2130_20.0-ORF55
+seq14	>tsa-GAHU01118428.1 TSA: Agave tequilana Locus67871v1rpkm0.98 transcribed RNA sequence-table1-Deltaflexiviridae-HMM147-291_49.0-ORF10
+seq15	>tsa-GAHU01118429.1 (REVERSE SENSE) TSA: Agave tequilana Locus67871v2rpkm0.00_PRE transcribed RNA sequence-table1-Deltaflexiviridae-HMM1-82_97.0-ORF7
+seq16	>tsa-GAHU01154001.1 TSA: Agave tequilana Locus99545v1rpkm0.65 transcribed RNA sequence-table6-Deltaflexiviridae-HMM238-501_38.0-ORF23
+seq17	>tsa-GAHU01156033.1 TSA: Agave tequilana Locus101408v1rpkm0.64 transcribed RNA sequence-table6-Deltaflexiviridae-HMM1-176_91.0-ORF4
+seq18	>tsa-GAHU01166925.1 TSA: Agave tequilana Locus111812v1rpkm0.58 transcribed RNA sequence-table6-Deltaflexiviridae-HMM87-544_76.0-ORF14
+seq19	>tsa-GFQK01142499.1 TSA: Agrostis stolonifera c116752_g1 transcribed RNA sequence-table6-Deltaflexiviridae-HMM1613-2064_21.0-ORF57
+seq20	>tsa-GEKW01000940.1 (REVERSE SENSE) TSA: Anemone flaccida comp24678_c0_seq1 transcribed RNA sequence-table4-Deltaflexiviridae-HMM1606-1889_14.0-ORF119
+seq21	>tsa-GEER01035157.1 TSA: Camellia reticulata CRD_ML_c56045_g1_i1 transcribed RNA sequence-table6-Deltaflexiviridae-HMM7-148_61.0-ORF7
+seq22	>tsa-GEER01053332.1 TSA: Camellia reticulata CRD_ML_c75692_g1_i1 transcribed RNA sequence-table1-Deltaflexiviridae-HMM1-198_98.0-ORF7
+seq23	>tsa-GEER01053409.1 TSA: Camellia reticulata CRD_ML_c76895_g1_i1 transcribed RNA sequence-table1-Deltaflexiviridae-HMM11-84_76.0-ORF3
+seq24	>tsa-GEER01054882.1 TSA: Camellia reticulata CRD_ML_c89961_g6_i1 transcribed RNA sequence-table1-Deltaflexiviridae-HMM6-247_92.0-ORF11
+seq25	>tsa-GCIB01161267.1 (REVERSE SENSE) TSA: Colobanthus quitensis Colobanthus_quitensis_contig_160932_1 transcribed RNA sequence-table6-Deltaflexiviridae-HMM479-898_37.0-ORF88
+seq26	>tsa-GFPJ01102027.1 (REVERSE SENSE) TSA: Daiswa yunnanensis Unigene40570_All transcribed RNA sequence-table6-Deltaflexiviridae-HMM803-1204_31.0-ORF85
+seq27	>tsa-GBSJ01086547.1 TSA: Diospyros lotus Contig90127DeNovoAssembly transcribed RNA sequence-table1-Deltaflexiviridae-HMM1-71_98.0-ORF3
+seq28	>tsa-GBSJ01088004.1 (REVERSE SENSE) TSA: Diospyros lotus Contig91663DeNovoAssembly transcribed RNA sequence-table1-Deltaflexiviridae-HMM12-74_82.0-ORF7
+seq29	>tsa-GDCY01002044.1 TSA: Endphyte metagenome, transcribed RNA sequence-table4-Deltaflexiviridae-HMM1642-1908_13.0-ORF34
+seq30	>tsa-GAAW01145048.1 (REVERSE SENSE) TSA: Humulus lupulus comp1310964_c0_seq1 mRNA sequence-table1-Deltaflexiviridae-HMM4-82_84.0-ORF10
+seq31	>tsa-GDAT01030228.1 (REVERSE SENSE) TSA: Lolium perenne Contig30237 transcribed RNA sequence-table1-Deltaflexiviridae-HMM9-87_88.0-ORF7
+seq32	>tsa-GDAT01033077.1 TSA: Lolium perenne Contig33086 transcribed RNA sequence-table6-Deltaflexiviridae-HMM2-130_80.0-ORF5
+seq33	>tsa-GEFV01162924.1 (REVERSE SENSE) TSA: Paulownia tomentosa comp986638_c0_seq1 transcribed RNA sequence-table1-Deltaflexiviridae-HMM8-76_89.0-ORF7
+seq34	>tsa-GEXJ01050194.1 (REVERSE SENSE) TSA: Phragmites australis Phco-d_33342 transcribed RNA sequence-table1-Deltaflexiviridae-HMM62-280_75.0-ORF19
+seq35	>tsa-GEXJ01113691.1 (REVERSE SENSE) TSA: Phragmites australis Phco-s_31681 transcribed RNA sequence-table1-Deltaflexiviridae-HMM88-280_68.0-ORF22
+seq36	>tsa-GEXJ01114412.1 TSA: Phragmites australis Phco-s_31967 transcribed RNA sequence-table1-Deltaflexiviridae-HMM4-158_97.0-ORF5
+seq37	>tsa-GCHX01083432.1 TSA: Picea glauca PG29_BFMXY_Trinity_Pasafly_comp450260_c0_seq1_rc transcribed RNA sequence-table1-Deltaflexiviridae-HMM80-348_71.0-ORF9
+seq38	>tsa-GCHX01147763.1 TSA: Picea glauca PG29_BFMXY_Trinity_Pasafly_comp551605_c0_seq1 transcribed RNA sequence-table1-Deltaflexiviridae-HMM3-120_97.0-ORF4
+seq39	>tsa-GCHX01192525.1 TSA: Picea glauca PG29_BFMXY_Trinity_Pasafly_comp420372_c1_seq4 transcribed RNA sequence-table1-Deltaflexiviridae-HMM33-276_85.0-ORF11
+seq40	>tsa-GCHX01226500.1 TSA: Picea glauca PG29_BFMXY_Trinity_Pasafly_comp358855_c0_seq1_rc transcribed RNA sequence-table1-Deltaflexiviridae-HMM2-137_84.0-ORF5
+seq41	>tsa-GCHX01281521.1 TSA: Picea glauca PG29_BFMXY_Trinity_Pasafly_comp420372_c1_seq2 transcribed RNA sequence-table1-Deltaflexiviridae-HMM107-407_72.0-ORF14
+seq42	>tsa-GFHB01035694.1 (REVERSE SENSE) TSA: Pinus massoniana c119754_g1 transcribed RNA sequence-table1-Deltaflexiviridae-HMM1-82_98.0-ORF9
+seq43	>tsa-GFHB01058528.1 (REVERSE SENSE) TSA: Pinus massoniana c152712_g1 transcribed RNA sequence-table6-Deltaflexiviridae-HMM1-68_94.0-ORF7
+seq44	>tsa-GFHB01194776.1 (REVERSE SENSE) TSA: Pinus massoniana c108409_g1 transcribed RNA sequence-table1-Deltaflexiviridae-HMM1-97_98.0-ORF9
+seq45	>tsa-GEBH01044726.1 TSA: Poa pratensis IXRNA007_contig_45761 transcribed RNA sequence-table4-Deltaflexiviridae-HMM80-265_60.0-ORF8
+seq46	>tsa-GASO02021851.1 (REVERSE SENSE) TSA: Tricholepidion gertschi C158770_a_3_0_l_461 transcribed RNA sequence-table4-Deltaflexiviridae-HMM1-153_99.0-ORF11
+seq47	>tsa-GEDP01107366.1 (REVERSE SENSE) TSA: Triticum polonicum comp1431334_c0 transcribed RNA sequence-table6-Deltaflexiviridae-HMM1-92_97.0-ORF7
+seq48	>tsa-GEDP01108383.1 (REVERSE SENSE) TSA: Triticum polonicum comp268249_c0 transcribed RNA sequence-table6-Deltaflexiviridae-HMM1-201_95.0-ORF11
+seq49	>tsa-GEDP01154485.1 TSA: Triticum polonicum comp1035458_c0 transcribed RNA sequence-table6-Deltaflexiviridae-HMM1-86_98.0-ORF5
+seq50	>tsa-GEDP01221918.1 TSA: Triticum polonicum comp251204_c0 transcribed RNA sequence-table6-Deltaflexiviridae-HMM1-150_98.0-ORF6
+seq51	>tsa-GEDP01227580.1 TSA: Triticum polonicum comp298387_c0 transcribed RNA sequence-table6-Deltaflexiviridae-HMM1-80_98.0-ORF3
+seq52	>tsa-GEDP01264931.1 TSA: Triticum polonicum comp269526_c0 transcribed RNA sequence-table6-Deltaflexiviridae-HMM518-968_45.0-ORF25
+seq53	>tsa-GEDP01303667.1 (REVERSE SENSE) TSA: Triticum polonicum comp269290_c0 transcribed RNA sequence-table6-Deltaflexiviridae-HMM122-573_78.0-ORF39
+seq54	>tsa-GEDP01303927.1 TSA: Triticum polonicum comp269496_c0 transcribed RNA sequence-table6-Deltaflexiviridae-HMM676-767_11.0-ORF20
+seq55	>tsa-GFWG01007042.1 (REVERSE SENSE) TSA: Viola mandshurica c8086_g1_i1 transcribed RNA sequence-table6-Deltaflexiviridae-HMM3-193_77.0-ORF19
+seq56	>tsa-GFWF01027025.1 TSA: Viola verecunda c17455_g1_i1 transcribed RNA sequence-table6-Deltaflexiviridae-HMM1-118_99.0-ORF4
+seq57	>tsa-GFWF01028715.1 TSA: Viola verecunda c19171_g1_i1 transcribed RNA sequence-table6-Deltaflexiviridae-HMM1-79_97.0-ORF2
+seq58	>tsa-GFWF01035640.1 (REVERSE SENSE) TSA: Viola verecunda c26249_g1_i1 transcribed RNA sequence-table6-Deltaflexiviridae-HMM1-65_80.0-ORF5
+seq59	>tsa-GFWF01044283.1 (REVERSE SENSE) TSA: Viola verecunda c35069_g1_i1 transcribed RNA sequence-table6-Deltaflexiviridae-HMM1-294_99.0-ORF21
+seq60	>ref-NC_002604.1 Botrytis virus F, complete genome-table4-Gammaflexiviridae-HMM1473-1894_21.0-ORF48
+seq61	>tsa-GFBT01081997.1 (REVERSE SENSE) TSA: Nymphoides peltata conTR57592c0g1i1 transcribed RNA sequence-table1-Gammaflexiviridae-HMM6-75_88.0-ORF8

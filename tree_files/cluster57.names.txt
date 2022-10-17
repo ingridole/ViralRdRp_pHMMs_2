@@ -1,0 +1,20 @@
+seq1	>ref-NC_007619.1 Kelp fly virus, complete genome-table4-Solinviviridae-HMM3028-3441_11.0-ORF117
+seq2	>ref-NC_012531.1 Solenopsis invicta virus 3, complete genome-table4-Solinviviridae-HMM1700-2283_22.0-ORF77
+seq3	>ref-NC_030651.1 Nylanderia fulva virus 1 isolate Florida initial polyprotein gene, complete cds-table4-Solinviviridae-HMM1956-2524_15.0-ORF120
+seq4	>ref-NC_032899.1 Hubei picorna-like virus 53 strain GCM3912 hypothetical protein gene, complete cds-table4-Solinviviridae-HMM2930-3108_4.0-ORF163
+seq5	>ref-NC_032738.1 Hubei orthoptera virus 3 strain ZCM18544 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table6-Solinviviridae-HMM1603-2180_25.0-ORF70
+seq6	>ref-NC_033145.1 Hubei picorna-like virus 64 strain SSZZ3507 hypothetical protein 1 and hypothetical protein 2 genes, complete cds-table4-Solinviviridae-HMM1442-1915_22.0-ORF65
+seq7	>ref-NC_033416.1 Wuhan coneheads virus 2 strain ZCM13613 hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds-table4-Solinviviridae-HMM2065-2199_5.0-ORF84
+seq8	>ref-NC_033816.1 Wuhan insect virus 12 strain arthropodmix13526 hypothetical protein gene, complete cds-table6-Solinviviridae-HMM1756-2266_13.0-ORF100
+seq9	>ref-NC_034241.1 Diabrotica virgifera virgifera virus 2 isolate Pennsylvania, complete genome-table6-Solinviviridae-HMM1908-2475_16.0-ORF106
+seq10	>nrnt-KX580889 Moyer virus polyprotein gene, partial cds.-table1-Solinviviridae-HMM1160-1730_28.0-ORF50
+seq11	>tsa-GAPE01025462.1 TSA: Meligethes aeneus Locus_6925_Contig1 transcribed RNA sequence-table1-Solinviviridae-HMM314-900_31.0-ORF65
+seq12	>tsa-GAPE01027771.1 (REVERSE SENSE) TSA: Meligethes aeneus Locus_8377_Contig1 transcribed RNA sequence-table1-Solinviviridae-HMM6-392_55.0-ORF61
+seq13	>tsa-GAPE01036667.1 (REVERSE SENSE) TSA: Meligethes aeneus Locus_8377_Transcript_3/4 transcribed RNA sequence-table4-Solinviviridae-HMM6-392_67.0-ORF44
+seq14	>tsa-GBSB01003728.1 (REVERSE SENSE) TSA: Diabrotica virgifera virgifera isotig03427 transcribed RNA sequence-table4-Solinviviridae-HMM1843-2120_12.0-ORF209
+seq15	>tsa-GBSB01003729.1 (REVERSE SENSE) TSA: Diabrotica virgifera virgifera isotig03428 transcribed RNA sequence-table4-Solinviviridae-HMM1843-2120_12.0-ORF209
+seq16	>tsa-GBSB01003730.1 (REVERSE SENSE) TSA: Diabrotica virgifera virgifera isotig03429 transcribed RNA sequence-table1-Solinviviridae-HMM1843-2047_9.0-ORF177
+seq17	>tsa-GBSB01003731.1 (REVERSE SENSE) TSA: Diabrotica virgifera virgifera isotig03430 transcribed RNA sequence-table4-Solinviviridae-HMM282-559_46.0-ORF92
+seq18	>tsa-GBSB01003732.1 (REVERSE SENSE) TSA: Diabrotica virgifera virgifera isotig03431 transcribed RNA sequence-table4-Solinviviridae-HMM282-559_46.0-ORF92
+seq19	>tsa-GAYV02024882.1 TSA: Liposcelis bostrychophila s21_L_13_2_a_65_4_l_11842 transcribed RNA sequence-table4-Solinviviridae-HMM2107-2527_11.0-ORF136
+seq20	>tsa-GAWR02020814.1 TSA: Menopon gallinae s3651_L_5139_0_a_29_6_l_9083 transcribed RNA sequence-table6-Solinviviridae-HMM1085-1554_28.0-ORF49
