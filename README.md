@@ -9,9 +9,9 @@ PhyML (Guindon & Gascuel, 2003; Guindon et al., 2010) phylogenetic trees of the 
 
 #### Subdirectories:
 * tree_files:
-	* \*.tre - nexus format tree file compatible with FigTree; sequences renamed as
+	* `*.tre` - nexus format tree file compatible with FigTree; sequences renamed as
      seq1, seq2, ...
-  	* \*.names.txt - key linking seq1, seq2, ... tags to accession numbers and NCBI
+  	* `*.names.txt` - key linking seq1, seq2, ... tags to accession numbers and NCBI
      description lines
 
 * alignments: core RdRp sequence alignments used to generate trees
