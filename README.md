@@ -22,3 +22,6 @@ PhyML (Guindon & Gascuel, 2003; Guindon et al., 2010) phylogenetic trees of the 
 
 ## Supplementary_Dataset_4_pHMMs_and_alignments
 Supplementary Dataset 4 is our full set of family level pHMMs, available in the repository [Viral_RdRp_pHMMs](https://github.com/ingridole/ViralRdRp_pHMMs)
+
+## Supplementary_Dataset_5
+Alignment statistics for the input alignments for the pHMMs. Details are provided in the README sheet of the Excel spreadsheet.
